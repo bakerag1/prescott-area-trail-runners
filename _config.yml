@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/prescottareatrailrunners"
-url: "https://bakerag1.github.io/"
+baseurl: ""
+url: "https://prescottareatrailrunners.com/"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Prescott Area Trail Runners 
