@@ -5,7 +5,7 @@ url: "https://prescottareatrailrunners.com/"
 # THEME-SPECIFIC CONFIGURATION
 title: Prescott Area Trail Runners 
 description: "a trail running group for all abilities in and around Prescott, AZ"      # used by search engines
-avatar: assets/img/logo-large.jpg
+avatar: 
 favicon: assets/img/favicon.ico
 
 # Header and footer text
