@@ -18,7 +18,7 @@ groups, one doing about 4 miles, and the other 5 to 6 (and a little faster).
 *Thursdays:* 5:30 pm at Soul Ride, we meet on the back patio and go for whatever
 kind of run you want, there will be loosely organized groups and individuals running 30 minutes
 to an hour, mostly on Granite Creek and connecting trails and roads. Stay for a
-beer and conversation afterwards. The third Thursday of each month is pot-luck, we
+beer and conversation afterwards. The first Thursday of each month is pot-luck, we
 usually have a bigger crowd and less running.
 
 *AARP Run:* Sometimes on Thursday there will be an afternoon run of 8-10 miles,
