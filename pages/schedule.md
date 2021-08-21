@@ -8,7 +8,7 @@ tags: [Page]
 ---
 
 Join our [Facebook Group](https://www.facebook.com/groups/1909677022694360/) for
-event details
+event details and discussion
 
 *Tuesdays:* 5:30 pm we have a group run at a trail in the area, usually within a
 20 minute drive of downtown Prescott. This is a no-drop run, we stop and wait at
@@ -27,3 +27,4 @@ working folks.
 
 *Miscellaneous:* Frequently members will plan runs or hikes inviting all comers.
 
+{% include calendar.html %}
