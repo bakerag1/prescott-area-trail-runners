@@ -14,7 +14,7 @@ import (
 const outputFmt = `---
 title: %v
 date: %v
-url: %v
+external_url: %v
 description: %v
 ---
 `
