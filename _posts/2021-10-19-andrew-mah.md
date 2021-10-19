@@ -2,6 +2,8 @@
 layout: post
 title: Man Against Horse 2021
 author: andrew
+feature-img: "/assets/img/2021-10-09_mah_2.jpg"
+thumbnail: "assets/img/mah-thumb.png"
 tags:
   - race-report
   - local
