@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 feature-img: "assets/img/big-trail.jpg"
 tags: [Page]
+order: 1
 ---
 
 We are Prescott Area Trail Runners, we explore local trails for fun. Our goal

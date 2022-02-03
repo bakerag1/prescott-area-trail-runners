@@ -5,6 +5,7 @@ subtitle: club events
 feature-img: "assets/img/big-trail.jpg"
 permalink: /schedule
 tags: [Page]
+order: 2
 ---
 
 Join our [Facebook Group](https://www.facebook.com/groups/1909677022694360/) for
