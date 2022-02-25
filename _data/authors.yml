@@ -6,3 +6,11 @@ noel:
   name: "Noel Kingston"
   avatar: "/assets/img/noel/2022-02-16-bcu_6.jpg"
   url: "https://www.instagram.com/ultragibroni/"
+jasmine:
+  name: "Jasmine Demaline"
+  avatar: "/assets/img/jasmine/profile.jpg"
+  url: "https://www.facebook.com/jasmine.demaline.1"
+jason:
+  name: "Jason Baum"
+  avatar: "/assets/img/jason/profile.png"
+  url: "https://www.strava.com/athletes/30471484"
