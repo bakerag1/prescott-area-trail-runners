@@ -12,8 +12,9 @@ Join our [Facebook Group](https://www.facebook.com/groups/1909677022694360/) for
 event details and discussion
 
 *Tuesdays:* 5:30 pm we have a group run at a trail in the area, usually within a
-20 minute drive of downtown Prescott. This is a 5 to 6 mile no-drop run, we stop and wait at
-each intersection, all running abilities are welcome. 
+20 minute drive of downtown Prescott. 
+There will be 2 groups of runners - beginner (up to 3 miles out and back) and intermediate+ (5-6 miles).
+Both groups are no-drop which means we stop at every intersection and wait for everyone
 
 *Thursdays:* March-October 5:30 pm at Soul Ride, we meet on the back patio and go for whatever
 kind of run you want, there will be loosely organized groups and individuals running 30 minutes
@@ -24,6 +25,9 @@ usually have a bigger crowd and less running.
 *AARP Run:* Sometimes on Thursday there will be an afternoon run of 8-10 miles,
 you don't have to be retired to attend, but it's probably a little early for
 working folks.
+
+*Track Daze* When there's interest, on Mondays we do track workouts at Prescott
+High School at 5:30pm
 
 *Miscellaneous:* Frequently members will plan runs or hikes inviting all comers.
 
