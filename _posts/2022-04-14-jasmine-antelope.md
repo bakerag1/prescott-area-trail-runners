@@ -10,9 +10,11 @@ tags:
   - Antelope-Canyon
 ---
 
-Antelope Canyon 50 Mile Ultra ***it’s a little personal but I process as I write
+***it’s a little personal but I process as I write
 and journaling about these races helps me collect my thoughts and brings
-closure*** Picture a group floating down the Salt River on a beautiful August
+closure*** 
+
+Picture a group floating down the Salt River on a beautiful August
 day, enjoying the chill day, sun, and water and someone says “so there’s this
 race thru Antelope Canyon and Horseshoe Bend, prettiest ultra in the country,
 they open up areas that are off limits to tourists just for this race, it sells
