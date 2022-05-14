@@ -14,3 +14,7 @@ jason:
   name: "Jason Baum"
   avatar: "/assets/img/jason/profile.png"
   url: "https://www.strava.com/athletes/30471484"
+jon:
+  name: "Jon Wolfinger"
+  avatar: "/assets/img/jon/profile.jpg"
+  url: "https://www.strava.com/athletes/6734124"
