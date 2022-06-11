@@ -20,14 +20,11 @@ Both groups are no-drop which means we stop at every intersection and wait for e
 kind of run you want, there will be loosely organized groups and individuals running 30 minutes
 to an hour, mostly on Granite Creek and connecting trails and roads. Stay for a
 beer and conversation afterwards. The first Thursday of each month is pot-luck, we
-usually have a bigger crowd and less running.
-
-*AARP Run:* Sometimes on Thursday there will be an afternoon run of 8-10 miles,
-you don't have to be retired to attend, but it's probably a little early for
-working folks.
+usually have a bigger crowd and less running. Usually there is a group that does
+a core workout an hour prior on the field behind the shop.
 
 *Track Daze* When there's interest, on Mondays we do track workouts at Prescott
-High School at 5:30pm
+High School at 5:30pm when it isn't too hot, 6am when it is.
 
 *Miscellaneous:* Frequently members will plan runs or hikes inviting all comers.
 
