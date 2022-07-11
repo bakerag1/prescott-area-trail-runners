@@ -4,9 +4,7 @@ import (
 	"fmt"
 	"github.com/apognu/gocal"
 	"log"
-	"net/url"
 	"os"
-	"path"
 	"strings"
 	"time"
 )
@@ -37,12 +35,13 @@ func main() {
 	c.Parse()
 	for _, e := range c.Events {
 		uri := e.URL
+		uid := e.Uid
+		uid = uid[:strings.IndexByte(uid, '@')]
 		description := strings.ReplaceAll(e.Description, "\\n", "<br>\n  ")
 		description = strings.ReplaceAll(description, uri, "")
 		description = strings.ReplaceAll(description, ":", "&#58;")
 		description = strings.ReplaceAll(description, "\n\n", "<br>\n  ")
-		u, _ := url.Parse(uri)
-		cal, err := os.Create("../_calendar/" + path.Base(u.Path) + ".md")
+		cal, err := os.Create("../_calendar/" + uid + ".md")
 		defer cal.Close()
 		if err != nil {
 			log.Fatal(err)
