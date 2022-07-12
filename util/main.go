@@ -19,7 +19,7 @@ description: %v
 
 func main() {
 	time.LoadLocation("America/Phoenix")
-	err := os.RemoveAll("../_calendar/*")
+	err := os.RemoveAll("_calendar/*")
 	if err != nil {
 		log.Fatal(err)
 	}
@@ -41,7 +41,7 @@ func main() {
 		description = strings.ReplaceAll(description, uri, "")
 		description = strings.ReplaceAll(description, ":", "&#58;")
 		description = strings.ReplaceAll(description, "\n\n", "<br>\n  ")
-		cal, err := os.Create("../_calendar/" + uid + ".md")
+		cal, err := os.Create("_calendar/" + uid + ".md")
 		defer cal.Close()
 		if err != nil {
 			log.Fatal(err)
