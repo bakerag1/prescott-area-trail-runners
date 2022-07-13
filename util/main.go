@@ -2,11 +2,13 @@ package main
 
 import (
 	"fmt"
-	"github.com/apognu/gocal"
+	"io"
 	"log"
 	"os"
 	"strings"
 	"time"
+
+	"github.com/apognu/gocal"
 )
 
 const outputFmt = `---
@@ -18,6 +20,38 @@ description: %v
 `
 
 func main() {
+	switch os.Args[1] {
+	case "calendar":
+		addCalendarItems()
+	case "weekly":
+		postWeeklyCalendar()
+	default:
+		log.Fatal("no valid argument passed")
+	}
+}
+
+func postWeeklyCalendar() {
+	in, err := os.Open("util/this-week.md")
+	if err != nil {
+		log.Fatal("unable to open template", err)
+	}
+	defer in.Close()
+	newname := time.Now().Format("2006-01-02") + "-this-week.md"
+	log.Printf("creating post %s", newname)
+	out, err := os.Create("_posts/" + newname)
+	if err != nil {
+		log.Fatal("unable to create post", err)
+	}
+	defer out.Close()
+
+	_, err = io.Copy(out, in)
+	if err != nil {
+		log.Fatal("unable to create post", err)
+	}
+	log.Printf("created file: %s", newname)
+}
+
+func addCalendarItems() {
 	time.LoadLocation("America/Phoenix")
 	err := os.RemoveAll("_calendar/*")
 	if err != nil {
@@ -34,6 +68,10 @@ func main() {
 	c.Strict.Mode = gocal.StrictModeFailAttribute
 	c.Parse()
 	for _, e := range c.Events {
+		// if e.Class != "PUBLIC" {
+		// 	log.Printf("non-public event skipped: %s\n", e.Summary)
+		// 	continue
+		// }
 		uri := e.URL
 		uid := e.Uid
 		uid = uid[:strings.IndexByte(uid, '@')]
@@ -46,7 +84,7 @@ func main() {
 		if err != nil {
 			log.Fatal(err)
 		}
-		fmt.Println(uri)
+		log.Printf("creating event: %s - %s\n", e.Uid, e.Summary)
 		cal.Write([]byte(fmt.Sprintf(outputFmt, e.Summary, e.Start.Local().Format("2006-01-02 15:04"), uri, description)))
 	}
 }
