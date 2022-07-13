@@ -51,7 +51,18 @@ collections:
 
 # BUILD SETTINGS
 plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-feed]
-exclude: [".jekyll-cache", ".idea", "vendor/*", "assets/node_modules/*"]
+exclude: 
+  - "go.*"
+  - "util/"
+  - ".jekyll-cache"
+  - ".idea"
+  - "vendor/*"
+  - "assets/node_modules/*"
+  - ".git*"
+  - "events.ics"
+  - "Gem*"
+  - "LICENSE"
+  - "README"
 
 # theme: type-on-strap                                  # if using the theme as a jekyll theme gem
 remote_theme: sylhare/Type-on-Strap                     # If using as a remote_theme in github

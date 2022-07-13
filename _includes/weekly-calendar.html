@@ -1,0 +1,16 @@
+<!-- Portfolio Grid Section -->
+  <table>
+    <tr><th colspan=2>
+      <a href="https://prescottareatrailrunners.com/schedule"><i>see all events</i></a>
+    </th></tr>
+    {% assign last_day = site.time | date: "%j" | plus: 7  %}
+    {% for item in site.calendar | sort: 'date' %}
+    {% assign item_day = item.date | date: "%j"| plus: 0 %}
+    {% if  item_day < last_day %}
+    <tr>
+      <td><a href="{{ item.external_url }}">{{ item.title }}</a><br>{{ item.date | date: '%Y-%m-%d %H:%M'}}</td>
+      <td>{{ item.description }}</td>
+    </tr>
+    {% endif %}
+   {% endfor %}
+  </table>
