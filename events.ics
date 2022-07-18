@@ -967,6 +967,166 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20220711T030925Z
+LAST-MODIFIED:20220711T030925Z
+CREATED:20220711T030925Z
+SEQUENCE:0
+ORGANIZER;CN=Greg Reverdiau:MAILTO:noreply@facebookmail.com
+DTSTART:20220727T003000Z
+DTEND:20220727T020000Z
+UID:e790051865323250@facebook.com
+SUMMARY:Tuesday Group Run - White Rock
+URL:https://www.facebook.com/events/790051865323250/
+DESCRIPTION:We will meet at White Rock Parking
+  lot (link here https://goo.gl/map
+ s/YN2uMvQnyQWTM9JK7) at 5:30pm. \n\n
+ There will be 2 groups of runners 
+ - beginner (3 miles) and intermedi
+ ate+ (5-6 miles). Both groups are 
+ no-drop which means we stop at eve
+ ry intersection and wait for every
+ one. \n\nhttps://www.facebook.com/ev
+ ents/790051865323250/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220711T031021Z
+LAST-MODIFIED:20220711T031021Z
+CREATED:20220711T031021Z
+SEQUENCE:0
+ORGANIZER;CN=Greg Reverdiau:MAILTO:noreply@facebookmail.com
+DTSTART:20220722T003000Z
+DTEND:20220722T020000Z
+UID:e1267258500733810@facebook.com
+SUMMARY:Group Run in Prescott
+LOCATION:Soul Ride Bikeshop and Taproom
+URL:https://www.facebook.com/events/1267258500733810/
+DESCRIPTION:Weekly group run for all Prescott 
+ runners! We will meet at the Soul 
+ Ride bike shop located on Montezum
+ a every Thursday at 5:30pm.\n\nWho i
+ s this for?\nEveryone! Runners of a
+ ll paces and experience should joi
+ n. There are many reasons to join:
+ \n- Meet other runners in the area\n
+ - Find people who run at your pace
+  and have similar goals\n- Get moti
+ vation and inspiration to stay hea
+ lthy\n- Get tips on how to move to 
+ the next distance or speed\n- Have 
+ fun!\n\nHow long are the runs?\nThe s
+ hort answer is: as long as you wan
+ t. We will suggest safe routes aro
+ und the shop but you are welcome t
+ o create your own. The urban trail
+  is very close and a very good pla
+ ce to run. We encourage everyone t
+ o stay for a bit after the run and
+  socialize with others. Water will
+  be available behind Soul Ride\, as
+  well as a comfortable place to ha
+ ng out.\n\nAbout Soul Ride\nWe are ve
+ ry excited to partner with Soul Ri
+ de (https://soulride.bike) for thi
+ s event. Soul Ride was founded by 
+ Prescott local mountain bikers\, Ka
+ te Phelan and Cina Mcconaughy\, wit
+ h the purpose of introducing all p
+ eople to the joys of Prescott moun
+ tain biking. Soul Ride is locally 
+ based\, they are committed to conne
+ cting individuals to their persona
+ l power through the soul connectio
+ n felt on a mountain bike.\n\nhttps:
+ //www.facebook.com/events/12672585
+ 00733810/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220713T204251Z
+LAST-MODIFIED:20220713T204251Z
+CREATED:20220713T202930Z
+SEQUENCE:801
+ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
+DTSTART:20220720T130000Z
+DTEND:20220720T160000Z
+UID:e720177452620770@facebook.com
+SUMMARY:Thumb Butte Vert
+LOCATION:Thumb Butte\, Prescott\, AZ 86305\, U
+ nited States
+URL:https://www.facebook.com/events/720177452620770/
+DESCRIPTION:Come out and get some vert! We sta
+ rt at 6:00 am but of course you ca
+ n come any time. Up the paved stee
+ p section and down the gradual dir
+ t is approximately 2 miles and 600
+  feet of climbing. Join us to run\,
+  hike\, runk as many loops as you w
+ ant! Parking is free on Wednesdays
+ .\n\nhttps://www.facebook.com/events
+ /720177452620770/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220711T030907Z
+LAST-MODIFIED:20220711T030907Z
+CREATED:20220711T030907Z
+SEQUENCE:0
+ORGANIZER;CN=Greg Reverdiau:MAILTO:noreply@facebookmail.com
+DTSTART:20220720T003000Z
+DTEND:20220720T020000Z
+UID:e770372607425872@facebook.com
+SUMMARY:Tuesday Group Run - White Spar
+LOCATION:Trail 396 White Spar Road
+URL:https://www.facebook.com/events/770372607425872/
+DESCRIPTION:PLEASE READ THIS DESCRIPTION. \nWe 
+ will meet at the White Spar Parkin
+ g lot (link here https://goo.gl/ma
+ ps/nX4JGH75u4T7R15g7) at 5:30pm. B
+ eginner group can expect 4 miles a
+ nd the intermediate + group can ex
+ pect 6 miles. No drop run (we stop
+  for everyone at every intersectio
+ n).\n\nBe careful\, this is NOT the u
+ sual white ROCK parking lot\, this 
+ is white SPAR. \n\nhttps://www.faceb
+ ook.com/events/770372607425872/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220713T213527Z
+LAST-MODIFIED:20220713T213527Z
+CREATED:20220713T213527Z
+SEQUENCE:0
+ORGANIZER;CN=Shane Carr:MAILTO:noreply@facebookmail.com
+DTSTART:20220718T130000Z
+DTEND:20220718T160000Z
+UID:e627496645080456@facebook.com
+SUMMARY:Track Session
+LOCATION:Prescott High School
+URL:https://www.facebook.com/events/627496645080456/
+DESCRIPTION:Join in on some speed work for all
+  abilities. Join a workout or brin
+ g your own. Start warming up when 
+ you get there and we will come tog
+ ether at 6:30 to stretch and talk 
+ about everyone's workout for the d
+ ay. Stretching is optional but hig
+ hly encouraged. \n\nhttps://www.face
+ book.com/events/627496645080456/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20220711T030827Z
 LAST-MODIFIED:20220711T030827Z
 CREATED:20220711T030827Z
