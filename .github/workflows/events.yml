@@ -16,6 +16,8 @@ jobs:
         uses: actions/setup-go@v2
         with:
           go-version: '1.17.0'
+      - name: clean events
+        run: rm -f _calendar/*
       - name: add events
         run: go run util/main.go calendar
       - name: commit

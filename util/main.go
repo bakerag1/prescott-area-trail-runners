@@ -84,7 +84,7 @@ func addCalendarItems() {
 		if err != nil {
 			log.Fatal(err)
 		}
-		log.Printf("creating event: %s - %s\n", e.Uid, e.Summary)
+		log.Printf("creating event: %s: %s - %s\n", e.Start.Local().Format("2006-01-02"), e.Uid, e.Summary)
 		cal.Write([]byte(fmt.Sprintf(outputFmt, e.Summary, e.Start.Local().Format("2006-01-02 15:04"), uri, description)))
 	}
 }
