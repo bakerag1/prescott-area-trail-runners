@@ -1,9 +1,8 @@
 name: post this week's news
 
 on:
-  workflow_dispatch
-  # schedule:
-  #   - cron: '0 19 * * 1'
+  schedule:
+    - cron: '0 19 * * 1'
 env: 
   TZ: America/Phoenix 
 jobs:
