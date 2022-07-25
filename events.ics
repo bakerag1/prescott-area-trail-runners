@@ -967,6 +967,33 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20220722T142927Z
+LAST-MODIFIED:20220722T142927Z
+CREATED:20220722T142927Z
+SEQUENCE:0
+ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
+DTSTART:20220727T130000Z
+DTEND:20220727T160000Z
+UID:e439301374774219@facebook.com
+SUMMARY:Thumb Butte Vert
+LOCATION:Thumb Butte\, Prescott\, AZ 86305\, U
+ nited States
+URL:https://www.facebook.com/events/439301374774219/
+DESCRIPTION:Come out and get some vert! We sta
+ rt at 6:00 am but of course you ca
+ n come any time. Up the paved stee
+ p section and down the gradual dir
+ t is approximately 2 miles and 600
+  feet of climbing. Join us to run\,
+  hike\, runk as many loops as you w
+ ant! Parking is free on Wednesdays
+ .\n\nhttps://www.facebook.com/events
+ /439301374774219/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20220711T030925Z
 LAST-MODIFIED:20220711T030925Z
 CREATED:20220711T030925Z
@@ -987,6 +1014,34 @@ DESCRIPTION:We will meet at White Rock Parking
  ry intersection and wait for every
  one. \n\nhttps://www.facebook.com/ev
  ents/790051865323250/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220722T200146Z
+LAST-MODIFIED:20220722T200146Z
+CREATED:20220722T200146Z
+SEQUENCE:0
+ORGANIZER;CN=Shane Carr:MAILTO:noreply@facebookmail.com
+DTSTART:20220725T130000Z
+DTEND:20220725T160000Z
+UID:e1727188057668574@facebook.com
+SUMMARY:Track Sessions
+LOCATION:Prescott High School
+URL:https://www.facebook.com/events/1727188057668574/
+DESCRIPTION:Join in on some speed work for all
+  abilities. Join a workout or brin
+ g your own. Start warming up when 
+ you get there and we will come tog
+ ether at 6:30 to stretch and talk 
+ about everyone's workout for the d
+ ay. Stretching is optional but hig
+ hly encouraged. This event is brou
+ ght to you by the Prescott Area Tr
+ ail Runners (PATR).\n\nhttps://www.f
+ acebook.com/events/172718805766857
+ 4/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -1286,61 +1341,6 @@ DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
  n (we stop for everyone at every i
  ntersection). \n\nhttps://www.facebo
  ok.com/events/1031407137505379/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220620T033156Z
-LAST-MODIFIED:20220620T033156Z
-CREATED:20220620T032104Z
-SEQUENCE:652
-ORGANIZER;CN=Noel Kingston:MAILTO:noreply@facebookmail.com
-DTSTART:20220624T003000Z
-DTEND:20220624T020000Z
-UID:e410605597654857@facebook.com
-SUMMARY:Group Run in Prescott
-LOCATION:Soul Ride Bikeshop and Taproom
-URL:https://www.facebook.com/events/410605597654857/
-DESCRIPTION:Weekly group run for all Prescott 
- runners! We will meet at the Soul 
- Ride bike shop located on Montezum
- a every Thursday at 5:30pm.\n\nWho i
- s this for?\nEveryone! Runners of a
- ll paces and experience should joi
- n. There are many reasons to join:
- \n- Meet other runners in the area\n
- - Find people who run at your pace
-  and have similar goals\n- Get moti
- vation and inspiration to stay hea
- lthy\n- Get tips on how to move to 
- the next distance or speed\n- Have 
- fun!\n\nHow long are the runs?\nThe s
- hort answer is: as long as you wan
- t. We will suggest safe routes aro
- und the shop but you are welcome t
- o create your own. The urban trail
-  is very close and a very good pla
- ce to run. We encourage everyone t
- o stay for a bit after the run and
-  socialize with others. Water will
-  be available behind Soul Ride\, as
-  well as a comfortable place to ha
- ng out.\n\nAbout Soul Ride\nWe are ve
- ry excited to partner with Soul Ri
- de (https://soulride.bike) for thi
- s event. Soul Ride was founded by 
- Prescott local mountain bikers\, Ka
- te Phelan and Cina Mcconaughy\, wit
- h the purpose of introducing all p
- eople to the joys of Prescott moun
- tain biking. Soul Ride is locally 
- based\, they are committed to conne
- cting individuals to their persona
- l power through the soul connectio
- n felt on a mountain bike.\n\nhttps:
- //www.facebook.com/events/41060559
- 7654857/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
