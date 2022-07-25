@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/apognu/gocal"
+	"github.com/bakerag1/gocal"
 )
 
 const outputFmt = `---
@@ -68,10 +68,10 @@ func addCalendarItems() {
 	c.Strict.Mode = gocal.StrictModeFailAttribute
 	c.Parse()
 	for _, e := range c.Events {
-		// if e.Class != "PUBLIC" {
-		// 	log.Printf("non-public event skipped: %s\n", e.Summary)
-		// 	continue
-		// }
+		if e.Class != "PUBLIC" {
+			log.Printf("non-public event skipped: %s\n", e.Summary)
+			continue
+		}
 		uri := e.URL
 		uid := e.Uid
 		uid = uid[:strings.IndexByte(uid, '@')]
