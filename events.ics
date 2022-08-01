@@ -741,6 +741,44 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20220801T041315Z
+LAST-MODIFIED:20220801T041315Z
+CREATED:20220801T041315Z
+SEQUENCE:0
+ORGANIZER;CN=Greg Reverdiau:MAILTO:noreply@facebookmail.com
+DTSTART:20220824T003000Z
+DTEND:20220824T020000Z
+UID:e1685660241802153@facebook.com
+SUMMARY:Tuesday Group Run - The Tale of Two Beans
+LOCATION:Trail 396 White Spar Road
+URL:https://www.facebook.com/events/1685660241802153/
+DESCRIPTION:PLEASE READ THIS DESCRIPTION. \nWe 
+ will meet at the White Spar Parkin
+ g lot (link here https://goo.gl/ma
+ ps/nX4JGH75u4T7R15g7) at 5:30pm. \n
+ \nWarning. The non-beginner's route
+  will be a bit tougher than usual.
+  Around 5.5 miles\, with 3-4 steep 
+ uphills on rocky terrain. The view
+ s are worth it but it will take ab
+ out 1200 feet of combined climbing
+  to get there. Please be prepared 
+ and consider the beginner's group 
+ if you're not comfortable with thi
+ s type of run. \n\n\nBeginner group c
+ an expect 4 miles and the intermed
+ iate + group can expect 6 miles. N
+ o drop run (we stop for everyone a
+ t every intersection).\n\nBe careful
+ \, this is NOT the usual white ROCK
+  parking lot\, this is white SPAR. 
+ \n\nhttps://www.facebook.com/events/
+ 1685660241802153/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20220711T031213Z
 LAST-MODIFIED:20220711T031213Z
 CREATED:20220711T031213Z
@@ -795,6 +833,31 @@ DESCRIPTION:Weekly group run for all Prescott
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220801T041510Z
+LAST-MODIFIED:20220801T041510Z
+CREATED:20220801T041510Z
+SEQUENCE:0
+ORGANIZER;CN=Greg Reverdiau:MAILTO:noreply@facebookmail.com
+DTSTART:20220817T003000Z
+DTEND:20220817T020000Z
+UID:e452634730101294@facebook.com
+SUMMARY:Tuesday Group Run - Granite Basin
+URL:https://www.facebook.com/events/452634730101294/
+DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
+  will meet at the cattleguard (lin
+ k here https://goo.gl/maps/CnyTC6T
+ oppAjWTcn6) at 5:30pm. \n\nBeginner 
+ group 3-4 miles and intermediate +
+  expect 5-6 miles\, all downhill (e
+ xcept for the uphills). No drop ru
+ n (we stop for everyone at every i
+ ntersection). \n\nhttps://www.facebo
+ ok.com/events/452634730101294/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220711T031213Z
@@ -853,6 +916,57 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20220728T165544Z
+LAST-MODIFIED:20220728T165544Z
+CREATED:20220728T165544Z
+SEQUENCE:0
+ORGANIZER;CN=Noel Kingston:MAILTO:noreply@facebookmail.com
+DTSTART:20220810T130000Z
+DTEND:20220810T160000Z
+UID:e1473551519764958@facebook.com
+SUMMARY:Thumb Butte Vert
+LOCATION:Thumb Butte\, Prescott\, AZ 86305\, U
+ nited States
+URL:https://www.facebook.com/events/1473551519764958/
+DESCRIPTION:Come out and get some vert! We sta
+ rt at 6:00 am but of course you ca
+ n come any time. Up the paved stee
+ p section and down the gradual dir
+ t is approximately 2 miles and 600
+  feet of climbing. Join us to run\,
+  hike\, runk as many loops as you w
+ ant! Parking is free on Wednesdays
+ .\n\nhttps://www.facebook.com/events
+ /1473551519764958/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220801T041050Z
+LAST-MODIFIED:20220801T041050Z
+CREATED:20220801T041050Z
+SEQUENCE:0
+ORGANIZER;CN=Greg Reverdiau:MAILTO:noreply@facebookmail.com
+DTSTART:20220810T003000Z
+DTEND:20220810T020000Z
+UID:e1198980730936341@facebook.com
+SUMMARY:Tuesday Group Run - Lower Spence Basin
+URL:https://www.facebook.com/events/1198980730936341/
+DESCRIPTION:PLEASE READ THIS DESCRIPTION. \nWe 
+ will meet at Spence Basin Parking 
+ lot (link here https://goo.gl/maps
+ /K1LcZy7K2xxjsmjD8) at 5:30pm. Exp
+ ect 5 miles. No drop run (we stop 
+ for everyone at every intersection
+ ). \n\nBring a headlamp. \n\nhttps://w
+ ww.facebook.com/events/11989807309
+ 36341/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20220711T031254Z
 LAST-MODIFIED:20220711T031254Z
 CREATED:20220711T031254Z
@@ -909,6 +1023,62 @@ DESCRIPTION:First Thursday of the month\, it's
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220728T165503Z
+LAST-MODIFIED:20220728T165503Z
+CREATED:20220728T165503Z
+SEQUENCE:0
+ORGANIZER;CN=Noel Kingston:MAILTO:noreply@facebookmail.com
+DTSTART:20220803T130000Z
+DTEND:20220803T160000Z
+UID:e1185216909002481@facebook.com
+SUMMARY:Thumb Butte Vert
+LOCATION:Thumb Butte\, Prescott\, AZ 86305\, U
+ nited States
+URL:https://www.facebook.com/events/1185216909002481/
+DESCRIPTION:Come out and get some vert! We sta
+ rt at 6:00 am but of course you ca
+ n come any time. Up the paved stee
+ p section and down the gradual dir
+ t is approximately 2 miles and 600
+  feet of climbing. Join us to run\,
+  hike\, runk as many loops as you w
+ ant! Parking is free on Wednesdays
+ .\n\nhttps://www.facebook.com/events
+ /1185216909002481/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220801T041009Z
+LAST-MODIFIED:20220801T041009Z
+CREATED:20220801T041009Z
+SEQUENCE:0
+ORGANIZER;CN=Greg Reverdiau:MAILTO:noreply@facebookmail.com
+DTSTART:20220803T003000Z
+DTEND:20220803T020000Z
+UID:e503930718169079@facebook.com
+SUMMARY:Tuesday Group Run - Willow Lake (Dog Park)
+LOCATION:https://goo.gl/maps/ZCLmd4fQPGkyXC
+ HP7
+URL:https://www.facebook.com/events/503930718169079/
+DESCRIPTION:PLEASE READ THIS DESCRIPTION. \nWe 
+ will meet at the Dog Park parking 
+ lot (link here https://goo.gl/maps
+ /ZCLmd4fQPGkyXCHP7) at 5:30pm. Pla
+ n for 5 miles(ish).\n\nTwo groups\, o
+ ne for beginners and one for every
+ body else. Beginners group typical
+ ly goes 2-3 miles\, other group goe
+ s 5-6 miles. \n\nNo drop run (we sto
+ p for everyone at every intersecti
+ on). \n\n\n\nhttps://www.facebook.com/
+ events/503930718169079/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220711T031213Z

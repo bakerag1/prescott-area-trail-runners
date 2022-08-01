@@ -1,11 +1,12 @@
 package main
 
 import (
+	"bufio"
 	"fmt"
-	"io"
 	"log"
 	"os"
 	"strings"
+	"text/template"
 	"time"
 
 	"github.com/bakerag1/gocal"
@@ -31,20 +32,21 @@ func main() {
 }
 
 func postWeeklyCalendar() {
-	in, err := os.Open("util/this-week.md")
-	if err != nil {
-		log.Fatal("unable to open template", err)
-	}
-	defer in.Close()
 	newname := time.Now().Format("2006-01-02") + "-this-week.md"
+	title := time.Now().Format("Jan 2, 2006")
 	log.Printf("creating post %s", newname)
 	out, err := os.Create("_posts/" + newname)
 	if err != nil {
 		log.Fatal("unable to create post", err)
 	}
 	defer out.Close()
-
-	_, err = io.Copy(out, in)
+	t := template.Must(template.New("this-week.md").ParseFiles("util/this-week.md"))
+	fw := bufio.NewWriter(out)
+	err = t.Execute(fw, struct{ Date string }{Date: title})
+	if err != nil {
+		log.Fatal("unable to apply post template", err)
+	}
+	err = fw.Flush()
 	if err != nil {
 		log.Fatal("unable to create post", err)
 	}
