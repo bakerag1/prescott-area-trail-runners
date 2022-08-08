@@ -571,6 +571,34 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20220801T041448Z
+LAST-MODIFIED:20220801T041448Z
+CREATED:20220801T041448Z
+SEQUENCE:0
+ORGANIZER;CN=Greg Reverdiau:MAILTO:noreply@facebookmail.com
+DTSTART:20220914T003000Z
+DTEND:20220914T020000Z
+UID:e407227744594966@facebook.com
+SUMMARY:Tuesday Group Run - Upper Spence Basin
+LOCATION:https://maps.apple.com/?ll=34.5819
+ 04\,-112.548972&q=Dropped%20Pin&_ex
+ t=EiYpaevoe+dJQUAxxHG9OnsjXMA558AO
+ 2A1LQUBB5GbvdsgiXMBQBA%3D%3D&t=h
+URL:https://www.facebook.com/events/407227744594966/
+DESCRIPTION:PLEASE READ THIS DESCRIPTION. \nWe 
+ will meet at UPPER Parking lot alo
+ ng Iron Springs\, where the circle 
+ trail crosses the Iron Springs at 
+ 5:30pm. Expect 5 miles. No drop ru
+ n (we stop for everyone at every i
+ ntersection). \n\nBring a headlamp!\n
+ \n\n\nhttps://www.facebook.com/events
+ /407227744594966/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20220711T031213Z
 LAST-MODIFIED:20220711T031213Z
 CREATED:20220711T031213Z
@@ -622,6 +650,31 @@ DESCRIPTION:Weekly group run for all Prescott
  //www.facebook.com/events/75899889
  5241809/?event_time_id=75899892190
  8473
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220801T041430Z
+LAST-MODIFIED:20220801T041430Z
+CREATED:20220801T041430Z
+SEQUENCE:0
+ORGANIZER;CN=Greg Reverdiau:MAILTO:noreply@facebookmail.com
+DTSTART:20220907T003000Z
+DTEND:20220907T020000Z
+UID:e2207968696032701@facebook.com
+SUMMARY:Tuesday Group Run - Peavine Trailhead
+LOCATION:Peavine Trail
+URL:https://www.facebook.com/events/2207968696032701/
+DESCRIPTION:PLEASE READ THIS DESCRIPTION. \nWe 
+ will meet at the Peavine Trailhead
+  by the Humane Society at 5:30pm. 
+ No drop run (we stop for everyone 
+ at every intersection). \n5-6 miles
+  around the entire lake for the no
+ n-beginner group. \n\nhttps://www.fa
+ cebook.com/events/2207968696032701
+ /
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -680,6 +733,31 @@ DESCRIPTION:First Thursday of the month\, it's
  ountain bike.\n\nhttps://www.faceboo
  k.com/events/1225186884920659/?eve
  nt_time_id=1225186891587325
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220801T041341Z
+LAST-MODIFIED:20220801T041341Z
+CREATED:20220801T041341Z
+SEQUENCE:0
+ORGANIZER;CN=Greg Reverdiau:MAILTO:noreply@facebookmail.com
+DTSTART:20220831T003000Z
+DTEND:20220831T020000Z
+UID:e589770152524283@facebook.com
+SUMMARY:Tuesday Group Run - White Rock
+URL:https://www.facebook.com/events/589770152524283/
+DESCRIPTION:We will meet at White Rock Parking
+  lot (link here https://goo.gl/map
+ s/YN2uMvQnyQWTM9JK7) at 5:30pm. \n\n
+ There will be 2 groups of runners 
+ - beginner (3 miles) and intermedi
+ ate+ (5-6 miles). Both groups are 
+ no-drop which means we stop at eve
+ ry intersection and wait for every
+ one. \n\nhttps://www.facebook.com/ev
+ ents/589770152524283/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -855,6 +933,50 @@ DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
  n (we stop for everyone at every i
  ntersection). \n\nhttps://www.facebo
  ok.com/events/452634730101294/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220727T195121Z
+LAST-MODIFIED:20220727T195121Z
+CREATED:20220727T194858Z
+SEQUENCE:143
+ORGANIZER;CN=Eagle Management and Events\, LLC:MAILTO:noreply@facebookmail.com
+DTSTART:20220814T010000Z
+DTEND:20220814T040000Z
+UID:e466475998217506@facebook.com
+SUMMARY:Whiskey Row Brew Fest
+LOCATION:Prescott Mile High Field
+URL:https://www.facebook.com/events/466475998217506/
+DESCRIPTION:WHISKEY ROW BREW FEST\nPrescott's B
+ iggest Independent Brew Fest\n\nAugu
+ st 13\, 2022  |  Mile High Field\n5p
+ m Early Entrance (VIP ONLY)  |  6-
+ 9pm General Admission\n\nBreweries:\n
+ Insurgent Brewing • Ten of Harts
+  • Maui Brewing • Lazy G Brewi
+ ng\nWren House Brewing • Baja Bre
+ wing Chelada Bar • Coronado Brew
+ ing\nBarrio Brewing Co. • Waterbi
+ rd Spirits • La Cumbre • Stone
+  • Beatbox\nSierra Nevada • Swe
+ et Water Brewing • Mother Road B
+ rewing • Owls Brew\nSuperstition 
+ Meadery • Firestone Walker • 2
+  Towns Ciderhouse\nBomani Brewing •
+  Four Peaks Brewing • NUTRL Selt
+ zer\nLumberyard Brewing • Avery B
+ rewing • Boneyard Brewing\nDeschu
+ tes Brewing • Ashland Seltzer •
+  Ace Cider\n\nLive Performance by\nTh
+ e Cole Trains \n\nA portion of the p
+ roceeds benefit Prescott High Scho
+ ol Booster Club\n\nVISIT PRESCOTT.EV
+ ENTS FOR MORE INFORMATION AND TICK
+ ETS.\nSee y'all there! \n\nhttps://ww
+ w.facebook.com/events/466475998217
+ 506/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
@@ -1380,139 +1502,5 @@ DESCRIPTION:Last minute location change to upp
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220703T170945Z
-LAST-MODIFIED:20220703T170945Z
-CREATED:20220703T170945Z
-SEQUENCE:0
-ORGANIZER;CN=Noel Kingston:MAILTO:noreply@facebookmail.com
-DTSTART:20220708T003000Z
-DTEND:20220708T020000Z
-UID:e1088898858647324@facebook.com
-SUMMARY:Group Run in Prescott - Potluck night!
-LOCATION:Soul Ride Bikeshop and Taproom
-URL:https://www.facebook.com/events/1088898858647324/
-DESCRIPTION:First Thursday of the month\, it's 
- potluck time! Bring some food to s
- hare with everyone.\n\nWeekly group 
- run for all Prescott runners! We w
- ill meet at the Soul Ride bike sho
- p located on Montezuma every Thurs
- day at 5:30pm.\n\nWho is this for?\nE
- veryone! Runners of all paces and 
- experience should join. There are 
- many reasons to join:\n- Meet other
-  runners in the area\n- Find people
-  who run at your pace and have sim
- ilar goals\n- Get motivation and in
- spiration to stay healthy\n- Get ti
- ps on how to move to the next dist
- ance or speed\n- Have fun!\n\nHow lon
- g are the runs?\nThe short answer i
- s: as long as you want. We will su
- ggest safe routes around the shop 
- but you are welcome to create your
-  own. The urban trail is very clos
- e and a very good place to run. We
-  encourage everyone to stay for a 
- bit after the run and socialize wi
- th others. Water will be available
-  behind Soul Ride\, as well as a co
- mfortable place to hang out.\n\nAbou
- t Soul Ride\nWe are very excited to
-  partner with Soul Ride (https://s
- oulride.bike) for this event. Soul
-  Ride was founded by Prescott loca
- l mountain bikers\, Kate Phelan and
-  Cina Mcconaughy\, with the purpose
-  of introducing all people to the 
- joys of Prescott mountain biking. 
- Soul Ride is locally based\, they a
- re committed to connecting individ
- uals to their personal power throu
- gh the soul connection felt on a m
- ountain bike.\n\nhttps://www.faceboo
- k.com/events/1088898858647324/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220703T185821Z
-LAST-MODIFIED:20220703T185821Z
-CREATED:20220703T185448Z
-SEQUENCE:213
-ORGANIZER;CN=Noel Kingston:MAILTO:noreply@facebookmail.com
-DTSTART:20220707T233000Z
-DTEND:20220708T003000Z
-UID:e1114533502610021@facebook.com
-SUMMARY:Core
-LOCATION:Soul Ride Bikeshop and Taproom
-URL:https://www.facebook.com/events/1114533502610021/
-DESCRIPTION:Warm up jog and then some group co
- re work on the track/field behind 
- Soul Ride. If the track is closed 
- it is back to the south lawn of th
- e courthouse.  Later at 5:30 pm we
-  will join the rest of the group f
- or urban trail running. Bring a ma
- t of beach towel.\n\nhttps://www.fac
- ebook.com/events/1114533502610021/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220703T164153Z
-LAST-MODIFIED:20220703T164153Z
-CREATED:20220703T161154Z
-SEQUENCE:1799
-ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
-DTSTART:20220706T130000Z
-DTEND:20220706T160000Z
-UID:e562672982005366@facebook.com
-SUMMARY:Thumb Butte Vert
-LOCATION:Thumb Butte\, Prescott\, AZ 86305\, U
- nited States
-URL:https://www.facebook.com/events/562672982005366/
-DESCRIPTION:Come out and get some vert! We sta
- rt at 6:00 am but of course you ca
- n come any time. Up the paved stee
- p section and down the gradual dir
- t is approximately 2 miles and 600
-  feet of climbing. Join us to run\,
-  hike\, runk as many loops as you w
- ant! Parking is free on Wednesdays
- .\n\nhttps://www.facebook.com/events
- /562672982005366/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220703T220638Z
-LAST-MODIFIED:20220703T220638Z
-CREATED:20220703T220638Z
-SEQUENCE:0
-ORGANIZER;CN=Noel Kingston:MAILTO:noreply@facebookmail.com
-DTSTART:20220706T003000Z
-DTEND:20220706T020000Z
-UID:e1031407137505379@facebook.com
-SUMMARY:Tuesday Group Run - Granite Basin
-URL:https://www.facebook.com/events/1031407137505379/
-DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
-  will meet at the cattleguard (lin
- k here https://goo.gl/maps/CnyTC6T
- oppAjWTcn6) at 5:30pm. \n\nBeginner 
- group 3-4 miles and intermediate +
-  expect 5-6 miles\, all downhill (e
- xcept for the uphills). No drop ru
- n (we stop for everyone at every i
- ntersection). \n\nhttps://www.facebo
- ok.com/events/1031407137505379/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
 END:VEVENT
 END:VCALENDAR
