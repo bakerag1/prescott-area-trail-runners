@@ -7,118 +7,6 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-DTSTAMP:20220711T031213Z
-LAST-MODIFIED:20220711T031213Z
-CREATED:20220711T031213Z
-SEQUENCE:0
-ORGANIZER;CN=Greg Reverdiau:MAILTO:noreply@facebookmail.com
-DTSTART:20221118T003000Z
-DTEND:20221118T020000Z
-UID:e758998898575142@facebook.com
-SUMMARY:Group Run in Prescott
-LOCATION:Soul Ride Bikeshop and Taproom
-URL:https://www.facebook.com/events/758998895241809/?event_time_id=758998898575142
-DESCRIPTION:Weekly group run for all Prescott 
- runners! We will meet at the Soul 
- Ride bike shop located on Montezum
- a every Thursday at 5:30pm.\n\nWho i
- s this for?\nEveryone! Runners of a
- ll paces and experience should joi
- n. There are many reasons to join:
- \n- Meet other runners in the area\n
- - Find people who run at your pace
-  and have similar goals\n- Get moti
- vation and inspiration to stay hea
- lthy\n- Get tips on how to move to 
- the next distance or speed\n- Have 
- fun!\n\nHow long are the runs?\nThe s
- hort answer is: as long as you wan
- t. We will suggest safe routes aro
- und the shop but you are welcome t
- o create your own. The urban trail
-  is very close and a very good pla
- ce to run. We encourage everyone t
- o stay for a bit after the run and
-  socialize with others. Water will
-  be available behind Soul Ride\, as
-  well as a comfortable place to ha
- ng out.\n\nAbout Soul Ride\nWe are ve
- ry excited to partner with Soul Ri
- de (https://soulride.bike) for thi
- s event. Soul Ride was founded by 
- Prescott local mountain bikers\, Ka
- te Phelan and Cina Mcconaughy\, wit
- h the purpose of introducing all p
- eople to the joys of Prescott moun
- tain biking. Soul Ride is locally 
- based\, they are committed to conne
- cting individuals to their persona
- l power through the soul connectio
- n felt on a mountain bike.\n\nhttps:
- //www.facebook.com/events/75899889
- 5241809/?event_time_id=75899889857
- 5142
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220711T031213Z
-LAST-MODIFIED:20220711T031213Z
-CREATED:20220711T031213Z
-SEQUENCE:0
-ORGANIZER;CN=Greg Reverdiau:MAILTO:noreply@facebookmail.com
-DTSTART:20221111T003000Z
-DTEND:20221111T020000Z
-UID:e758998941908471@facebook.com
-SUMMARY:Group Run in Prescott
-LOCATION:Soul Ride Bikeshop and Taproom
-URL:https://www.facebook.com/events/758998895241809/?event_time_id=758998941908471
-DESCRIPTION:Weekly group run for all Prescott 
- runners! We will meet at the Soul 
- Ride bike shop located on Montezum
- a every Thursday at 5:30pm.\n\nWho i
- s this for?\nEveryone! Runners of a
- ll paces and experience should joi
- n. There are many reasons to join:
- \n- Meet other runners in the area\n
- - Find people who run at your pace
-  and have similar goals\n- Get moti
- vation and inspiration to stay hea
- lthy\n- Get tips on how to move to 
- the next distance or speed\n- Have 
- fun!\n\nHow long are the runs?\nThe s
- hort answer is: as long as you wan
- t. We will suggest safe routes aro
- und the shop but you are welcome t
- o create your own. The urban trail
-  is very close and a very good pla
- ce to run. We encourage everyone t
- o stay for a bit after the run and
-  socialize with others. Water will
-  be available behind Soul Ride\, as
-  well as a comfortable place to ha
- ng out.\n\nAbout Soul Ride\nWe are ve
- ry excited to partner with Soul Ri
- de (https://soulride.bike) for thi
- s event. Soul Ride was founded by 
- Prescott local mountain bikers\, Ka
- te Phelan and Cina Mcconaughy\, wit
- h the purpose of introducing all p
- eople to the joys of Prescott moun
- tain biking. Soul Ride is locally 
- based\, they are committed to conne
- cting individuals to their persona
- l power through the soul connectio
- n felt on a mountain bike.\n\nhttps:
- //www.facebook.com/events/75899889
- 5241809/?event_time_id=75899894190
- 8471
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20220711T031254Z
 LAST-MODIFIED:20220711T031254Z
 CREATED:20220711T031254Z
@@ -177,169 +65,43 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220711T031213Z
-LAST-MODIFIED:20220711T031213Z
-CREATED:20220711T031213Z
+DTSTAMP:20220828T190350Z
+LAST-MODIFIED:20220828T190350Z
+CREATED:20220828T190350Z
 SEQUENCE:0
-ORGANIZER;CN=Greg Reverdiau:MAILTO:noreply@facebookmail.com
-DTSTART:20221028T003000Z
-DTEND:20221028T020000Z
-UID:e758998925241806@facebook.com
-SUMMARY:Group Run in Prescott
-LOCATION:Soul Ride Bikeshop and Taproom
-URL:https://www.facebook.com/events/758998895241809/?event_time_id=758998925241806
-DESCRIPTION:Weekly group run for all Prescott 
- runners! We will meet at the Soul 
- Ride bike shop located on Montezum
- a every Thursday at 5:30pm.\n\nWho i
- s this for?\nEveryone! Runners of a
- ll paces and experience should joi
- n. There are many reasons to join:
- \n- Meet other runners in the area\n
- - Find people who run at your pace
-  and have similar goals\n- Get moti
- vation and inspiration to stay hea
- lthy\n- Get tips on how to move to 
- the next distance or speed\n- Have 
- fun!\n\nHow long are the runs?\nThe s
- hort answer is: as long as you wan
- t. We will suggest safe routes aro
- und the shop but you are welcome t
- o create your own. The urban trail
-  is very close and a very good pla
- ce to run. We encourage everyone t
- o stay for a bit after the run and
-  socialize with others. Water will
-  be available behind Soul Ride\, as
-  well as a comfortable place to ha
- ng out.\n\nAbout Soul Ride\nWe are ve
- ry excited to partner with Soul Ri
- de (https://soulride.bike) for thi
- s event. Soul Ride was founded by 
- Prescott local mountain bikers\, Ka
- te Phelan and Cina Mcconaughy\, wit
- h the purpose of introducing all p
- eople to the joys of Prescott moun
- tain biking. Soul Ride is locally 
- based\, they are committed to conne
- cting individuals to their persona
- l power through the soul connectio
- n felt on a mountain bike.\n\nhttps:
- //www.facebook.com/events/75899889
- 5241809/?event_time_id=75899892524
- 1806
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220711T031213Z
-LAST-MODIFIED:20220711T031213Z
-CREATED:20220711T031213Z
-SEQUENCE:0
-ORGANIZER;CN=Greg Reverdiau:MAILTO:noreply@facebookmail.com
-DTSTART:20221021T003000Z
-DTEND:20221021T020000Z
-UID:e758998935241805@facebook.com
-SUMMARY:Group Run in Prescott
-LOCATION:Soul Ride Bikeshop and Taproom
-URL:https://www.facebook.com/events/758998895241809/?event_time_id=758998935241805
-DESCRIPTION:Weekly group run for all Prescott 
- runners! We will meet at the Soul 
- Ride bike shop located on Montezum
- a every Thursday at 5:30pm.\n\nWho i
- s this for?\nEveryone! Runners of a
- ll paces and experience should joi
- n. There are many reasons to join:
- \n- Meet other runners in the area\n
- - Find people who run at your pace
-  and have similar goals\n- Get moti
- vation and inspiration to stay hea
- lthy\n- Get tips on how to move to 
- the next distance or speed\n- Have 
- fun!\n\nHow long are the runs?\nThe s
- hort answer is: as long as you wan
- t. We will suggest safe routes aro
- und the shop but you are welcome t
- o create your own. The urban trail
-  is very close and a very good pla
- ce to run. We encourage everyone t
- o stay for a bit after the run and
-  socialize with others. Water will
-  be available behind Soul Ride\, as
-  well as a comfortable place to ha
- ng out.\n\nAbout Soul Ride\nWe are ve
- ry excited to partner with Soul Ri
- de (https://soulride.bike) for thi
- s event. Soul Ride was founded by 
- Prescott local mountain bikers\, Ka
- te Phelan and Cina Mcconaughy\, wit
- h the purpose of introducing all p
- eople to the joys of Prescott moun
- tain biking. Soul Ride is locally 
- based\, they are committed to conne
- cting individuals to their persona
- l power through the soul connectio
- n felt on a mountain bike.\n\nhttps:
- //www.facebook.com/events/75899889
- 5241809/?event_time_id=75899893524
- 1805
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220711T031213Z
-LAST-MODIFIED:20220711T031213Z
-CREATED:20220711T031213Z
-SEQUENCE:0
-ORGANIZER;CN=Greg Reverdiau:MAILTO:noreply@facebookmail.com
-DTSTART:20221014T003000Z
-DTEND:20221014T020000Z
-UID:e758998928575139@facebook.com
-SUMMARY:Group Run in Prescott
-LOCATION:Soul Ride Bikeshop and Taproom
-URL:https://www.facebook.com/events/758998895241809/?event_time_id=758998928575139
-DESCRIPTION:Weekly group run for all Prescott 
- runners! We will meet at the Soul 
- Ride bike shop located on Montezum
- a every Thursday at 5:30pm.\n\nWho i
- s this for?\nEveryone! Runners of a
- ll paces and experience should joi
- n. There are many reasons to join:
- \n- Meet other runners in the area\n
- - Find people who run at your pace
-  and have similar goals\n- Get moti
- vation and inspiration to stay hea
- lthy\n- Get tips on how to move to 
- the next distance or speed\n- Have 
- fun!\n\nHow long are the runs?\nThe s
- hort answer is: as long as you wan
- t. We will suggest safe routes aro
- und the shop but you are welcome t
- o create your own. The urban trail
-  is very close and a very good pla
- ce to run. We encourage everyone t
- o stay for a bit after the run and
-  socialize with others. Water will
-  be available behind Soul Ride\, as
-  well as a comfortable place to ha
- ng out.\n\nAbout Soul Ride\nWe are ve
- ry excited to partner with Soul Ri
- de (https://soulride.bike) for thi
- s event. Soul Ride was founded by 
- Prescott local mountain bikers\, Ka
- te Phelan and Cina Mcconaughy\, wit
- h the purpose of introducing all p
- eople to the joys of Prescott moun
- tain biking. Soul Ride is locally 
- based\, they are committed to conne
- cting individuals to their persona
- l power through the soul connectio
- n felt on a mountain bike.\n\nhttps:
- //www.facebook.com/events/75899889
- 5241809/?event_time_id=75899892857
- 5139
+ORGANIZER;CN=Terri Rashid:MAILTO:noreply@facebookmail.com
+DTSTART:20221022T160000Z
+DTEND:20221022T190000Z
+UID:e1157948688149864@facebook.com
+SUMMARY:PATR Woods Edge Brunch Run
+LOCATION:2465 N Woods Edge Way\, Prescott\, A
+ Z 86305-7051\, United States
+URL:https://www.facebook.com/events/1157948688149864/
+DESCRIPTION:Come celebrate the first (of hopef
+ ully many) PATR trail run from Woo
+ ds Edge.  We will provide coffee\, 
+ orange juice\, tea and assorted bre
+ akfast items (bagels\, pastries\, fr
+ esh fruit\, etc).  Mimosas will be 
+ available as well.  I will provide
+  some suggested routes from 3 to 1
+ 0 miles.  Or run your favorite rou
+ te in Spence Basin.  The festiviti
+ es will continue into the early af
+ ternoon (say 3pm or so)\, and all a
+ re welcome to hang out and sociali
+ ze.  \n\nIn the afternoon we'll have
+  the grill fired up and we'll have
+  hamburgers and hot dogs available
+  - or bring your own favorite item
+  for grilling.  So you can run lon
+ g\, or short\, then join us for food
+  and backyard fun.  This event wil
+ l be held rain or shine (or even s
+ now!)\, but we will move indoors in
+  the event of adverse weather.\n\nht
+ tps://www.facebook.com/events/1157
+ 948688149864/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -403,169 +165,41 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220711T031213Z
-LAST-MODIFIED:20220711T031213Z
-CREATED:20220711T031213Z
+DTSTAMP:20220819T002403Z
+LAST-MODIFIED:20220819T002403Z
+CREATED:20220819T002403Z
 SEQUENCE:0
-ORGANIZER;CN=Greg Reverdiau:MAILTO:noreply@facebookmail.com
-DTSTART:20220930T003000Z
-DTEND:20220930T020000Z
-UID:e758998918575140@facebook.com
-SUMMARY:Group Run in Prescott
-LOCATION:Soul Ride Bikeshop and Taproom
-URL:https://www.facebook.com/events/758998895241809/?event_time_id=758998918575140
-DESCRIPTION:Weekly group run for all Prescott 
- runners! We will meet at the Soul 
- Ride bike shop located on Montezum
- a every Thursday at 5:30pm.\n\nWho i
- s this for?\nEveryone! Runners of a
- ll paces and experience should joi
- n. There are many reasons to join:
- \n- Meet other runners in the area\n
- - Find people who run at your pace
-  and have similar goals\n- Get moti
- vation and inspiration to stay hea
- lthy\n- Get tips on how to move to 
- the next distance or speed\n- Have 
- fun!\n\nHow long are the runs?\nThe s
- hort answer is: as long as you wan
- t. We will suggest safe routes aro
- und the shop but you are welcome t
- o create your own. The urban trail
-  is very close and a very good pla
- ce to run. We encourage everyone t
- o stay for a bit after the run and
-  socialize with others. Water will
-  be available behind Soul Ride\, as
-  well as a comfortable place to ha
- ng out.\n\nAbout Soul Ride\nWe are ve
- ry excited to partner with Soul Ri
- de (https://soulride.bike) for thi
- s event. Soul Ride was founded by 
- Prescott local mountain bikers\, Ka
- te Phelan and Cina Mcconaughy\, wit
- h the purpose of introducing all p
- eople to the joys of Prescott moun
- tain biking. Soul Ride is locally 
- based\, they are committed to conne
- cting individuals to their persona
- l power through the soul connectio
- n felt on a mountain bike.\n\nhttps:
- //www.facebook.com/events/75899889
- 5241809/?event_time_id=75899891857
- 5140
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220711T031213Z
-LAST-MODIFIED:20220711T031213Z
-CREATED:20220711T031213Z
-SEQUENCE:0
-ORGANIZER;CN=Greg Reverdiau:MAILTO:noreply@facebookmail.com
-DTSTART:20220923T003000Z
-DTEND:20220923T020000Z
-UID:e758998931908472@facebook.com
-SUMMARY:Group Run in Prescott
-LOCATION:Soul Ride Bikeshop and Taproom
-URL:https://www.facebook.com/events/758998895241809/?event_time_id=758998931908472
-DESCRIPTION:Weekly group run for all Prescott 
- runners! We will meet at the Soul 
- Ride bike shop located on Montezum
- a every Thursday at 5:30pm.\n\nWho i
- s this for?\nEveryone! Runners of a
- ll paces and experience should joi
- n. There are many reasons to join:
- \n- Meet other runners in the area\n
- - Find people who run at your pace
-  and have similar goals\n- Get moti
- vation and inspiration to stay hea
- lthy\n- Get tips on how to move to 
- the next distance or speed\n- Have 
- fun!\n\nHow long are the runs?\nThe s
- hort answer is: as long as you wan
- t. We will suggest safe routes aro
- und the shop but you are welcome t
- o create your own. The urban trail
-  is very close and a very good pla
- ce to run. We encourage everyone t
- o stay for a bit after the run and
-  socialize with others. Water will
-  be available behind Soul Ride\, as
-  well as a comfortable place to ha
- ng out.\n\nAbout Soul Ride\nWe are ve
- ry excited to partner with Soul Ri
- de (https://soulride.bike) for thi
- s event. Soul Ride was founded by 
- Prescott local mountain bikers\, Ka
- te Phelan and Cina Mcconaughy\, wit
- h the purpose of introducing all p
- eople to the joys of Prescott moun
- tain biking. Soul Ride is locally 
- based\, they are committed to conne
- cting individuals to their persona
- l power through the soul connectio
- n felt on a mountain bike.\n\nhttps:
- //www.facebook.com/events/75899889
- 5241809/?event_time_id=75899893190
- 8472
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220711T031213Z
-LAST-MODIFIED:20220711T031213Z
-CREATED:20220711T031213Z
-SEQUENCE:0
-ORGANIZER;CN=Greg Reverdiau:MAILTO:noreply@facebookmail.com
-DTSTART:20220916T003000Z
-DTEND:20220916T020000Z
-UID:e758998938575138@facebook.com
-SUMMARY:Group Run in Prescott
-LOCATION:Soul Ride Bikeshop and Taproom
-URL:https://www.facebook.com/events/758998895241809/?event_time_id=758998938575138
-DESCRIPTION:Weekly group run for all Prescott 
- runners! We will meet at the Soul 
- Ride bike shop located on Montezum
- a every Thursday at 5:30pm.\n\nWho i
- s this for?\nEveryone! Runners of a
- ll paces and experience should joi
- n. There are many reasons to join:
- \n- Meet other runners in the area\n
- - Find people who run at your pace
-  and have similar goals\n- Get moti
- vation and inspiration to stay hea
- lthy\n- Get tips on how to move to 
- the next distance or speed\n- Have 
- fun!\n\nHow long are the runs?\nThe s
- hort answer is: as long as you wan
- t. We will suggest safe routes aro
- und the shop but you are welcome t
- o create your own. The urban trail
-  is very close and a very good pla
- ce to run. We encourage everyone t
- o stay for a bit after the run and
-  socialize with others. Water will
-  be available behind Soul Ride\, as
-  well as a comfortable place to ha
- ng out.\n\nAbout Soul Ride\nWe are ve
- ry excited to partner with Soul Ri
- de (https://soulride.bike) for thi
- s event. Soul Ride was founded by 
- Prescott local mountain bikers\, Ka
- te Phelan and Cina Mcconaughy\, wit
- h the purpose of introducing all p
- eople to the joys of Prescott moun
- tain biking. Soul Ride is locally 
- based\, they are committed to conne
- cting individuals to their persona
- l power through the soul connectio
- n felt on a mountain bike.\n\nhttps:
- //www.facebook.com/events/75899889
- 5241809/?event_time_id=75899893857
- 5138
+ORGANIZER;CN=Chris Hawthorne:MAILTO:noreply@facebookmail.com
+DTSTART:20221002T000000Z
+DTEND:20221002T050000Z
+UID:e470652201284494@facebook.com
+SUMMARY:PATR/STTR Social
+LOCATION:Dead End Ranch - 13700 N Warpaint 
+ Place\, Prescott\, AZ 86305
+URL:https://www.facebook.com/events/470652201284494/
+DESCRIPTION:Come for a bite and a drink! A few
+  friends from the San Tan Trail Ru
+ nners (southeast valley) will be u
+ p for the weekend\, camping in my y
+ ard and running/hiking/bonding. Fi
+ gured it would be a perfect time t
+ o invite everyone over for a potlu
+ ck/bbq. \n\nBring whatever food/drin
+ k you'd like. If imbibing\, feel fr
+ ee to pitch a tent\, hammock\, pad/s
+ leeping bag - anything you'd like 
+ in order to crash in the great out
+ doors! :-) That will give you the 
+ perfect opportunity to partake in 
+ the Sunday morning bagel bash! \n\nS
+ ome of us plan to do the Prescott 
+ Triple Crown on Saturday\; I'll pos
+ t details if you'd like to join! O
+ ther hike/run options will likely 
+ be posted too for Sat/Sun. Hope yo
+ u can join for some or all!\n\nhttps
+ ://www.facebook.com/events/4706522
+ 01284494/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -599,62 +233,6 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220711T031213Z
-LAST-MODIFIED:20220711T031213Z
-CREATED:20220711T031213Z
-SEQUENCE:0
-ORGANIZER;CN=Greg Reverdiau:MAILTO:noreply@facebookmail.com
-DTSTART:20220909T003000Z
-DTEND:20220909T020000Z
-UID:e758998921908473@facebook.com
-SUMMARY:Group Run in Prescott
-LOCATION:Soul Ride Bikeshop and Taproom
-URL:https://www.facebook.com/events/758998895241809/?event_time_id=758998921908473
-DESCRIPTION:Weekly group run for all Prescott 
- runners! We will meet at the Soul 
- Ride bike shop located on Montezum
- a every Thursday at 5:30pm.\n\nWho i
- s this for?\nEveryone! Runners of a
- ll paces and experience should joi
- n. There are many reasons to join:
- \n- Meet other runners in the area\n
- - Find people who run at your pace
-  and have similar goals\n- Get moti
- vation and inspiration to stay hea
- lthy\n- Get tips on how to move to 
- the next distance or speed\n- Have 
- fun!\n\nHow long are the runs?\nThe s
- hort answer is: as long as you wan
- t. We will suggest safe routes aro
- und the shop but you are welcome t
- o create your own. The urban trail
-  is very close and a very good pla
- ce to run. We encourage everyone t
- o stay for a bit after the run and
-  socialize with others. Water will
-  be available behind Soul Ride\, as
-  well as a comfortable place to ha
- ng out.\n\nAbout Soul Ride\nWe are ve
- ry excited to partner with Soul Ri
- de (https://soulride.bike) for thi
- s event. Soul Ride was founded by 
- Prescott local mountain bikers\, Ka
- te Phelan and Cina Mcconaughy\, wit
- h the purpose of introducing all p
- eople to the joys of Prescott moun
- tain biking. Soul Ride is locally 
- based\, they are committed to conne
- cting individuals to their persona
- l power through the soul connectio
- n felt on a mountain bike.\n\nhttps:
- //www.facebook.com/events/75899889
- 5241809/?event_time_id=75899892190
- 8473
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20220801T041430Z
 LAST-MODIFIED:20220801T041430Z
 CREATED:20220801T041430Z
@@ -677,7 +255,7 @@ DESCRIPTION:PLEASE READ THIS DESCRIPTION. \nWe
  /
 CLASS:PUBLIC
 STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
+PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220711T031254Z
@@ -763,62 +341,6 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220711T031213Z
-LAST-MODIFIED:20220711T031213Z
-CREATED:20220711T031213Z
-SEQUENCE:0
-ORGANIZER;CN=Greg Reverdiau:MAILTO:noreply@facebookmail.com
-DTSTART:20220826T003000Z
-DTEND:20220826T020000Z
-UID:e758998908575141@facebook.com
-SUMMARY:Group Run in Prescott
-LOCATION:Soul Ride Bikeshop and Taproom
-URL:https://www.facebook.com/events/758998895241809/?event_time_id=758998908575141
-DESCRIPTION:Weekly group run for all Prescott 
- runners! We will meet at the Soul 
- Ride bike shop located on Montezum
- a every Thursday at 5:30pm.\n\nWho i
- s this for?\nEveryone! Runners of a
- ll paces and experience should joi
- n. There are many reasons to join:
- \n- Meet other runners in the area\n
- - Find people who run at your pace
-  and have similar goals\n- Get moti
- vation and inspiration to stay hea
- lthy\n- Get tips on how to move to 
- the next distance or speed\n- Have 
- fun!\n\nHow long are the runs?\nThe s
- hort answer is: as long as you wan
- t. We will suggest safe routes aro
- und the shop but you are welcome t
- o create your own. The urban trail
-  is very close and a very good pla
- ce to run. We encourage everyone t
- o stay for a bit after the run and
-  socialize with others. Water will
-  be available behind Soul Ride\, as
-  well as a comfortable place to ha
- ng out.\n\nAbout Soul Ride\nWe are ve
- ry excited to partner with Soul Ri
- de (https://soulride.bike) for thi
- s event. Soul Ride was founded by 
- Prescott local mountain bikers\, Ka
- te Phelan and Cina Mcconaughy\, wit
- h the purpose of introducing all p
- eople to the joys of Prescott moun
- tain biking. Soul Ride is locally 
- based\, they are committed to conne
- cting individuals to their persona
- l power through the soul connectio
- n felt on a mountain bike.\n\nhttps:
- //www.facebook.com/events/75899889
- 5241809/?event_time_id=75899890857
- 5141
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20220801T041315Z
 LAST-MODIFIED:20220801T041315Z
 CREATED:20220801T041315Z
@@ -852,62 +374,6 @@ DESCRIPTION:PLEASE READ THIS DESCRIPTION. \nWe
   parking lot\, this is white SPAR. 
  \n\nhttps://www.facebook.com/events/
  1685660241802153/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220711T031213Z
-LAST-MODIFIED:20220711T031213Z
-CREATED:20220711T031213Z
-SEQUENCE:0
-ORGANIZER;CN=Greg Reverdiau:MAILTO:noreply@facebookmail.com
-DTSTART:20220819T003000Z
-DTEND:20220819T020000Z
-UID:e758998911908474@facebook.com
-SUMMARY:Group Run in Prescott
-LOCATION:Soul Ride Bikeshop and Taproom
-URL:https://www.facebook.com/events/758998895241809/?event_time_id=758998911908474
-DESCRIPTION:Weekly group run for all Prescott 
- runners! We will meet at the Soul 
- Ride bike shop located on Montezum
- a every Thursday at 5:30pm.\n\nWho i
- s this for?\nEveryone! Runners of a
- ll paces and experience should joi
- n. There are many reasons to join:
- \n- Meet other runners in the area\n
- - Find people who run at your pace
-  and have similar goals\n- Get moti
- vation and inspiration to stay hea
- lthy\n- Get tips on how to move to 
- the next distance or speed\n- Have 
- fun!\n\nHow long are the runs?\nThe s
- hort answer is: as long as you wan
- t. We will suggest safe routes aro
- und the shop but you are welcome t
- o create your own. The urban trail
-  is very close and a very good pla
- ce to run. We encourage everyone t
- o stay for a bit after the run and
-  socialize with others. Water will
-  be available behind Soul Ride\, as
-  well as a comfortable place to ha
- ng out.\n\nAbout Soul Ride\nWe are ve
- ry excited to partner with Soul Ri
- de (https://soulride.bike) for thi
- s event. Soul Ride was founded by 
- Prescott local mountain bikers\, Ka
- te Phelan and Cina Mcconaughy\, wit
- h the purpose of introducing all p
- eople to the joys of Prescott moun
- tain biking. Soul Ride is locally 
- based\, they are committed to conne
- cting individuals to their persona
- l power through the soul connectio
- n felt on a mountain bike.\n\nhttps:
- //www.facebook.com/events/75899889
- 5241809/?event_time_id=75899891190
- 8474
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -980,62 +446,6 @@ DESCRIPTION:WHISKEY ROW BREW FEST\nPrescott's B
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220711T031213Z
-LAST-MODIFIED:20220711T031213Z
-CREATED:20220711T031213Z
-SEQUENCE:0
-ORGANIZER;CN=Greg Reverdiau:MAILTO:noreply@facebookmail.com
-DTSTART:20220812T003000Z
-DTEND:20220812T020000Z
-UID:e758998905241808@facebook.com
-SUMMARY:Group Run in Prescott
-LOCATION:Soul Ride Bikeshop and Taproom
-URL:https://www.facebook.com/events/758998895241809/?event_time_id=758998905241808
-DESCRIPTION:Weekly group run for all Prescott 
- runners! We will meet at the Soul 
- Ride bike shop located on Montezum
- a every Thursday at 5:30pm.\n\nWho i
- s this for?\nEveryone! Runners of a
- ll paces and experience should joi
- n. There are many reasons to join:
- \n- Meet other runners in the area\n
- - Find people who run at your pace
-  and have similar goals\n- Get moti
- vation and inspiration to stay hea
- lthy\n- Get tips on how to move to 
- the next distance or speed\n- Have 
- fun!\n\nHow long are the runs?\nThe s
- hort answer is: as long as you wan
- t. We will suggest safe routes aro
- und the shop but you are welcome t
- o create your own. The urban trail
-  is very close and a very good pla
- ce to run. We encourage everyone t
- o stay for a bit after the run and
-  socialize with others. Water will
-  be available behind Soul Ride\, as
-  well as a comfortable place to ha
- ng out.\n\nAbout Soul Ride\nWe are ve
- ry excited to partner with Soul Ri
- de (https://soulride.bike) for thi
- s event. Soul Ride was founded by 
- Prescott local mountain bikers\, Ka
- te Phelan and Cina Mcconaughy\, wit
- h the purpose of introducing all p
- eople to the joys of Prescott moun
- tain biking. Soul Ride is locally 
- based\, they are committed to conne
- cting individuals to their persona
- l power through the soul connectio
- n felt on a mountain bike.\n\nhttps:
- //www.facebook.com/events/75899889
- 5241809/?event_time_id=75899890524
- 1808
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220728T165544Z
@@ -1201,306 +611,5 @@ DESCRIPTION:PLEASE READ THIS DESCRIPTION. \nWe
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220711T031213Z
-LAST-MODIFIED:20220711T031213Z
-CREATED:20220711T031213Z
-SEQUENCE:0
-ORGANIZER;CN=Greg Reverdiau:MAILTO:noreply@facebookmail.com
-DTSTART:20220729T003000Z
-DTEND:20220729T020000Z
-UID:e758998915241807@facebook.com
-SUMMARY:Group Run in Prescott
-LOCATION:Soul Ride Bikeshop and Taproom
-URL:https://www.facebook.com/events/758998895241809/?event_time_id=758998915241807
-DESCRIPTION:Weekly group run for all Prescott 
- runners! We will meet at the Soul 
- Ride bike shop located on Montezum
- a every Thursday at 5:30pm.\n\nWho i
- s this for?\nEveryone! Runners of a
- ll paces and experience should joi
- n. There are many reasons to join:
- \n- Meet other runners in the area\n
- - Find people who run at your pace
-  and have similar goals\n- Get moti
- vation and inspiration to stay hea
- lthy\n- Get tips on how to move to 
- the next distance or speed\n- Have 
- fun!\n\nHow long are the runs?\nThe s
- hort answer is: as long as you wan
- t. We will suggest safe routes aro
- und the shop but you are welcome t
- o create your own. The urban trail
-  is very close and a very good pla
- ce to run. We encourage everyone t
- o stay for a bit after the run and
-  socialize with others. Water will
-  be available behind Soul Ride\, as
-  well as a comfortable place to ha
- ng out.\n\nAbout Soul Ride\nWe are ve
- ry excited to partner with Soul Ri
- de (https://soulride.bike) for thi
- s event. Soul Ride was founded by 
- Prescott local mountain bikers\, Ka
- te Phelan and Cina Mcconaughy\, wit
- h the purpose of introducing all p
- eople to the joys of Prescott moun
- tain biking. Soul Ride is locally 
- based\, they are committed to conne
- cting individuals to their persona
- l power through the soul connectio
- n felt on a mountain bike.\n\nhttps:
- //www.facebook.com/events/75899889
- 5241809/?event_time_id=75899891524
- 1807
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220722T142927Z
-LAST-MODIFIED:20220722T142927Z
-CREATED:20220722T142927Z
-SEQUENCE:0
-ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
-DTSTART:20220727T130000Z
-DTEND:20220727T160000Z
-UID:e439301374774219@facebook.com
-SUMMARY:Thumb Butte Vert
-LOCATION:Thumb Butte\, Prescott\, AZ 86305\, U
- nited States
-URL:https://www.facebook.com/events/439301374774219/
-DESCRIPTION:Come out and get some vert! We sta
- rt at 6:00 am but of course you ca
- n come any time. Up the paved stee
- p section and down the gradual dir
- t is approximately 2 miles and 600
-  feet of climbing. Join us to run\,
-  hike\, runk as many loops as you w
- ant! Parking is free on Wednesdays
- .\n\nhttps://www.facebook.com/events
- /439301374774219/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220711T030925Z
-LAST-MODIFIED:20220711T030925Z
-CREATED:20220711T030925Z
-SEQUENCE:0
-ORGANIZER;CN=Greg Reverdiau:MAILTO:noreply@facebookmail.com
-DTSTART:20220727T003000Z
-DTEND:20220727T020000Z
-UID:e790051865323250@facebook.com
-SUMMARY:Tuesday Group Run - White Rock
-URL:https://www.facebook.com/events/790051865323250/
-DESCRIPTION:We will meet at White Rock Parking
-  lot (link here https://goo.gl/map
- s/YN2uMvQnyQWTM9JK7) at 5:30pm. \n\n
- There will be 2 groups of runners 
- - beginner (3 miles) and intermedi
- ate+ (5-6 miles). Both groups are 
- no-drop which means we stop at eve
- ry intersection and wait for every
- one. \n\nhttps://www.facebook.com/ev
- ents/790051865323250/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220722T200146Z
-LAST-MODIFIED:20220722T200146Z
-CREATED:20220722T200146Z
-SEQUENCE:0
-ORGANIZER;CN=Shane Carr:MAILTO:noreply@facebookmail.com
-DTSTART:20220725T130000Z
-DTEND:20220725T160000Z
-UID:e1727188057668574@facebook.com
-SUMMARY:Track Sessions
-LOCATION:Prescott High School
-URL:https://www.facebook.com/events/1727188057668574/
-DESCRIPTION:Join in on some speed work for all
-  abilities. Join a workout or brin
- g your own. Start warming up when 
- you get there and we will come tog
- ether at 6:30 to stretch and talk 
- about everyone's workout for the d
- ay. Stretching is optional but hig
- hly encouraged. This event is brou
- ght to you by the Prescott Area Tr
- ail Runners (PATR).\n\nhttps://www.f
- acebook.com/events/172718805766857
- 4/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220711T031021Z
-LAST-MODIFIED:20220711T031021Z
-CREATED:20220711T031021Z
-SEQUENCE:0
-ORGANIZER;CN=Greg Reverdiau:MAILTO:noreply@facebookmail.com
-DTSTART:20220722T003000Z
-DTEND:20220722T020000Z
-UID:e1267258500733810@facebook.com
-SUMMARY:Group Run in Prescott
-LOCATION:Soul Ride Bikeshop and Taproom
-URL:https://www.facebook.com/events/1267258500733810/
-DESCRIPTION:Weekly group run for all Prescott 
- runners! We will meet at the Soul 
- Ride bike shop located on Montezum
- a every Thursday at 5:30pm.\n\nWho i
- s this for?\nEveryone! Runners of a
- ll paces and experience should joi
- n. There are many reasons to join:
- \n- Meet other runners in the area\n
- - Find people who run at your pace
-  and have similar goals\n- Get moti
- vation and inspiration to stay hea
- lthy\n- Get tips on how to move to 
- the next distance or speed\n- Have 
- fun!\n\nHow long are the runs?\nThe s
- hort answer is: as long as you wan
- t. We will suggest safe routes aro
- und the shop but you are welcome t
- o create your own. The urban trail
-  is very close and a very good pla
- ce to run. We encourage everyone t
- o stay for a bit after the run and
-  socialize with others. Water will
-  be available behind Soul Ride\, as
-  well as a comfortable place to ha
- ng out.\n\nAbout Soul Ride\nWe are ve
- ry excited to partner with Soul Ri
- de (https://soulride.bike) for thi
- s event. Soul Ride was founded by 
- Prescott local mountain bikers\, Ka
- te Phelan and Cina Mcconaughy\, wit
- h the purpose of introducing all p
- eople to the joys of Prescott moun
- tain biking. Soul Ride is locally 
- based\, they are committed to conne
- cting individuals to their persona
- l power through the soul connectio
- n felt on a mountain bike.\n\nhttps:
- //www.facebook.com/events/12672585
- 00733810/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220713T204251Z
-LAST-MODIFIED:20220713T204251Z
-CREATED:20220713T202930Z
-SEQUENCE:801
-ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
-DTSTART:20220720T130000Z
-DTEND:20220720T160000Z
-UID:e720177452620770@facebook.com
-SUMMARY:Thumb Butte Vert
-LOCATION:Thumb Butte\, Prescott\, AZ 86305\, U
- nited States
-URL:https://www.facebook.com/events/720177452620770/
-DESCRIPTION:Come out and get some vert! We sta
- rt at 6:00 am but of course you ca
- n come any time. Up the paved stee
- p section and down the gradual dir
- t is approximately 2 miles and 600
-  feet of climbing. Join us to run\,
-  hike\, runk as many loops as you w
- ant! Parking is free on Wednesdays
- .\n\nhttps://www.facebook.com/events
- /720177452620770/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220711T030907Z
-LAST-MODIFIED:20220711T030907Z
-CREATED:20220711T030907Z
-SEQUENCE:0
-ORGANIZER;CN=Greg Reverdiau:MAILTO:noreply@facebookmail.com
-DTSTART:20220720T003000Z
-DTEND:20220720T020000Z
-UID:e770372607425872@facebook.com
-SUMMARY:Tuesday Group Run - White Spar
-LOCATION:Trail 396 White Spar Road
-URL:https://www.facebook.com/events/770372607425872/
-DESCRIPTION:PLEASE READ THIS DESCRIPTION. \nWe 
- will meet at the White Spar Parkin
- g lot (link here https://goo.gl/ma
- ps/nX4JGH75u4T7R15g7) at 5:30pm. B
- eginner group can expect 4 miles a
- nd the intermediate + group can ex
- pect 6 miles. No drop run (we stop
-  for everyone at every intersectio
- n).\n\nBe careful\, this is NOT the u
- sual white ROCK parking lot\, this 
- is white SPAR. \n\nhttps://www.faceb
- ook.com/events/770372607425872/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220713T213527Z
-LAST-MODIFIED:20220713T213527Z
-CREATED:20220713T213527Z
-SEQUENCE:0
-ORGANIZER;CN=Shane Carr:MAILTO:noreply@facebookmail.com
-DTSTART:20220718T130000Z
-DTEND:20220718T160000Z
-UID:e627496645080456@facebook.com
-SUMMARY:Track Session
-LOCATION:Prescott High School
-URL:https://www.facebook.com/events/627496645080456/
-DESCRIPTION:Join in on some speed work for all
-  abilities. Join a workout or brin
- g your own. Start warming up when 
- you get there and we will come tog
- ether at 6:30 to stretch and talk 
- about everyone's workout for the d
- ay. Stretching is optional but hig
- hly encouraged. \n\nhttps://www.face
- book.com/events/627496645080456/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220711T030827Z
-LAST-MODIFIED:20220711T030827Z
-CREATED:20220711T030827Z
-SEQUENCE:0
-ORGANIZER;CN=Greg Reverdiau:MAILTO:noreply@facebookmail.com
-DTSTART:20220713T003000Z
-DTEND:20220713T020000Z
-UID:e2884191611884233@facebook.com
-SUMMARY:Tuesday Group Run - Upper Spence Basin
-URL:https://www.facebook.com/events/2884191611884233/
-DESCRIPTION:Last minute location change to upp
- er spence basin because the other 
- location is full.PLEASE READ THIS 
- DESCRIPTION. \nWe will meet at Spen
- ce Basin Parking lot (link here ht
- tps://goo.gl/maps/K1LcZy7K2xxjsmjD
- 8) at 5:30pm. \n\nTwo groups\, one fo
- r beginners and one for everybody 
- else. Beginners group typically go
- es 2-3 miles\, other group goes 5-6
-  miles. \n\nNo drop run (we stop for
-  everyone at every intersection). 
- \n\nBring a headlamp.\n\nhttps://www.f
- acebook.com/events/288419161188423
- 3/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
 END:VEVENT
 END:VCALENDAR
