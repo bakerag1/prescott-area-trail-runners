@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"log"
 	"os"
+	"regexp"
 	"strings"
 	"text/template"
 	"time"
@@ -16,8 +17,8 @@ const outputFmt = `---
 title: %v
 date: %v
 external_url: %v
-description: %v
 ---
+%v
 `
 
 func main() {
@@ -81,6 +82,8 @@ func addCalendarItems() {
 		description = strings.ReplaceAll(description, uri, "")
 		description = strings.ReplaceAll(description, ":", "&#58;")
 		description = strings.ReplaceAll(description, "\n\n", "<br>\n  ")
+		expr := regexp.MustCompile(`(http[s]?)&#58;(//[^ )]*)`)
+		description = expr.ReplaceAllString(description, "[$1:$2]($1:$2)")
 		cal, err := os.Create("_calendar/" + uid + ".md")
 		defer cal.Close()
 		if err != nil {

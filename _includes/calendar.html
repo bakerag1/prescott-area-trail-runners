@@ -4,7 +4,7 @@
     {% for item in site.calendar | sort: 'date' %}
     <tr>
       <td><a href="{{ item.external_url }}">{{ item.title }}</a><br>{{ item.date | date: '%Y-%m-%d %H:%M'}}</td>
-      <td>{{ item.description }}</td>
+      <td>{{ item.content }}</td>
     </tr>
    {% endfor %}
   </table>
