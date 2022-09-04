@@ -50,7 +50,7 @@ collections:
     permalink: /:collection/:name
 
 # BUILD SETTINGS
-plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-feed]
+plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-feed, jekyll-sitemap]
 exclude: 
   - "go.*"
   - "util/"
