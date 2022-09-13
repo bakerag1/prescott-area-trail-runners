@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: ""
-url: "https://prescottareatrailrunners.com/"
+url: "https://prescottareatrailrunners.com"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Prescott Area Trail Runners 
