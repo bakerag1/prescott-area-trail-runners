@@ -411,6 +411,34 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20220801T041448Z
+LAST-MODIFIED:20220801T041448Z
+CREATED:20220801T041448Z
+SEQUENCE:0
+ORGANIZER;CN=Greg Reverdiau:MAILTO:noreply@facebookmail.com
+DTSTART:20220914T003000Z
+DTEND:20220914T020000Z
+UID:e407227744594966@facebook.com
+SUMMARY:Tuesday Group Run - Upper Spence Basin
+LOCATION:https://maps.apple.com/?ll=34.5819
+ 04\,-112.548972&q=Dropped%20Pin&_ex
+ t=EiYpaevoe+dJQUAxxHG9OnsjXMA558AO
+ 2A1LQUBB5GbvdsgiXMBQBA%3D%3D&t=h
+URL:https://www.facebook.com/events/407227744594966/
+DESCRIPTION:PLEASE READ THIS DESCRIPTION. \nWe 
+ will meet at UPPER Parking lot alo
+ ng Iron Springs\, where the circle 
+ trail crosses the Iron Springs at 
+ 5:30pm. Expect 5 miles. No drop ru
+ n (we stop for everyone at every i
+ ntersection). \n\nBring a headlamp!\n
+ \n\n\nhttps://www.facebook.com/events
+ /407227744594966/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20220908T235238Z
 LAST-MODIFIED:20220908T235238Z
 CREATED:20220907T224018Z

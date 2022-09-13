@@ -66,7 +66,7 @@ func addCalendarItems() {
 		log.Fatal(err)
 	}
 	c := gocal.NewParser(f)
-	start, end := time.Now().Add(-24*time.Hour), time.Now().Add(120*30*24*time.Hour)
+	start, end := time.Now().Add(-48*time.Hour), time.Now().Add(120*30*24*time.Hour)
 	c.Start, c.End = &start, &end
 	c.Strict.Mode = gocal.StrictModeFailAttribute
 	c.Parse()
