@@ -18,3 +18,7 @@ jon:
   name: "Jon Wolfinger"
   avatar: "/assets/img/jon/profile.jpg"
   url: "https://www.strava.com/athletes/6734124"
+carol:
+  name: "Carol Northrup"
+  avatar: /assets/img/carol/profile.jpg
+  url: https://www.instagram.com/finding_my_dirt
