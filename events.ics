@@ -65,10 +65,127 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220828T190350Z
-LAST-MODIFIED:20220828T190350Z
-CREATED:20220828T190350Z
+DTSTAMP:20220919T180151Z
+LAST-MODIFIED:20220919T180151Z
+CREATED:20220719T010428Z
+SEQUENCE:5417843
+ORGANIZER;CN=Yavapai CASA for Kids:MAILTO:noreply@facebookmail.com
+DTSTART:20221029T160000Z
+DTEND:20221029T190000Z
+UID:e1215842952509373@facebook.com
+SUMMARY:Costumes for Kids 5K Fun Run
+LOCATION:120 S Cortez St\, Prescott\, AZ 8630
+ 3-4704\, United States
+URL:https://www.facebook.com/events/1215842952509373/
+DESCRIPTION:🎃 Looking for some Halloween fu
+ n the whole family can enjoy?\n\nMar
+ k your calendars & REGISTER for th
+ e area's 𝙊𝙉𝙇𝙔 5𝙆/𝙃
+ 𝙖𝙡𝙡𝙤𝙬𝙚𝙚𝙣 𝙋
+ 𝙖𝙧𝙩𝙮 combination benef
+ itting local foster youth\; 𝘾𝙤
+ 𝙨𝙩𝙪𝙢𝙚𝙨 𝙛𝙤𝙧
+  𝙆𝙞𝙙𝙨 5𝙆 𝙁𝙪𝙣
+  𝙍𝙪𝙣! \n\n You'll Enjoy:\n  
+      🎼 DJ stylings from Magic 9
+ 9.1\n\n       👻 A costume contest
+  with prizes for the best: boy\, gi
+ rl\, man\, woman\, & group categories
+ \n\n      🍕 Free food & drinks (p
+ re-race and post-race)\n\n      🎮
+  Carnival-styled games & raffles p
+ rizes\n\n      🏁 A 5K around beau
+ tiful downtown Prescott\, AZ (start
+ ing & ending at Courthouse Square)
+ \n\n       🚶‍♂️ An optional
+  1-mile Fun Fun for those with chi
+ ldren or limited mobility \n\n      
+ 👕 A free limited edition 5k T-s
+ hirt free with all registrations\n\n
+ ✨ Youth aged 16 & under attend F
+ REE along with foster and Kinship 
+ families.\n\n                       
+                🛑 𝗗𝗢𝗡'𝗧
+  𝗠𝗜𝗦𝗦 𝗢𝗨𝗧🛑
+ \n\n🔴𝗚𝗲𝘁 𝗥𝗲𝗮𝗱
+ 𝘆: Grab your costumes\, friends\,
+  & family!\n🟡𝗦𝗲𝘁: Your 
+ calendar for Saturday\, October 29t
+ h & register!\n🟢𝗚𝗢: To The
+  Courthouse Square in Downtown Pre
+ scott & have a blast\; all ages are
+  sure to enjoy!\n\nThere is somethin
+ g for everyone at the Costumes for
+  Kids 5K Fun Run...\n\n             
+                            🎯𝗥
+ 𝗘𝗚𝗜𝗦𝗧𝗘𝗥 𝗧𝗢
+ 𝗗𝗔𝗬🎯\n\nhttps://www.face
+ book.com/events/1215842952509373/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220825T225818Z
+LAST-MODIFIED:20220825T225818Z
+CREATED:20220825T225818Z
 SEQUENCE:0
+ORGANIZER;CN=Greg Reverdiau:MAILTO:noreply@facebookmail.com
+DTSTART:20221028T003000Z
+DTEND:20221028T020000Z
+UID:e1095876124383583@facebook.com
+SUMMARY:Group Run in Prescott
+LOCATION:Soul Ride Bikeshop and Taproom
+URL:https://www.facebook.com/events/1095876121050250/?event_time_id=1095876124383583
+DESCRIPTION:Weekly group run for all Prescott 
+ runners! We will meet at the Soul 
+ Ride bike shop located on Montezum
+ a every Thursday at 5:30pm.\n\nWho i
+ s this for?\nEveryone! Runners of a
+ ll paces and experience should joi
+ n. There are many reasons to join:
+ \n- Meet other runners in the area\n
+ - Find people who run at your pace
+  and have similar goals\n- Get moti
+ vation and inspiration to stay hea
+ lthy\n- Get tips on how to move to 
+ the next distance or speed\n- Have 
+ fun!\n\nHow long are the runs?\nThe s
+ hort answer is: as long as you wan
+ t. We will suggest safe routes aro
+ und the shop but you are welcome t
+ o create your own. The urban trail
+  is very close and a very good pla
+ ce to run. We encourage everyone t
+ o stay for a bit after the run and
+  socialize with others. Water will
+  be available behind Soul Ride\, as
+  well as a comfortable place to ha
+ ng out.\n\nAbout Soul Ride\nWe are ve
+ ry excited to partner with Soul Ri
+ de (https://soulride.bike) for thi
+ s event. Soul Ride was founded by 
+ Prescott local mountain bikers\, Ka
+ te Phelan and Cina Mcconaughy\, wit
+ h the purpose of introducing all p
+ eople to the joys of Prescott moun
+ tain biking. Soul Ride is locally 
+ based\, they are committed to conne
+ cting individuals to their persona
+ l power through the soul connectio
+ n felt on a mountain bike.\n\nhttps:
+ //www.facebook.com/events/10958761
+ 21050250/?event_time_id=1095876124
+ 383583
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220916T125808Z
+LAST-MODIFIED:20220916T125808Z
+CREATED:20220828T190350Z
+SEQUENCE:1619658
 ORGANIZER;CN=Terri Rashid:MAILTO:noreply@facebookmail.com
 DTSTART:20221022T160000Z
 DTEND:20221022T190000Z
@@ -77,32 +194,171 @@ SUMMARY:PATR Woods Edge Brunch Run
 URL:https://www.facebook.com/events/1157948688149864/
 DESCRIPTION:Come celebrate the first (of hopef
  ully many) PATR trail run from Woo
- ds Edge.  We will provide coffee\, 
- orange juice\, tea and assorted bre
- akfast items (bagels\, pastries\, fr
- esh fruit\, etc).  Mimosas will be 
- available as well.  I will provide
-  some suggested routes from 3 to 1
- 0 miles.  Or run your favorite rou
- te in Spence Basin.  The festiviti
- es will continue into the early af
- ternoon (say 3pm or so)\, and all a
- re welcome to hang out and sociali
- ze.  \n\nIn the afternoon we'll have
-  the grill fired up and we'll have
-  hamburgers and hot dogs available
-  - or bring your own favorite item
-  for grilling.  So you can run lon
- g\, or short\, then join us for food
-  and backyard fun.  This event wil
- l be held rain or shine (or even s
- now!)\, but we will move indoors in
-  the event of adverse weather.\n\nht
- tps://www.facebook.com/events/1157
- 948688149864/
+ ds Edge.  Arrive around 8:30am\, an
+ d we'll get running around 9:00am.
+   We will provide coffee\, orange j
+ uice\, tea and assorted breakfast i
+ tems (bagels\, pastries\, fresh frui
+ t\, etc).  Mimosas will be availabl
+ e as well.  I will provide some su
+ ggested routes from 3 to 10 miles.
+   Or run your favorite route in Sp
+ ence Basin.  The festivities will 
+ continue into the early afternoon 
+ (say 3pm or so)\, and all are welco
+ me to hang out and socialize.  \n\nI
+ n the afternoon we'll have the gri
+ ll fired up and we'll have hamburg
+ ers and hot dogs available - or br
+ ing your own favorite item for gri
+ lling.  So you can run long\, or sh
+ ort\, then join us for food and bac
+ kyard fun.  This event will be hel
+ d rain or shine (or even snow!)\, b
+ ut we will move indoors in the eve
+ nt of adverse weather.\n\nhttps://ww
+ w.facebook.com/events/115794868814
+ 9864/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220825T225818Z
+LAST-MODIFIED:20220825T225818Z
+CREATED:20220825T225818Z
+SEQUENCE:0
+ORGANIZER;CN=Greg Reverdiau:MAILTO:noreply@facebookmail.com
+DTSTART:20221021T003000Z
+DTEND:20221021T020000Z
+UID:e1095876151050247@facebook.com
+SUMMARY:Group Run in Prescott
+LOCATION:Soul Ride Bikeshop and Taproom
+URL:https://www.facebook.com/events/1095876121050250/?event_time_id=1095876151050247
+DESCRIPTION:Weekly group run for all Prescott 
+ runners! We will meet at the Soul 
+ Ride bike shop located on Montezum
+ a every Thursday at 5:30pm.\n\nWho i
+ s this for?\nEveryone! Runners of a
+ ll paces and experience should joi
+ n. There are many reasons to join:
+ \n- Meet other runners in the area\n
+ - Find people who run at your pace
+  and have similar goals\n- Get moti
+ vation and inspiration to stay hea
+ lthy\n- Get tips on how to move to 
+ the next distance or speed\n- Have 
+ fun!\n\nHow long are the runs?\nThe s
+ hort answer is: as long as you wan
+ t. We will suggest safe routes aro
+ und the shop but you are welcome t
+ o create your own. The urban trail
+  is very close and a very good pla
+ ce to run. We encourage everyone t
+ o stay for a bit after the run and
+  socialize with others. Water will
+  be available behind Soul Ride\, as
+  well as a comfortable place to ha
+ ng out.\n\nAbout Soul Ride\nWe are ve
+ ry excited to partner with Soul Ri
+ de (https://soulride.bike) for thi
+ s event. Soul Ride was founded by 
+ Prescott local mountain bikers\, Ka
+ te Phelan and Cina Mcconaughy\, wit
+ h the purpose of introducing all p
+ eople to the joys of Prescott moun
+ tain biking. Soul Ride is locally 
+ based\, they are committed to conne
+ cting individuals to their persona
+ l power through the soul connectio
+ n felt on a mountain bike.\n\nhttps:
+ //www.facebook.com/events/10958761
+ 21050250/?event_time_id=1095876151
+ 050247
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220916T003520Z
+LAST-MODIFIED:20220916T003520Z
+CREATED:20220916T003520Z
+SEQUENCE:0
+ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
+DTSTART:20221015T200000Z
+DTEND:20221015T230000Z
+UID:e1216486149145677@facebook.com
+SUMMARY:Hole to Hump
+LOCATION:Start: GCNP S Kaibab TH
+URL:https://www.facebook.com/events/1216486149145677/
+DESCRIPTION:H2H is a run that starts at the bo
+ ttom of the Grand Canyon and ends 
+ at the summit of Mt Humphreys. Dep
+ ending on the route\, the distance 
+ is ~70-80 miles with an elevation 
+ gain of ~13000' ... I'm planning o
+ n ~75 miles with 13000' gain.\n\nhtt
+ ps://www.facebook.com/events/12164
+ 86149145677/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220825T225818Z
+LAST-MODIFIED:20220825T225818Z
+CREATED:20220825T225818Z
+SEQUENCE:0
+ORGANIZER;CN=Greg Reverdiau:MAILTO:noreply@facebookmail.com
+DTSTART:20221014T003000Z
+DTEND:20221014T020000Z
+UID:e1095876147716914@facebook.com
+SUMMARY:Group Run in Prescott
+LOCATION:Soul Ride Bikeshop and Taproom
+URL:https://www.facebook.com/events/1095876121050250/?event_time_id=1095876147716914
+DESCRIPTION:Weekly group run for all Prescott 
+ runners! We will meet at the Soul 
+ Ride bike shop located on Montezum
+ a every Thursday at 5:30pm.\n\nWho i
+ s this for?\nEveryone! Runners of a
+ ll paces and experience should joi
+ n. There are many reasons to join:
+ \n- Meet other runners in the area\n
+ - Find people who run at your pace
+  and have similar goals\n- Get moti
+ vation and inspiration to stay hea
+ lthy\n- Get tips on how to move to 
+ the next distance or speed\n- Have 
+ fun!\n\nHow long are the runs?\nThe s
+ hort answer is: as long as you wan
+ t. We will suggest safe routes aro
+ und the shop but you are welcome t
+ o create your own. The urban trail
+  is very close and a very good pla
+ ce to run. We encourage everyone t
+ o stay for a bit after the run and
+  socialize with others. Water will
+  be available behind Soul Ride\, as
+  well as a comfortable place to ha
+ ng out.\n\nAbout Soul Ride\nWe are ve
+ ry excited to partner with Soul Ri
+ de (https://soulride.bike) for thi
+ s event. Soul Ride was founded by 
+ Prescott local mountain bikers\, Ka
+ te Phelan and Cina Mcconaughy\, wit
+ h the purpose of introducing all p
+ eople to the joys of Prescott moun
+ tain biking. Soul Ride is locally 
+ based\, they are committed to conne
+ cting individuals to their persona
+ l power through the soul connectio
+ n felt on a mountain bike.\n\nhttps:
+ //www.facebook.com/events/10958761
+ 21050250/?event_time_id=1095876147
+ 716914
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220711T031254Z
@@ -163,15 +419,40 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220819T002403Z
-LAST-MODIFIED:20220819T002403Z
-CREATED:20220819T002403Z
+DTSTAMP:20220919T193727Z
+LAST-MODIFIED:20220919T193727Z
+CREATED:20220919T193727Z
 SEQUENCE:0
+ORGANIZER;CN=Greg Reverdiau:MAILTO:noreply@facebookmail.com
+DTSTART:20221005T003000Z
+DTEND:20221005T020000Z
+UID:e1262067181208029@facebook.com
+SUMMARY:Tuesday Group Run - Granite Basin
+URL:https://www.facebook.com/events/1262067181208029/
+DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
+  will meet at the cattleguard (lin
+ k here https://goo.gl/maps/CnyTC6T
+ oppAjWTcn6) at 5:30pm. \n\nBeginner 
+ group 3-4 miles and intermediate +
+  expect 5-6 miles\, all downhill (e
+ xcept for the uphills). No drop ru
+ n (we stop for everyone at every i
+ ntersection). \n\nhttps://www.facebo
+ ok.com/events/1262067181208029/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220919T143130Z
+LAST-MODIFIED:20220919T143130Z
+CREATED:20220819T002403Z
+SEQUENCE:2729247
 ORGANIZER;CN=Chris Hawthorne:MAILTO:noreply@facebookmail.com
 DTSTART:20221002T000000Z
 DTEND:20221002T050000Z
 UID:e470652201284494@facebook.com
-SUMMARY:PATR/STTR Social
+SUMMARY:PATR Social
 URL:https://www.facebook.com/events/470652201284494/
 DESCRIPTION:Come for a bite and a drink! A few
   friends from the San Tan Trail Ru
@@ -257,6 +538,34 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20220919T193659Z
+LAST-MODIFIED:20220919T193659Z
+CREATED:20220919T193659Z
+SEQUENCE:0
+ORGANIZER;CN=Greg Reverdiau:MAILTO:noreply@facebookmail.com
+DTSTART:20220928T003000Z
+DTEND:20220928T020000Z
+UID:e3276049025987166@facebook.com
+SUMMARY:Tuesday Group Run - White Spar
+LOCATION:Trail 396 White Spar Road
+URL:https://www.facebook.com/events/3276049025987166/
+DESCRIPTION:PLEASE READ THIS DESCRIPTION. \nWe 
+ will meet at the White Spar Parkin
+ g lot (link here https://goo.gl/ma
+ ps/nX4JGH75u4T7R15g7) at 5:30pm. B
+ eginner group can expect 4 miles a
+ nd the intermediate + group can ex
+ pect 6 miles. No drop run (we stop
+  for everyone at every intersectio
+ n).\n\nBe careful\, this is NOT the u
+ sual white ROCK parking lot\, this 
+ is white SPAR. \n\nhttps://www.faceb
+ ook.com/events/3276049025987166/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20220825T225818Z
 LAST-MODIFIED:20220825T225818Z
 CREATED:20220825T225818Z
@@ -332,6 +641,30 @@ DESCRIPTION:Come out for some vert on Thumb Bu
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220919T185815Z
+LAST-MODIFIED:20220919T185815Z
+CREATED:20220919T185815Z
+SEQUENCE:0
+ORGANIZER;CN=Greg Reverdiau:MAILTO:noreply@facebookmail.com
+DTSTART:20220921T003000Z
+DTEND:20220921T020000Z
+UID:e435952155183590@facebook.com
+SUMMARY:Tuesday Group Run - Lower Spence Basin
+URL:https://www.facebook.com/events/435952155183590/
+DESCRIPTION:PLEASE READ THIS DESCRIPTION. \nWe 
+ will meet at Spence Basin Parking 
+ lot (link here https://goo.gl/maps
+ /K1LcZy7K2xxjsmjD8) at 5:30pm. Exp
+ ect 5 miles. No drop run (we stop 
+ for everyone at every intersection
+ ). \n\nBring a headlamp. \n\nhttps://w
+ ww.facebook.com/events/43595215518
+ 3590/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220825T225818Z
@@ -614,30 +947,5 @@ DESCRIPTION:PLEASE READ THIS DESCRIPTION. \nWe
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220801T041510Z
-LAST-MODIFIED:20220801T041510Z
-CREATED:20220801T041510Z
-SEQUENCE:0
-ORGANIZER;CN=Greg Reverdiau:MAILTO:noreply@facebookmail.com
-DTSTART:20220817T003000Z
-DTEND:20220817T020000Z
-UID:e452634730101294@facebook.com
-SUMMARY:Tuesday Group Run - Granite Basin
-URL:https://www.facebook.com/events/452634730101294/
-DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
-  will meet at the cattleguard (lin
- k here https://goo.gl/maps/CnyTC6T
- oppAjWTcn6) at 5:30pm. \n\nBeginner 
- group 3-4 miles and intermediate +
-  expect 5-6 miles\, all downhill (e
- xcept for the uphills). No drop ru
- n (we stop for everyone at every i
- ntersection). \n\nhttps://www.facebo
- ok.com/events/452634730101294/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
 END:VEVENT
 END:VCALENDAR
