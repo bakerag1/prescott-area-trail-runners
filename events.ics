@@ -280,31 +280,6 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220916T003520Z
-LAST-MODIFIED:20220916T003520Z
-CREATED:20220916T003520Z
-SEQUENCE:0
-ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
-DTSTART:20221015T200000Z
-DTEND:20221015T230000Z
-UID:e1216486149145677@facebook.com
-SUMMARY:Hole to Hump
-LOCATION:Start: GCNP S Kaibab TH
-URL:https://www.facebook.com/events/1216486149145677/
-DESCRIPTION:H2H is a run that starts at the bo
- ttom of the Grand Canyon and ends 
- at the summit of Mt Humphreys. Dep
- ending on the route\, the distance 
- is ~70-80 miles with an elevation 
- gain of ~13000' ... I'm planning o
- n ~75 miles with 13000' gain.\n\nhtt
- ps://www.facebook.com/events/12164
- 86149145677/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20220825T225818Z
 LAST-MODIFIED:20220825T225818Z
 CREATED:20220825T225818Z
@@ -356,6 +331,31 @@ DESCRIPTION:Weekly group run for all Prescott
  //www.facebook.com/events/10958761
  21050250/?event_time_id=1095876147
  716914
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220925T000128Z
+LAST-MODIFIED:20220925T000128Z
+CREATED:20220916T003520Z
+SEQUENCE:775568
+ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
+DTSTART:20221009T190000Z
+DTEND:20221009T220000Z
+UID:e1216486149145677@facebook.com
+SUMMARY:Hole to Hump
+LOCATION:Start: GCNP S Kaibab TH
+URL:https://www.facebook.com/events/1216486149145677/
+DESCRIPTION:H2H is a run that starts at the bo
+ ttom of the Grand Canyon and ends 
+ at the summit of Mt Humphreys. Dep
+ ending on the route\, the distance 
+ is ~70-80 miles with an elevation 
+ gain of ~13000' ... I'm planning o
+ n ~75 miles with 13000' gain.\n\nhtt
+ ps://www.facebook.com/events/12164
+ 86149145677/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -414,6 +414,27 @@ DESCRIPTION:First Thursday of the month\, it's
  ountain bike.\n\nhttps://www.faceboo
  k.com/events/1225186884920659/?eve
  nt_time_id=1225186901587324
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220923T003018Z
+LAST-MODIFIED:20220923T003018Z
+CREATED:20220923T003018Z
+SEQUENCE:0
+ORGANIZER;CN=Noel Kingston:MAILTO:noreply@facebookmail.com
+DTSTART:20221005T140000Z
+DTEND:20221005T170000Z
+UID:e1803565373337533@facebook.com
+SUMMARY:Wednesday Vert Club (New time 7 am)
+LOCATION:Thumb Butte Trail 33
+URL:https://www.facebook.com/events/1803565373337533/
+DESCRIPTION:TIME CHANGE TO 7 AM! Come out for 
+ some vert on Thumb Butte as we go 
+ up and down and up and down… you
+  get the picture!\n\nhttps://www.fac
+ ebook.com/events/1803565373337533/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -482,6 +503,44 @@ STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20220926T154340Z
+LAST-MODIFIED:20220926T154340Z
+CREATED:20220926T154340Z
+SEQUENCE:0
+ORGANIZER;CN=Chris Hawthorne:MAILTO:noreply@facebookmail.com
+DTSTART:20221001T141500Z
+DTEND:20221001T171500Z
+UID:e804237174064123@facebook.com
+SUMMARY:Triple Crown attempt
+LOCATION:Metate lot\, Granite Basin
+URL:https://www.facebook.com/events/804237174064123/
+DESCRIPTION:The plan is to summit Granite Mtn 
+ (~8mi)\, then drive to and summit T
+ humb Butte (~2mi)\, then drive to a
+ nd summit Spruce Mtn (~8mi). Join 
+ for ANY or all of them! If you do 
+ them all in one day\, you've comple
+ ted the Prescott Triple Crown Chal
+ lenge\, which was created by our ow
+ n Clint Rusing and PJ Fisher.\n\nMee
+ t up in Metate lot at 7:15am. Pay 
+ $5 CASH for parking OR use your Na
+ tional Parks Pass. (carpool opport
+ unity if you meet up outside of th
+ e park - plan this individually).\n
+ \nIf you want to join up sometime a
+ fter Granite\, comment here or use 
+ messenger and we can let you know 
+ our approx arrival time to those t
+ railheads. It will likely take abo
+ ut 8 hours to complete the whole c
+ hallenge.\n\n\nhttps://www.facebook.c
+ om/events/804237174064123/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20220825T225818Z
 LAST-MODIFIED:20220825T225818Z
 CREATED:20220825T225818Z
@@ -533,6 +592,27 @@ DESCRIPTION:Weekly group run for all Prescott
  //www.facebook.com/events/10958761
  21050250/?event_time_id=1095876144
  383581
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220923T002745Z
+LAST-MODIFIED:20220923T002745Z
+CREATED:20220923T002745Z
+SEQUENCE:0
+ORGANIZER;CN=Noel Kingston:MAILTO:noreply@facebookmail.com
+DTSTART:20220928T130000Z
+DTEND:20220928T160000Z
+UID:e1110237996545800@facebook.com
+SUMMARY:Wednesday Vert Club
+LOCATION:Thumb Butte Trail 33
+URL:https://www.facebook.com/events/1110237996545800/
+DESCRIPTION:Come out for some vert on Thumb Bu
+ tte as we go up and down and up an
+ d down… you get the picture!\n\nht
+ tps://www.facebook.com/events/1110
+ 237996545800/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -909,43 +989,5 @@ DESCRIPTION:We will meet at White Rock Parking
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220801T041315Z
-LAST-MODIFIED:20220801T041315Z
-CREATED:20220801T041315Z
-SEQUENCE:0
-ORGANIZER;CN=Greg Reverdiau:MAILTO:noreply@facebookmail.com
-DTSTART:20220824T003000Z
-DTEND:20220824T020000Z
-UID:e1685660241802153@facebook.com
-SUMMARY:Tuesday Group Run - The Tale of Two Beans
-LOCATION:Trail 396 White Spar Road
-URL:https://www.facebook.com/events/1685660241802153/
-DESCRIPTION:PLEASE READ THIS DESCRIPTION. \nWe 
- will meet at the White Spar Parkin
- g lot (link here https://goo.gl/ma
- ps/nX4JGH75u4T7R15g7) at 5:30pm. \n
- \nWarning. The non-beginner's route
-  will be a bit tougher than usual.
-  Around 5.5 miles\, with 3-4 steep 
- uphills on rocky terrain. The view
- s are worth it but it will take ab
- out 1200 feet of combined climbing
-  to get there. Please be prepared 
- and consider the beginner's group 
- if you're not comfortable with thi
- s type of run. \n\n\nBeginner group c
- an expect 4 miles and the intermed
- iate + group can expect 6 miles. N
- o drop run (we stop for everyone a
- t every intersection).\n\nBe careful
- \, this is NOT the usual white ROCK
-  parking lot\, this is white SPAR. 
- \n\nhttps://www.facebook.com/events/
- 1685660241802153/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
 END:VEVENT
 END:VCALENDAR
