@@ -74,8 +74,6 @@ DTSTART:20221029T160000Z
 DTEND:20221029T190000Z
 UID:e1215842952509373@facebook.com
 SUMMARY:Costumes for Kids 5K Fun Run
-LOCATION:120 S Cortez St\, Prescott\, AZ 8630
- 3-4704\, United States
 URL:https://www.facebook.com/events/1215842952509373/
 DESCRIPTION:🎃 Looking for some Halloween fu
  n the whole family can enjoy?\n\nMar
@@ -280,6 +278,27 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20221011T003215Z
+LAST-MODIFIED:20221011T003215Z
+CREATED:20221011T003215Z
+SEQUENCE:0
+ORGANIZER;CN=Noel Kingston:MAILTO:noreply@facebookmail.com
+DTSTART:20221019T140000Z
+DTEND:20221019T170000Z
+UID:e518299110111430@facebook.com
+SUMMARY:Wednesday Vert Club
+LOCATION:Thumb Butte Trail 33
+URL:https://www.facebook.com/events/518299110111430/
+DESCRIPTION:Come out for some vert on Thumb Bu
+ tte as we go up and down and up an
+ d down… you get the picture!\n\nht
+ tps://www.facebook.com/events/5182
+ 99110111430/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20220825T225818Z
 LAST-MODIFIED:20220825T225818Z
 CREATED:20220825T225818Z
@@ -361,64 +380,6 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220711T031254Z
-LAST-MODIFIED:20220711T031254Z
-CREATED:20220711T031254Z
-SEQUENCE:0
-ORGANIZER;CN=Greg Reverdiau:MAILTO:noreply@facebookmail.com
-DTSTART:20221007T003000Z
-DTEND:20221007T020000Z
-UID:e1225186901587324@facebook.com
-SUMMARY:Group Run in Prescott - Potluck night!
-LOCATION:Soul Ride Bikeshop and Taproom
-URL:https://www.facebook.com/events/1225186884920659/?event_time_id=1225186901587324
-DESCRIPTION:First Thursday of the month\, it's 
- potluck time! Bring some food to s
- hare with everyone.\n\nWeekly group 
- run for all Prescott runners! We w
- ill meet at the Soul Ride bike sho
- p located on Montezuma every Thurs
- day at 5:30pm.\n\nWho is this for?\nE
- veryone! Runners of all paces and 
- experience should join. There are 
- many reasons to join:\n- Meet other
-  runners in the area\n- Find people
-  who run at your pace and have sim
- ilar goals\n- Get motivation and in
- spiration to stay healthy\n- Get ti
- ps on how to move to the next dist
- ance or speed\n- Have fun!\n\nHow lon
- g are the runs?\nThe short answer i
- s: as long as you want. We will su
- ggest safe routes around the shop 
- but you are welcome to create your
-  own. The urban trail is very clos
- e and a very good place to run. We
-  encourage everyone to stay for a 
- bit after the run and socialize wi
- th others. Water will be available
-  behind Soul Ride\, as well as a co
- mfortable place to hang out.\n\nAbou
- t Soul Ride\nWe are very excited to
-  partner with Soul Ride (https://s
- oulride.bike) for this event. Soul
-  Ride was founded by Prescott loca
- l mountain bikers\, Kate Phelan and
-  Cina Mcconaughy\, with the purpose
-  of introducing all people to the 
- joys of Prescott mountain biking. 
- Soul Ride is locally based\, they a
- re committed to connecting individ
- uals to their personal power throu
- gh the soul connection felt on a m
- ountain bike.\n\nhttps://www.faceboo
- k.com/events/1225186884920659/?eve
- nt_time_id=1225186901587324
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20220923T003018Z
 LAST-MODIFIED:20220923T003018Z
 CREATED:20220923T003018Z
@@ -435,31 +396,6 @@ DESCRIPTION:TIME CHANGE TO 7 AM! Come out for
  up and down and up and down… you
   get the picture!\n\nhttps://www.fac
  ebook.com/events/1803565373337533/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220919T193727Z
-LAST-MODIFIED:20220919T193727Z
-CREATED:20220919T193727Z
-SEQUENCE:0
-ORGANIZER;CN=Greg Reverdiau:MAILTO:noreply@facebookmail.com
-DTSTART:20221005T003000Z
-DTEND:20221005T020000Z
-UID:e1262067181208029@facebook.com
-SUMMARY:Tuesday Group Run - Granite Basin
-URL:https://www.facebook.com/events/1262067181208029/
-DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
-  will meet at the cattleguard (lin
- k here https://goo.gl/maps/CnyTC6T
- oppAjWTcn6) at 5:30pm. \n\nBeginner 
- group 3-4 miles and intermediate +
-  expect 5-6 miles\, all downhill (e
- xcept for the uphills). No drop ru
- n (we stop for everyone at every i
- ntersection). \n\nhttps://www.facebo
- ok.com/events/1262067181208029/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -503,10 +439,10 @@ STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220926T154340Z
-LAST-MODIFIED:20220926T154340Z
+DTSTAMP:20220926T162635Z
+LAST-MODIFIED:20220926T162635Z
 CREATED:20220926T154340Z
-SEQUENCE:0
+SEQUENCE:2575
 ORGANIZER;CN=Chris Hawthorne:MAILTO:noreply@facebookmail.com
 DTSTART:20221001T141500Z
 DTEND:20221001T171500Z
@@ -527,15 +463,16 @@ DESCRIPTION:The plan is to summit Granite Mtn
  $5 CASH for parking OR use your Na
  tional Parks Pass. (carpool opport
  unity if you meet up outside of th
- e park - plan this individually).\n
- \nIf you want to join up sometime a
- fter Granite\, comment here or use 
- messenger and we can let you know 
- our approx arrival time to those t
- railheads. It will likely take abo
- ut 8 hours to complete the whole c
- hallenge.\n\n\nhttps://www.facebook.c
- om/events/804237174064123/
+ e park - plan this individually). 
+ Thumb Butte lot will also be $5\n\nI
+ f you want to join up sometime aft
+ er Granite\, comment here or use me
+ ssenger and we can let you know ou
+ r approx arrival time to those tra
+ ilheads. It will likely take about
+  8 hours to complete the whole cha
+ llenge.\n\nhttps://www.facebook.com/
+ events/804237174064123/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -742,250 +679,6 @@ DESCRIPTION:PLEASE READ THIS DESCRIPTION. \nWe
  ). \n\nBring a headlamp. \n\nhttps://w
  ww.facebook.com/events/43595215518
  3590/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220825T225818Z
-LAST-MODIFIED:20220825T225818Z
-CREATED:20220825T225818Z
-SEQUENCE:0
-ORGANIZER;CN=Greg Reverdiau:MAILTO:noreply@facebookmail.com
-DTSTART:20220916T003000Z
-DTEND:20220916T020000Z
-UID:e1095876131050249@facebook.com
-SUMMARY:Group Run in Prescott
-LOCATION:Soul Ride Bikeshop and Taproom
-URL:https://www.facebook.com/events/1095876121050250/?event_time_id=1095876131050249
-DESCRIPTION:Weekly group run for all Prescott 
- runners! We will meet at the Soul 
- Ride bike shop located on Montezum
- a every Thursday at 5:30pm.\n\nWho i
- s this for?\nEveryone! Runners of a
- ll paces and experience should joi
- n. There are many reasons to join:
- \n- Meet other runners in the area\n
- - Find people who run at your pace
-  and have similar goals\n- Get moti
- vation and inspiration to stay hea
- lthy\n- Get tips on how to move to 
- the next distance or speed\n- Have 
- fun!\n\nHow long are the runs?\nThe s
- hort answer is: as long as you wan
- t. We will suggest safe routes aro
- und the shop but you are welcome t
- o create your own. The urban trail
-  is very close and a very good pla
- ce to run. We encourage everyone t
- o stay for a bit after the run and
-  socialize with others. Water will
-  be available behind Soul Ride\, as
-  well as a comfortable place to ha
- ng out.\n\nAbout Soul Ride\nWe are ve
- ry excited to partner with Soul Ri
- de (https://soulride.bike) for thi
- s event. Soul Ride was founded by 
- Prescott local mountain bikers\, Ka
- te Phelan and Cina Mcconaughy\, wit
- h the purpose of introducing all p
- eople to the joys of Prescott moun
- tain biking. Soul Ride is locally 
- based\, they are committed to conne
- cting individuals to their persona
- l power through the soul connectio
- n felt on a mountain bike.\n\nhttps:
- //www.facebook.com/events/10958761
- 21050250/?event_time_id=1095876131
- 050249
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220912T181136Z
-LAST-MODIFIED:20220912T181136Z
-CREATED:20220912T181136Z
-SEQUENCE:0
-ORGANIZER;CN=Noel Kingston:MAILTO:noreply@facebookmail.com
-DTSTART:20220914T130000Z
-DTEND:20220914T160000Z
-UID:e460926432637386@facebook.com
-SUMMARY:Wednesday Vert Club
-LOCATION:Thumb Butte Trail 33
-URL:https://www.facebook.com/events/460926432637386/
-DESCRIPTION:Come out for some vert on Thumb Bu
- tte as we go up and down and up an
- d down… you get the picture!\n\nht
- tps://www.facebook.com/events/4609
- 26432637386/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220801T041448Z
-LAST-MODIFIED:20220801T041448Z
-CREATED:20220801T041448Z
-SEQUENCE:0
-ORGANIZER;CN=Greg Reverdiau:MAILTO:noreply@facebookmail.com
-DTSTART:20220914T003000Z
-DTEND:20220914T020000Z
-UID:e407227744594966@facebook.com
-SUMMARY:Tuesday Group Run - Upper Spence Basin
-LOCATION:https://maps.apple.com/?ll=34.5819
- 04\,-112.548972&q=Dropped%20Pin&_ex
- t=EiYpaevoe+dJQUAxxHG9OnsjXMA558AO
- 2A1LQUBB5GbvdsgiXMBQBA%3D%3D&t=h
-URL:https://www.facebook.com/events/407227744594966/
-DESCRIPTION:PLEASE READ THIS DESCRIPTION. \nWe 
- will meet at UPPER Parking lot alo
- ng Iron Springs\, where the circle 
- trail crosses the Iron Springs at 
- 5:30pm. Expect 5 miles. No drop ru
- n (we stop for everyone at every i
- ntersection). \n\nBring a headlamp!\n
- \n\n\nhttps://www.facebook.com/events
- /407227744594966/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220908T235238Z
-LAST-MODIFIED:20220908T235238Z
-CREATED:20220907T224018Z
-SEQUENCE:90740
-ORGANIZER;CN=Jeffrey S. Auman:MAILTO:aumanjeffrey@gmail.com
-DTSTART:20220910T130000Z
-DTEND:20220910T160000Z
-UID:e1459434111189616@facebook.com
-SUMMARY:Finish Eliza’s Run
-LOCATION:Thumb Butte
-URL:https://www.facebook.com/events/1459434111189616/
-DESCRIPTION:Chris and I are running 10 miles S
- aturday morning @ 6:00 am  meeting
-  TB parking lot. I am running for 
- several reasons\, one to support a 
- woman’s right to run anywhere\, a
- nytime\, alone or with someone\, for
-  any reason\, in anything she feels
-  comfortable wearing without worry
- ing about any consequences. Feel f
- ree to join any or all of us! The 
- great thing about starting at TBTH
-  is that you can loop anything fro
- m 1.5 miles to 10 miles. Come on o
- ut!\n\nhttps://www.facebook.com/even
- ts/1459434111189616/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220801T041430Z
-LAST-MODIFIED:20220801T041430Z
-CREATED:20220801T041430Z
-SEQUENCE:0
-ORGANIZER;CN=Greg Reverdiau:MAILTO:noreply@facebookmail.com
-DTSTART:20220907T003000Z
-DTEND:20220907T020000Z
-UID:e2207968696032701@facebook.com
-SUMMARY:Tuesday Group Run - Peavine Trailhead
-LOCATION:Peavine Trail
-URL:https://www.facebook.com/events/2207968696032701/
-DESCRIPTION:PLEASE READ THIS DESCRIPTION. \nWe 
- will meet at the Peavine Trailhead
-  by the Humane Society at 5:30pm. 
- No drop run (we stop for everyone 
- at every intersection). \n5-6 miles
-  around the entire lake for the no
- n-beginner group. \n\nhttps://www.fa
- cebook.com/events/2207968696032701
- /
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220711T031254Z
-LAST-MODIFIED:20220711T031254Z
-CREATED:20220711T031254Z
-SEQUENCE:0
-ORGANIZER;CN=Greg Reverdiau:MAILTO:noreply@facebookmail.com
-DTSTART:20220902T003000Z
-DTEND:20220902T020000Z
-UID:e1225186891587325@facebook.com
-SUMMARY:Group Run in Prescott - Potluck night!
-LOCATION:Soul Ride Bikeshop and Taproom
-URL:https://www.facebook.com/events/1225186884920659/?event_time_id=1225186891587325
-DESCRIPTION:First Thursday of the month\, it's 
- potluck time! Bring some food to s
- hare with everyone.\n\nWeekly group 
- run for all Prescott runners! We w
- ill meet at the Soul Ride bike sho
- p located on Montezuma every Thurs
- day at 5:30pm.\n\nWho is this for?\nE
- veryone! Runners of all paces and 
- experience should join. There are 
- many reasons to join:\n- Meet other
-  runners in the area\n- Find people
-  who run at your pace and have sim
- ilar goals\n- Get motivation and in
- spiration to stay healthy\n- Get ti
- ps on how to move to the next dist
- ance or speed\n- Have fun!\n\nHow lon
- g are the runs?\nThe short answer i
- s: as long as you want. We will su
- ggest safe routes around the shop 
- but you are welcome to create your
-  own. The urban trail is very clos
- e and a very good place to run. We
-  encourage everyone to stay for a 
- bit after the run and socialize wi
- th others. Water will be available
-  behind Soul Ride\, as well as a co
- mfortable place to hang out.\n\nAbou
- t Soul Ride\nWe are very excited to
-  partner with Soul Ride (https://s
- oulride.bike) for this event. Soul
-  Ride was founded by Prescott loca
- l mountain bikers\, Kate Phelan and
-  Cina Mcconaughy\, with the purpose
-  of introducing all people to the 
- joys of Prescott mountain biking. 
- Soul Ride is locally based\, they a
- re committed to connecting individ
- uals to their personal power throu
- gh the soul connection felt on a m
- ountain bike.\n\nhttps://www.faceboo
- k.com/events/1225186884920659/?eve
- nt_time_id=1225186891587325
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220801T041341Z
-LAST-MODIFIED:20220801T041341Z
-CREATED:20220801T041341Z
-SEQUENCE:0
-ORGANIZER;CN=Greg Reverdiau:MAILTO:noreply@facebookmail.com
-DTSTART:20220831T003000Z
-DTEND:20220831T020000Z
-UID:e589770152524283@facebook.com
-SUMMARY:Tuesday Group Run - White Rock
-URL:https://www.facebook.com/events/589770152524283/
-DESCRIPTION:We will meet at White Rock Parking
-  lot (link here https://goo.gl/map
- s/YN2uMvQnyQWTM9JK7) at 5:30pm. \n\n
- There will be 2 groups of runners 
- - beginner (3 miles) and intermedi
- ate+ (5-6 miles). Both groups are 
- no-drop which means we stop at eve
- ry intersection and wait for every
- one. \n\nhttps://www.facebook.com/ev
- ents/589770152524283/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
