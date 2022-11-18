@@ -43,10 +43,59 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221103T224319Z
-LAST-MODIFIED:20221103T224319Z
-CREATED:20221103T224319Z
+DTSTAMP:20221115T184611Z
+LAST-MODIFIED:20221115T184611Z
+CREATED:20221115T184611Z
 SEQUENCE:0
+ORGANIZER;CN=Noel Kingston:MAILTO:noreply@facebookmail.com
+DTSTART:20221123T140000Z
+DTEND:20221123T170000Z
+UID:e474235658022727@facebook.com
+SUMMARY:Wednesday Vert Club
+LOCATION:Thumb Butte Trail 33
+URL:https://www.facebook.com/events/474235658022727/
+DESCRIPTION:Come out for some vert on Thumb Bu
+ tte as we go up and down and up an
+ d down… you get the picture!\n\nht
+ tps://www.facebook.com/events/4742
+ 35658022727/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221115T113905Z
+LAST-MODIFIED:20221115T113905Z
+CREATED:20221115T113905Z
+SEQUENCE:0
+ORGANIZER;CN=Noel Kingston:MAILTO:noreply@facebookmail.com
+DTSTART:20221123T003000Z
+DTEND:20221123T020000Z
+UID:e809031857024836@facebook.com
+SUMMARY:Tuesday Group Run - Upper Spence Basin
+LOCATION:https://maps.apple.com/?ll=34.5819
+ 04\,-112.548972&q=Dropped%20Pin&_ex
+ t=EiYpaevoe+dJQUAxxHG9OnsjXMA558AO
+ 2A1LQUBB5GbvdsgiXMBQBA%3D%3D&t=h
+URL:https://www.facebook.com/events/809031857024836/
+DESCRIPTION:PLEASE READ THIS DESCRIPTION. \nWe 
+ will meet at UPPER Parking lot alo
+ ng Iron Springs\, where the circle 
+ trail crosses the Iron Springs at 
+ 5:30pm. Expect 5 miles. No drop ru
+ n (we stop for everyone at every i
+ ntersection). \n\nBring a headlamp!\n
+ \n\n\nhttps://www.facebook.com/events
+ /809031857024836/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221116T175812Z
+LAST-MODIFIED:20221116T175812Z
+CREATED:20221103T224319Z
+SEQUENCE:1106093
 ORGANIZER;CN=Aravaipa Running:MAILTO:noreply@facebookmail.com
 DTSTART:20221120T140000Z
 DTEND:20221120T170000Z
@@ -134,6 +183,76 @@ DESCRIPTION:This will be the first of three tr
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221114T230606Z
+LAST-MODIFIED:20221114T230606Z
+CREATED:20221114T230443Z
+SEQUENCE:83
+ORGANIZER;CN=Richard Covey:MAILTO:noreply@facebookmail.com
+DTSTART:20221116T233000Z
+DTEND:20221117T023000Z
+UID:e657307869378097@facebook.com
+SUMMARY:Track DAZE
+LOCATION:Prescott High School
+URL:https://www.facebook.com/events/657307869378097/
+DESCRIPTION:Come one!  Come ALL. . .  4:30 sta
+ rt time.  We will be running a nic
+ e warmup\, a few pickups/intervals 
+ and a cool down. All are welcome t
+ o join for some or all. If you hav
+ e questions about speedwork please
+  don't hesitate to ask.   \n\nhttps:
+ //www.facebook.com/events/65730786
+ 9378097/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221115T184529Z
+LAST-MODIFIED:20221115T184529Z
+CREATED:20221115T184529Z
+SEQUENCE:0
+ORGANIZER;CN=Noel Kingston:MAILTO:noreply@facebookmail.com
+DTSTART:20221116T140000Z
+DTEND:20221116T170000Z
+UID:e633162351621656@facebook.com
+SUMMARY:Wednesday Vert Club
+LOCATION:Thumb Butte Trail 33
+URL:https://www.facebook.com/events/633162351621656/
+DESCRIPTION:Come out for some vert on Thumb Bu
+ tte as we go up and down and up an
+ d down… you get the picture!\n\nht
+ tps://www.facebook.com/events/6331
+ 62351621656/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221115T113551Z
+LAST-MODIFIED:20221115T113551Z
+CREATED:20221115T113551Z
+SEQUENCE:0
+ORGANIZER;CN=Noel Kingston:MAILTO:noreply@facebookmail.com
+DTSTART:20221116T003000Z
+DTEND:20221116T020000Z
+UID:e378014744485753@facebook.com
+SUMMARY:Tuesday Group Run - White Rock
+URL:https://www.facebook.com/events/378014744485753/
+DESCRIPTION:We will meet at White Rock Parking
+  lot (link here https://goo.gl/map
+ s/YN2uMvQnyQWTM9JK7) at 5:30pm. \n\n
+ No-drop group run of approximately
+  5 miles. No-drop means we stop at
+  every intersection and wait for e
+ veryone. \n\nBring a headlamp!\n\nhttp
+ s://www.facebook.com/events/378014
+ 744485753/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20221103T164537Z
@@ -234,6 +353,32 @@ DESCRIPTION:PLEASE READ THIS DESCRIPTION. \nWe
   around the entire lake for the no
  n-beginner group. \n\nhttps://www.fa
  cebook.com/events/604504198076108/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221030T165455Z
+LAST-MODIFIED:20221030T165455Z
+CREATED:20221030T161909Z
+SEQUENCE:2146
+ORGANIZER;CN=Andrew Baker:MAILTO:bakerag1@gmail.com
+DTSTART:20221106T150000Z
+DTEND:20221106T220000Z
+UID:e3275407219385995@facebook.com
+SUMMARY:Learn to brew day... Brew day
+LOCATION:1617 N Camino Del Sol\, Chino Valle
+ y\, AZ 86323
+URL:https://www.facebook.com/events/3275407219385995/
+DESCRIPTION:It's a brew day at John's house\, c
+ ome brew\, eat\, and drink. If you a
+ re thinking of brewing your first 
+ batch\, reach out in the comments a
+ nd we'll hook you up. If you are t
+ hinking about joining the club or 
+ learning to brew\, this is a great 
+ time to do it.\n\nhttps://www.facebo
+ ok.com/events/3275407219385995/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
@@ -384,105 +529,47 @@ STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221011T003215Z
-LAST-MODIFIED:20221011T003215Z
-CREATED:20221011T003215Z
-SEQUENCE:0
-ORGANIZER;CN=Noel Kingston:MAILTO:noreply@facebookmail.com
-DTSTART:20221019T140000Z
-DTEND:20221019T170000Z
-UID:e518299110111430@facebook.com
-SUMMARY:Wednesday Vert Club
-LOCATION:Thumb Butte Trail 33
-URL:https://www.facebook.com/events/518299110111430/
-DESCRIPTION:Come out for some vert on Thumb Bu
- tte as we go up and down and up an
- d down… you get the picture!\n\nht
- tps://www.facebook.com/events/5182
- 99110111430/
+DTSTAMP:20220916T125808Z
+LAST-MODIFIED:20220916T125808Z
+CREATED:20220828T190350Z
+SEQUENCE:1619658
+ORGANIZER;CN=Terri Rashid:MAILTO:noreply@facebookmail.com
+DTSTART:20221022T160000Z
+DTEND:20221022T190000Z
+UID:e1157948688149864@facebook.com
+SUMMARY:PATR Woods Edge Brunch Run
+LOCATION:2465 N Woods Edge Way\, Prescott\, A
+ Z 86305-7051\, United States
+URL:https://www.facebook.com/events/1157948688149864/
+DESCRIPTION:Come celebrate the first (of hopef
+ ully many) PATR trail run from Woo
+ ds Edge.  Arrive around 8:30am\, an
+ d we'll get running around 9:00am.
+   We will provide coffee\, orange j
+ uice\, tea and assorted breakfast i
+ tems (bagels\, pastries\, fresh frui
+ t\, etc).  Mimosas will be availabl
+ e as well.  I will provide some su
+ ggested routes from 3 to 10 miles.
+   Or run your favorite route in Sp
+ ence Basin.  The festivities will 
+ continue into the early afternoon 
+ (say 3pm or so)\, and all are welco
+ me to hang out and socialize.  \n\nI
+ n the afternoon we'll have the gri
+ ll fired up and we'll have hamburg
+ ers and hot dogs available - or br
+ ing your own favorite item for gri
+ lling.  So you can run long\, or sh
+ ort\, then join us for food and bac
+ kyard fun.  This event will be hel
+ d rain or shine (or even snow!)\, b
+ ut we will move indoors in the eve
+ nt of adverse weather.\n\nhttps://ww
+ w.facebook.com/events/115794868814
+ 9864/
 CLASS:PUBLIC
 STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220825T225818Z
-LAST-MODIFIED:20220825T225818Z
-CREATED:20220825T225818Z
-SEQUENCE:0
-ORGANIZER;CN=Greg Reverdiau:MAILTO:noreply@facebookmail.com
-DTSTART:20221014T003000Z
-DTEND:20221014T020000Z
-UID:e1095876147716914@facebook.com
-SUMMARY:Group Run in Prescott
-LOCATION:Soul Ride Bikeshop and Taproom
-URL:https://www.facebook.com/events/1095876121050250/?event_time_id=1095876147716914
-DESCRIPTION:Weekly group run for all Prescott 
- runners! We will meet at the Soul 
- Ride bike shop located on Montezum
- a every Thursday at 5:30pm.\n\nWho i
- s this for?\nEveryone! Runners of a
- ll paces and experience should joi
- n. There are many reasons to join:
- \n- Meet other runners in the area\n
- - Find people who run at your pace
-  and have similar goals\n- Get moti
- vation and inspiration to stay hea
- lthy\n- Get tips on how to move to 
- the next distance or speed\n- Have 
- fun!\n\nHow long are the runs?\nThe s
- hort answer is: as long as you wan
- t. We will suggest safe routes aro
- und the shop but you are welcome t
- o create your own. The urban trail
-  is very close and a very good pla
- ce to run. We encourage everyone t
- o stay for a bit after the run and
-  socialize with others. Water will
-  be available behind Soul Ride\, as
-  well as a comfortable place to ha
- ng out.\n\nAbout Soul Ride\nWe are ve
- ry excited to partner with Soul Ri
- de (https://soulride.bike) for thi
- s event. Soul Ride was founded by 
- Prescott local mountain bikers\, Ka
- te Phelan and Cina Mcconaughy\, wit
- h the purpose of introducing all p
- eople to the joys of Prescott moun
- tain biking. Soul Ride is locally 
- based\, they are committed to conne
- cting individuals to their persona
- l power through the soul connectio
- n felt on a mountain bike.\n\nhttps:
- //www.facebook.com/events/10958761
- 21050250/?event_time_id=1095876147
- 716914
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220925T000128Z
-LAST-MODIFIED:20220925T000128Z
-CREATED:20220916T003520Z
-SEQUENCE:775568
-ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
-DTSTART:20221009T190000Z
-DTEND:20221009T220000Z
-UID:e1216486149145677@facebook.com
-SUMMARY:Hole to Hump
-LOCATION:Start: GCNP S Kaibab TH
-URL:https://www.facebook.com/events/1216486149145677/
-DESCRIPTION:H2H is a run that starts at the bo
- ttom of the Grand Canyon and ends 
- at the summit of Mt Humphreys. Dep
- ending on the route\, the distance 
- is ~70-80 miles with an elevation 
- gain of ~13000' ... I'm planning o
- n ~75 miles with 13000' gain.\n\nhtt
- ps://www.facebook.com/events/12164
- 86149145677/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
+PARTSTAT:ACCEPTED
 END:VEVENT
 END:VCALENDAR
