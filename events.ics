@@ -7,6 +7,299 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
+DTSTAMP:20221103T225049Z
+LAST-MODIFIED:20221103T225049Z
+CREATED:20221103T225049Z
+SEQUENCE:0
+ORGANIZER;CN=Aravaipa Running:MAILTO:noreply@facebookmail.com
+DTSTART:20230122T140000Z
+DTEND:20230122T170000Z
+UID:e520201706369874@facebook.com
+SUMMARY:Black Canyon Training Run #3
+LOCATION:Black Canyon City/rock Springs
+URL:https://www.facebook.com/events/520201706369874/
+DESCRIPTION:Sunday\, January 22 will the the th
+ ird and final preview run for the 
+ upcoming 2023 Black Canyon Trail 1
+ 00K. This section will resume from
+  the Black Canyon City Trailhead a
+ nd continue to head south towards 
+ New River & Phoenix. We’ll head 
+ back into the canyons and across s
+ everal more creeks before the trai
+ l generally becomes flatter toward
+ s the finish at Emery Henderson Tr
+ ailhead.\n\nDate: \nSunday\, January 2
+ 2\, 2023. \n\nDistance:\nMile 0 – Bl
+ ack Canyon City TH (Start)\nMile 13
+ .3 – Table Mesa Road TH (Aid)\nMi
+ le 24.5 – Emery Henderson TH (Fi
+ nish)\n\nTime:\n7:00am Meet at Emery 
+ Henderson TH to carpool\nor 7:30am 
+ Meet at Black Canyon City TH\n\nDriv
+ ing Directions:\n\nDirections to Eme
+ ry Henderson Trailhead (end of run
+ \, park here to carpool to Black Ca
+ nyon City TH)\n3.1 Miles West of I-
+ 17 Freeway exit 232 on New River R
+ oad\n\nDirections to Black Canyon Ci
+ ty TH (start of run)\n1. Take exit 
+ 242 off the I-17 towards Rock Spri
+ ngs / Black Canyon City\n2. Turn le
+ ft at the stop sign onto Velda Roa
+ d Road\n3. Turn right at the next s
+ top sign onto the Old Black Canyon
+  Highway and then an immediate lef
+ t onto Warner Road towards the Bla
+ ck Canyon City Trailhead\n4. Follow
+  Warner Road for 0.3 miles to the 
+ trailhead and aid station. There i
+ s a restroom located at this trail
+ head. There are also dining option
+ s and a General Store in Rock Spri
+ ngs and some more options a couple
+  miles north on the Old Black Cany
+ on Highway in Black Canyon City as
+  well as a gas station.\n\nFormat:\nT
+ his is a no fee\, limited aid\, limi
+ ted to no course marking training 
+ run. You must plan to be self suff
+ icient in terms of navigation\, per
+ sonal safety and aid between stati
+ ons. We will have water & some foo
+ d at Table Mesa Road TH. Please st
+ udy the maps in this post and foll
+ ow signage for the Black Canyon Tr
+ ail.\n\nMarkings:\nThe course on prin
+ ciple will be unmarked. There is s
+ ignage for the Black Canyon Trail 
+ at most questionable junctions\, bu
+ t we recommend studying and printi
+ ng maps to bring with you. \n\nPost 
+ Run Gathering:\nBring a camp chair\,
+  some snacks and BYOB if you enjoy
+  a Sunday Funday post-run hang\n\nht
+ tps://www.facebook.com/events/5202
+ 01706369874/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221113T025715Z
+LAST-MODIFIED:20221113T025715Z
+CREATED:20221112T203154Z
+SEQUENCE:23121
+ORGANIZER;CN=New Year's Eve Boot Drop:MAILTO:noreply@facebookmail.com
+DTSTART:20230101T023000Z
+DTEND:20230101T073000Z
+UID:e844267070034971@facebook.com
+SUMMARY:Whiskey Row New Year's Eve Boot Drop
+LOCATION:Whiskey Row\, Prescott
+URL:https://www.facebook.com/events/844267070034971/
+DESCRIPTION:It’s almost time to ring in 2023
+  and the only place to be this New
+  Year’s Eve is on Whiskey Row in
+  downtown Prescott! We’re proud 
+ to have our presenting sponsors\, D
+ esert Financial Credit Union and E
+ xperience Prescott Office of Touri
+ sm\, support this year’s 12th ann
+ ual Boot Drop! \n\nThere will be two
+  drops - 10pm and midnight\, when a
+  six-foot illuminated cowboy boot 
+ is lowered from the Palace buildin
+ g’s flagpole. Co-sponsored by Pr
+ escott Outpatient Surgery Center. 
+ \n\nThis is a FREE event right on Wh
+ iskey Row in downtown Prescott. Li
+ ve music with the group The Pickup
+  Lines Band\, so you dance the nigh
+ t away right on the street! There 
+ will food vendors\, giveaways\, carn
+ ival\, and just plain fun! So let's
+  give 2022 the BOOT and ring in 20
+ 23 together!\n\nhttps://www.facebook
+ .com/events/844267070034971/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221128T185441Z
+LAST-MODIFIED:20221128T185441Z
+CREATED:20221128T185441Z
+SEQUENCE:0
+ORGANIZER;CN=Noel Kingston:MAILTO:noreply@facebookmail.com
+DTSTART:20221221T140000Z
+DTEND:20221221T170000Z
+UID:e902069590784851@facebook.com
+SUMMARY:Wednesday Vert Club
+LOCATION:Thumb Butte Trail 33
+URL:https://www.facebook.com/events/902069590784851/
+DESCRIPTION:Come out for some vert on Thumb Bu
+ tte as we go up and down and up an
+ d down… you get the picture!\n\nht
+ tps://www.facebook.com/events/9020
+ 69590784851/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221128T185420Z
+LAST-MODIFIED:20221128T185420Z
+CREATED:20221128T185420Z
+SEQUENCE:0
+ORGANIZER;CN=Noel Kingston:MAILTO:noreply@facebookmail.com
+DTSTART:20221214T140000Z
+DTEND:20221214T170000Z
+UID:e707957104231568@facebook.com
+SUMMARY:Wednesday Vert Club
+LOCATION:Thumb Butte Trail 33
+URL:https://www.facebook.com/events/707957104231568/
+DESCRIPTION:Come out for some vert on Thumb Bu
+ tte as we go up and down and up an
+ d down… you get the picture!\n\nht
+ tps://www.facebook.com/events/7079
+ 57104231568/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221103T224654Z
+LAST-MODIFIED:20221103T224654Z
+CREATED:20221103T224654Z
+SEQUENCE:0
+ORGANIZER;CN=Aravaipa Running:MAILTO:noreply@facebookmail.com
+DTSTART:20221211T140000Z
+DTEND:20221211T170000Z
+UID:e642872717472818@facebook.com
+SUMMARY:Black Canyon Training Run #2
+LOCATION:Bumble Bee Trailhead - BCT
+URL:https://www.facebook.com/events/642872717472818/
+DESCRIPTION:Sunday\, December 11 will be the se
+ cond of three training runs leadin
+ g up to the 2023 Black Canyon Ultr
+ as. We will be breaking up the 100
+ K course into three sections on No
+ vember 20\, December 11 and January
+  22. Each run will be minimally su
+ pported\, minimally marked and poin
+ t to point. We will have shorter o
+ ptions at each. Here is informatio
+ n for those of you wanting to join
+  on this first training run:\n\nDate
+ :\nSunday\, December 11\, 2022.\n\nDist
+ ance:\nMile 0 – Bumble Bee\nMile 4
+ .5 – Gloriana Mine TH (we may ha
+ ve water here)\nMile 12.8 – Soap 
+ Creek (Aid)\nMile 18.0 – Black Ca
+ nyon City TH (Finish)\n\nTime:\n7:00a
+ m Meet at Black Canyon City TH.\nor
+  7:30am Meet at Bumble Bee.\n\nThe r
+ un will start at approximately 7:4
+ 5-8:00 am from Bumble Bee.\n\nDrivin
+ g Directions:\n\nDirections to Black
+  Canyon City TH (end of run\, park 
+ here to carpool to Bumble Bee)\n1. 
+ Take exit 242 off the I-17 towards
+  Rock Springs / Black Canyon City\n
+ 2. Turn left at the stop sign onto
+  Velda Road Road\n3. Turn right at 
+ the next stop sign onto the Old Bl
+ ack Canyon Highway and then an imm
+ ediate left onto Warner Road towar
+ ds the Black Canyon City Trailhead
+ \n4. Follow Warner Road for 0.3 mil
+ es to the trailhead and aid statio
+ n. There is a restroom located at 
+ this trailhead. There are also din
+ ing options and a General Store in
+  Rock Springs and some more option
+ s a couple miles north on the Old 
+ Black Canyon Highway in Black Cany
+ on City as well as a gas station.\n
+ \nDirections to Bumble Bee (start o
+ f run):\n1. Drive north from Phoeni
+ x on the I-17 Freeway\n2. Take exit
+  #248 towards Bumble Bee / Crown K
+ ing\n3. Turn left and drive 2.1 mil
+ es on pavement (road descends down
+ hill)\n4. Turn right at the bottom 
+ where it turns to dirt and take Cr
+ own King Road for 3.0 miles and pa
+ rk just past the bridge on the lef
+ t hand side of the road.\n\nFormat:\n
+ This is a no fee\, limited aid\, lim
+ ited course marking training run. 
+ You must plan to be self sufficien
+ t in terms of navigation\, personal
+  safety and aid between stations. 
+ We may drop water at the Gloriana 
+ Mine TH at mile 4.5 and have water
+  and food at mile 12.8 (Soap Creek
+ ). Please study the maps in this p
+ ost and follow signage for the Bla
+ ck Canyon Trail.\n\nMarkings:\nThe co
+ urse on principle will be unmarked
+ . There is signage for the Black C
+ anyon Trail at most questionable j
+ unctions\, but we recommend studyin
+ g and printing maps to bring with 
+ you. \n\nPost Run Gathering:\nBring a
+  camp chair\, some snacks and BYOB 
+ if you enjoy a Sunday Funday Post-
+ Run hang.\n\nhttps://www.facebook.co
+ m/events/642872717472818/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221128T185202Z
+LAST-MODIFIED:20221128T185202Z
+CREATED:20221128T185202Z
+SEQUENCE:0
+ORGANIZER;CN=Noel Kingston:MAILTO:noreply@facebookmail.com
+DTSTART:20221207T140000Z
+DTEND:20221207T170000Z
+UID:e1318137212369311@facebook.com
+SUMMARY:Wednesday Vert Club
+LOCATION:Thumb Butte Trail 33
+URL:https://www.facebook.com/events/1318137212369311/
+DESCRIPTION:Come out for some vert on Thumb Bu
+ tte as we go up and down and up an
+ d down… you get the picture!\n\nht
+ tps://www.facebook.com/events/1318
+ 137212369311/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221128T185010Z
+LAST-MODIFIED:20221128T185010Z
+CREATED:20221128T185010Z
+SEQUENCE:0
+ORGANIZER;CN=Noel Kingston:MAILTO:noreply@facebookmail.com
+DTSTART:20221130T140000Z
+DTEND:20221130T170000Z
+UID:e829412484947798@facebook.com
+SUMMARY:Wednesday Vert Club
+LOCATION:Thumb Butte Trail 33
+URL:https://www.facebook.com/events/829412484947798/
+DESCRIPTION:Come out for some vert on Thumb Bu
+ tte as we go up and down and up an
+ d down… you get the picture!\n\nht
+ tps://www.facebook.com/events/8294
+ 12484947798/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20221103T221525Z
 LAST-MODIFIED:20221103T221525Z
 CREATED:20221103T221525Z
@@ -353,221 +646,6 @@ DESCRIPTION:PLEASE READ THIS DESCRIPTION. \nWe
   around the entire lake for the no
  n-beginner group. \n\nhttps://www.fa
  cebook.com/events/604504198076108/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20221030T165455Z
-LAST-MODIFIED:20221030T165455Z
-CREATED:20221030T161909Z
-SEQUENCE:2146
-ORGANIZER;CN=Andrew Baker:MAILTO:bakerag1@gmail.com
-DTSTART:20221106T150000Z
-DTEND:20221106T220000Z
-UID:e3275407219385995@facebook.com
-SUMMARY:Learn to brew day... Brew day
-LOCATION:1617 N Camino Del Sol\, Chino Valle
- y\, AZ 86323
-URL:https://www.facebook.com/events/3275407219385995/
-DESCRIPTION:It's a brew day at John's house\, c
- ome brew\, eat\, and drink. If you a
- re thinking of brewing your first 
- batch\, reach out in the comments a
- nd we'll hook you up. If you are t
- hinking about joining the club or 
- learning to brew\, this is a great 
- time to do it.\n\nhttps://www.facebo
- ok.com/events/3275407219385995/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20221008T023739Z
-LAST-MODIFIED:20221008T023739Z
-CREATED:20221008T023739Z
-SEQUENCE:0
-ORGANIZER;CN=Greg Reverdiau:MAILTO:noreply@facebookmail.com
-DTSTART:20221102T003000Z
-DTEND:20221102T020000Z
-UID:e1719385495109027@facebook.com
-SUMMARY:Tuesday Group Run - White Spar
-LOCATION:Trail 396 White Spar Road
-URL:https://www.facebook.com/events/1719385495109027/
-DESCRIPTION:PLEASE READ THIS DESCRIPTION. \nWe 
- will meet at the White Spar Parkin
- g lot (link here https://goo.gl/ma
- ps/nX4JGH75u4T7R15g7) at 5:30pm. B
- eginner group can expect 4 miles a
- nd the intermediate + group can ex
- pect 6 miles. No drop run (we stop
-  for everyone at every intersectio
- n).\n\nBe careful\, this is NOT the u
- sual white ROCK parking lot\, this 
- is white SPAR. \n\nhttps://www.faceb
- ook.com/events/1719385495109027/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220919T180151Z
-LAST-MODIFIED:20220919T180151Z
-CREATED:20220719T010428Z
-SEQUENCE:5417843
-ORGANIZER;CN=Yavapai CASA for Kids:MAILTO:noreply@facebookmail.com
-DTSTART:20221029T160000Z
-DTEND:20221029T190000Z
-UID:e1215842952509373@facebook.com
-SUMMARY:Costumes for Kids 5K Fun Run
-LOCATION:120 S Cortez St\, Prescott\, AZ 8630
- 3-4704\, United States
-URL:https://www.facebook.com/events/1215842952509373/
-DESCRIPTION:🎃 Looking for some Halloween fu
- n the whole family can enjoy?\n\nMar
- k your calendars & REGISTER for th
- e area's 𝙊𝙉𝙇𝙔 5𝙆/𝙃
- 𝙖𝙡𝙡𝙤𝙬𝙚𝙚𝙣 𝙋
- 𝙖𝙧𝙩𝙮 combination benef
- itting local foster youth\; 𝘾𝙤
- 𝙨𝙩𝙪𝙢𝙚𝙨 𝙛𝙤𝙧
-  𝙆𝙞𝙙𝙨 5𝙆 𝙁𝙪𝙣
-  𝙍𝙪𝙣! \n\n You'll Enjoy:\n  
-      🎼 DJ stylings from Magic 9
- 9.1\n\n       👻 A costume contest
-  with prizes for the best: boy\, gi
- rl\, man\, woman\, & group categories
- \n\n      🍕 Free food & drinks (p
- re-race and post-race)\n\n      🎮
-  Carnival-styled games & raffles p
- rizes\n\n      🏁 A 5K around beau
- tiful downtown Prescott\, AZ (start
- ing & ending at Courthouse Square)
- \n\n       🚶‍♂️ An optional
-  1-mile Fun Fun for those with chi
- ldren or limited mobility \n\n      
- 👕 A free limited edition 5k T-s
- hirt free with all registrations\n\n
- ✨ Youth aged 16 & under attend F
- REE along with foster and Kinship 
- families.\n\n                       
-                🛑 𝗗𝗢𝗡'𝗧
-  𝗠𝗜𝗦𝗦 𝗢𝗨𝗧🛑
- \n\n🔴𝗚𝗲𝘁 𝗥𝗲𝗮𝗱
- 𝘆: Grab your costumes\, friends\,
-  & family!\n🟡𝗦𝗲𝘁: Your 
- calendar for Saturday\, October 29t
- h & register!\n🟢𝗚𝗢: To The
-  Courthouse Square in Downtown Pre
- scott & have a blast\; all ages are
-  sure to enjoy!\n\nThere is somethin
- g for everyone at the Costumes for
-  Kids 5K Fun Run...\n\n             
-                            🎯𝗥
- 𝗘𝗚𝗜𝗦𝗧𝗘𝗥 𝗧𝗢
- 𝗗𝗔𝗬🎯\n\nhttps://www.face
- book.com/events/1215842952509373/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220825T225818Z
-LAST-MODIFIED:20220825T225818Z
-CREATED:20220825T225818Z
-SEQUENCE:0
-ORGANIZER;CN=Greg Reverdiau:MAILTO:noreply@facebookmail.com
-DTSTART:20221028T003000Z
-DTEND:20221028T020000Z
-UID:e1095876124383583@facebook.com
-SUMMARY:Group Run in Prescott
-LOCATION:Soul Ride Bikeshop and Taproom
-URL:https://www.facebook.com/events/1095876121050250/?event_time_id=1095876124383583
-DESCRIPTION:Weekly group run for all Prescott 
- runners! We will meet at the Soul 
- Ride bike shop located on Montezum
- a every Thursday at 5:30pm.\n\nWho i
- s this for?\nEveryone! Runners of a
- ll paces and experience should joi
- n. There are many reasons to join:
- \n- Meet other runners in the area\n
- - Find people who run at your pace
-  and have similar goals\n- Get moti
- vation and inspiration to stay hea
- lthy\n- Get tips on how to move to 
- the next distance or speed\n- Have 
- fun!\n\nHow long are the runs?\nThe s
- hort answer is: as long as you wan
- t. We will suggest safe routes aro
- und the shop but you are welcome t
- o create your own. The urban trail
-  is very close and a very good pla
- ce to run. We encourage everyone t
- o stay for a bit after the run and
-  socialize with others. Water will
-  be available behind Soul Ride\, as
-  well as a comfortable place to ha
- ng out.\n\nAbout Soul Ride\nWe are ve
- ry excited to partner with Soul Ri
- de (https://soulride.bike) for thi
- s event. Soul Ride was founded by 
- Prescott local mountain bikers\, Ka
- te Phelan and Cina Mcconaughy\, wit
- h the purpose of introducing all p
- eople to the joys of Prescott moun
- tain biking. Soul Ride is locally 
- based\, they are committed to conne
- cting individuals to their persona
- l power through the soul connectio
- n felt on a mountain bike.\n\nhttps:
- //www.facebook.com/events/10958761
- 21050250/?event_time_id=1095876124
- 383583
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220916T125808Z
-LAST-MODIFIED:20220916T125808Z
-CREATED:20220828T190350Z
-SEQUENCE:1619658
-ORGANIZER;CN=Terri Rashid:MAILTO:noreply@facebookmail.com
-DTSTART:20221022T160000Z
-DTEND:20221022T190000Z
-UID:e1157948688149864@facebook.com
-SUMMARY:PATR Woods Edge Brunch Run
-LOCATION:2465 N Woods Edge Way\, Prescott\, A
- Z 86305-7051\, United States
-URL:https://www.facebook.com/events/1157948688149864/
-DESCRIPTION:Come celebrate the first (of hopef
- ully many) PATR trail run from Woo
- ds Edge.  Arrive around 8:30am\, an
- d we'll get running around 9:00am.
-   We will provide coffee\, orange j
- uice\, tea and assorted breakfast i
- tems (bagels\, pastries\, fresh frui
- t\, etc).  Mimosas will be availabl
- e as well.  I will provide some su
- ggested routes from 3 to 10 miles.
-   Or run your favorite route in Sp
- ence Basin.  The festivities will 
- continue into the early afternoon 
- (say 3pm or so)\, and all are welco
- me to hang out and socialize.  \n\nI
- n the afternoon we'll have the gri
- ll fired up and we'll have hamburg
- ers and hot dogs available - or br
- ing your own favorite item for gri
- lling.  So you can run long\, or sh
- ort\, then join us for food and bac
- kyard fun.  This event will be hel
- d rain or shine (or even snow!)\, b
- ut we will move indoors in the eve
- nt of adverse weather.\n\nhttps://ww
- w.facebook.com/events/115794868814
- 9864/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
