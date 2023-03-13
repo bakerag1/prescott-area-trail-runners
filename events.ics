@@ -7,6 +7,34 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
+DTSTAMP:20230301T225804Z
+LAST-MODIFIED:20230301T225804Z
+CREATED:20230301T225804Z
+SEQUENCE:0
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20230418T103000Z
+DTEND:20230418T133000Z
+UID:e2946994318768818@facebook.com
+SUMMARY:Tuesday Group Run- Upper Spence Basin
+LOCATION:https://maps.apple.com/?ll=34.5819
+ 04\,-112.548972&q=Dropped%20Pin&_ex
+ t=EiYpaevoe+dJQUAxxHG9OnsjXMA558AO
+ 2A1LQUBB5GbvdsgiXMBQBA%3D%3D&t=h
+URL:https://www.facebook.com/events/2946994318768818/
+DESCRIPTION:PLEASE READ THIS DESCRIPTION. \nWe 
+ will meet at UPPER Parking lot alo
+ ng Iron Springs\, where the circle 
+ trail crosses the Iron Springs at 
+ 5:30pm. Expect 4-6 miles. No drop 
+ run (we stop for everyone at every
+  intersection). \n\nBring a headlamp
+ !\n\nhttps://www.facebook.com/events
+ /2946994318768818/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20221216T181914Z
 LAST-MODIFIED:20221216T181914Z
 CREATED:20221216T181914Z
@@ -47,13 +75,134 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230202T224446Z
-LAST-MODIFIED:20230202T224446Z
-CREATED:20230131T213524Z
-SEQUENCE:176962
+DTSTAMP:20230301T225729Z
+LAST-MODIFIED:20230301T225729Z
+CREATED:20230301T225729Z
+SEQUENCE:0
 ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20230307T173000Z
-DTEND:20230307T203000Z
+DTSTART:20230412T003000Z
+DTEND:20230412T033000Z
+UID:e5847818651994784@facebook.com
+SUMMARY:Tuesday Group Run- White Spar
+URL:https://www.facebook.com/events/5847818651994784/
+DESCRIPTION:PLEASE READ THIS DESCRIPTION. \nWe 
+ will meet at the White Spar Parkin
+ g lot (link here https://goo.gl/ma
+ ps/nX4JGH75u4T7R15g7) at 5:30 PM. 
+ Expect 4-6 miles. No drop run (we 
+ stop for everyone at every interse
+ ction). Bring a headlamp! \n\nBe car
+ eful\, this is NOT the usual white 
+ ROCK parking lot\, this is white SP
+ AR. \n\nhttps://www.facebook.com/eve
+ nts/5847818651994784/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230301T225638Z
+LAST-MODIFIED:20230301T225638Z
+CREATED:20230301T225638Z
+SEQUENCE:0
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20230405T003000Z
+DTEND:20230405T033000Z
+UID:e680689747164211@facebook.com
+SUMMARY:Tuesday Group Run- Peavine
+URL:https://www.facebook.com/events/680689747164211/
+DESCRIPTION:PLEASE READ THIS DESCRIPTION. \nWe 
+ will meet at the Peavine Trailhead
+  by the Humane Society at 5:30pm. 
+ No drop run (we stop for everyone 
+ at every intersection). Bring a he
+ adlamp!\nExpect 5-6 miles.\n\nhttps:/
+ /www.facebook.com/events/680689747
+ 164211/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230301T225510Z
+LAST-MODIFIED:20230301T225510Z
+CREATED:20230301T225510Z
+SEQUENCE:0
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20230329T003000Z
+DTEND:20230329T033000Z
+UID:e211738738005666@facebook.com
+SUMMARY:Tuesday Group Run- White Rock
+URL:https://www.facebook.com/events/211738738005666/
+DESCRIPTION:We will meet at White Rock Parking
+  lot (link here https://goo.gl/map
+ s/YN2uMvQnyQWTM9JK7) at 5:30pm. \n\n
+ No-drop group run of approximately
+  5 miles. No-drop means we stop at
+  every intersection and wait for e
+ veryone. \n\nBring a headlamp!\n\nhttp
+ s://www.facebook.com/events/211738
+ 738005666/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230301T225316Z
+LAST-MODIFIED:20230301T225316Z
+CREATED:20230301T225316Z
+SEQUENCE:0
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20230322T003000Z
+DTEND:20230322T033000Z
+UID:e912021910104864@facebook.com
+SUMMARY:Tuesday Group Run- Granite Basin
+URL:https://www.facebook.com/events/912021910104864/
+DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
+  will meet at the cattleguard (lin
+ k here https://goo.gl/maps/CnyTC6T
+ oppAjWTcn6) at 5:30pm. \n\nExpect 5-
+ 6 miles\, all downhill (except for 
+ the uphills). No drop run (we stop
+  for everyone at every intersectio
+ n). \n\nBring a headlamp!\n\nhttps://w
+ ww.facebook.com/events/91202191010
+ 4864/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230301T225154Z
+LAST-MODIFIED:20230301T225154Z
+CREATED:20230301T225154Z
+SEQUENCE:0
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20230315T003000Z
+DTEND:20230315T033000Z
+UID:e116891951209752@facebook.com
+SUMMARY:Tuesday Group Run- Willow Lake
+URL:https://www.facebook.com/events/116891951209752/
+DESCRIPTION:PLEASE READ THIS DESCRIPTION. \nWe 
+ will meet at the Dog Park parking 
+ lot (link here https://goo.gl/maps
+ /ZCLmd4fQPGkyXCHP7) at 5:30pm. Pla
+ n for 5 miles(ish).\n\nNo drop run (
+ we stop for everyone at every inte
+ rsection). \n\n\n\nhttps://www.faceboo
+ k.com/events/116891951209752/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230307T004950Z
+LAST-MODIFIED:20230307T004950Z
+CREATED:20230131T213524Z
+SEQUENCE:2949266
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20230308T003000Z
+DTEND:20230308T033000Z
 UID:e745198183706258@facebook.com
 SUMMARY:Tuesday Group Run- Upper Spence Basin
 LOCATION:https://maps.apple.com/?ll=34.5819
@@ -72,7 +221,7 @@ DESCRIPTION:PLEASE READ THIS DESCRIPTION. \nWe
  /745198183706258/
 CLASS:PUBLIC
 STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
+PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20230131T213450Z
@@ -101,10 +250,10 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230131T213424Z
-LAST-MODIFIED:20230131T213424Z
+DTSTAMP:20230221T155219Z
+LAST-MODIFIED:20230221T155219Z
 CREATED:20230131T213424Z
-SEQUENCE:0
+SEQUENCE:1793875
 ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
 DTSTART:20230222T003000Z
 DTEND:20230222T033000Z
@@ -113,217 +262,69 @@ SUMMARY:Tuesday Group Run- Peavine
 URL:https://www.facebook.com/events/1542316156270434/
 DESCRIPTION:PLEASE READ THIS DESCRIPTION. \nWe 
  will meet at the Peavine Trailhead
-  by the Humane Society at 5:30pm. 
- No drop run (we stop for everyone 
- at every intersection). Bring a he
- adlamp!\nExpect 5-6 miles.\n\nhttps:/
- /www.facebook.com/events/154231615
- 6270434/
+  by the \nEdit!!! Moving to Flume t
+ railhead!! See Rich Covey comments
+  below. \n\nFlume and Watson Dam Tra
+ ilhead\nhttps://maps.app.goo.gl/AQT
+ VBdKXfCtYKPBk8?g_st=ic\n\nHumane Soc
+ iety at 5:30pm. No drop run (we st
+ op for everyone at every intersect
+ ion). Bring a headlamp!\nExpect 5-6
+  miles.\n\nhttps://www.facebook.com/
+ events/1542316156270434/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230131T213347Z
-LAST-MODIFIED:20230131T213347Z
-CREATED:20230131T213347Z
+DTSTAMP:20230212T221756Z
+LAST-MODIFIED:20230212T221756Z
+CREATED:20230212T221756Z
 SEQUENCE:0
+ORGANIZER;CN=Whiskey Row Brew Club:MAILTO:noreply@facebookmail.com
+DTSTART:20230217T010000Z
+DTEND:20230217T040000Z
+UID:e914027966398932@facebook.com
+SUMMARY:February Meeting at PPLD
+LOCATION:Park Plaza Liquor and Deli
+URL:https://www.facebook.com/events/914027966398932/
+DESCRIPTION:Monthly Club Meeting\,\nProspective 
+ members welcome!\n\n* Club business\n
+ * Shipping for competition educati
+ on topic\n* Chocolate beer gauntlet
+  (mini-competition)\n\nlook for a me
+ mber with a WRBC hat\, jacket\, or s
+ hirt for more info during happy ho
+ ur\n\nhttps://www.facebook.com/event
+ s/914027966398932/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230214T124212Z
+LAST-MODIFIED:20230214T124212Z
+CREATED:20230131T213347Z
+SEQUENCE:1177705
 ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
 DTSTART:20230215T003000Z
 DTEND:20230215T033000Z
 UID:e1817491645304169@facebook.com
-SUMMARY:Tuesday Group Run- White Rock
+SUMMARY:Tuesday Group Run- Changed to Willow Lake!!!
 URL:https://www.facebook.com/events/1817491645304169/
-DESCRIPTION:We will meet at White Rock Parking
-  lot (link here https://goo.gl/map
- s/YN2uMvQnyQWTM9JK7) at 5:30pm. \n\n
- No-drop group run of approximately
-  5 miles. No-drop means we stop at
-  every intersection and wait for e
- veryone. \n\nBring a headlamp!\n\nhttp
- s://www.facebook.com/events/181749
- 1645304169/
+DESCRIPTION:Changing the location due to the f
+ orecast- we will meet at Willow La
+ ke dog park:\n\nPLEASE READ THIS DES
+ CRIPTION. \nWe will meet at the Dog
+  Park parking lot (link here https
+ ://goo.gl/maps/ZCLmd4fQPGkyXCHP7) 
+ at 5:30pm. Plan for 5 miles(ish).\n
+ \nNo drop run (we stop for everyone
+  at every intersection). \n\nBring a
+  headlamp!\n\nhttps://www.facebook.c
+ om/events/1817491645304169/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230131T213216Z
-LAST-MODIFIED:20230131T213216Z
-CREATED:20230131T213216Z
-SEQUENCE:0
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20230208T003000Z
-DTEND:20230208T033000Z
-UID:e721192809386287@facebook.com
-SUMMARY:Tuesday Group Run- Granite Basin
-URL:https://www.facebook.com/events/721192809386287/
-DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
-  will meet at the cattleguard (lin
- k here https://goo.gl/maps/CnyTC6T
- oppAjWTcn6) at 5:30pm. \n\nExpect 5-
- 6 miles\, all downhill (except for 
- the uphills). No drop run (we stop
-  for everyone at every intersectio
- n). \n\nBring a headlamp!\n\nhttps://w
- ww.facebook.com/events/72119280938
- 6287/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20221224T003404Z
-LAST-MODIFIED:20221224T003404Z
-CREATED:20221224T003404Z
-SEQUENCE:0
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20230125T003000Z
-DTEND:20230125T033000Z
-UID:e1348466419282537@facebook.com
-SUMMARY:Tuesday Group Run- Upper Spence Basin
-LOCATION:https://maps.apple.com/?ll=34.5819
- 04\,-112.548972&q=Dropped%20Pin&_ex
- t=EiYpaevoe+dJQUAxxHG9OnsjXMA558AO
- 2A1LQUBB5GbvdsgiXMBQBA%3D%3D&t=h
-URL:https://www.facebook.com/events/1348466419282537/
-DESCRIPTION:PLEASE READ THIS DESCRIPTION. \nWe 
- will meet at UPPER Parking lot alo
- ng Iron Springs\, where the circle 
- trail crosses the Iron Springs at 
- 5:30pm. Expect 4-6 miles. No drop 
- run (we stop for everyone at every
-  intersection). \n\nBring a headlamp
- !\n\nhttps://www.facebook.com/events
- /1348466419282537/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20221103T225049Z
-LAST-MODIFIED:20221103T225049Z
-CREATED:20221103T225049Z
-SEQUENCE:0
-ORGANIZER;CN=Aravaipa Running:MAILTO:noreply@facebookmail.com
-DTSTART:20230122T140000Z
-DTEND:20230122T170000Z
-UID:e520201706369874@facebook.com
-SUMMARY:Black Canyon Training Run #3
-LOCATION:Black Canyon City/rock Springs
-URL:https://www.facebook.com/events/520201706369874/
-DESCRIPTION:Sunday\, January 22 will the the th
- ird and final preview run for the 
- upcoming 2023 Black Canyon Trail 1
- 00K. This section will resume from
-  the Black Canyon City Trailhead a
- nd continue to head south towards 
- New River & Phoenix. We’ll head 
- back into the canyons and across s
- everal more creeks before the trai
- l generally becomes flatter toward
- s the finish at Emery Henderson Tr
- ailhead.\n\nDate: \nSunday\, January 2
- 2\, 2023. \n\nDistance:\nMile 0 – Bl
- ack Canyon City TH (Start)\nMile 13
- .3 – Table Mesa Road TH (Aid)\nMi
- le 24.5 – Emery Henderson TH (Fi
- nish)\n\nTime:\n7:00am Meet at Emery 
- Henderson TH to carpool\nor 7:30am 
- Meet at Black Canyon City TH\n\nDriv
- ing Directions:\n\nDirections to Eme
- ry Henderson Trailhead (end of run
- \, park here to carpool to Black Ca
- nyon City TH)\n3.1 Miles West of I-
- 17 Freeway exit 232 on New River R
- oad\n\nDirections to Black Canyon Ci
- ty TH (start of run)\n1. Take exit 
- 242 off the I-17 towards Rock Spri
- ngs / Black Canyon City\n2. Turn le
- ft at the stop sign onto Velda Roa
- d Road\n3. Turn right at the next s
- top sign onto the Old Black Canyon
-  Highway and then an immediate lef
- t onto Warner Road towards the Bla
- ck Canyon City Trailhead\n4. Follow
-  Warner Road for 0.3 miles to the 
- trailhead and aid station. There i
- s a restroom located at this trail
- head. There are also dining option
- s and a General Store in Rock Spri
- ngs and some more options a couple
-  miles north on the Old Black Cany
- on Highway in Black Canyon City as
-  well as a gas station.\n\nFormat:\nT
- his is a no fee\, limited aid\, limi
- ted to no course marking training 
- run. You must plan to be self suff
- icient in terms of navigation\, per
- sonal safety and aid between stati
- ons. We will have water & some foo
- d at Table Mesa Road TH. Please st
- udy the maps in this post and foll
- ow signage for the Black Canyon Tr
- ail.\n\nMarkings:\nThe course on prin
- ciple will be unmarked. There is s
- ignage for the Black Canyon Trail 
- at most questionable junctions\, bu
- t we recommend studying and printi
- ng maps to bring with you. \n\nPost 
- Run Gathering:\nBring a camp chair\,
-  some snacks and BYOB if you enjoy
-  a Sunday Funday post-run hang\n\nht
- tps://www.facebook.com/events/5202
- 01706369874/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20221020T003653Z
-LAST-MODIFIED:20221020T003653Z
-CREATED:20221020T003653Z
-SEQUENCE:0
-ORGANIZER;CN=Flagstaff BrewHaHa:MAILTO:noreply@facebookmail.com
-DTSTART:20230121T210000Z
-DTEND:20230122T000000Z
-UID:e592855492526660@facebook.com
-SUMMARY:13th Annual Flagstaff BrewHaHa
-LOCATION:High Country Conference Center
-URL:https://www.facebook.com/events/592855492526660/
-DESCRIPTION:Flagstaff's Premier Winter Tasting
-  event featuring over 60\ndifferent
-  brews\, bratwursts\, live music\, a 
- Best in Show beer contest\, VIP\nlun
- cheon\, and more! Proceeds benefit 
- the Flagstaff Ski Club.\n\n\nhttps://
- www.facebook.com/events/5928554925
- 26660/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20221224T005255Z
-LAST-MODIFIED:20221224T005255Z
-CREATED:20221224T002730Z
-SEQUENCE:1525
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20230111T003000Z
-DTEND:20230111T033000Z
-UID:e890801625447662@facebook.com
-SUMMARY:Tuesday Group Run- Peavine
-URL:https://www.facebook.com/events/890801625447662/
-DESCRIPTION:PLEASE READ THIS DESCRIPTION. \nWe 
- will meet at the Peavine Trailhead
-  by the Humane Society at 5:30pm. 
- No drop run (we stop for everyone 
- at every intersection). Bring a he
- adlamp!\nExpect 5-6 miles.\n\nhttps:/
- /www.facebook.com/events/890801625
- 447662/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
 END:VEVENT
 END:VCALENDAR
