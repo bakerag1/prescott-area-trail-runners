@@ -14,7 +14,7 @@ import (
 )
 
 const outputFmt = `---
-title: %v
+title: "%v"
 date: %v
 external_url: %v
 ---
@@ -84,12 +84,15 @@ func addCalendarItems() {
 		description = strings.ReplaceAll(description, "\n\n", "<br>\n  ")
 		expr := regexp.MustCompile(`(http[s]?)&#58;(//[^ )]*)`)
 		description = expr.ReplaceAllString(description, "[$1:$2]($1:$2)")
+		expr2 := regexp.MustCompile(`^([^A-z0-9]*)(.*)`)
+		summary := expr2.ReplaceAllString(e.Summary, "$2")
+
 		cal, err := os.Create("_calendar/" + uid + ".md")
 		defer cal.Close()
 		if err != nil {
 			log.Fatal(err)
 		}
-		log.Printf("creating event: %s: %s - %s\n", e.Start.Local().Format("2006-01-02"), e.Uid, e.Summary)
-		cal.Write([]byte(fmt.Sprintf(outputFmt, e.Summary, e.Start.Local().Format("2006-01-02 15:04"), uri, description)))
+		log.Printf("creating event: %s: %s - %s\n", e.Start.Local().Format("2006-01-02"), e.Uid, summary)
+		cal.Write([]byte(fmt.Sprintf(outputFmt, summary, e.Start.Local().Format("2006-01-02 15:04"), uri, description)))
 	}
 }
