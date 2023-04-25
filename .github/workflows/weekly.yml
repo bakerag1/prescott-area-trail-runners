@@ -3,6 +3,7 @@ name: post this week's news
 on:
   schedule:
     - cron: '0 19 * * 1'
+  workflow_dispatch
 env: 
   TZ: America/Phoenix 
 jobs:
