@@ -7,6 +7,773 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
+DTSTAMP:20230418T230715Z
+LAST-MODIFIED:20230418T230715Z
+CREATED:20230418T230715Z
+SEQUENCE:0
+ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
+DTSTART:20230927T140000Z
+DTEND:20230927T150000Z
+UID:e531814115776419@facebook.com
+SUMMARY:Vert Club
+LOCATION:Thumb Butte Mountain
+URL:https://www.facebook.com/events/531814112443086/?event_time_id=531814115776419
+DESCRIPTION:Vert Club is back!! Every Wednesda
+ y at 0700 (parking is free on Wed)
+  … meet in the parking lot and d
+ o as many loops as you want!\n\nOn 1
+  May the time will change to 0600 
+ so we can beat the heat.\n\nhttps://
+ www.facebook.com/events/5318141124
+ 43086/?event_time_id=5318141157764
+ 19
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230418T230715Z
+LAST-MODIFIED:20230418T230715Z
+CREATED:20230418T230715Z
+SEQUENCE:0
+ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
+DTSTART:20230920T140000Z
+DTEND:20230920T150000Z
+UID:e531814165776414@facebook.com
+SUMMARY:Vert Club
+LOCATION:Thumb Butte Mountain
+URL:https://www.facebook.com/events/531814112443086/?event_time_id=531814165776414
+DESCRIPTION:Vert Club is back!! Every Wednesda
+ y at 0700 (parking is free on Wed)
+  … meet in the parking lot and d
+ o as many loops as you want!\n\nOn 1
+  May the time will change to 0600 
+ so we can beat the heat.\n\nhttps://
+ www.facebook.com/events/5318141124
+ 43086/?event_time_id=5318141657764
+ 14
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230418T230715Z
+LAST-MODIFIED:20230418T230715Z
+CREATED:20230418T230715Z
+SEQUENCE:0
+ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
+DTSTART:20230913T140000Z
+DTEND:20230913T150000Z
+UID:e531814192443078@facebook.com
+SUMMARY:Vert Club
+LOCATION:Thumb Butte Mountain
+URL:https://www.facebook.com/events/531814112443086/?event_time_id=531814192443078
+DESCRIPTION:Vert Club is back!! Every Wednesda
+ y at 0700 (parking is free on Wed)
+  … meet in the parking lot and d
+ o as many loops as you want!\n\nOn 1
+  May the time will change to 0600 
+ so we can beat the heat.\n\nhttps://
+ www.facebook.com/events/5318141124
+ 43086/?event_time_id=5318141924430
+ 78
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230418T230715Z
+LAST-MODIFIED:20230418T230715Z
+CREATED:20230418T230715Z
+SEQUENCE:0
+ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
+DTSTART:20230906T140000Z
+DTEND:20230906T150000Z
+UID:e531814159109748@facebook.com
+SUMMARY:Vert Club
+LOCATION:Thumb Butte Mountain
+URL:https://www.facebook.com/events/531814112443086/?event_time_id=531814159109748
+DESCRIPTION:Vert Club is back!! Every Wednesda
+ y at 0700 (parking is free on Wed)
+  … meet in the parking lot and d
+ o as many loops as you want!\n\nOn 1
+  May the time will change to 0600 
+ so we can beat the heat.\n\nhttps://
+ www.facebook.com/events/5318141124
+ 43086/?event_time_id=5318141591097
+ 48
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230418T230715Z
+LAST-MODIFIED:20230418T230715Z
+CREATED:20230418T230715Z
+SEQUENCE:0
+ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
+DTSTART:20230830T140000Z
+DTEND:20230830T150000Z
+UID:e531814172443080@facebook.com
+SUMMARY:Vert Club
+LOCATION:Thumb Butte Mountain
+URL:https://www.facebook.com/events/531814112443086/?event_time_id=531814172443080
+DESCRIPTION:Vert Club is back!! Every Wednesda
+ y at 0700 (parking is free on Wed)
+  … meet in the parking lot and d
+ o as many loops as you want!\n\nOn 1
+  May the time will change to 0600 
+ so we can beat the heat.\n\nhttps://
+ www.facebook.com/events/5318141124
+ 43086/?event_time_id=5318141724430
+ 80
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230418T230715Z
+LAST-MODIFIED:20230418T230715Z
+CREATED:20230418T230715Z
+SEQUENCE:0
+ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
+DTSTART:20230823T140000Z
+DTEND:20230823T150000Z
+UID:e531814169109747@facebook.com
+SUMMARY:Vert Club
+LOCATION:Thumb Butte Mountain
+URL:https://www.facebook.com/events/531814112443086/?event_time_id=531814169109747
+DESCRIPTION:Vert Club is back!! Every Wednesda
+ y at 0700 (parking is free on Wed)
+  … meet in the parking lot and d
+ o as many loops as you want!\n\nOn 1
+  May the time will change to 0600 
+ so we can beat the heat.\n\nhttps://
+ www.facebook.com/events/5318141124
+ 43086/?event_time_id=5318141691097
+ 47
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230418T230715Z
+LAST-MODIFIED:20230418T230715Z
+CREATED:20230418T230715Z
+SEQUENCE:0
+ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
+DTSTART:20230816T140000Z
+DTEND:20230816T150000Z
+UID:e531814162443081@facebook.com
+SUMMARY:Vert Club
+LOCATION:Thumb Butte Mountain
+URL:https://www.facebook.com/events/531814112443086/?event_time_id=531814162443081
+DESCRIPTION:Vert Club is back!! Every Wednesda
+ y at 0700 (parking is free on Wed)
+  … meet in the parking lot and d
+ o as many loops as you want!\n\nOn 1
+  May the time will change to 0600 
+ so we can beat the heat.\n\nhttps://
+ www.facebook.com/events/5318141124
+ 43086/?event_time_id=5318141624430
+ 81
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230418T230715Z
+LAST-MODIFIED:20230418T230715Z
+CREATED:20230418T230715Z
+SEQUENCE:0
+ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
+DTSTART:20230809T140000Z
+DTEND:20230809T150000Z
+UID:e531814145776416@facebook.com
+SUMMARY:Vert Club
+LOCATION:Thumb Butte Mountain
+URL:https://www.facebook.com/events/531814112443086/?event_time_id=531814145776416
+DESCRIPTION:Vert Club is back!! Every Wednesda
+ y at 0700 (parking is free on Wed)
+  … meet in the parking lot and d
+ o as many loops as you want!\n\nOn 1
+  May the time will change to 0600 
+ so we can beat the heat.\n\nhttps://
+ www.facebook.com/events/5318141124
+ 43086/?event_time_id=5318141457764
+ 16
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230418T230715Z
+LAST-MODIFIED:20230418T230715Z
+CREATED:20230418T230715Z
+SEQUENCE:0
+ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
+DTSTART:20230802T140000Z
+DTEND:20230802T150000Z
+UID:e531814189109745@facebook.com
+SUMMARY:Vert Club
+LOCATION:Thumb Butte Mountain
+URL:https://www.facebook.com/events/531814112443086/?event_time_id=531814189109745
+DESCRIPTION:Vert Club is back!! Every Wednesda
+ y at 0700 (parking is free on Wed)
+  … meet in the parking lot and d
+ o as many loops as you want!\n\nOn 1
+  May the time will change to 0600 
+ so we can beat the heat.\n\nhttps://
+ www.facebook.com/events/5318141124
+ 43086/?event_time_id=5318141891097
+ 45
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230418T230715Z
+LAST-MODIFIED:20230418T230715Z
+CREATED:20230418T230715Z
+SEQUENCE:0
+ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
+DTSTART:20230726T140000Z
+DTEND:20230726T150000Z
+UID:e531814152443082@facebook.com
+SUMMARY:Vert Club
+LOCATION:Thumb Butte Mountain
+URL:https://www.facebook.com/events/531814112443086/?event_time_id=531814152443082
+DESCRIPTION:Vert Club is back!! Every Wednesda
+ y at 0700 (parking is free on Wed)
+  … meet in the parking lot and d
+ o as many loops as you want!\n\nOn 1
+  May the time will change to 0600 
+ so we can beat the heat.\n\nhttps://
+ www.facebook.com/events/5318141124
+ 43086/?event_time_id=5318141524430
+ 82
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230418T230715Z
+LAST-MODIFIED:20230418T230715Z
+CREATED:20230418T230715Z
+SEQUENCE:0
+ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
+DTSTART:20230719T140000Z
+DTEND:20230719T150000Z
+UID:e531814142443083@facebook.com
+SUMMARY:Vert Club
+LOCATION:Thumb Butte Mountain
+URL:https://www.facebook.com/events/531814112443086/?event_time_id=531814142443083
+DESCRIPTION:Vert Club is back!! Every Wednesda
+ y at 0700 (parking is free on Wed)
+  … meet in the parking lot and d
+ o as many loops as you want!\n\nOn 1
+  May the time will change to 0600 
+ so we can beat the heat.\n\nhttps://
+ www.facebook.com/events/5318141124
+ 43086/?event_time_id=5318141424430
+ 83
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230418T230715Z
+LAST-MODIFIED:20230418T230715Z
+CREATED:20230418T230715Z
+SEQUENCE:0
+ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
+DTSTART:20230712T140000Z
+DTEND:20230712T150000Z
+UID:e531814155776415@facebook.com
+SUMMARY:Vert Club
+LOCATION:Thumb Butte Mountain
+URL:https://www.facebook.com/events/531814112443086/?event_time_id=531814155776415
+DESCRIPTION:Vert Club is back!! Every Wednesda
+ y at 0700 (parking is free on Wed)
+  … meet in the parking lot and d
+ o as many loops as you want!\n\nOn 1
+  May the time will change to 0600 
+ so we can beat the heat.\n\nhttps://
+ www.facebook.com/events/5318141124
+ 43086/?event_time_id=5318141557764
+ 15
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230418T230715Z
+LAST-MODIFIED:20230418T230715Z
+CREATED:20230418T230715Z
+SEQUENCE:0
+ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
+DTSTART:20230705T140000Z
+DTEND:20230705T150000Z
+UID:e531814195776411@facebook.com
+SUMMARY:Vert Club
+LOCATION:Thumb Butte Mountain
+URL:https://www.facebook.com/events/531814112443086/?event_time_id=531814195776411
+DESCRIPTION:Vert Club is back!! Every Wednesda
+ y at 0700 (parking is free on Wed)
+  … meet in the parking lot and d
+ o as many loops as you want!\n\nOn 1
+  May the time will change to 0600 
+ so we can beat the heat.\n\nhttps://
+ www.facebook.com/events/5318141124
+ 43086/?event_time_id=5318141957764
+ 11
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230418T230715Z
+LAST-MODIFIED:20230418T230715Z
+CREATED:20230418T230715Z
+SEQUENCE:0
+ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
+DTSTART:20230628T140000Z
+DTEND:20230628T150000Z
+UID:e531814149109749@facebook.com
+SUMMARY:Vert Club
+LOCATION:Thumb Butte Mountain
+URL:https://www.facebook.com/events/531814112443086/?event_time_id=531814149109749
+DESCRIPTION:Vert Club is back!! Every Wednesda
+ y at 0700 (parking is free on Wed)
+  … meet in the parking lot and d
+ o as many loops as you want!\n\nOn 1
+  May the time will change to 0600 
+ so we can beat the heat.\n\nhttps://
+ www.facebook.com/events/5318141124
+ 43086/?event_time_id=5318141491097
+ 49
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230418T230715Z
+LAST-MODIFIED:20230418T230715Z
+CREATED:20230418T230715Z
+SEQUENCE:0
+ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
+DTSTART:20230621T140000Z
+DTEND:20230621T150000Z
+UID:e531814185776412@facebook.com
+SUMMARY:Vert Club
+LOCATION:Thumb Butte Mountain
+URL:https://www.facebook.com/events/531814112443086/?event_time_id=531814185776412
+DESCRIPTION:Vert Club is back!! Every Wednesda
+ y at 0700 (parking is free on Wed)
+  … meet in the parking lot and d
+ o as many loops as you want!\n\nOn 1
+  May the time will change to 0600 
+ so we can beat the heat.\n\nhttps://
+ www.facebook.com/events/5318141124
+ 43086/?event_time_id=5318141857764
+ 12
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230418T230715Z
+LAST-MODIFIED:20230418T230715Z
+CREATED:20230418T230715Z
+SEQUENCE:0
+ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
+DTSTART:20230614T140000Z
+DTEND:20230614T150000Z
+UID:e531814132443084@facebook.com
+SUMMARY:Vert Club
+LOCATION:Thumb Butte Mountain
+URL:https://www.facebook.com/events/531814112443086/?event_time_id=531814132443084
+DESCRIPTION:Vert Club is back!! Every Wednesda
+ y at 0700 (parking is free on Wed)
+  … meet in the parking lot and d
+ o as many loops as you want!\n\nOn 1
+  May the time will change to 0600 
+ so we can beat the heat.\n\nhttps://
+ www.facebook.com/events/5318141124
+ 43086/?event_time_id=5318141324430
+ 84
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230418T230715Z
+LAST-MODIFIED:20230418T230715Z
+CREATED:20230418T230715Z
+SEQUENCE:0
+ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
+DTSTART:20230607T140000Z
+DTEND:20230607T150000Z
+UID:e531814182443079@facebook.com
+SUMMARY:Vert Club
+LOCATION:Thumb Butte Mountain
+URL:https://www.facebook.com/events/531814112443086/?event_time_id=531814182443079
+DESCRIPTION:Vert Club is back!! Every Wednesda
+ y at 0700 (parking is free on Wed)
+  … meet in the parking lot and d
+ o as many loops as you want!\n\nOn 1
+  May the time will change to 0600 
+ so we can beat the heat.\n\nhttps://
+ www.facebook.com/events/5318141124
+ 43086/?event_time_id=5318141824430
+ 79
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230418T230715Z
+LAST-MODIFIED:20230418T230715Z
+CREATED:20230418T230715Z
+SEQUENCE:0
+ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
+DTSTART:20230531T140000Z
+DTEND:20230531T150000Z
+UID:e531814129109751@facebook.com
+SUMMARY:Vert Club
+LOCATION:Thumb Butte Mountain
+URL:https://www.facebook.com/events/531814112443086/?event_time_id=531814129109751
+DESCRIPTION:Vert Club is back!! Every Wednesda
+ y at 0700 (parking is free on Wed)
+  … meet in the parking lot and d
+ o as many loops as you want!\n\nOn 1
+  May the time will change to 0600 
+ so we can beat the heat.\n\nhttps://
+ www.facebook.com/events/5318141124
+ 43086/?event_time_id=5318141291097
+ 51
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230418T230715Z
+LAST-MODIFIED:20230418T230715Z
+CREATED:20230418T230715Z
+SEQUENCE:0
+ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
+DTSTART:20230524T140000Z
+DTEND:20230524T150000Z
+UID:e531814179109746@facebook.com
+SUMMARY:Vert Club
+LOCATION:Thumb Butte Mountain
+URL:https://www.facebook.com/events/531814112443086/?event_time_id=531814179109746
+DESCRIPTION:Vert Club is back!! Every Wednesda
+ y at 0700 (parking is free on Wed)
+  … meet in the parking lot and d
+ o as many loops as you want!\n\nOn 1
+  May the time will change to 0600 
+ so we can beat the heat.\n\nhttps://
+ www.facebook.com/events/5318141124
+ 43086/?event_time_id=5318141791097
+ 46
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230418T225404Z
+LAST-MODIFIED:20230418T225404Z
+CREATED:20230418T225404Z
+SEQUENCE:0
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20230524T003000Z
+DTEND:20230524T033000Z
+UID:e1466083457259691@facebook.com
+SUMMARY:Tuesday Group Run- White Rock
+URL:https://www.facebook.com/events/1466083457259691/
+DESCRIPTION:We will meet at White Rock Parking
+  lot (link here https://goo.gl/map
+ s/YN2uMvQnyQWTM9JK7) at 5:30pm. \n\n
+ No-drop group run of approximately
+  5 miles. No-drop means we stop at
+  every intersection and wait for e
+ veryone. \n\n\nhttps://www.facebook.c
+ om/events/1466083457259691/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230418T230715Z
+LAST-MODIFIED:20230418T230715Z
+CREATED:20230418T230715Z
+SEQUENCE:0
+ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
+DTSTART:20230517T140000Z
+DTEND:20230517T150000Z
+UID:e531814175776413@facebook.com
+SUMMARY:Vert Club
+LOCATION:Thumb Butte Mountain
+URL:https://www.facebook.com/events/531814112443086/?event_time_id=531814175776413
+DESCRIPTION:Vert Club is back!! Every Wednesda
+ y at 0700 (parking is free on Wed)
+  … meet in the parking lot and d
+ o as many loops as you want!\n\nOn 1
+  May the time will change to 0600 
+ so we can beat the heat.\n\nhttps://
+ www.facebook.com/events/5318141124
+ 43086/?event_time_id=5318141757764
+ 13
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230418T225148Z
+LAST-MODIFIED:20230418T225148Z
+CREATED:20230418T225148Z
+SEQUENCE:0
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20230517T003000Z
+DTEND:20230517T033000Z
+UID:e6138938482893292@facebook.com
+SUMMARY:Tuesday Group Run- Peavine
+URL:https://www.facebook.com/events/6138938482893292/
+DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
+  will meet at the Peavine Trailhea
+ d by the Humane Society at 5:30pm.
+  No drop run (we stop for everyone
+  at every intersection). \n\nExpect 
+ 5-6 miles.\n\n\n\n\n\nhttps://www.facebo
+ ok.com/events/6138938482893292/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230418T230715Z
+LAST-MODIFIED:20230418T230715Z
+CREATED:20230418T230715Z
+SEQUENCE:0
+ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
+DTSTART:20230510T140000Z
+DTEND:20230510T150000Z
+UID:e531814139109750@facebook.com
+SUMMARY:Vert Club
+LOCATION:Thumb Butte Mountain
+URL:https://www.facebook.com/events/531814112443086/?event_time_id=531814139109750
+DESCRIPTION:Vert Club is back!! Every Wednesda
+ y at 0700 (parking is free on Wed)
+  … meet in the parking lot and d
+ o as many loops as you want!\n\nOn 1
+  May the time will change to 0600 
+ so we can beat the heat.\n\nhttps://
+ www.facebook.com/events/5318141124
+ 43086/?event_time_id=5318141391097
+ 50
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230418T225009Z
+LAST-MODIFIED:20230418T225009Z
+CREATED:20230418T225009Z
+SEQUENCE:0
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20230510T003000Z
+DTEND:20230510T033000Z
+UID:e1955205644822090@facebook.com
+SUMMARY:Tuesday Group Run- Granite Basin
+URL:https://www.facebook.com/events/1955205644822090/
+DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
+  will meet at the cattleguard (lin
+ k here https://goo.gl/maps/CnyTC6T
+ oppAjWTcn6) at 5:30pm. \n\nExpect 5-
+ 6 miles\, all downhill (except for 
+ the uphills). No drop run (we stop
+  for everyone at every intersectio
+ n). \n\n\nhttps://www.facebook.com/ev
+ ents/1955205644822090/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230418T230715Z
+LAST-MODIFIED:20230418T230715Z
+CREATED:20230418T230715Z
+SEQUENCE:0
+ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
+DTSTART:20230503T140000Z
+DTEND:20230503T150000Z
+UID:e531814135776417@facebook.com
+SUMMARY:Vert Club
+LOCATION:Thumb Butte Mountain
+URL:https://www.facebook.com/events/531814112443086/?event_time_id=531814135776417
+DESCRIPTION:Vert Club is back!! Every Wednesda
+ y at 0700 (parking is free on Wed)
+  … meet in the parking lot and d
+ o as many loops as you want!\n\nOn 1
+  May the time will change to 0600 
+ so we can beat the heat.\n\nhttps://
+ www.facebook.com/events/5318141124
+ 43086/?event_time_id=5318141357764
+ 17
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230418T224919Z
+LAST-MODIFIED:20230418T224919Z
+CREATED:20230418T224919Z
+SEQUENCE:0
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20230503T003000Z
+DTEND:20230503T033000Z
+UID:e170999295505361@facebook.com
+SUMMARY:Tuesday Group Run- Willow Lake
+LOCATION:Tuesday Group Run - Willow Lake
+URL:https://www.facebook.com/events/170999295505361/
+DESCRIPTION:PLEASE READ THIS DESCRIPTION. \nWe 
+ will meet at the Dog Park parking 
+ lot (link here https://goo.gl/maps
+ /ZCLmd4fQPGkyXCHP7) at 5:30pm. Pla
+ n for 5 miles(ish).\n\nNo drop run (
+ we stop for everyone at every inte
+ rsection). \n\n\n\nhttps://www.faceboo
+ k.com/events/170999295505361/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230425T200937Z
+LAST-MODIFIED:20230425T200937Z
+CREATED:20230424T180045Z
+SEQUENCE:94132
+ORGANIZER;CN=Andrew Baker:MAILTO:bakerag1@gmail.com
+DTSTART:20230429T180000Z
+DTEND:20230429T210000Z
+UID:e963347341339395@facebook.com
+SUMMARY:outer loop cleanup
+LOCATION:Old Stage Stop
+URL:https://www.facebook.com/events/963347341339395/
+DESCRIPTION:Clean up our mile of highway\, meet
+  in the parking lot of Old Stage S
+ top/Chubby Chucks at 11 and we'll 
+ work out transportation. We'll fig
+ ure out a lunch or beer spot after
+  cleaning up.\n\nhttps://www.faceboo
+ k.com/events/963347341339395/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230422T195335Z
+LAST-MODIFIED:20230422T195335Z
+CREATED:20230422T195335Z
+SEQUENCE:0
+ORGANIZER;CN=Erin Mann:MAILTO:noreply@facebookmail.com
+DTSTART:20230429T143000Z
+DTEND:20230429T173000Z
+UID:e522407993433817@facebook.com
+SUMMARY:SATR PATR - Spruce Mountain
+LOCATION:Groom Creek Loop Trail
+URL:https://www.facebook.com/events/522407993433817/
+DESCRIPTION:Saturday group run at Spruce Mount
+ ain TH 307 off of Senator Highway 
+ in Groom Creek. 9 mile loop -- lik
+ ely a hike up and a run down. \n\nht
+ tps://www.google.com/maps?q=spruce
+ +mountain+trailhead+307&rlz=1C1CHB
+ F_enUS1044US1044&um=1&ie=UTF-8&sa=
+ X&ved=2ahUKEwigxZHqoL7-AhU_MkQIHcp
+ hApkQ0pQJegQIBxAC\n\nhttps://www.fac
+ ebook.com/events/522407993433817/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230423T225059Z
+LAST-MODIFIED:20230423T225059Z
+CREATED:20230423T225059Z
+SEQUENCE:0
+ORGANIZER;CN=Erin Mann:MAILTO:noreply@facebookmail.com
+DTSTART:20230428T003000Z
+DTEND:20230428T023000Z
+UID:e275472561483722@facebook.com
+SUMMARY:PATR Happy Hour/Cocodona 250 Send Off
+LOCATION:LazyG Brewhouse
+URL:https://www.facebook.com/events/275472561483722/
+DESCRIPTION:Come hang out on the Lazy G patio 
+ and wish our PATR members well on 
+ their epic Cocodona adventures! No
+  outside food or drink\, but lots a
+ vailable to purchase. \n\nhttps://ww
+ w.facebook.com/events/275472561483
+ 722/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230418T230715Z
+LAST-MODIFIED:20230418T230715Z
+CREATED:20230418T230715Z
+SEQUENCE:0
+ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
+DTSTART:20230426T140000Z
+DTEND:20230426T150000Z
+UID:e531814122443085@facebook.com
+SUMMARY:Vert Club
+LOCATION:Thumb Butte Mountain
+URL:https://www.facebook.com/events/531814112443086/?event_time_id=531814122443085
+DESCRIPTION:Vert Club is back!! Every Wednesda
+ y at 0700 (parking is free on Wed)
+  … meet in the parking lot and d
+ o as many loops as you want!\n\nOn 1
+  May the time will change to 0600 
+ so we can beat the heat.\n\nhttps://
+ www.facebook.com/events/5318141124
+ 43086/?event_time_id=5318141224430
+ 85
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230418T224737Z
+LAST-MODIFIED:20230418T224737Z
+CREATED:20230418T224737Z
+SEQUENCE:0
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20230426T003000Z
+DTEND:20230426T033000Z
+UID:e758060332465322@facebook.com
+SUMMARY:Tuesday Group Run- White Spar
+LOCATION:Tuesday Group Run - White Spar
+URL:https://www.facebook.com/events/758060332465322/
+DESCRIPTION:Tackling the 396!\nPLEASE READ THIS
+  DESCRIPTION. \nWe will meet at the
+  White Spar Parking lot at 5:30 PM
+ .\n\n(link here https://goo.gl/maps/
+ nX4JGH75u4T7R15g7)  \n\nExpect 4-6 m
+ iles. No drop run (we stop for eve
+ ryone at every intersection). \n\nBe
+  careful\, this is NOT the usual wh
+ ite ROCK parking lot\, this is whit
+ e SPAR. \n\nhttps://www.facebook.com
+ /events/758060332465322/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20230301T225804Z
 LAST-MODIFIED:20230301T225804Z
 CREATED:20230301T225804Z
@@ -32,7 +799,7 @@ DESCRIPTION:PLEASE READ THIS DESCRIPTION. \nWe
  /2946994318768818/
 CLASS:PUBLIC
 STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
+PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20221216T181914Z
@@ -154,133 +921,5 @@ DESCRIPTION:We will meet at White Rock Parking
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230321T154626Z
-LAST-MODIFIED:20230321T154626Z
-CREATED:20230301T225316Z
-SEQUENCE:1702390
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20230322T003000Z
-DTEND:20230322T033000Z
-UID:e912021910104864@facebook.com
-SUMMARY:Tuesday Group Run- Granite Basin
-URL:https://www.facebook.com/events/912021910104864/
-DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
-  will meet at the cattleguard (lin
- k here https://goo.gl/maps/CnyTC6T
- oppAjWTcn6) at 5:30pm. \n\nExpect 5-
- 6 miles\, all downhill (except for 
- the uphills). No drop run (we stop
-  for everyone at every intersectio
- n). \n\nBring a headlamp!\n\nhttps://w
- ww.facebook.com/events/91202191010
- 4864/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230315T215817Z
-LAST-MODIFIED:20230315T215817Z
-CREATED:20230315T215817Z
-SEQUENCE:0
-ORGANIZER;CN=Whiskey Row Brew Club:MAILTO:noreply@facebookmail.com
-DTSTART:20230317T010000Z
-DTEND:20230317T040000Z
-UID:e546888627544636@facebook.com
-SUMMARY:March meeting
-LOCATION:Park Plaza Liquor and Deli
-URL:https://www.facebook.com/events/546888627544636/
-DESCRIPTION:March general meeting\n\nhttps://www
- .facebook.com/events/5468886275446
- 36/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230301T225154Z
-LAST-MODIFIED:20230301T225154Z
-CREATED:20230301T225154Z
-SEQUENCE:0
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20230315T003000Z
-DTEND:20230315T033000Z
-UID:e116891951209752@facebook.com
-SUMMARY:Tuesday Group Run- Willow Lake
-URL:https://www.facebook.com/events/116891951209752/
-DESCRIPTION:PLEASE READ THIS DESCRIPTION. \nWe 
- will meet at the Dog Park parking 
- lot (link here https://goo.gl/maps
- /ZCLmd4fQPGkyXCHP7) at 5:30pm. Pla
- n for 5 miles(ish).\n\nNo drop run (
- we stop for everyone at every inte
- rsection). \n\n\n\nhttps://www.faceboo
- k.com/events/116891951209752/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230223T220711Z
-LAST-MODIFIED:20230223T220711Z
-CREATED:20230223T220620Z
-SEQUENCE:51
-ORGANIZER;CN=Park Plaza Liquor and Deli:MAILTO:noreply@facebookmail.com
-DTSTART:20230310T003000Z
-DTEND:20230310T023000Z
-UID:e519573976958862@facebook.com
-SUMMARY:Beer Tasting & Education "Exploring Beers From Around The World"
-LOCATION:Park Plaza Liquor and Deli
-URL:https://www.facebook.com/events/519573976958862/
-DESCRIPTION:We are kicking off beer events aga
- in with a classroom in the glass r
- oom!\n\n"Exploring Beers From Around
-  The World"\nTickets here: www.park
- plazaliquor.com/class\n\nGuest Speak
- er and Master Brewer Chase Saraiva
- .\n6 International Beers from Belgi
- um\, Germany\, and more.\n\nSeated cla
- ssroom in the private Glass Room \n
- Includes gourmet slider\, pretzel w
- ith beer cheese\, & beer nuts.\n\nSav
- e 15% on featured beer during the 
- event.\n$30 pp+tax\n\nLimit 30 guests
- \n\nThursday\, 3/9\, 5:30 pm\nTickets h
- ere: www.parkplazaliquor.com/class
- \n\nhttps://www.facebook.com/events/
- 519573976958862/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230307T004950Z
-LAST-MODIFIED:20230307T004950Z
-CREATED:20230131T213524Z
-SEQUENCE:2949266
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20230308T003000Z
-DTEND:20230308T033000Z
-UID:e745198183706258@facebook.com
-SUMMARY:Tuesday Group Run- Upper Spence Basin
-LOCATION:https://maps.apple.com/?ll=34.5819
- 04\,-112.548972&q=Dropped%20Pin&_ex
- t=EiYpaevoe+dJQUAxxHG9OnsjXMA558AO
- 2A1LQUBB5GbvdsgiXMBQBA%3D%3D&t=h
-URL:https://www.facebook.com/events/745198183706258/
-DESCRIPTION:PLEASE READ THIS DESCRIPTION. \nWe 
- will meet at UPPER Parking lot alo
- ng Iron Springs\, where the circle 
- trail crosses the Iron Springs at 
- 5:30pm. Expect 4-6 miles. No drop 
- run (we stop for everyone at every
-  intersection). \n\nBring a headlamp
- !\n\nhttps://www.facebook.com/events
- /745198183706258/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
 END:VEVENT
 END:VCALENDAR
