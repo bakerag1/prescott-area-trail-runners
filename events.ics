@@ -457,6 +457,44 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20230501T112336Z
+LAST-MODIFIED:20230501T112336Z
+CREATED:20230430T211329Z
+SEQUENCE:51007
+ORGANIZER;CN=Erin Mann:MAILTO:noreply@facebookmail.com
+DTSTART:20230528T130000Z
+DTEND:20230528T190000Z
+UID:e1269193633981575@facebook.com
+SUMMARY:Loop the Butte
+LOCATION:Thumb Butte
+URL:https://www.facebook.com/events/1269193633981575/
+DESCRIPTION:We hope you join us Sunday May 28t
+ h to Loop The Butte as many times 
+ as you can (wish)! This is a FREE 
+ event! Everyone is invited to join
+ !Drinks\, Snacks\, Music and Shade (
+ some) will be provided! This is al
+ so a fundraiser for The Launch Pad
+  Teen Center’s Trek For Teens Ri
+ m To Rim Hike held in October. Any
+ one donating $50 through this link
+  and completing 5 (five) 2 mile lo
+ ops will receive a pair of #Goodr 
+ Grand Canyon Sunnies! Any donation
+ s are appreciated!\n\nhttps://give.t
+ helaunchpadteencenter.org/fundrais
+ er/4603968\n\nThe Launch Pad Teen Ce
+ nter is an Arizona Qualifying Char
+ itable Organization\, which means y
+ our contribution is a TAX CREDIT (
+ $400/$800). If you have questions\,
+  let me know.\n\nhttps://www.faceboo
+ k.com/events/1269193633981575/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20230418T230715Z
 LAST-MODIFIED:20230418T230715Z
 CREATED:20230418T230715Z
@@ -645,6 +683,29 @@ DESCRIPTION:PLEASE READ THIS DESCRIPTION. \nWe
  we stop for everyone at every inte
  rsection). \n\n\n\nhttps://www.faceboo
  k.com/events/170999295505361/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230425T200937Z
+LAST-MODIFIED:20230425T200937Z
+CREATED:20230424T180045Z
+SEQUENCE:94132
+ORGANIZER;CN=Andrew Baker:MAILTO:bakerag1@gmail.com
+DTSTART:20230429T180000Z
+DTEND:20230429T210000Z
+UID:e963347341339395@facebook.com
+SUMMARY:outer loop cleanup
+LOCATION:Old Stage Stop
+URL:https://www.facebook.com/events/963347341339395/
+DESCRIPTION:Clean up our mile of highway\, meet
+  in the parking lot of Old Stage S
+ top/Chubby Chucks at 11 and we'll 
+ work out transportation. We'll fig
+ ure out a lunch or beer spot after
+  cleaning up.\n\nhttps://www.faceboo
+ k.com/events/963347341339395/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
@@ -871,30 +932,6 @@ DESCRIPTION:PLEASE READ THIS DESCRIPTION. \nWe
  2.446492\nExpect 5.5 miles\n\nhttps:/
  /www.facebook.com/events/680689747
  164211/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230301T225510Z
-LAST-MODIFIED:20230301T225510Z
-CREATED:20230301T225510Z
-SEQUENCE:0
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20230329T003000Z
-DTEND:20230329T033000Z
-UID:e211738738005666@facebook.com
-SUMMARY:Tuesday Group Run- White Rock
-URL:https://www.facebook.com/events/211738738005666/
-DESCRIPTION:We will meet at White Rock Parking
-  lot (link here https://goo.gl/map
- s/YN2uMvQnyQWTM9JK7) at 5:30pm. \n\n
- No-drop group run of approximately
-  5 miles. No-drop means we stop at
-  every intersection and wait for e
- veryone. \n\nBring a headlamp!\n\nhttp
- s://www.facebook.com/events/211738
- 738005666/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
