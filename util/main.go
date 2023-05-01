@@ -16,8 +16,14 @@ import (
 const outputFmt = `---
 title: "%v"
 date: %v
+startdate: %v
+enddate: %v
 external_url: %v
+layout: %v
+location: %v
+feature-img: "assets/img/big-trail.jpg"
 ---
+
 %v
 `
 
@@ -92,7 +98,25 @@ func addCalendarItems() {
 		if err != nil {
 			log.Fatal(err)
 		}
+
+		layout := "post"
+		if strings.Contains(description, "#boost") {
+			layout = "advertised_event"
+			description = strings.ReplaceAll(description, "#boost", "")
+		}
+
+		description = "starting at: " + e.Start.Local().Format("2006-01-02 15:04") + "<br>" + "until: " + e.End.Local().Format("2006-01-02 15:04") + "<br>" + "<a href=\"" + uri + "\">more info on FB</a><br><br>" + description
+
 		log.Printf("creating event: %s: %s - %s\n", e.Start.Local().Format("2006-01-02"), e.Uid, summary)
-		cal.Write([]byte(fmt.Sprintf(outputFmt, summary, e.Start.Local().Format("2006-01-02 15:04"), uri, description)))
+		cal.Write([]byte(
+			fmt.Sprintf(outputFmt,
+				summary,
+				time.Now().Format("2006-01-02 15:04"),
+				e.Start.Local().Format("2006-01-02 15:04"),
+				e.End.Local().Format("2006-01-02 15:04"),
+				uri,
+				layout,
+				e.Location,
+				description)))
 	}
 }
