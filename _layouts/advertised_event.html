@@ -2,40 +2,34 @@
 layout: post
 feature-img: "/assets/img/logo-large.jpg"
 ---
-<!DOCTYPE html>
-<!--
-    Type on Strap jekyll theme v2.3.7
-    Theme free for personal and commercial use under the MIT license
-    https://github.com/sylhare/Type-on-Strap/blob/master/LICENSE
--->
-
-    <script type="application/ld+json">
-      {
-        "@context": "https://schema.org",
-        "@type": "Event",
-        "name": "{{ page.title }}",
-        "startDate": "{{ page.date }}",
-        "endDate": "2023-05-07T18:00-07:00",
-        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "eventStatus": "https://schema.org/EventScheduled",
-        "location": {
-          "@type": "Place",
-          "name": "{{ page.location }}",
-          "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "{{ page.location }}",
-            "addressLocality": "Prescott",
-            "addressRegion": "AZ",
-            "addressCountry": "US"
-          }
-        },
-        "description": "{{ page.title }}",
-        
-        "organizer": {
-          "@type": "Organization",
-          "name": "Prescott Area Trail Runners",
-          "url": "https://prescottareatrailrunners.com"
-        }
+{{ page.content }}
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "{{ page.title }}",
+    "startDate": "{{ page.date }}",
+    "endDate": "2023-05-07T18:00-07:00",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "Place",
+      "name": "{{ page.location }}",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "{{ page.location }}",
+        "addressLocality": "Prescott",
+        "addressRegion": "AZ",
+        "addressCountry": "US"
       }
-     </script>
+    },
+    "description": "{{ page.title }}",
+    
+    "organizer": {
+      "@type": "Organization",
+      "name": "Prescott Area Trail Runners",
+      "url": "https://prescottareatrailrunners.com"
+    }
+  }
+  </script>
  
