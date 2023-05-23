@@ -7,10 +7,126 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-DTSTAMP:20230418T230715Z
-LAST-MODIFIED:20230418T230715Z
+DTSTAMP:20230523T205325Z
+LAST-MODIFIED:20230523T205325Z
+CREATED:20230523T205225Z
+SEQUENCE:60
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20231020T003000Z
+DTEND:20231020T020000Z
+UID:e204762682388668@facebook.com
+SUMMARY:PATR Thursday Night Social Run
+LOCATION:Pioneer Park In Prescott Az
+URL:https://www.facebook.com/events/204762669055336/?event_time_id=204762682388668
+DESCRIPTION:Thursday Night Social Run 5:30 Pio
+ neer Park.  Come and run a couple 
+ miles on the local trails and then
+  hang out and socialize afterwards
+ .  Feel free to bring drinks or sn
+ acks. Newcomers/visitors welcome!!
+   We’ll meet at the ramada at th
+ e north corner of the parking lot\,
+  just to the west of the baseball 
+ complex.  Potluck first Thursday o
+ f the month.\n\nhttps://www.facebook
+ .com/events/204762669055336/?event
+ _time_id=204762682388668
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230523T205325Z
+LAST-MODIFIED:20230523T205325Z
+CREATED:20230523T205225Z
+SEQUENCE:60
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20231013T003000Z
+DTEND:20231013T020000Z
+UID:e204762745721995@facebook.com
+SUMMARY:PATR Thursday Night Social Run
+LOCATION:Pioneer Park In Prescott Az
+URL:https://www.facebook.com/events/204762669055336/?event_time_id=204762745721995
+DESCRIPTION:Thursday Night Social Run 5:30 Pio
+ neer Park.  Come and run a couple 
+ miles on the local trails and then
+  hang out and socialize afterwards
+ .  Feel free to bring drinks or sn
+ acks. Newcomers/visitors welcome!!
+   We’ll meet at the ramada at th
+ e north corner of the parking lot\,
+  just to the west of the baseball 
+ complex.  Potluck first Thursday o
+ f the month.\n\nhttps://www.facebook
+ .com/events/204762669055336/?event
+ _time_id=204762745721995
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230523T205325Z
+LAST-MODIFIED:20230523T205325Z
+CREATED:20230523T205225Z
+SEQUENCE:60
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20231006T003000Z
+DTEND:20231006T020000Z
+UID:e204762739055329@facebook.com
+SUMMARY:PATR Thursday Night Social Run
+LOCATION:Pioneer Park In Prescott Az
+URL:https://www.facebook.com/events/204762669055336/?event_time_id=204762739055329
+DESCRIPTION:Thursday Night Social Run 5:30 Pio
+ neer Park.  Come and run a couple 
+ miles on the local trails and then
+  hang out and socialize afterwards
+ .  Feel free to bring drinks or sn
+ acks. Newcomers/visitors welcome!!
+   We’ll meet at the ramada at th
+ e north corner of the parking lot\,
+  just to the west of the baseball 
+ complex.  Potluck first Thursday o
+ f the month.\n\nhttps://www.facebook
+ .com/events/204762669055336/?event
+ _time_id=204762739055329
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230523T205325Z
+LAST-MODIFIED:20230523T205325Z
+CREATED:20230523T205225Z
+SEQUENCE:60
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20230929T003000Z
+DTEND:20230929T020000Z
+UID:e204762742388662@facebook.com
+SUMMARY:PATR Thursday Night Social Run
+LOCATION:Pioneer Park In Prescott Az
+URL:https://www.facebook.com/events/204762669055336/?event_time_id=204762742388662
+DESCRIPTION:Thursday Night Social Run 5:30 Pio
+ neer Park.  Come and run a couple 
+ miles on the local trails and then
+  hang out and socialize afterwards
+ .  Feel free to bring drinks or sn
+ acks. Newcomers/visitors welcome!!
+   We’ll meet at the ramada at th
+ e north corner of the parking lot\,
+  just to the west of the baseball 
+ complex.  Potluck first Thursday o
+ f the month.\n\nhttps://www.facebook
+ .com/events/204762669055336/?event
+ _time_id=204762742388662
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230523T170829Z
+LAST-MODIFIED:20230523T170829Z
 CREATED:20230418T230715Z
-SEQUENCE:0
+SEQUENCE:3002474
 ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
 DTSTART:20230927T140000Z
 DTEND:20230927T150000Z
@@ -19,7 +135,7 @@ SUMMARY:Vert Club
 LOCATION:Thumb Butte Mountain
 URL:https://www.facebook.com/events/531814112443086/?event_time_id=531814115776419
 DESCRIPTION:Vert Club is back!! Every Wednesda
- y at 0700 (parking is free on Wed)
+ y at 0600 (parking is free on Wed)
   … meet in the parking lot and d
  o as many loops as you want!\n\nOn 1
   May the time will change to 0600 
@@ -32,10 +148,39 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230418T230715Z
-LAST-MODIFIED:20230418T230715Z
+DTSTAMP:20230523T205325Z
+LAST-MODIFIED:20230523T205325Z
+CREATED:20230523T205225Z
+SEQUENCE:60
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20230922T003000Z
+DTEND:20230922T020000Z
+UID:e204762712388665@facebook.com
+SUMMARY:PATR Thursday Night Social Run
+LOCATION:Pioneer Park In Prescott Az
+URL:https://www.facebook.com/events/204762669055336/?event_time_id=204762712388665
+DESCRIPTION:Thursday Night Social Run 5:30 Pio
+ neer Park.  Come and run a couple 
+ miles on the local trails and then
+  hang out and socialize afterwards
+ .  Feel free to bring drinks or sn
+ acks. Newcomers/visitors welcome!!
+   We’ll meet at the ramada at th
+ e north corner of the parking lot\,
+  just to the west of the baseball 
+ complex.  Potluck first Thursday o
+ f the month.\n\nhttps://www.facebook
+ .com/events/204762669055336/?event
+ _time_id=204762712388665
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230523T170829Z
+LAST-MODIFIED:20230523T170829Z
 CREATED:20230418T230715Z
-SEQUENCE:0
+SEQUENCE:3002474
 ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
 DTSTART:20230920T140000Z
 DTEND:20230920T150000Z
@@ -44,7 +189,7 @@ SUMMARY:Vert Club
 LOCATION:Thumb Butte Mountain
 URL:https://www.facebook.com/events/531814112443086/?event_time_id=531814165776414
 DESCRIPTION:Vert Club is back!! Every Wednesda
- y at 0700 (parking is free on Wed)
+ y at 0600 (parking is free on Wed)
   … meet in the parking lot and d
  o as many loops as you want!\n\nOn 1
   May the time will change to 0600 
@@ -57,10 +202,39 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230418T230715Z
-LAST-MODIFIED:20230418T230715Z
+DTSTAMP:20230523T205325Z
+LAST-MODIFIED:20230523T205325Z
+CREATED:20230523T205225Z
+SEQUENCE:60
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20230915T003000Z
+DTEND:20230915T020000Z
+UID:e204762722388664@facebook.com
+SUMMARY:PATR Thursday Night Social Run
+LOCATION:Pioneer Park In Prescott Az
+URL:https://www.facebook.com/events/204762669055336/?event_time_id=204762722388664
+DESCRIPTION:Thursday Night Social Run 5:30 Pio
+ neer Park.  Come and run a couple 
+ miles on the local trails and then
+  hang out and socialize afterwards
+ .  Feel free to bring drinks or sn
+ acks. Newcomers/visitors welcome!!
+   We’ll meet at the ramada at th
+ e north corner of the parking lot\,
+  just to the west of the baseball 
+ complex.  Potluck first Thursday o
+ f the month.\n\nhttps://www.facebook
+ .com/events/204762669055336/?event
+ _time_id=204762722388664
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230523T170829Z
+LAST-MODIFIED:20230523T170829Z
 CREATED:20230418T230715Z
-SEQUENCE:0
+SEQUENCE:3002474
 ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
 DTSTART:20230913T140000Z
 DTEND:20230913T150000Z
@@ -69,7 +243,7 @@ SUMMARY:Vert Club
 LOCATION:Thumb Butte Mountain
 URL:https://www.facebook.com/events/531814112443086/?event_time_id=531814192443078
 DESCRIPTION:Vert Club is back!! Every Wednesda
- y at 0700 (parking is free on Wed)
+ y at 0600 (parking is free on Wed)
   … meet in the parking lot and d
  o as many loops as you want!\n\nOn 1
   May the time will change to 0600 
@@ -82,10 +256,39 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230418T230715Z
-LAST-MODIFIED:20230418T230715Z
+DTSTAMP:20230523T205325Z
+LAST-MODIFIED:20230523T205325Z
+CREATED:20230523T205225Z
+SEQUENCE:60
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20230908T003000Z
+DTEND:20230908T020000Z
+UID:e204762725721997@facebook.com
+SUMMARY:PATR Thursday Night Social Run
+LOCATION:Pioneer Park In Prescott Az
+URL:https://www.facebook.com/events/204762669055336/?event_time_id=204762725721997
+DESCRIPTION:Thursday Night Social Run 5:30 Pio
+ neer Park.  Come and run a couple 
+ miles on the local trails and then
+  hang out and socialize afterwards
+ .  Feel free to bring drinks or sn
+ acks. Newcomers/visitors welcome!!
+   We’ll meet at the ramada at th
+ e north corner of the parking lot\,
+  just to the west of the baseball 
+ complex.  Potluck first Thursday o
+ f the month.\n\nhttps://www.facebook
+ .com/events/204762669055336/?event
+ _time_id=204762725721997
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230523T170829Z
+LAST-MODIFIED:20230523T170829Z
 CREATED:20230418T230715Z
-SEQUENCE:0
+SEQUENCE:3002474
 ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
 DTSTART:20230906T140000Z
 DTEND:20230906T150000Z
@@ -94,7 +297,7 @@ SUMMARY:Vert Club
 LOCATION:Thumb Butte Mountain
 URL:https://www.facebook.com/events/531814112443086/?event_time_id=531814159109748
 DESCRIPTION:Vert Club is back!! Every Wednesda
- y at 0700 (parking is free on Wed)
+ y at 0600 (parking is free on Wed)
   … meet in the parking lot and d
  o as many loops as you want!\n\nOn 1
   May the time will change to 0600 
@@ -107,326 +310,428 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230418T230715Z
-LAST-MODIFIED:20230418T230715Z
-CREATED:20230418T230715Z
-SEQUENCE:0
-ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
-DTSTART:20230830T140000Z
-DTEND:20230830T150000Z
-UID:e531814172443080@facebook.com
-SUMMARY:Vert Club
-LOCATION:Thumb Butte Mountain
-URL:https://www.facebook.com/events/531814112443086/?event_time_id=531814172443080
-DESCRIPTION:Vert Club is back!! Every Wednesda
- y at 0700 (parking is free on Wed)
-  … meet in the parking lot and d
- o as many loops as you want!\n\nOn 1
-  May the time will change to 0600 
- so we can beat the heat.\n\nhttps://
- www.facebook.com/events/5318141124
- 43086/?event_time_id=5318141724430
- 80
+DTSTAMP:20230523T205325Z
+LAST-MODIFIED:20230523T205325Z
+CREATED:20230523T205225Z
+SEQUENCE:60
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20230901T003000Z
+DTEND:20230901T020000Z
+UID:e204762702388666@facebook.com
+SUMMARY:PATR Thursday Night Social Run
+LOCATION:Pioneer Park In Prescott Az
+URL:https://www.facebook.com/events/204762669055336/?event_time_id=204762702388666
+DESCRIPTION:Thursday Night Social Run 5:30 Pio
+ neer Park.  Come and run a couple 
+ miles on the local trails and then
+  hang out and socialize afterwards
+ .  Feel free to bring drinks or sn
+ acks. Newcomers/visitors welcome!!
+   We’ll meet at the ramada at th
+ e north corner of the parking lot\,
+  just to the west of the baseball 
+ complex.  Potluck first Thursday o
+ f the month.\n\nhttps://www.facebook
+ .com/events/204762669055336/?event
+ _time_id=204762702388666
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230418T230715Z
-LAST-MODIFIED:20230418T230715Z
-CREATED:20230418T230715Z
-SEQUENCE:0
-ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
-DTSTART:20230823T140000Z
-DTEND:20230823T150000Z
-UID:e531814169109747@facebook.com
-SUMMARY:Vert Club
-LOCATION:Thumb Butte Mountain
-URL:https://www.facebook.com/events/531814112443086/?event_time_id=531814169109747
-DESCRIPTION:Vert Club is back!! Every Wednesda
- y at 0700 (parking is free on Wed)
-  … meet in the parking lot and d
- o as many loops as you want!\n\nOn 1
-  May the time will change to 0600 
- so we can beat the heat.\n\nhttps://
- www.facebook.com/events/5318141124
- 43086/?event_time_id=5318141691097
- 47
+DTSTAMP:20230523T205325Z
+LAST-MODIFIED:20230523T205325Z
+CREATED:20230523T205225Z
+SEQUENCE:60
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20230825T003000Z
+DTEND:20230825T020000Z
+UID:e204762735721996@facebook.com
+SUMMARY:PATR Thursday Night Social Run
+LOCATION:Pioneer Park In Prescott Az
+URL:https://www.facebook.com/events/204762669055336/?event_time_id=204762735721996
+DESCRIPTION:Thursday Night Social Run 5:30 Pio
+ neer Park.  Come and run a couple 
+ miles on the local trails and then
+  hang out and socialize afterwards
+ .  Feel free to bring drinks or sn
+ acks. Newcomers/visitors welcome!!
+   We’ll meet at the ramada at th
+ e north corner of the parking lot\,
+  just to the west of the baseball 
+ complex.  Potluck first Thursday o
+ f the month.\n\nhttps://www.facebook
+ .com/events/204762669055336/?event
+ _time_id=204762735721996
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230418T230715Z
-LAST-MODIFIED:20230418T230715Z
-CREATED:20230418T230715Z
-SEQUENCE:0
-ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
-DTSTART:20230816T140000Z
-DTEND:20230816T150000Z
-UID:e531814162443081@facebook.com
-SUMMARY:Vert Club
-LOCATION:Thumb Butte Mountain
-URL:https://www.facebook.com/events/531814112443086/?event_time_id=531814162443081
-DESCRIPTION:Vert Club is back!! Every Wednesda
- y at 0700 (parking is free on Wed)
-  … meet in the parking lot and d
- o as many loops as you want!\n\nOn 1
-  May the time will change to 0600 
- so we can beat the heat.\n\nhttps://
- www.facebook.com/events/5318141124
- 43086/?event_time_id=5318141624430
- 81
+DTSTAMP:20230523T205325Z
+LAST-MODIFIED:20230523T205325Z
+CREATED:20230523T205225Z
+SEQUENCE:60
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20230818T003000Z
+DTEND:20230818T020000Z
+UID:e204762729055330@facebook.com
+SUMMARY:PATR Thursday Night Social Run
+LOCATION:Pioneer Park In Prescott Az
+URL:https://www.facebook.com/events/204762669055336/?event_time_id=204762729055330
+DESCRIPTION:Thursday Night Social Run 5:30 Pio
+ neer Park.  Come and run a couple 
+ miles on the local trails and then
+  hang out and socialize afterwards
+ .  Feel free to bring drinks or sn
+ acks. Newcomers/visitors welcome!!
+   We’ll meet at the ramada at th
+ e north corner of the parking lot\,
+  just to the west of the baseball 
+ complex.  Potluck first Thursday o
+ f the month.\n\nhttps://www.facebook
+ .com/events/204762669055336/?event
+ _time_id=204762729055330
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230418T230715Z
-LAST-MODIFIED:20230418T230715Z
-CREATED:20230418T230715Z
-SEQUENCE:0
-ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
-DTSTART:20230809T140000Z
-DTEND:20230809T150000Z
-UID:e531814145776416@facebook.com
-SUMMARY:Vert Club
-LOCATION:Thumb Butte Mountain
-URL:https://www.facebook.com/events/531814112443086/?event_time_id=531814145776416
-DESCRIPTION:Vert Club is back!! Every Wednesda
- y at 0700 (parking is free on Wed)
-  … meet in the parking lot and d
- o as many loops as you want!\n\nOn 1
-  May the time will change to 0600 
- so we can beat the heat.\n\nhttps://
- www.facebook.com/events/5318141124
- 43086/?event_time_id=5318141457764
- 16
+DTSTAMP:20230523T205325Z
+LAST-MODIFIED:20230523T205325Z
+CREATED:20230523T205225Z
+SEQUENCE:60
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20230811T003000Z
+DTEND:20230811T020000Z
+UID:e204762715721998@facebook.com
+SUMMARY:PATR Thursday Night Social Run
+LOCATION:Pioneer Park In Prescott Az
+URL:https://www.facebook.com/events/204762669055336/?event_time_id=204762715721998
+DESCRIPTION:Thursday Night Social Run 5:30 Pio
+ neer Park.  Come and run a couple 
+ miles on the local trails and then
+  hang out and socialize afterwards
+ .  Feel free to bring drinks or sn
+ acks. Newcomers/visitors welcome!!
+   We’ll meet at the ramada at th
+ e north corner of the parking lot\,
+  just to the west of the baseball 
+ complex.  Potluck first Thursday o
+ f the month.\n\nhttps://www.facebook
+ .com/events/204762669055336/?event
+ _time_id=204762715721998
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230418T230715Z
-LAST-MODIFIED:20230418T230715Z
-CREATED:20230418T230715Z
-SEQUENCE:0
-ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
-DTSTART:20230802T140000Z
-DTEND:20230802T150000Z
-UID:e531814189109745@facebook.com
-SUMMARY:Vert Club
-LOCATION:Thumb Butte Mountain
-URL:https://www.facebook.com/events/531814112443086/?event_time_id=531814189109745
-DESCRIPTION:Vert Club is back!! Every Wednesda
- y at 0700 (parking is free on Wed)
-  … meet in the parking lot and d
- o as many loops as you want!\n\nOn 1
-  May the time will change to 0600 
- so we can beat the heat.\n\nhttps://
- www.facebook.com/events/5318141124
- 43086/?event_time_id=5318141891097
- 45
+DTSTAMP:20230523T205325Z
+LAST-MODIFIED:20230523T205325Z
+CREATED:20230523T205225Z
+SEQUENCE:60
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20230804T003000Z
+DTEND:20230804T020000Z
+UID:e204762705721999@facebook.com
+SUMMARY:PATR Thursday Night Social Run
+LOCATION:Pioneer Park In Prescott Az
+URL:https://www.facebook.com/events/204762669055336/?event_time_id=204762705721999
+DESCRIPTION:Thursday Night Social Run 5:30 Pio
+ neer Park.  Come and run a couple 
+ miles on the local trails and then
+  hang out and socialize afterwards
+ .  Feel free to bring drinks or sn
+ acks. Newcomers/visitors welcome!!
+   We’ll meet at the ramada at th
+ e north corner of the parking lot\,
+  just to the west of the baseball 
+ complex.  Potluck first Thursday o
+ f the month.\n\nhttps://www.facebook
+ .com/events/204762669055336/?event
+ _time_id=204762705721999
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230418T230715Z
-LAST-MODIFIED:20230418T230715Z
-CREATED:20230418T230715Z
-SEQUENCE:0
-ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
-DTSTART:20230726T140000Z
-DTEND:20230726T150000Z
-UID:e531814152443082@facebook.com
-SUMMARY:Vert Club
-LOCATION:Thumb Butte Mountain
-URL:https://www.facebook.com/events/531814112443086/?event_time_id=531814152443082
-DESCRIPTION:Vert Club is back!! Every Wednesda
- y at 0700 (parking is free on Wed)
-  … meet in the parking lot and d
- o as many loops as you want!\n\nOn 1
-  May the time will change to 0600 
- so we can beat the heat.\n\nhttps://
- www.facebook.com/events/5318141124
- 43086/?event_time_id=5318141524430
- 82
+DTSTAMP:20230523T205325Z
+LAST-MODIFIED:20230523T205325Z
+CREATED:20230523T205225Z
+SEQUENCE:60
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20230728T003000Z
+DTEND:20230728T020000Z
+UID:e204762732388663@facebook.com
+SUMMARY:PATR Thursday Night Social Run
+LOCATION:Pioneer Park In Prescott Az
+URL:https://www.facebook.com/events/204762669055336/?event_time_id=204762732388663
+DESCRIPTION:Thursday Night Social Run 5:30 Pio
+ neer Park.  Come and run a couple 
+ miles on the local trails and then
+  hang out and socialize afterwards
+ .  Feel free to bring drinks or sn
+ acks. Newcomers/visitors welcome!!
+   We’ll meet at the ramada at th
+ e north corner of the parking lot\,
+  just to the west of the baseball 
+ complex.  Potluck first Thursday o
+ f the month.\n\nhttps://www.facebook
+ .com/events/204762669055336/?event
+ _time_id=204762732388663
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230418T230715Z
-LAST-MODIFIED:20230418T230715Z
-CREATED:20230418T230715Z
-SEQUENCE:0
-ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
-DTSTART:20230719T140000Z
-DTEND:20230719T150000Z
-UID:e531814142443083@facebook.com
-SUMMARY:Vert Club
-LOCATION:Thumb Butte Mountain
-URL:https://www.facebook.com/events/531814112443086/?event_time_id=531814142443083
-DESCRIPTION:Vert Club is back!! Every Wednesda
- y at 0700 (parking is free on Wed)
-  … meet in the parking lot and d
- o as many loops as you want!\n\nOn 1
-  May the time will change to 0600 
- so we can beat the heat.\n\nhttps://
- www.facebook.com/events/5318141124
- 43086/?event_time_id=5318141424430
- 83
+DTSTAMP:20230523T205325Z
+LAST-MODIFIED:20230523T205325Z
+CREATED:20230523T205225Z
+SEQUENCE:60
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20230721T003000Z
+DTEND:20230721T020000Z
+UID:e204762709055332@facebook.com
+SUMMARY:PATR Thursday Night Social Run
+LOCATION:Pioneer Park In Prescott Az
+URL:https://www.facebook.com/events/204762669055336/?event_time_id=204762709055332
+DESCRIPTION:Thursday Night Social Run 5:30 Pio
+ neer Park.  Come and run a couple 
+ miles on the local trails and then
+  hang out and socialize afterwards
+ .  Feel free to bring drinks or sn
+ acks. Newcomers/visitors welcome!!
+   We’ll meet at the ramada at th
+ e north corner of the parking lot\,
+  just to the west of the baseball 
+ complex.  Potluck first Thursday o
+ f the month.\n\nhttps://www.facebook
+ .com/events/204762669055336/?event
+ _time_id=204762709055332
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230418T230715Z
-LAST-MODIFIED:20230418T230715Z
-CREATED:20230418T230715Z
-SEQUENCE:0
-ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
-DTSTART:20230712T140000Z
-DTEND:20230712T150000Z
-UID:e531814155776415@facebook.com
-SUMMARY:Vert Club
-LOCATION:Thumb Butte Mountain
-URL:https://www.facebook.com/events/531814112443086/?event_time_id=531814155776415
-DESCRIPTION:Vert Club is back!! Every Wednesda
- y at 0700 (parking is free on Wed)
-  … meet in the parking lot and d
- o as many loops as you want!\n\nOn 1
-  May the time will change to 0600 
- so we can beat the heat.\n\nhttps://
- www.facebook.com/events/5318141124
- 43086/?event_time_id=5318141557764
- 15
+DTSTAMP:20230523T205325Z
+LAST-MODIFIED:20230523T205325Z
+CREATED:20230523T205225Z
+SEQUENCE:60
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20230714T003000Z
+DTEND:20230714T020000Z
+UID:e204762719055331@facebook.com
+SUMMARY:PATR Thursday Night Social Run
+LOCATION:Pioneer Park In Prescott Az
+URL:https://www.facebook.com/events/204762669055336/?event_time_id=204762719055331
+DESCRIPTION:Thursday Night Social Run 5:30 Pio
+ neer Park.  Come and run a couple 
+ miles on the local trails and then
+  hang out and socialize afterwards
+ .  Feel free to bring drinks or sn
+ acks. Newcomers/visitors welcome!!
+   We’ll meet at the ramada at th
+ e north corner of the parking lot\,
+  just to the west of the baseball 
+ complex.  Potluck first Thursday o
+ f the month.\n\nhttps://www.facebook
+ .com/events/204762669055336/?event
+ _time_id=204762719055331
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230418T230715Z
-LAST-MODIFIED:20230418T230715Z
-CREATED:20230418T230715Z
-SEQUENCE:0
-ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
-DTSTART:20230705T140000Z
-DTEND:20230705T150000Z
-UID:e531814195776411@facebook.com
-SUMMARY:Vert Club
-LOCATION:Thumb Butte Mountain
-URL:https://www.facebook.com/events/531814112443086/?event_time_id=531814195776411
-DESCRIPTION:Vert Club is back!! Every Wednesda
- y at 0700 (parking is free on Wed)
-  … meet in the parking lot and d
- o as many loops as you want!\n\nOn 1
-  May the time will change to 0600 
- so we can beat the heat.\n\nhttps://
- www.facebook.com/events/5318141124
- 43086/?event_time_id=5318141957764
- 11
+DTSTAMP:20230523T205325Z
+LAST-MODIFIED:20230523T205325Z
+CREATED:20230523T205225Z
+SEQUENCE:60
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20230707T003000Z
+DTEND:20230707T020000Z
+UID:e204762675722002@facebook.com
+SUMMARY:PATR Thursday Night Social Run
+LOCATION:Pioneer Park In Prescott Az
+URL:https://www.facebook.com/events/204762669055336/?event_time_id=204762675722002
+DESCRIPTION:Thursday Night Social Run 5:30 Pio
+ neer Park.  Come and run a couple 
+ miles on the local trails and then
+  hang out and socialize afterwards
+ .  Feel free to bring drinks or sn
+ acks. Newcomers/visitors welcome!!
+   We’ll meet at the ramada at th
+ e north corner of the parking lot\,
+  just to the west of the baseball 
+ complex.  Potluck first Thursday o
+ f the month.\n\nhttps://www.facebook
+ .com/events/204762669055336/?event
+ _time_id=204762675722002
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230418T230715Z
-LAST-MODIFIED:20230418T230715Z
-CREATED:20230418T230715Z
-SEQUENCE:0
-ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
-DTSTART:20230628T140000Z
-DTEND:20230628T150000Z
-UID:e531814149109749@facebook.com
-SUMMARY:Vert Club
-LOCATION:Thumb Butte Mountain
-URL:https://www.facebook.com/events/531814112443086/?event_time_id=531814149109749
-DESCRIPTION:Vert Club is back!! Every Wednesda
- y at 0700 (parking is free on Wed)
-  … meet in the parking lot and d
- o as many loops as you want!\n\nOn 1
-  May the time will change to 0600 
- so we can beat the heat.\n\nhttps://
- www.facebook.com/events/5318141124
- 43086/?event_time_id=5318141491097
- 49
+DTSTAMP:20230516T004837Z
+LAST-MODIFIED:20230516T004837Z
+CREATED:20230515T212645Z
+SEQUENCE:12112
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20230705T003000Z
+DTEND:20230705T033000Z
+UID:e1275894676615201@facebook.com
+SUMMARY:Tuesday Group Run- Granite Basin
+URL:https://www.facebook.com/events/1275894676615201/
+DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
+  will meet at the cattleguard (lin
+ k here https://goo.gl/maps/CnyTC6T
+ oppAjWTcn6) at 5:30pm. \n\nExpect 5-
+ 6 miles\, all downhill (except for 
+ the uphills). No drop run (we stop
+  for everyone at every intersectio
+ n). \n\n\nhttps://www.facebook.com/ev
+ ents/1275894676615201/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230418T230715Z
-LAST-MODIFIED:20230418T230715Z
-CREATED:20230418T230715Z
-SEQUENCE:0
-ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
-DTSTART:20230621T140000Z
-DTEND:20230621T150000Z
-UID:e531814185776412@facebook.com
-SUMMARY:Vert Club
-LOCATION:Thumb Butte Mountain
-URL:https://www.facebook.com/events/531814112443086/?event_time_id=531814185776412
-DESCRIPTION:Vert Club is back!! Every Wednesda
- y at 0700 (parking is free on Wed)
-  … meet in the parking lot and d
- o as many loops as you want!\n\nOn 1
-  May the time will change to 0600 
- so we can beat the heat.\n\nhttps://
- www.facebook.com/events/5318141124
- 43086/?event_time_id=5318141857764
- 12
+DTSTAMP:20230523T205325Z
+LAST-MODIFIED:20230523T205325Z
+CREATED:20230523T205225Z
+SEQUENCE:60
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20230630T003000Z
+DTEND:20230630T020000Z
+UID:e204762689055334@facebook.com
+SUMMARY:PATR Thursday Night Social Run
+LOCATION:Pioneer Park In Prescott Az
+URL:https://www.facebook.com/events/204762669055336/?event_time_id=204762689055334
+DESCRIPTION:Thursday Night Social Run 5:30 Pio
+ neer Park.  Come and run a couple 
+ miles on the local trails and then
+  hang out and socialize afterwards
+ .  Feel free to bring drinks or sn
+ acks. Newcomers/visitors welcome!!
+   We’ll meet at the ramada at th
+ e north corner of the parking lot\,
+  just to the west of the baseball 
+ complex.  Potluck first Thursday o
+ f the month.\n\nhttps://www.facebook
+ .com/events/204762669055336/?event
+ _time_id=204762689055334
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230418T230715Z
-LAST-MODIFIED:20230418T230715Z
-CREATED:20230418T230715Z
-SEQUENCE:0
-ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
-DTSTART:20230614T140000Z
-DTEND:20230614T150000Z
-UID:e531814132443084@facebook.com
-SUMMARY:Vert Club
-LOCATION:Thumb Butte Mountain
-URL:https://www.facebook.com/events/531814112443086/?event_time_id=531814132443084
-DESCRIPTION:Vert Club is back!! Every Wednesda
- y at 0700 (parking is free on Wed)
-  … meet in the parking lot and d
- o as many loops as you want!\n\nOn 1
-  May the time will change to 0600 
- so we can beat the heat.\n\nhttps://
- www.facebook.com/events/5318141124
- 43086/?event_time_id=5318141324430
- 84
+DTSTAMP:20230523T205325Z
+LAST-MODIFIED:20230523T205325Z
+CREATED:20230523T205225Z
+SEQUENCE:60
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20230623T003000Z
+DTEND:20230623T020000Z
+UID:e204762685722001@facebook.com
+SUMMARY:PATR Thursday Night Social Run
+LOCATION:Pioneer Park In Prescott Az
+URL:https://www.facebook.com/events/204762669055336/?event_time_id=204762685722001
+DESCRIPTION:Thursday Night Social Run 5:30 Pio
+ neer Park.  Come and run a couple 
+ miles on the local trails and then
+  hang out and socialize afterwards
+ .  Feel free to bring drinks or sn
+ acks. Newcomers/visitors welcome!!
+   We’ll meet at the ramada at th
+ e north corner of the parking lot\,
+  just to the west of the baseball 
+ complex.  Potluck first Thursday o
+ f the month.\n\nhttps://www.facebook
+ .com/events/204762669055336/?event
+ _time_id=204762685722001
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230418T230715Z
-LAST-MODIFIED:20230418T230715Z
-CREATED:20230418T230715Z
-SEQUENCE:0
-ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
-DTSTART:20230607T140000Z
-DTEND:20230607T150000Z
-UID:e531814182443079@facebook.com
-SUMMARY:Vert Club
-LOCATION:Thumb Butte Mountain
-URL:https://www.facebook.com/events/531814112443086/?event_time_id=531814182443079
-DESCRIPTION:Vert Club is back!! Every Wednesda
- y at 0700 (parking is free on Wed)
-  … meet in the parking lot and d
- o as many loops as you want!\n\nOn 1
-  May the time will change to 0600 
- so we can beat the heat.\n\nhttps://
- www.facebook.com/events/5318141124
- 43086/?event_time_id=5318141824430
- 79
+DTSTAMP:20230518T134320Z
+LAST-MODIFIED:20230518T134320Z
+CREATED:20230515T211817Z
+SEQUENCE:231903
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20230621T003000Z
+DTEND:20230621T033000Z
+UID:e1300428840897978@facebook.com
+SUMMARY:Tuesday Group Run- Flume Trail
+LOCATION:Flume Trail Watson Lake Dam
+URL:https://www.facebook.com/events/1300428840897978/
+DESCRIPTION:Flume and Watson Dam Trailhead\n\nMe
+ eting at 530. No drop run! (We sto
+ p at every intersection and wait f
+ or the whole group to catch up bef
+ ore running again - no runners lef
+ t behind!)\n\n34.602758579207425\, -1
+ 12.42099477438171\n2425-2461 E Gran
+ ite Dells Rd\, Prescott\, AZ 86301\n\n
+ *Jason leading\n\nhttps://www.facebo
+ ok.com/events/1300428840897978/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230523T205325Z
+LAST-MODIFIED:20230523T205325Z
+CREATED:20230523T205225Z
+SEQUENCE:60
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20230616T003000Z
+DTEND:20230616T020000Z
+UID:e204762695722000@facebook.com
+SUMMARY:PATR Thursday Night Social Run
+LOCATION:Pioneer Park In Prescott Az
+URL:https://www.facebook.com/events/204762669055336/?event_time_id=204762695722000
+DESCRIPTION:Thursday Night Social Run 5:30 Pio
+ neer Park.  Come and run a couple 
+ miles on the local trails and then
+  hang out and socialize afterwards
+ .  Feel free to bring drinks or sn
+ acks. Newcomers/visitors welcome!!
+   We’ll meet at the ramada at th
+ e north corner of the parking lot\,
+  just to the west of the baseball 
+ complex.  Potluck first Thursday o
+ f the month.\n\nhttps://www.facebook
+ .com/events/204762669055336/?event
+ _time_id=204762695722000
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230523T205325Z
+LAST-MODIFIED:20230523T205325Z
+CREATED:20230523T205225Z
+SEQUENCE:60
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20230609T003000Z
+DTEND:20230609T020000Z
+UID:e204762692388667@facebook.com
+SUMMARY:PATR Thursday Night Social Run
+LOCATION:Pioneer Park In Prescott Az
+URL:https://www.facebook.com/events/204762669055336/?event_time_id=204762692388667
+DESCRIPTION:Thursday Night Social Run 5:30 Pio
+ neer Park.  Come and run a couple 
+ miles on the local trails and then
+  hang out and socialize afterwards
+ .  Feel free to bring drinks or sn
+ acks. Newcomers/visitors welcome!!
+   We’ll meet at the ramada at th
+ e north corner of the parking lot\,
+  just to the west of the baseball 
+ complex.  Potluck first Thursday o
+ f the month.\n\nhttps://www.facebook
+ .com/events/204762669055336/?event
+ _time_id=204762692388667
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -456,26 +761,65 @@ STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230418T230715Z
-LAST-MODIFIED:20230418T230715Z
-CREATED:20230418T230715Z
-SEQUENCE:0
-ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
-DTSTART:20230531T140000Z
-DTEND:20230531T150000Z
-UID:e531814129109751@facebook.com
-SUMMARY:Vert Club
-LOCATION:Thumb Butte Mountain
-URL:https://www.facebook.com/events/531814112443086/?event_time_id=531814129109751
-DESCRIPTION:Vert Club is back!! Every Wednesda
- y at 0700 (parking is free on Wed)
-  … meet in the parking lot and d
- o as many loops as you want!\n\nOn 1
-  May the time will change to 0600 
- so we can beat the heat.\n\nhttps://
- www.facebook.com/events/5318141124
- 43086/?event_time_id=5318141291097
- 51
+DTSTAMP:20230523T205325Z
+LAST-MODIFIED:20230523T205325Z
+CREATED:20230523T205225Z
+SEQUENCE:60
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20230602T003000Z
+DTEND:20230602T020000Z
+UID:e204762672388669@facebook.com
+SUMMARY:PATR Thursday Night Social Run
+LOCATION:Pioneer Park In Prescott Az
+URL:https://www.facebook.com/events/204762669055336/?event_time_id=204762672388669
+DESCRIPTION:Thursday Night Social Run 5:30 Pio
+ neer Park.  Come and run a couple 
+ miles on the local trails and then
+  hang out and socialize afterwards
+ .  Feel free to bring drinks or sn
+ acks. Newcomers/visitors welcome!!
+   We’ll meet at the ramada at th
+ e north corner of the parking lot\,
+  just to the west of the baseball 
+ complex.  Potluck first Thursday o
+ f the month.\n\nhttps://www.facebook
+ .com/events/204762669055336/?event
+ _time_id=204762672388669
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230516T004720Z
+LAST-MODIFIED:20230516T004720Z
+CREATED:20230515T210044Z
+SEQUENCE:13596
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20230531T003000Z
+DTEND:20230531T033000Z
+UID:e526706309482598@facebook.com
+SUMMARY:Tuesday Group Run- Salida Gulch 
+LOCATION:34.53651798492487\, -112.3825075460
+ 2225
+URL:https://www.facebook.com/events/526706309482598/
+DESCRIPTION:Salida Gulch Trailhead\, Lynx Creek
+  Rd\, Prescott\, AZ 86303\n\nPLEASE RE
+ AD THIS DESCRIPTION. \n\nWe will mee
+ t here: 34.53651798492487\, -112.38
+ 250754602225 at 5:30pm. \n\nExpect 4
+ -5 miles\, all downhill (except for
+  the uphills). No drop run (we sto
+ p for everyone at every intersecti
+ on). \n\n*Cindy leading\n\n*** Make su
+ re your directions take you up Wal
+ ker Rd and then a left at the Lynx
+  Creek Ruins road and follow that 
+ to the end- sometimes the map dire
+ ctions send people thru a neighbor
+ hood in the back and there’s a g
+ ate blocking the road that way…\n
+ \nhttps://www.facebook.com/events/5
+ 26706309482598/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -519,19 +863,48 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230418T230715Z
-LAST-MODIFIED:20230418T230715Z
+DTSTAMP:20230523T205325Z
+LAST-MODIFIED:20230523T205325Z
+CREATED:20230523T205225Z
+SEQUENCE:60
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20230526T003000Z
+DTEND:20230526T020000Z
+UID:e204762699055333@facebook.com
+SUMMARY:PATR Thursday Night Social Run
+LOCATION:Pioneer Park In Prescott Az
+URL:https://www.facebook.com/events/204762669055336/?event_time_id=204762699055333
+DESCRIPTION:Thursday Night Social Run 5:30 Pio
+ neer Park.  Come and run a couple 
+ miles on the local trails and then
+  hang out and socialize afterwards
+ .  Feel free to bring drinks or sn
+ acks. Newcomers/visitors welcome!!
+   We’ll meet at the ramada at th
+ e north corner of the parking lot\,
+  just to the west of the baseball 
+ complex.  Potluck first Thursday o
+ f the month.\n\nhttps://www.facebook
+ .com/events/204762669055336/?event
+ _time_id=204762699055333
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230523T170829Z
+LAST-MODIFIED:20230523T170829Z
 CREATED:20230418T230715Z
-SEQUENCE:0
+SEQUENCE:3002474
 ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
-DTSTART:20230524T140000Z
-DTEND:20230524T150000Z
+DTSTART:20230524T130000Z
+DTEND:20230524T170000Z
 UID:e531814179109746@facebook.com
 SUMMARY:Vert Club
 LOCATION:Thumb Butte Mountain
 URL:https://www.facebook.com/events/531814112443086/?event_time_id=531814179109746
 DESCRIPTION:Vert Club is back!! Every Wednesda
- y at 0700 (parking is free on Wed)
+ y at 0600 (parking is free on Wed)
   … meet in the parking lot and d
  o as many loops as you want!\n\nOn 1
   May the time will change to 0600 
@@ -565,7 +938,7 @@ DESCRIPTION:We will meet at White Rock Parking
  /1466083457259691/
 CLASS:PUBLIC
 STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
+PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20230418T212314Z
@@ -605,10 +978,35 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230512T182046Z
-LAST-MODIFIED:20230512T182046Z
+DTSTAMP:20230519T200455Z
+LAST-MODIFIED:20230519T200455Z
+CREATED:20230509T204532Z
+SEQUENCE:861563
+ORGANIZER;CN=Whiskey Row Brew Club:MAILTO:noreply@facebookmail.com
+DTSTART:20230519T010000Z
+DTEND:20230519T040000Z
+UID:e1261046131186669@facebook.com
+SUMMARY:Club Meeting
+LOCATION:Park Plaza Liquor and Deli
+URL:https://www.facebook.com/events/1261046131186669/
+DESCRIPTION:Monthly Club Meeting\nThursday May 
+ 18\, 6pm\nPark Plaza Liquor & Deli\n\n
+ Prospective members welcome!\n\nHome
+ brew Equipment discussion\nAmerican
+  Wheat Comp\n\nlook for the table si
+ gn during happy hour \nfor more inf
+ ormation\n\n#prescottarizona #whiske
+ yrowprescott\n\nhttps://www.facebook
+ .com/events/1261046131186669/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230514T142459Z
+LAST-MODIFIED:20230514T142459Z
 CREATED:20230512T182046Z
-SEQUENCE:0
+SEQUENCE:158653
 ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
 DTSTART:20230519T003000Z
 DTEND:20230519T023000Z
@@ -622,17 +1020,20 @@ DESCRIPTION:Thursday Night Social Run 5:30 Pio
   and then hang out and socialize a
  fterwards.  Feel free to bring dri
  nks or snacks. Newcomers/visitors 
- welcome!!\n\nhttps://www.facebook.co
- m/events/214263364706693/
+ welcome!!  We’ll meet at the ram
+ ada at the north corner of the par
+ king lot\, just to the west of the 
+ baseball complex.\n\nhttps://www.fac
+ ebook.com/events/214263364706693/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230418T230715Z
-LAST-MODIFIED:20230418T230715Z
+DTSTAMP:20230523T170829Z
+LAST-MODIFIED:20230523T170829Z
 CREATED:20230418T230715Z
-SEQUENCE:0
+SEQUENCE:3002474
 ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
 DTSTART:20230517T140000Z
 DTEND:20230517T150000Z
@@ -641,7 +1042,7 @@ SUMMARY:Vert Club
 LOCATION:Thumb Butte Mountain
 URL:https://www.facebook.com/events/531814112443086/?event_time_id=531814175776413
 DESCRIPTION:Vert Club is back!! Every Wednesda
- y at 0700 (parking is free on Wed)
+ y at 0600 (parking is free on Wed)
   … meet in the parking lot and d
  o as many loops as you want!\n\nOn 1
   May the time will change to 0600 
@@ -702,10 +1103,10 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230418T230715Z
-LAST-MODIFIED:20230418T230715Z
+DTSTAMP:20230523T170829Z
+LAST-MODIFIED:20230523T170829Z
 CREATED:20230418T230715Z
-SEQUENCE:0
+SEQUENCE:3002474
 ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
 DTSTART:20230510T140000Z
 DTEND:20230510T150000Z
@@ -714,7 +1115,7 @@ SUMMARY:Vert Club
 LOCATION:Thumb Butte Mountain
 URL:https://www.facebook.com/events/531814112443086/?event_time_id=531814139109750
 DESCRIPTION:Vert Club is back!! Every Wednesda
- y at 0700 (parking is free on Wed)
+ y at 0600 (parking is free on Wed)
   … meet in the parking lot and d
  o as many loops as you want!\n\nOn 1
   May the time will change to 0600 
@@ -751,10 +1152,47 @@ STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230418T230715Z
-LAST-MODIFIED:20230418T230715Z
+DTSTAMP:20230519T200455Z
+LAST-MODIFIED:20230519T200455Z
+CREATED:20230426T165613Z
+SEQUENCE:1998522
+ORGANIZER;CN=Whiskey Row Brew Club:MAILTO:noreply@facebookmail.com
+DTSTART:20230507T170000Z
+DTEND:20230507T200000Z
+UID:e950850356263755@facebook.com
+SUMMARY:Brew Out - National Homebrew Day
+LOCATION:Wren House Prairie Patio 6396 Lear
+  Ln Prescott\, AZ 86301
+URL:https://www.facebook.com/events/950850356263755/
+DESCRIPTION:We're having a brew out at Wren Ho
+ use Prairie Patio to celebrate Nat
+ ional Homebrew Day!\n\nSunday\, May 7
+ \nWren House Prairie Patio\n6396 Lea
+ r Ln\nPrescott\, AZ 86301\n\nBrewing s
+ tarts at 10am (will continue well 
+ into the afternoon)\nIron Horse Gri
+ ll food truck will be there at som
+ e point\nPatio starts selling beer 
+ at 1pm\nPatio closes at 6:30\n\nThere
+  will be power and water available
+  for brewers. At least three brewe
+ rs will be brewing that day. If yo
+ u want to learn how to brew\, or ar
+ e just curious\, stop by and check 
+ it out. Let us know if you intend 
+ to brew\, if you want help brewing\,
+  or if you have any other question
+ s. \n\n\n\nhttps://www.facebook.com/ev
+ ents/950850356263755/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230523T170829Z
+LAST-MODIFIED:20230523T170829Z
 CREATED:20230418T230715Z
-SEQUENCE:0
+SEQUENCE:3002474
 ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
 DTSTART:20230503T140000Z
 DTEND:20230503T150000Z
@@ -763,7 +1201,7 @@ SUMMARY:Vert Club
 LOCATION:Thumb Butte Mountain
 URL:https://www.facebook.com/events/531814112443086/?event_time_id=531814135776417
 DESCRIPTION:Vert Club is back!! Every Wednesda
- y at 0700 (parking is free on Wed)
+ y at 0600 (parking is free on Wed)
   … meet in the parking lot and d
  o as many loops as you want!\n\nOn 1
   May the time will change to 0600 
@@ -795,6 +1233,29 @@ DESCRIPTION:PLEASE READ THIS DESCRIPTION. \nWe
  we stop for everyone at every inte
  rsection). \n\n\n\nhttps://www.faceboo
  k.com/events/170999295505361/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230425T200937Z
+LAST-MODIFIED:20230425T200937Z
+CREATED:20230424T180045Z
+SEQUENCE:94132
+ORGANIZER;CN=Andrew Baker:MAILTO:bakerag1@gmail.com
+DTSTART:20230429T180000Z
+DTEND:20230429T210000Z
+UID:e963347341339395@facebook.com
+SUMMARY:outer loop cleanup
+LOCATION:Old Stage Stop
+URL:https://www.facebook.com/events/963347341339395/
+DESCRIPTION:Clean up our mile of highway\, meet
+  in the parking lot of Old Stage S
+ top/Chubby Chucks at 11 and we'll 
+ work out transportation. We'll fig
+ ure out a lunch or beer spot after
+  cleaning up.\n\nhttps://www.faceboo
+ k.com/events/963347341339395/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
@@ -849,10 +1310,10 @@ STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230418T230715Z
-LAST-MODIFIED:20230418T230715Z
+DTSTAMP:20230523T170829Z
+LAST-MODIFIED:20230523T170829Z
 CREATED:20230418T230715Z
-SEQUENCE:0
+SEQUENCE:3002474
 ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
 DTSTART:20230426T140000Z
 DTEND:20230426T150000Z
@@ -861,7 +1322,7 @@ SUMMARY:Vert Club
 LOCATION:Thumb Butte Mountain
 URL:https://www.facebook.com/events/531814112443086/?event_time_id=531814122443085
 DESCRIPTION:Vert Club is back!! Every Wednesda
- y at 0700 (parking is free on Wed)
+ y at 0600 (parking is free on Wed)
   … meet in the parking lot and d
  o as many loops as you want!\n\nOn 1
   May the time will change to 0600 
@@ -899,73 +1360,5 @@ DESCRIPTION:Tackling the 396!\nPLEASE READ THIS
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230301T225804Z
-LAST-MODIFIED:20230301T225804Z
-CREATED:20230301T225804Z
-SEQUENCE:0
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20230418T103000Z
-DTEND:20230418T133000Z
-UID:e2946994318768818@facebook.com
-SUMMARY:Tuesday Group Run- Upper Spence Basin
-LOCATION:https://maps.apple.com/?ll=34.5819
- 04\,-112.548972&q=Dropped%20Pin&_ex
- t=EiYpaevoe+dJQUAxxHG9OnsjXMA558AO
- 2A1LQUBB5GbvdsgiXMBQBA%3D%3D&t=h
-URL:https://www.facebook.com/events/2946994318768818/
-DESCRIPTION:PLEASE READ THIS DESCRIPTION. \nWe 
- will meet at UPPER Parking lot alo
- ng Iron Springs\, where the circle 
- trail crosses the Iron Springs at 
- 5:30pm. Expect 4-6 miles. No drop 
- run (we stop for everyone at every
-  intersection). \n\nBring a headlamp
- !\n\nhttps://www.facebook.com/events
- /2946994318768818/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20221216T181914Z
-LAST-MODIFIED:20221216T181914Z
-CREATED:20221216T181914Z
-SEQUENCE:0
-ORGANIZER;CN=Aravaipa Running:MAILTO:noreply@facebookmail.com
-DTSTART:20230415T120000Z
-DTEND:20230415T150000Z
-UID:e1086192222051404@facebook.com
-SUMMARY:Whiskey Basin Trail Runs
-LOCATION:Prescott Arizona
-URL:https://www.facebook.com/events/1086192222051404/
-DESCRIPTION:It’s the 8th annual Whiskey Basi
- n Trail Runs! \n\nJoin us on April 1
- 5th in gorgeous Prescott for a poi
- nt to point 91k\, the “original”
-  courses for the 60k and 33k ( 🎉
- )\, a 1/2 Marathon or 10k with all 
- distances finishing at the gorgeou
- s Watson Lake with its spectacular
-  Granite Dell rock formations. All
-  distances are challenging and enj
- oy miles and miles of the incredib
- le Prescott Circle Trail. \nMake it
-  a weekend! Camp\, run\, stay and pl
- ay…there’s something for every
- one at Whiskey Basin and the charm
- ing town of Prescott with its famo
- us Whiskey Row\, eateries and ice c
- ream parlors is just a stone’s t
- hrow away! \nThis is one spectacula
- r race that you don’t want to mi
- ss…we hope to see you this April
-  at Whiskey Basin Trail Runs!\n\nhtt
- ps://www.facebook.com/events/10861
- 92222051404/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
 END:VEVENT
 END:VCALENDAR
