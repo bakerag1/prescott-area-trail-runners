@@ -339,6 +339,28 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20230523T172918Z
+LAST-MODIFIED:20230523T172918Z
+CREATED:20230523T172918Z
+SEQUENCE:0
+ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
+DTSTART:20230830T130000Z
+DTEND:20230830T170000Z
+UID:e1038732067532889@facebook.com
+SUMMARY:Vert Club
+LOCATION:Thumb Butte
+URL:https://www.facebook.com/events/1038732034199559/?event_time_id=1038732067532889
+DESCRIPTION:Meet us at 0600 at the Thumb Butte
+  Parking Lot (parking is free on W
+ ednesdays) for as many loops as yo
+ u want! \n\nhttps://www.facebook.com
+ /events/1038732034199559/?event_ti
+ me_id=1038732067532889
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20230523T205325Z
 LAST-MODIFIED:20230523T205325Z
 CREATED:20230523T205225Z
@@ -363,6 +385,28 @@ DESCRIPTION:Thursday Night Social Run 5:30 Pio
  f the month.\n\nhttps://www.facebook
  .com/events/204762669055336/?event
  _time_id=204762735721996
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230523T172918Z
+LAST-MODIFIED:20230523T172918Z
+CREATED:20230523T172918Z
+SEQUENCE:0
+ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
+DTSTART:20230823T130000Z
+DTEND:20230823T170000Z
+UID:e1038732060866223@facebook.com
+SUMMARY:Vert Club
+LOCATION:Thumb Butte
+URL:https://www.facebook.com/events/1038732034199559/?event_time_id=1038732060866223
+DESCRIPTION:Meet us at 0600 at the Thumb Butte
+  Parking Lot (parking is free on W
+ ednesdays) for as many loops as yo
+ u want! \n\nhttps://www.facebook.com
+ /events/1038732034199559/?event_ti
+ me_id=1038732060866223
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -397,6 +441,28 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20230523T172918Z
+LAST-MODIFIED:20230523T172918Z
+CREATED:20230523T172918Z
+SEQUENCE:0
+ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
+DTSTART:20230816T130000Z
+DTEND:20230816T170000Z
+UID:e1038732064199556@facebook.com
+SUMMARY:Vert Club
+LOCATION:Thumb Butte
+URL:https://www.facebook.com/events/1038732034199559/?event_time_id=1038732064199556
+DESCRIPTION:Meet us at 0600 at the Thumb Butte
+  Parking Lot (parking is free on W
+ ednesdays) for as many loops as yo
+ u want! \n\nhttps://www.facebook.com
+ /events/1038732034199559/?event_ti
+ me_id=1038732064199556
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20230523T205325Z
 LAST-MODIFIED:20230523T205325Z
 CREATED:20230523T205225Z
@@ -421,6 +487,28 @@ DESCRIPTION:Thursday Night Social Run 5:30 Pio
  f the month.\n\nhttps://www.facebook
  .com/events/204762669055336/?event
  _time_id=204762715721998
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230523T172918Z
+LAST-MODIFIED:20230523T172918Z
+CREATED:20230523T172918Z
+SEQUENCE:0
+ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
+DTSTART:20230809T130000Z
+DTEND:20230809T170000Z
+UID:e1038732057532890@facebook.com
+SUMMARY:Vert Club
+LOCATION:Thumb Butte
+URL:https://www.facebook.com/events/1038732034199559/?event_time_id=1038732057532890
+DESCRIPTION:Meet us at 0600 at the Thumb Butte
+  Parking Lot (parking is free on W
+ ednesdays) for as many loops as yo
+ u want! \n\nhttps://www.facebook.com
+ /events/1038732034199559/?event_ti
+ me_id=1038732057532890
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -455,6 +543,28 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20230523T172918Z
+LAST-MODIFIED:20230523T172918Z
+CREATED:20230523T172918Z
+SEQUENCE:0
+ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
+DTSTART:20230802T130000Z
+DTEND:20230802T170000Z
+UID:e1038732047532891@facebook.com
+SUMMARY:Vert Club
+LOCATION:Thumb Butte
+URL:https://www.facebook.com/events/1038732034199559/?event_time_id=1038732047532891
+DESCRIPTION:Meet us at 0600 at the Thumb Butte
+  Parking Lot (parking is free on W
+ ednesdays) for as many loops as yo
+ u want! \n\nhttps://www.facebook.com
+ /events/1038732034199559/?event_ti
+ me_id=1038732047532891
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20230523T205325Z
 LAST-MODIFIED:20230523T205325Z
 CREATED:20230523T205225Z
@@ -479,6 +589,28 @@ DESCRIPTION:Thursday Night Social Run 5:30 Pio
  f the month.\n\nhttps://www.facebook
  .com/events/204762669055336/?event
  _time_id=204762732388663
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230523T172918Z
+LAST-MODIFIED:20230523T172918Z
+CREATED:20230523T172918Z
+SEQUENCE:0
+ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
+DTSTART:20230726T130000Z
+DTEND:20230726T170000Z
+UID:e1038732084199554@facebook.com
+SUMMARY:Vert Club
+LOCATION:Thumb Butte
+URL:https://www.facebook.com/events/1038732034199559/?event_time_id=1038732084199554
+DESCRIPTION:Meet us at 0600 at the Thumb Butte
+  Parking Lot (parking is free on W
+ ednesdays) for as many loops as yo
+ u want! \n\nhttps://www.facebook.com
+ /events/1038732034199559/?event_ti
+ me_id=1038732084199554
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -513,6 +645,28 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20230523T172918Z
+LAST-MODIFIED:20230523T172918Z
+CREATED:20230523T172918Z
+SEQUENCE:0
+ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
+DTSTART:20230719T130000Z
+DTEND:20230719T170000Z
+UID:e1038732080866221@facebook.com
+SUMMARY:Vert Club
+LOCATION:Thumb Butte
+URL:https://www.facebook.com/events/1038732034199559/?event_time_id=1038732080866221
+DESCRIPTION:Meet us at 0600 at the Thumb Butte
+  Parking Lot (parking is free on W
+ ednesdays) for as many loops as yo
+ u want! \n\nhttps://www.facebook.com
+ /events/1038732034199559/?event_ti
+ me_id=1038732080866221
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20230523T205325Z
 LAST-MODIFIED:20230523T205325Z
 CREATED:20230523T205225Z
@@ -542,6 +696,28 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20230523T172918Z
+LAST-MODIFIED:20230523T172918Z
+CREATED:20230523T172918Z
+SEQUENCE:0
+ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
+DTSTART:20230712T130000Z
+DTEND:20230712T170000Z
+UID:e1038732054199557@facebook.com
+SUMMARY:Vert Club
+LOCATION:Thumb Butte
+URL:https://www.facebook.com/events/1038732034199559/?event_time_id=1038732054199557
+DESCRIPTION:Meet us at 0600 at the Thumb Butte
+  Parking Lot (parking is free on W
+ ednesdays) for as many loops as yo
+ u want! \n\nhttps://www.facebook.com
+ /events/1038732034199559/?event_ti
+ me_id=1038732054199557
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20230523T205325Z
 LAST-MODIFIED:20230523T205325Z
 CREATED:20230523T205225Z
@@ -566,6 +742,28 @@ DESCRIPTION:Thursday Night Social Run 5:30 Pio
  f the month.\n\nhttps://www.facebook
  .com/events/204762669055336/?event
  _time_id=204762675722002
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230523T172918Z
+LAST-MODIFIED:20230523T172918Z
+CREATED:20230523T172918Z
+SEQUENCE:0
+ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
+DTSTART:20230705T130000Z
+DTEND:20230705T170000Z
+UID:e1038732050866224@facebook.com
+SUMMARY:Vert Club
+LOCATION:Thumb Butte
+URL:https://www.facebook.com/events/1038732034199559/?event_time_id=1038732050866224
+DESCRIPTION:Meet us at 0600 at the Thumb Butte
+  Parking Lot (parking is free on W
+ ednesdays) for as many loops as yo
+ u want! \n\nhttps://www.facebook.com
+ /events/1038732034199559/?event_ti
+ me_id=1038732050866224
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -624,6 +822,52 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20230523T172918Z
+LAST-MODIFIED:20230523T172918Z
+CREATED:20230523T172918Z
+SEQUENCE:0
+ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
+DTSTART:20230628T130000Z
+DTEND:20230628T170000Z
+UID:e1038732077532888@facebook.com
+SUMMARY:Vert Club
+LOCATION:Thumb Butte
+URL:https://www.facebook.com/events/1038732034199559/?event_time_id=1038732077532888
+DESCRIPTION:Meet us at 0600 at the Thumb Butte
+  Parking Lot (parking is free on W
+ ednesdays) for as many loops as yo
+ u want! \n\nhttps://www.facebook.com
+ /events/1038732034199559/?event_ti
+ me_id=1038732077532888
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230516T003545Z
+LAST-MODIFIED:20230516T003545Z
+CREATED:20230515T212306Z
+SEQUENCE:11559
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20230628T003000Z
+DTEND:20230628T033000Z
+UID:e195355096753518@facebook.com
+SUMMARY:Tuesday Group Run- Willow Lake
+URL:https://www.facebook.com/events/195355096753518/
+DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
+  will meet at the Dog Park parking
+  lot (link here https://goo.gl/map
+ s/ZCLmd4fQPGkyXCHP7) at 5:30pm. Pl
+ an for 5 miles(ish).\n\n*Brandon lea
+ ding \n\nNo drop run (we stop for ev
+ eryone at every intersection).\n\nht
+ tps://www.facebook.com/events/1953
+ 55096753518/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20230523T205325Z
 LAST-MODIFIED:20230523T205325Z
 CREATED:20230523T205225Z
@@ -648,6 +892,28 @@ DESCRIPTION:Thursday Night Social Run 5:30 Pio
  f the month.\n\nhttps://www.facebook
  .com/events/204762669055336/?event
  _time_id=204762685722001
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230523T172918Z
+LAST-MODIFIED:20230523T172918Z
+CREATED:20230523T172918Z
+SEQUENCE:0
+ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
+DTSTART:20230621T130000Z
+DTEND:20230621T170000Z
+UID:e1038732074199555@facebook.com
+SUMMARY:Vert Club
+LOCATION:Thumb Butte
+URL:https://www.facebook.com/events/1038732034199559/?event_time_id=1038732074199555
+DESCRIPTION:Meet us at 0600 at the Thumb Butte
+  Parking Lot (parking is free on W
+ ednesdays) for as many loops as yo
+ u want! \n\nhttps://www.facebook.com
+ /events/1038732034199559/?event_ti
+ me_id=1038732074199555
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -708,6 +974,55 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20230523T172918Z
+LAST-MODIFIED:20230523T172918Z
+CREATED:20230523T172918Z
+SEQUENCE:0
+ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
+DTSTART:20230614T130000Z
+DTEND:20230614T170000Z
+UID:e1038732070866222@facebook.com
+SUMMARY:Vert Club
+LOCATION:Thumb Butte
+URL:https://www.facebook.com/events/1038732034199559/?event_time_id=1038732070866222
+DESCRIPTION:Meet us at 0600 at the Thumb Butte
+  Parking Lot (parking is free on W
+ ednesdays) for as many loops as yo
+ u want! \n\nhttps://www.facebook.com
+ /events/1038732034199559/?event_ti
+ me_id=1038732070866222
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230515T212020Z
+LAST-MODIFIED:20230515T212020Z
+CREATED:20230515T212020Z
+SEQUENCE:0
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20230614T003000Z
+DTEND:20230614T033000Z
+UID:e803755391380779@facebook.com
+SUMMARY:Tuesday Group Run- Upper Spence Basin
+LOCATION:https://maps.apple.com/?ll=34.5819
+ 04\,-112.548972&q=Dropped%20Pin&_ex
+ t=EiYpaevoe+dJQUAxxHG9OnsjXMA558AO
+ 2A1LQUBB5GbvdsgiXMBQBA%3D%3D&t=h
+URL:https://www.facebook.com/events/803755391380779/
+DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
+  will meet at UPPER Parking lot al
+ ong Iron Springs\, where the circle
+  trail crosses the Iron Springs at
+  5:30pm. Expect 4-6 miles. No drop
+  run (we stop for everyone at ever
+ y intersection). \n\n\nhttps://www.fa
+ cebook.com/events/803755391380779/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20230523T205325Z
 LAST-MODIFIED:20230523T205325Z
 CREATED:20230523T205225Z
@@ -737,6 +1052,54 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20230523T172918Z
+LAST-MODIFIED:20230523T172918Z
+CREATED:20230523T172918Z
+SEQUENCE:0
+ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
+DTSTART:20230607T130000Z
+DTEND:20230607T170000Z
+UID:e1038732044199558@facebook.com
+SUMMARY:Vert Club
+LOCATION:Thumb Butte
+URL:https://www.facebook.com/events/1038732034199559/?event_time_id=1038732044199558
+DESCRIPTION:Meet us at 0600 at the Thumb Butte
+  Parking Lot (parking is free on W
+ ednesdays) for as many loops as yo
+ u want! \n\nhttps://www.facebook.com
+ /events/1038732034199559/?event_ti
+ me_id=1038732044199558
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230530T154810Z
+LAST-MODIFIED:20230530T154810Z
+CREATED:20230515T212139Z
+SEQUENCE:1275991
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20230607T003000Z
+DTEND:20230607T033000Z
+UID:e204145015301859@facebook.com
+SUMMARY:Tuesday Group Run- White Spar
+URL:https://www.facebook.com/events/204145015301859/
+DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
+  will meet at the White Spar Parki
+ ng lot (link here https://goo.gl/m
+ aps/nX4JGH75u4T7R15g7) at 5:30 PM.
+  Expect 4-6 miles. No drop run (we
+  stop for everyone at every inters
+ ection). \n\nBe careful\, this is NOT
+  the usual white ROCK parking lot\,
+  this is white SPAR. \n\n***Jon Wolf
+ inger will lead!\n\nhttps://www.face
+ book.com/events/204145015301859/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20230511T182123Z
 LAST-MODIFIED:20230511T182123Z
 CREATED:20230511T182123Z
@@ -759,35 +1122,6 @@ DESCRIPTION:Celebrate our wedding with us whil
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230523T205325Z
-LAST-MODIFIED:20230523T205325Z
-CREATED:20230523T205225Z
-SEQUENCE:60
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20230602T003000Z
-DTEND:20230602T020000Z
-UID:e204762672388669@facebook.com
-SUMMARY:PATR Thursday Night Social Run
-LOCATION:Pioneer Park In Prescott Az
-URL:https://www.facebook.com/events/204762669055336/?event_time_id=204762672388669
-DESCRIPTION:Thursday Night Social Run 5:30 Pio
- neer Park.  Come and run a couple 
- miles on the local trails and then
-  hang out and socialize afterwards
- .  Feel free to bring drinks or sn
- acks. Newcomers/visitors welcome!!
-   We’ll meet at the ramada at th
- e north corner of the parking lot\,
-  just to the west of the baseball 
- complex.  Potluck first Thursday o
- f the month.\n\nhttps://www.facebook
- .com/events/204762669055336/?event
- _time_id=204762672388669
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20230516T004720Z
@@ -822,7 +1156,7 @@ DESCRIPTION:Salida Gulch Trailhead\, Lynx Creek
  26706309482598/
 CLASS:PUBLIC
 STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
+PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20230501T112336Z
@@ -856,7 +1190,7 @@ DESCRIPTION:We hope you join us Sunday May 28t
  itable Organization\, which means y
  our contribution is a TAX CREDIT (
  $400/$800). If you have questions\,
-  let me know. #boost \n\nhttps://www.faceboo
+  let me know.\n\nhttps://www.faceboo
  k.com/events/1269193633981575/
 CLASS:PUBLIC
 STATUS:CONFIRMED
@@ -973,31 +1307,6 @@ DESCRIPTION:Celebrate National Bike to Work Da
  fic rules and wear a helmet.\n\nhttp
  s://www.facebook.com/events/927026
  725204445/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230519T200455Z
-LAST-MODIFIED:20230519T200455Z
-CREATED:20230509T204532Z
-SEQUENCE:861563
-ORGANIZER;CN=Whiskey Row Brew Club:MAILTO:noreply@facebookmail.com
-DTSTART:20230519T010000Z
-DTEND:20230519T040000Z
-UID:e1261046131186669@facebook.com
-SUMMARY:Club Meeting
-LOCATION:Park Plaza Liquor and Deli
-URL:https://www.facebook.com/events/1261046131186669/
-DESCRIPTION:Monthly Club Meeting\nThursday May 
- 18\, 6pm\nPark Plaza Liquor & Deli\n\n
- Prospective members welcome!\n\nHome
- brew Equipment discussion\nAmerican
-  Wheat Comp\n\nlook for the table si
- gn during happy hour \nfor more inf
- ormation\n\n#prescottarizona #whiske
- yrowprescott\n\nhttps://www.facebook
- .com/events/1261046131186669/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -1147,216 +1456,6 @@ DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
   for everyone at every intersectio
  n). \n\n\nhttps://www.facebook.com/ev
  ents/1955205644822090/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230519T200455Z
-LAST-MODIFIED:20230519T200455Z
-CREATED:20230426T165613Z
-SEQUENCE:1998522
-ORGANIZER;CN=Whiskey Row Brew Club:MAILTO:noreply@facebookmail.com
-DTSTART:20230507T170000Z
-DTEND:20230507T200000Z
-UID:e950850356263755@facebook.com
-SUMMARY:Brew Out - National Homebrew Day
-LOCATION:Wren House Prairie Patio 6396 Lear
-  Ln Prescott\, AZ 86301
-URL:https://www.facebook.com/events/950850356263755/
-DESCRIPTION:We're having a brew out at Wren Ho
- use Prairie Patio to celebrate Nat
- ional Homebrew Day!\n\nSunday\, May 7
- \nWren House Prairie Patio\n6396 Lea
- r Ln\nPrescott\, AZ 86301\n\nBrewing s
- tarts at 10am (will continue well 
- into the afternoon)\nIron Horse Gri
- ll food truck will be there at som
- e point\nPatio starts selling beer 
- at 1pm\nPatio closes at 6:30\n\nThere
-  will be power and water available
-  for brewers. At least three brewe
- rs will be brewing that day. If yo
- u want to learn how to brew\, or ar
- e just curious\, stop by and check 
- it out. Let us know if you intend 
- to brew\, if you want help brewing\,
-  or if you have any other question
- s. \n\n\n\nhttps://www.facebook.com/ev
- ents/950850356263755/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230523T170829Z
-LAST-MODIFIED:20230523T170829Z
-CREATED:20230418T230715Z
-SEQUENCE:3002474
-ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
-DTSTART:20230503T140000Z
-DTEND:20230503T150000Z
-UID:e531814135776417@facebook.com
-SUMMARY:Vert Club
-LOCATION:Thumb Butte Mountain
-URL:https://www.facebook.com/events/531814112443086/?event_time_id=531814135776417
-DESCRIPTION:Vert Club is back!! Every Wednesda
- y at 0600 (parking is free on Wed)
-  … meet in the parking lot and d
- o as many loops as you want!\n\nOn 1
-  May the time will change to 0600 
- so we can beat the heat.\n\nhttps://
- www.facebook.com/events/5318141124
- 43086/?event_time_id=5318141357764
- 17
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230502T030504Z
-LAST-MODIFIED:20230502T030504Z
-CREATED:20230418T224919Z
-SEQUENCE:1138545
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20230503T003000Z
-DTEND:20230503T033000Z
-UID:e170999295505361@facebook.com
-SUMMARY:Tuesday Group Run- Willow Lake
-LOCATION:Tuesday Group Run - Willow Lake
-URL:https://www.facebook.com/events/170999295505361/
-DESCRIPTION:PLEASE READ THIS DESCRIPTION. \nWe 
- will meet at the Dog Park parking 
- lot (link here https://goo.gl/maps
- /ZCLmd4fQPGkyXCHP7) at 5:30pm. Pla
- n for 5 miles(ish).\n\nNo drop run (
- we stop for everyone at every inte
- rsection). \n\n\n\nhttps://www.faceboo
- k.com/events/170999295505361/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230425T200937Z
-LAST-MODIFIED:20230425T200937Z
-CREATED:20230424T180045Z
-SEQUENCE:94132
-ORGANIZER;CN=Andrew Baker:MAILTO:bakerag1@gmail.com
-DTSTART:20230429T180000Z
-DTEND:20230429T210000Z
-UID:e963347341339395@facebook.com
-SUMMARY:outer loop cleanup
-LOCATION:Old Stage Stop
-URL:https://www.facebook.com/events/963347341339395/
-DESCRIPTION:Clean up our mile of highway\, meet
-  in the parking lot of Old Stage S
- top/Chubby Chucks at 11 and we'll 
- work out transportation. We'll fig
- ure out a lunch or beer spot after
-  cleaning up.\n\nhttps://www.faceboo
- k.com/events/963347341339395/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230422T195335Z
-LAST-MODIFIED:20230422T195335Z
-CREATED:20230422T195335Z
-SEQUENCE:0
-ORGANIZER;CN=Erin Mann:MAILTO:noreply@facebookmail.com
-DTSTART:20230429T143000Z
-DTEND:20230429T173000Z
-UID:e522407993433817@facebook.com
-SUMMARY:SATR PATR - Spruce Mountain
-LOCATION:Groom Creek Loop Trail
-URL:https://www.facebook.com/events/522407993433817/
-DESCRIPTION:Saturday group run at Spruce Mount
- ain TH 307 off of Senator Highway 
- in Groom Creek. 9 mile loop -- lik
- ely a hike up and a run down. \n\nht
- tps://www.google.com/maps?q=spruce
- +mountain+trailhead+307&rlz=1C1CHB
- F_enUS1044US1044&um=1&ie=UTF-8&sa=
- X&ved=2ahUKEwigxZHqoL7-AhU_MkQIHcp
- hApkQ0pQJegQIBxAC\n\nhttps://www.fac
- ebook.com/events/522407993433817/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230423T225059Z
-LAST-MODIFIED:20230423T225059Z
-CREATED:20230423T225059Z
-SEQUENCE:0
-ORGANIZER;CN=Erin Mann:MAILTO:noreply@facebookmail.com
-DTSTART:20230428T003000Z
-DTEND:20230428T023000Z
-UID:e275472561483722@facebook.com
-SUMMARY:PATR Happy Hour/Cocodona 250 Send Off
-LOCATION:LazyG Brewhouse
-URL:https://www.facebook.com/events/275472561483722/
-DESCRIPTION:Come hang out on the Lazy G patio 
- and wish our PATR members well on 
- their epic Cocodona adventures! No
-  outside food or drink\, but lots a
- vailable to purchase. \n\nhttps://ww
- w.facebook.com/events/275472561483
- 722/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230523T170829Z
-LAST-MODIFIED:20230523T170829Z
-CREATED:20230418T230715Z
-SEQUENCE:3002474
-ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
-DTSTART:20230426T140000Z
-DTEND:20230426T150000Z
-UID:e531814122443085@facebook.com
-SUMMARY:Vert Club
-LOCATION:Thumb Butte Mountain
-URL:https://www.facebook.com/events/531814112443086/?event_time_id=531814122443085
-DESCRIPTION:Vert Club is back!! Every Wednesda
- y at 0600 (parking is free on Wed)
-  … meet in the parking lot and d
- o as many loops as you want!\n\nOn 1
-  May the time will change to 0600 
- so we can beat the heat.\n\nhttps://
- www.facebook.com/events/5318141124
- 43086/?event_time_id=5318141224430
- 85
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230418T224737Z
-LAST-MODIFIED:20230418T224737Z
-CREATED:20230418T224737Z
-SEQUENCE:0
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20230426T003000Z
-DTEND:20230426T033000Z
-UID:e758060332465322@facebook.com
-SUMMARY:Tuesday Group Run- White Spar
-LOCATION:Tuesday Group Run - White Spar
-URL:https://www.facebook.com/events/758060332465322/
-DESCRIPTION:Tackling the 396!\nPLEASE READ THIS
-  DESCRIPTION. \nWe will meet at the
-  White Spar Parking lot at 5:30 PM
- .\n\n(link here https://goo.gl/maps/
- nX4JGH75u4T7R15g7)  \n\nExpect 4-6 m
- iles. No drop run (we stop for eve
- ryone at every intersection). \n\nBe
-  careful\, this is NOT the usual wh
- ite ROCK parking lot\, this is whit
- e SPAR. \n\nhttps://www.facebook.com
- /events/758060332465322/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
