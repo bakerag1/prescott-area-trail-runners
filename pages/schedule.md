@@ -13,10 +13,13 @@ event details and discussion
 
 *Tuesdays:* 5:30 pm we have a group run at a trail in the area, usually within a
 20 minute drive of downtown Prescott. 
-There will be 2 groups of runners - beginner (up to 3 miles out and back) and intermediate+ (5-6 miles).
-Both groups are no-drop which means we stop at every intersection and wait for everyone
+A 4-6 mile no-drop run, which means we stop at every intersection and wait for everyone.
 
-*Wednesdays:* Vert Club does laps on Thumb Butte
+*Wednesdays:* 6am when it's hot, 7am when it's not, the Vert Club does laps on Thumb Butte
+
+*Thursdays:* 5:30pm at Pioneer Park, Social Run run your own pace and distance, meet at 5:30 at the last west-most ramada in pioneer park. Most run 3-5 miles, snacks and beverages after. Potluck first Thursday of the month.
+
+*Saturdays:* 7am SATR PATR no-drop trail run, at various locations, usually around 8 miles.
 
 *Miscellaneous:* Frequently members will plan runs or hikes inviting all comers.
 
