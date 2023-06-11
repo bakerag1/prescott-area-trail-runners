@@ -919,27 +919,38 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230518T134320Z
-LAST-MODIFIED:20230518T134320Z
+DTSTAMP:20230607T175531Z
+LAST-MODIFIED:20230607T175531Z
 CREATED:20230515T211817Z
-SEQUENCE:231903
+SEQUENCE:1975034
 ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
 DTSTART:20230621T003000Z
 DTEND:20230621T033000Z
 UID:e1300428840897978@facebook.com
-SUMMARY:Tuesday Group Run- Flume Trail
-LOCATION:Flume Trail Watson Lake Dam
+SUMMARY:CHANGE***Tuesday Group Run- Yeagar Canyon
+LOCATION:34.67866\, -112.17366
 URL:https://www.facebook.com/events/1300428840897978/
-DESCRIPTION:Flume and Watson Dam Trailhead\n\nMe
- eting at 530. No drop run! (We sto
- p at every intersection and wait f
- or the whole group to catch up bef
- ore running again - no runners lef
- t behind!)\n\n34.602758579207425\, -1
- 12.42099477438171\n2425-2461 E Gran
- ite Dells Rd\, Prescott\, AZ 86301\n\n
- *Jason leading\n\nhttps://www.facebo
- ok.com/events/1300428840897978/
+DESCRIPTION:Sunset at Yeagar!\n\nMeeting at 530.
+  No drop run! (We stop at every in
+ tersection and wait for the whole 
+ group to catch up before running a
+ gain - no runners left behind!) \n\n
+ Expect 1000 ft of elevation gain i
+ n the first two miles (yes some pe
+ ople hike this part!) followed by 
+ 2 miles with rolling hills and fla
+ t(ish) trails thru a forested cany
+ on to a sunset lookout and ending 
+ with the most amazing downhill in 
+ all of the area - gorgeous views t
+ he whole way - beautiful trail (ok
+  ok maybe this is one of my favori
+ te trails!!)\n\n34.67866\, -112.17366
+ \n\nNote: This run is a little furth
+ er out so you may need to plan for
+  additional drive time. \n\n*Jason l
+ eading\n\nhttps://www.facebook.com/e
+ vents/1300428840897978/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -1049,7 +1060,7 @@ DESCRIPTION:Thursday Night Social Run 5:30 Pio
  _time_id=204762692388667
 CLASS:PUBLIC
 STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
+PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20230523T172918Z
@@ -1074,37 +1085,11 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230530T154810Z
-LAST-MODIFIED:20230530T154810Z
-CREATED:20230515T212139Z
-SEQUENCE:1275991
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20230607T003000Z
-DTEND:20230607T033000Z
-UID:e204145015301859@facebook.com
-SUMMARY:Tuesday Group Run- White Spar
-URL:https://www.facebook.com/events/204145015301859/
-DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
-  will meet at the White Spar Parki
- ng lot (link here https://goo.gl/m
- aps/nX4JGH75u4T7R15g7) at 5:30 PM.
-  Expect 4-6 miles. No drop run (we
-  stop for everyone at every inters
- ection). \n\nBe careful\, this is NOT
-  the usual white ROCK parking lot\,
-  this is white SPAR. \n\n***Jon Wolf
- inger will lead!\n\nhttps://www.face
- book.com/events/204145015301859/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20230511T182123Z
 LAST-MODIFIED:20230511T182123Z
 CREATED:20230511T182123Z
 SEQUENCE:0
-ORGANIZER;CN=Jillian Harvey:MAILTO:noreply@facebookmail.com
+ORGANIZER;CN=Jillian Bray:MAILTO:noreply@facebookmail.com
 DTSTART:20230603T140000Z
 DTEND:20230603T170000Z
 UID:e960651725082940@facebook.com
@@ -1122,6 +1107,62 @@ DESCRIPTION:Celebrate our wedding with us whil
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230526T234634Z
+LAST-MODIFIED:20230526T234634Z
+CREATED:20230526T234634Z
+SEQUENCE:0
+ORGANIZER;CN=Park Plaza Liquor and Deli:MAILTO:noreply@facebookmail.com
+DTSTART:20230602T230000Z
+DTEND:20230603T010000Z
+UID:e1605871349937039@facebook.com
+SUMMARY:Complimentary Tasting with Revision Brewery 
+LOCATION:Park Plaza Liquor and Deli
+URL:https://www.facebook.com/events/1605871349937039/
+DESCRIPTION:Welcome Revision Brewery to Arizon
+ a with Complimentary Samples.\n\nRev
+ ision Brewing Co.\, rooted in North
+ ern Nevada\, is a global award-winn
+ ing brewery with a rebellious flai
+ r\, distributing its extensive port
+ folio of ultra-premium beers in 15
+  U.S. states and 8 countries. Spec
+ ializing in a diverse range of bee
+ rs\, including IPAs\, New England-St
+ yle IPAs\, Reds\, Lagers\, Porters\, S
+ touts\, Pastry Stouts\, Barrel-Aged 
+ Beers\, and recently\, hard seltzers
+ \, Revision is dedicated to creatin
+ g mouth-watering\, aromatic product
+ s for beer fans worldwide. This de
+ dication\, led by Brewmaster Jeremy
+  Warren\, also extends to its disti
+ nctive beer labels featuring over 
+ twenty artists\, reflecting the bre
+ wery's commitment to creative free
+ dom\, innovation\, and respect for c
+ raft beer. With their signature re
+ bellious beers\, including the Gold
+  award-winning Reno as F*%k Hazy I
+ PA and its sibling Vegas as F*%k H
+ azy IPA\, Revision reinforces its s
+ trong Nevada roots and Wild West m
+ entality\, showcasing their respect
+  for craft beer culture\, passion\, 
+ process\, and people.i!\n\nBrand swag
+  may be given away at this event.\n
+ \nDaily Happy Hour is between 4-6 p
+ m\, 1/2 off draft beer & we will ha
+ ve Revision Brewery on draft!\n\n*Mu
+ st be 21 years or older to partici
+ pate.\n\nDon’t forget to join this
+  event for a reminder and invite a
+  friend!\n\nhttps://www.facebook.com
+ /events/1605871349937039/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20230516T004720Z
@@ -1226,6 +1267,42 @@ STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20230523T204828Z
+LAST-MODIFIED:20230523T204828Z
+CREATED:20230523T204828Z
+SEQUENCE:0
+ORGANIZER;CN=Park Plaza Liquor and Deli:MAILTO:noreply@facebookmail.com
+DTSTART:20230525T230000Z
+DTEND:20230526T010000Z
+UID:e272926488467050@facebook.com
+SUMMARY:Complimentary Beer Tasting With Sierra Nevada Brewing
+LOCATION:Park Plaza Liquor and Deli
+URL:https://www.facebook.com/events/272926488467050/
+DESCRIPTION:Join us this Thursday for a compli
+ mentary tasting and hang out with 
+ Freddy\, our Sierra Nevada Brand Am
+ bassador!\n\nThis is a once-a-year e
+ vent where they will roll out thei
+ r new seasonal brews with lots of 
+ samples. Come hang out with us sta
+ rting at 4 pm and check out all th
+ e new and exciting improvements we
+ 've made in the beer department at
+  Park Plaza Liquor & Deli!\n\nBrand 
+ swag may be given away at this eve
+ nt.\n\nDaily Happy Hour is between 4
+ -6 pm\, 1/2 off draft beer & wine b
+ y the glass.\n\n*Must be 21 years or
+  older to participate.\n\nDon’t fo
+ rget to join this event for a remi
+ nder and invite a friend!\n\nhttps:/
+ /www.facebook.com/events/272926488
+ 467050/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20230523T170829Z
 LAST-MODIFIED:20230523T170829Z
 CREATED:20230418T230715Z
@@ -1307,6 +1384,31 @@ DESCRIPTION:Celebrate National Bike to Work Da
  fic rules and wear a helmet.\n\nhttp
  s://www.facebook.com/events/927026
  725204445/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230519T200455Z
+LAST-MODIFIED:20230519T200455Z
+CREATED:20230509T204532Z
+SEQUENCE:861563
+ORGANIZER;CN=Whiskey Row Brew Club:MAILTO:noreply@facebookmail.com
+DTSTART:20230519T010000Z
+DTEND:20230519T040000Z
+UID:e1261046131186669@facebook.com
+SUMMARY:Club Meeting
+LOCATION:Park Plaza Liquor and Deli
+URL:https://www.facebook.com/events/1261046131186669/
+DESCRIPTION:Monthly Club Meeting\nThursday May 
+ 18\, 6pm\nPark Plaza Liquor & Deli\n\n
+ Prospective members welcome!\n\nHome
+ brew Equipment discussion\nAmerican
+  Wheat Comp\n\nlook for the table si
+ gn during happy hour \nfor more inf
+ ormation\n\n#prescottarizona #whiske
+ yrowprescott\n\nhttps://www.facebook
+ .com/events/1261046131186669/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -1410,54 +1512,5 @@ DESCRIPTION:SATR PITTER PATR: No drop run at W
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230523T170829Z
-LAST-MODIFIED:20230523T170829Z
-CREATED:20230418T230715Z
-SEQUENCE:3002474
-ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
-DTSTART:20230510T140000Z
-DTEND:20230510T150000Z
-UID:e531814139109750@facebook.com
-SUMMARY:Vert Club
-LOCATION:Thumb Butte Mountain
-URL:https://www.facebook.com/events/531814112443086/?event_time_id=531814139109750
-DESCRIPTION:Vert Club is back!! Every Wednesda
- y at 0600 (parking is free on Wed)
-  … meet in the parking lot and d
- o as many loops as you want!\n\nOn 1
-  May the time will change to 0600 
- so we can beat the heat.\n\nhttps://
- www.facebook.com/events/5318141124
- 43086/?event_time_id=5318141391097
- 50
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230418T225009Z
-LAST-MODIFIED:20230418T225009Z
-CREATED:20230418T225009Z
-SEQUENCE:0
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20230510T003000Z
-DTEND:20230510T033000Z
-UID:e1955205644822090@facebook.com
-SUMMARY:Tuesday Group Run- Granite Basin
-URL:https://www.facebook.com/events/1955205644822090/
-DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
-  will meet at the cattleguard (lin
- k here https://goo.gl/maps/CnyTC6T
- oppAjWTcn6) at 5:30pm. \n\nExpect 5-
- 6 miles\, all downhill (except for 
- the uphills). No drop run (we stop
-  for everyone at every intersectio
- n). \n\n\nhttps://www.facebook.com/ev
- ents/1955205644822090/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
 END:VEVENT
 END:VCALENDAR
