@@ -844,15 +844,15 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230516T003545Z
-LAST-MODIFIED:20230516T003545Z
+DTSTAMP:20230621T171213Z
+LAST-MODIFIED:20230621T171213Z
 CREATED:20230515T212306Z
-SEQUENCE:11559
+SEQUENCE:3181747
 ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
 DTSTART:20230628T003000Z
 DTEND:20230628T033000Z
 UID:e195355096753518@facebook.com
-SUMMARY:Tuesday Group Run- Willow Lake
+SUMMARY:Tuesday Group Run- Willow Lake - Brandon leading
 URL:https://www.facebook.com/events/195355096753518/
 DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
   will meet at the Dog Park parking
@@ -953,7 +953,78 @@ DESCRIPTION:Sunset at Yeagar!\n\nMeeting at 530.
  vents/1300428840897978/
 CLASS:PUBLIC
 STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230612T144355Z
+LAST-MODIFIED:20230612T144355Z
+CREATED:20230525T020441Z
+SEQUENCE:1600754
+ORGANIZER;CN=Whiskey Row Brewfest - Prescott\, AZ:MAILTO:noreply@facebookmail.com
+DTSTART:20230618T010000Z
+DTEND:20230618T040000Z
+UID:e564565669057496@facebook.com
+SUMMARY:Whiskey Row Brew Fest - Prescott, AZ
+LOCATION:300 S Granite St\, Prescott\, AZ 863
+ 03-4253\, United States
+URL:https://www.facebook.com/events/564565669057496/
+DESCRIPTION:Prescott's Biggest Independent Bre
+ w Fest\n\nLOCATION: Mile High Field 
+ at 300 S Granite Street\, Prescott\,
+  AZ 86303\n\n5pm: Early Entrance (VI
+ P ONLY) \n6-9pm: General Admission\n
+ \nhttps://www.facebook.com/events/5
+ 64565669057496/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230613T212423Z
+LAST-MODIFIED:20230613T212423Z
+CREATED:20230613T212423Z
+SEQUENCE:0
+ORGANIZER;CN=Jeffrey S. Auman:MAILTO:aumanjeffrey@gmail.com
+DTSTART:20230617T140000Z
+DTEND:20230617T170000Z
+UID:e1456132191854078@facebook.com
+SUMMARY:SATR PATR - Goldwater Lakes Loop
+LOCATION:White Spar Campground
+URL:https://www.facebook.com/events/1456132191854078/
+DESCRIPTION:Come join us for an 8 mile\,  no dr
+ op run as we make our way around b
+ oth upper and lower lakes. Most of
+  the elevation is in the first 1/3
+  of the loop. Happy Trails!\n\nhttps
+ ://www.facebook.com/events/1456132
+ 191854078/
+CLASS:PUBLIC
+STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230611T181709Z
+LAST-MODIFIED:20230611T181709Z
+CREATED:20230611T181709Z
+SEQUENCE:0
+ORGANIZER;CN=Whiskey Row Brew Club:MAILTO:noreply@facebookmail.com
+DTSTART:20230616T010000Z
+DTEND:20230616T040000Z
+UID:e245686284758982@facebook.com
+SUMMARY:June Meeting
+LOCATION:Park Plaza Liquor and Deli
+URL:https://www.facebook.com/events/245686284758982/
+DESCRIPTION:Monthly Club Meeting\nThursday June
+  15\, 6pm\nPark Plaza Liquor & Deli\n
+ \nProspective members welcome!\n\nMal
+ t evaluation/smoked Malt Ed. topic
+ \nfruit Beer Comp\n\nlook for the tab
+ le sign during happy hour \nfor mor
+ e information\n\nhttps://www.faceboo
+ k.com/events/245686284758982/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20230523T205325Z
@@ -1031,7 +1102,7 @@ DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
  cebook.com/events/803755391380779/
 CLASS:PUBLIC
 STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
+PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20230523T205325Z
@@ -1233,282 +1304,6 @@ DESCRIPTION:We hope you join us Sunday May 28t
  $400/$800). If you have questions\,
   let me know.\n\nhttps://www.faceboo
  k.com/events/1269193633981575/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230523T205325Z
-LAST-MODIFIED:20230523T205325Z
-CREATED:20230523T205225Z
-SEQUENCE:60
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20230526T003000Z
-DTEND:20230526T020000Z
-UID:e204762699055333@facebook.com
-SUMMARY:PATR Thursday Night Social Run
-LOCATION:Pioneer Park In Prescott Az
-URL:https://www.facebook.com/events/204762669055336/?event_time_id=204762699055333
-DESCRIPTION:Thursday Night Social Run 5:30 Pio
- neer Park.  Come and run a couple 
- miles on the local trails and then
-  hang out and socialize afterwards
- .  Feel free to bring drinks or sn
- acks. Newcomers/visitors welcome!!
-   We’ll meet at the ramada at th
- e north corner of the parking lot\,
-  just to the west of the baseball 
- complex.  Potluck first Thursday o
- f the month.\n\nhttps://www.facebook
- .com/events/204762669055336/?event
- _time_id=204762699055333
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230523T204828Z
-LAST-MODIFIED:20230523T204828Z
-CREATED:20230523T204828Z
-SEQUENCE:0
-ORGANIZER;CN=Park Plaza Liquor and Deli:MAILTO:noreply@facebookmail.com
-DTSTART:20230525T230000Z
-DTEND:20230526T010000Z
-UID:e272926488467050@facebook.com
-SUMMARY:Complimentary Beer Tasting With Sierra Nevada Brewing
-LOCATION:Park Plaza Liquor and Deli
-URL:https://www.facebook.com/events/272926488467050/
-DESCRIPTION:Join us this Thursday for a compli
- mentary tasting and hang out with 
- Freddy\, our Sierra Nevada Brand Am
- bassador!\n\nThis is a once-a-year e
- vent where they will roll out thei
- r new seasonal brews with lots of 
- samples. Come hang out with us sta
- rting at 4 pm and check out all th
- e new and exciting improvements we
- 've made in the beer department at
-  Park Plaza Liquor & Deli!\n\nBrand 
- swag may be given away at this eve
- nt.\n\nDaily Happy Hour is between 4
- -6 pm\, 1/2 off draft beer & wine b
- y the glass.\n\n*Must be 21 years or
-  older to participate.\n\nDon’t fo
- rget to join this event for a remi
- nder and invite a friend!\n\nhttps:/
- /www.facebook.com/events/272926488
- 467050/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230523T170829Z
-LAST-MODIFIED:20230523T170829Z
-CREATED:20230418T230715Z
-SEQUENCE:3002474
-ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
-DTSTART:20230524T130000Z
-DTEND:20230524T170000Z
-UID:e531814179109746@facebook.com
-SUMMARY:Vert Club
-LOCATION:Thumb Butte Mountain
-URL:https://www.facebook.com/events/531814112443086/?event_time_id=531814179109746
-DESCRIPTION:Vert Club is back!! Every Wednesda
- y at 0600 (parking is free on Wed)
-  … meet in the parking lot and d
- o as many loops as you want!\n\nOn 1
-  May the time will change to 0600 
- so we can beat the heat.\n\nhttps://
- www.facebook.com/events/5318141124
- 43086/?event_time_id=5318141791097
- 46
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230511T225326Z
-LAST-MODIFIED:20230511T225326Z
-CREATED:20230418T225404Z
-SEQUENCE:1987162
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20230524T003000Z
-DTEND:20230524T033000Z
-UID:e1466083457259691@facebook.com
-SUMMARY:Tuesday Group Run- White Rock
-URL:https://www.facebook.com/events/1466083457259691/
-DESCRIPTION:We will meet at White Rock Parking
-  lot (link here https://goo.gl/map
- s/YN2uMvQnyQWTM9JK7) at 5:30pm. \n\n
- No-drop group run of approximately
-  5 miles. No-drop means we stop at
-  every intersection and wait for e
- veryone. \n\n*Jon Wolfinger leading*
- \n\n\nhttps://www.facebook.com/events
- /1466083457259691/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230418T212314Z
-LAST-MODIFIED:20230418T212314Z
-CREATED:20230418T212314Z
-SEQUENCE:0
-ORGANIZER;CN=Prescott Bikemonth:MAILTO:noreply@facebookmail.com
-DTSTART:20230519T140000Z
-DTEND:20230519T170000Z
-UID:e927026725204445@facebook.com
-SUMMARY:National Bike to Work Day - Ride to City Hall
-LOCATION:1500 W. Gurley St. Prescott. AZ
-URL:https://www.facebook.com/events/927026725204445/
-DESCRIPTION:Celebrate National Bike to Work Da
- y in Prescott with a ride to City 
- Hall with members of our City Coun
- cil\, and the Pedestrian Bicycle an
- d Traffic Advisory Committee! Meet
-  up at 7:00AM\, Friday May 19th at 
- the parking lot at 1500 West Gurle
- y (Behind Casa Sanchez). We will l
- eave promptly at 7:15\, so don't be
-  late for a short two mile ride th
- at runs mostly downhill to downtow
- n and our new Prescott City Hall. 
- Prescott Alternative Transportatio
- n will have coffee\, juice and donu
- ts when we get there! All Prescott
-  Bike riders are welcome to help P
- rescott become a more Bicycle Frie
- ndly Community. Please follow traf
- fic rules and wear a helmet.\n\nhttp
- s://www.facebook.com/events/927026
- 725204445/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230519T200455Z
-LAST-MODIFIED:20230519T200455Z
-CREATED:20230509T204532Z
-SEQUENCE:861563
-ORGANIZER;CN=Whiskey Row Brew Club:MAILTO:noreply@facebookmail.com
-DTSTART:20230519T010000Z
-DTEND:20230519T040000Z
-UID:e1261046131186669@facebook.com
-SUMMARY:Club Meeting
-LOCATION:Park Plaza Liquor and Deli
-URL:https://www.facebook.com/events/1261046131186669/
-DESCRIPTION:Monthly Club Meeting\nThursday May 
- 18\, 6pm\nPark Plaza Liquor & Deli\n\n
- Prospective members welcome!\n\nHome
- brew Equipment discussion\nAmerican
-  Wheat Comp\n\nlook for the table si
- gn during happy hour \nfor more inf
- ormation\n\n#prescottarizona #whiske
- yrowprescott\n\nhttps://www.facebook
- .com/events/1261046131186669/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230514T142459Z
-LAST-MODIFIED:20230514T142459Z
-CREATED:20230512T182046Z
-SEQUENCE:158653
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20230519T003000Z
-DTEND:20230519T023000Z
-UID:e214263364706693@facebook.com
-SUMMARY:PATR Thursday Night Social Run
-LOCATION:Pioneer Park In Prescott Az
-URL:https://www.facebook.com/events/214263364706693/
-DESCRIPTION:Thursday Night Social Run 5:30 Pio
- neer Park.  Come and run a couple 
- miles on the local trails or roads
-  and then hang out and socialize a
- fterwards.  Feel free to bring dri
- nks or snacks. Newcomers/visitors 
- welcome!!  We’ll meet at the ram
- ada at the north corner of the par
- king lot\, just to the west of the 
- baseball complex.\n\nhttps://www.fac
- ebook.com/events/214263364706693/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230523T170829Z
-LAST-MODIFIED:20230523T170829Z
-CREATED:20230418T230715Z
-SEQUENCE:3002474
-ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
-DTSTART:20230517T140000Z
-DTEND:20230517T150000Z
-UID:e531814175776413@facebook.com
-SUMMARY:Vert Club
-LOCATION:Thumb Butte Mountain
-URL:https://www.facebook.com/events/531814112443086/?event_time_id=531814175776413
-DESCRIPTION:Vert Club is back!! Every Wednesda
- y at 0600 (parking is free on Wed)
-  … meet in the parking lot and d
- o as many loops as you want!\n\nOn 1
-  May the time will change to 0600 
- so we can beat the heat.\n\nhttps://
- www.facebook.com/events/5318141124
- 43086/?event_time_id=5318141757764
- 13
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230511T225223Z
-LAST-MODIFIED:20230511T225223Z
-CREATED:20230418T225148Z
-SEQUENCE:1987235
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20230517T003000Z
-DTEND:20230517T033000Z
-UID:e6138938482893292@facebook.com
-SUMMARY:Tuesday Group Run- Peavine
-URL:https://www.facebook.com/events/6138938482893292/
-DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
-  will meet at the Peavine Trailhea
- d by the Humane Society at 5:30pm.
-  No drop run (we stop for everyone
-  at every intersection). \n\nExpect 
- 5-6 miles.\n\n*Brandon leading*\n\n\n\n\n
- \nhttps://www.facebook.com/events/6
- 138938482893292/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230510T031253Z
-LAST-MODIFIED:20230510T031253Z
-CREATED:20230510T031253Z
-SEQUENCE:0
-ORGANIZER;CN=Erin Mann:MAILTO:noreply@facebookmail.com
-DTSTART:20230513T140000Z
-DTEND:20230513T170000Z
-UID:e1455168095022971@facebook.com
-SUMMARY:SATR PATR
-LOCATION:White Rock Trailhead
-URL:https://www.facebook.com/events/1455168095022971/
-DESCRIPTION:SATR PITTER PATR: No drop run at W
- hite Rock Trailhead. https://www.g
- oogle.com/maps/place/White+Rock+Tr
- ailhead/@34.5460445\,-112.5457995\,1
- 5z/data=!4m6!3m5!1s0x872d2da858e88
- 411:0xe7974d21827e65d3!8m2!3d34.54
- 60445!4d-112.5457995!16s%2Fg%2F11f
- l430jfk\n\nhttps://www.facebook.com/
- events/1455168095022971/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
