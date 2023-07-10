@@ -514,6 +514,76 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20230621T160241Z
+LAST-MODIFIED:20230621T160241Z
+CREATED:20230621T160241Z
+SEQUENCE:0
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20230809T003000Z
+DTEND:20230809T033000Z
+UID:e264334169614756@facebook.com
+SUMMARY:Tuesday Group Run- Upper Spence Basin
+LOCATION:https://maps.apple.com/?ll=34.5819
+ 04\,-112.548972&q=Dropped%20Pin&_ex
+ t=EiYpaevoe+dJQUAxxHG9OnsjXMA558AO
+ 2A1LQUBB5GbvdsgiXMBQBA%3D%3D&t=h
+URL:https://www.facebook.com/events/264334169614756/
+DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
+  will meet at UPPER Parking lot al
+ ong Iron Springs\, where the circle
+  trail crosses the Iron Springs at
+  5:30pm. Expect 4-6 miles. No drop
+  run (we stop for everyone at ever
+ y intersection). \n\n\n\nhttps://www.f
+ acebook.com/events/264334169614756
+ /
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230622T025917Z
+LAST-MODIFIED:20230622T025917Z
+CREATED:20230622T025917Z
+SEQUENCE:0
+ORGANIZER;CN=Killian Lord:MAILTO:noreply@facebookmail.com
+DTSTART:20230805T030000Z
+DTEND:20230805T060000Z
+UID:e929181204858831@facebook.com
+SUMMARY:Saddles 100 Training Run
+LOCATION:White Spar Campground
+URL:https://www.facebook.com/events/929181204858831/
+DESCRIPTION:A rugged Saddles 100 Training run 
+ in the  Bradshaws. The run will su
+ mmit three of the highest peaks in
+  the bradshaws. We will start at w
+ hite spar campground and take trai
+ ls/double track up to the mount Tr
+ itle summit\, then will make our wa
+ y to the summit of Mount Union bef
+ ore dropping down to potato patch 
+ and taking the Isabella trail up t
+ o the Spruce summit. We will then 
+ bomb down spruce and schoolhouse g
+ ulch trail 67 back to white spar.\n
+ \nWe will start at 8pm and run into
+  the night so bring lights. Everyo
+ ne welcome\, but know that This wil
+ l be a highly technical and challe
+ nging run. 30+ miles and 5\,000-6\,0
+ 00 feet of climbing in the dark.\n\n
+ I will post the gpx route as the r
+ un gets closer.\n\nAid (water\, light
+  snacks) will be available at a fe
+ w spots along the way but prepare 
+ to carry most of your own stuff.\n\n
+ https://www.facebook.com/events/92
+ 9181204858831/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20230523T205325Z
 LAST-MODIFIED:20230523T205325Z
 CREATED:20230523T205225Z
@@ -560,6 +630,29 @@ DESCRIPTION:Meet us at 0600 at the Thumb Butte
  u want! \n\nhttps://www.facebook.com
  /events/1038732034199559/?event_ti
  me_id=1038732047532891
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230621T171258Z
+LAST-MODIFIED:20230621T171258Z
+CREATED:20230621T160122Z
+SEQUENCE:4296
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20230802T003000Z
+DTEND:20230802T033000Z
+UID:e1490209204848923@facebook.com
+SUMMARY:Tuesday Group Run- Flume Trail - Brandon leading
+LOCATION:Flume Trail Watson Lake Dam
+URL:https://www.facebook.com/events/1490209204848923/
+DESCRIPTION:Flume and Watson Dam Trailhead\nhtt
+ ps://maps.app.goo.gl/AAaDhFoQDtNXM
+ o1x6?g_st=ic\n\nNo drop group run (w
+ e stop at every intersection and e
+ veryone hangs out/catches up). Exp
+ ect 4-6 miles. \n\nhttps://www.faceb
+ ook.com/events/1490209204848923/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -616,6 +709,29 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20230621T171238Z
+LAST-MODIFIED:20230621T171238Z
+CREATED:20230621T155909Z
+SEQUENCE:4409
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20230726T003000Z
+DTEND:20230726T033000Z
+UID:e995064021667354@facebook.com
+SUMMARY:Tuesday Group Run- White Rock - Jon leading
+URL:https://www.facebook.com/events/995064021667354/
+DESCRIPTION:We will meet at White Rock Parking
+  lot (link here https://goo.gl/map
+ s/YN2uMvQnyQWTM9JK7) at 5:30pm. \n\n
+ No-drop group run of approximately
+  5 miles. No-drop means we stop at
+  every intersection and wait for e
+ veryone. \n\n\n\n\nhttps://www.facebook
+ .com/events/995064021667354/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20230523T205325Z
 LAST-MODIFIED:20230523T205325Z
 CREATED:20230523T205225Z
@@ -662,6 +778,33 @@ DESCRIPTION:Meet us at 0600 at the Thumb Butte
  u want! \n\nhttps://www.facebook.com
  /events/1038732034199559/?event_ti
  me_id=1038732080866221
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230621T155652Z
+LAST-MODIFIED:20230621T155652Z
+CREATED:20230621T155549Z
+SEQUENCE:63
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20230719T003000Z
+DTEND:20230719T033000Z
+UID:e648236737171145@facebook.com
+SUMMARY:Woodchute Trail- Mingus Mtn -Jason leading
+LOCATION:34.71642802860945\, -112.1602193462
+ 0002
+URL:https://www.facebook.com/events/648236737171145/
+DESCRIPTION:All are welcome. No drop group run
+  (we stop at every intersection). 
+ Mostly rolling single track with a
+ n epic view. Cooler than running i
+ n Prescott right now! \n\n***You may
+  want to plan additional driving t
+ ime as this is further out. \n\n34.7
+ 1642802860945\, -112.16021934620002
+ \n\nhttps://www.facebook.com/events/
+ 648236737171145/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -718,33 +861,40 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230523T205325Z
-LAST-MODIFIED:20230523T205325Z
-CREATED:20230523T205225Z
-SEQUENCE:60
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20230707T003000Z
-DTEND:20230707T020000Z
-UID:e204762675722002@facebook.com
-SUMMARY:PATR Thursday Night Social Run
-LOCATION:Pioneer Park In Prescott Az
-URL:https://www.facebook.com/events/204762669055336/?event_time_id=204762675722002
-DESCRIPTION:Thursday Night Social Run 5:30 Pio
- neer Park.  Come and run a couple 
- miles on the local trails and then
-  hang out and socialize afterwards
- .  Feel free to bring drinks or sn
- acks. Newcomers/visitors welcome!!
-   We’ll meet at the ramada at th
- e north corner of the parking lot\,
-  just to the west of the baseball 
- complex.  Potluck first Thursday o
- f the month.\n\nhttps://www.facebook
- .com/events/204762669055336/?event
- _time_id=204762675722002
+DTSTAMP:20230621T234356Z
+LAST-MODIFIED:20230621T234356Z
+CREATED:20230621T154715Z
+SEQUENCE:28601
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20230712T003000Z
+DTEND:20230712T033000Z
+UID:e280425971211661@facebook.com
+SUMMARY:Tuesday Group Run- Trail 305 and Lynx Lake
+LOCATION:34.543106599752065\, -112.398415751
+ 0335
+URL:https://www.facebook.com/events/280425971211661/
+DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nNo
+  drop group run (we stop for every
+ one at every intersection and hang
+  out/catch up then run again!). Ex
+ pect 6 miles. This run is an out &
+  back. Mild rolling hills through 
+ the pines and a short section by L
+ ynx lake in the middle. Park close
+ r to trail 305 (veer forward\, slig
+ htly left\, not toward the right).\n
+ \nWe will meet at the trailhead tha
+ t is shared by Trail 62 and Trail 
+ 305. 34.543106599752065\, -112.3984
+ 157510335\n\nClick here for addition
+ al details from the FS: https://ww
+ w.fs.usda.gov/Internet/FSE_DOCUMEN
+ TS/stelprd3811851.pdf\n\nhttps://www
+ .facebook.com/events/2804259712116
+ 61/
 CLASS:PUBLIC
 STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
+PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20230523T172918Z
@@ -790,7 +940,7 @@ DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
  ents/1275894676615201/
 CLASS:PUBLIC
 STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
+PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20230523T205325Z
@@ -865,7 +1015,7 @@ DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
  55096753518/
 CLASS:PUBLIC
 STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
+PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20230523T205325Z
@@ -1103,209 +1253,5 @@ DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230523T205325Z
-LAST-MODIFIED:20230523T205325Z
-CREATED:20230523T205225Z
-SEQUENCE:60
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20230609T003000Z
-DTEND:20230609T020000Z
-UID:e204762692388667@facebook.com
-SUMMARY:PATR Thursday Night Social Run
-LOCATION:Pioneer Park In Prescott Az
-URL:https://www.facebook.com/events/204762669055336/?event_time_id=204762692388667
-DESCRIPTION:Thursday Night Social Run 5:30 Pio
- neer Park.  Come and run a couple 
- miles on the local trails and then
-  hang out and socialize afterwards
- .  Feel free to bring drinks or sn
- acks. Newcomers/visitors welcome!!
-   We’ll meet at the ramada at th
- e north corner of the parking lot\,
-  just to the west of the baseball 
- complex.  Potluck first Thursday o
- f the month.\n\nhttps://www.facebook
- .com/events/204762669055336/?event
- _time_id=204762692388667
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230523T172918Z
-LAST-MODIFIED:20230523T172918Z
-CREATED:20230523T172918Z
-SEQUENCE:0
-ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
-DTSTART:20230607T130000Z
-DTEND:20230607T170000Z
-UID:e1038732044199558@facebook.com
-SUMMARY:Vert Club
-LOCATION:Thumb Butte
-URL:https://www.facebook.com/events/1038732034199559/?event_time_id=1038732044199558
-DESCRIPTION:Meet us at 0600 at the Thumb Butte
-  Parking Lot (parking is free on W
- ednesdays) for as many loops as yo
- u want! \n\nhttps://www.facebook.com
- /events/1038732034199559/?event_ti
- me_id=1038732044199558
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230511T182123Z
-LAST-MODIFIED:20230511T182123Z
-CREATED:20230511T182123Z
-SEQUENCE:0
-ORGANIZER;CN=Jillian Bray:MAILTO:noreply@facebookmail.com
-DTSTART:20230603T140000Z
-DTEND:20230603T170000Z
-UID:e960651725082940@facebook.com
-SUMMARY:SATR PATR - Wedding edition
-LOCATION:Flume Trail Watson Lake Dam
-URL:https://www.facebook.com/events/960651725082940/
-DESCRIPTION:Celebrate our wedding with us whil
- e you get your run in! No-drop run
-  among the spectacular granite gia
- nts. See you on the trail!\n\nFlume 
- and Watson Dam Trailhead\nhttps://m
- aps.app.goo.gl/AAaDhFoQDtNXMo1x6?g
- _st=ic\n\nhttps://www.facebook.com/e
- vents/960651725082940/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230526T234634Z
-LAST-MODIFIED:20230526T234634Z
-CREATED:20230526T234634Z
-SEQUENCE:0
-ORGANIZER;CN=Park Plaza Liquor and Deli:MAILTO:noreply@facebookmail.com
-DTSTART:20230602T230000Z
-DTEND:20230603T010000Z
-UID:e1605871349937039@facebook.com
-SUMMARY:Complimentary Tasting with Revision Brewery 
-LOCATION:Park Plaza Liquor and Deli
-URL:https://www.facebook.com/events/1605871349937039/
-DESCRIPTION:Welcome Revision Brewery to Arizon
- a with Complimentary Samples.\n\nRev
- ision Brewing Co.\, rooted in North
- ern Nevada\, is a global award-winn
- ing brewery with a rebellious flai
- r\, distributing its extensive port
- folio of ultra-premium beers in 15
-  U.S. states and 8 countries. Spec
- ializing in a diverse range of bee
- rs\, including IPAs\, New England-St
- yle IPAs\, Reds\, Lagers\, Porters\, S
- touts\, Pastry Stouts\, Barrel-Aged 
- Beers\, and recently\, hard seltzers
- \, Revision is dedicated to creatin
- g mouth-watering\, aromatic product
- s for beer fans worldwide. This de
- dication\, led by Brewmaster Jeremy
-  Warren\, also extends to its disti
- nctive beer labels featuring over 
- twenty artists\, reflecting the bre
- wery's commitment to creative free
- dom\, innovation\, and respect for c
- raft beer. With their signature re
- bellious beers\, including the Gold
-  award-winning Reno as F*%k Hazy I
- PA and its sibling Vegas as F*%k H
- azy IPA\, Revision reinforces its s
- trong Nevada roots and Wild West m
- entality\, showcasing their respect
-  for craft beer culture\, passion\, 
- process\, and people.i!\n\nBrand swag
-  may be given away at this event.\n
- \nDaily Happy Hour is between 4-6 p
- m\, 1/2 off draft beer & we will ha
- ve Revision Brewery on draft!\n\n*Mu
- st be 21 years or older to partici
- pate.\n\nDon’t forget to join this
-  event for a reminder and invite a
-  friend!\n\nhttps://www.facebook.com
- /events/1605871349937039/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230516T004720Z
-LAST-MODIFIED:20230516T004720Z
-CREATED:20230515T210044Z
-SEQUENCE:13596
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20230531T003000Z
-DTEND:20230531T033000Z
-UID:e526706309482598@facebook.com
-SUMMARY:Tuesday Group Run- Salida Gulch 
-LOCATION:34.53651798492487\, -112.3825075460
- 2225
-URL:https://www.facebook.com/events/526706309482598/
-DESCRIPTION:Salida Gulch Trailhead\, Lynx Creek
-  Rd\, Prescott\, AZ 86303\n\nPLEASE RE
- AD THIS DESCRIPTION. \n\nWe will mee
- t here: 34.53651798492487\, -112.38
- 250754602225 at 5:30pm. \n\nExpect 4
- -5 miles\, all downhill (except for
-  the uphills). No drop run (we sto
- p for everyone at every intersecti
- on). \n\n*Cindy leading\n\n*** Make su
- re your directions take you up Wal
- ker Rd and then a left at the Lynx
-  Creek Ruins road and follow that 
- to the end- sometimes the map dire
- ctions send people thru a neighbor
- hood in the back and there’s a g
- ate blocking the road that way…\n
- \nhttps://www.facebook.com/events/5
- 26706309482598/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230501T112336Z
-LAST-MODIFIED:20230501T112336Z
-CREATED:20230430T211329Z
-SEQUENCE:51007
-ORGANIZER;CN=Erin Mann:MAILTO:noreply@facebookmail.com
-DTSTART:20230528T130000Z
-DTEND:20230528T190000Z
-UID:e1269193633981575@facebook.com
-SUMMARY:Loop the Butte
-LOCATION:Thumb Butte
-URL:https://www.facebook.com/events/1269193633981575/
-DESCRIPTION:We hope you join us Sunday May 28t
- h to Loop The Butte as many times 
- as you can (wish)! This is a FREE 
- event! Everyone is invited to join
- !Drinks\, Snacks\, Music and Shade (
- some) will be provided! This is al
- so a fundraiser for The Launch Pad
-  Teen Center’s Trek For Teens Ri
- m To Rim Hike held in October. Any
- one donating $50 through this link
-  and completing 5 (five) 2 mile lo
- ops will receive a pair of #Goodr 
- Grand Canyon Sunnies! Any donation
- s are appreciated!\n\nhttps://give.t
- helaunchpadteencenter.org/fundrais
- er/4603968\n\nThe Launch Pad Teen Ce
- nter is an Arizona Qualifying Char
- itable Organization\, which means y
- our contribution is a TAX CREDIT (
- $400/$800). If you have questions\,
-  let me know.\n\nhttps://www.faceboo
- k.com/events/1269193633981575/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
 END:VEVENT
 END:VCALENDAR
