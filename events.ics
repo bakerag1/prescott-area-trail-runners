@@ -658,6 +658,34 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20230725T022415Z
+LAST-MODIFIED:20230725T022415Z
+CREATED:20230725T022415Z
+SEQUENCE:0
+ORGANIZER;CN=Erin Mann:MAILTO:noreply@facebookmail.com
+DTSTART:20230729T133000Z
+DTEND:20230729T163000Z
+UID:e287309613891568@facebook.com
+SUMMARY:SATR PATR - White Spar to Goldwater
+LOCATION:White Spar Campground
+URL:https://www.facebook.com/events/287309613891568/
+DESCRIPTION:Come join us for SATR PATR from Wh
+ ite Spar to Goldwater Lake. Expect
+  7.5ish miles in this loop that cl
+ imbs up Trail 396 (here is the All
+  Trails link if anyone is interest
+ ed). No drop (meaning we will hang
+  out at all the intersections) and
+  all fun! https://www.alltrails.co
+ m/trail/us/arizona/goldwater-lakes
+ -loop-from-white-spur\n\nhttps://www
+ .facebook.com/events/2873096138915
+ 68/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20230523T205325Z
 LAST-MODIFIED:20230523T205325Z
 CREATED:20230523T205225Z
@@ -729,7 +757,7 @@ DESCRIPTION:We will meet at White Rock Parking
  .com/events/995064021667354/
 CLASS:PUBLIC
 STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
+PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20230523T205325Z
@@ -783,31 +811,25 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230621T155652Z
-LAST-MODIFIED:20230621T155652Z
-CREATED:20230621T155549Z
-SEQUENCE:63
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20230719T003000Z
-DTEND:20230719T033000Z
-UID:e648236737171145@facebook.com
-SUMMARY:Woodchute Trail- Mingus Mtn -Jason leading
-LOCATION:34.71642802860945\, -112.1602193462
- 0002
-URL:https://www.facebook.com/events/648236737171145/
-DESCRIPTION:All are welcome. No drop group run
-  (we stop at every intersection). 
- Mostly rolling single track with a
- n epic view. Cooler than running i
- n Prescott right now! \n\n***You may
-  want to plan additional driving t
- ime as this is further out. \n\n34.7
- 1642802860945\, -112.16021934620002
- \n\nhttps://www.facebook.com/events/
- 648236737171145/
+DTSTAMP:20230710T191657Z
+LAST-MODIFIED:20230710T191657Z
+CREATED:20230710T191657Z
+SEQUENCE:0
+ORGANIZER;CN=Andrew Baker:MAILTO:bakerag1@gmail.com
+DTSTART:20230715T003000Z
+DTEND:20230715T033000Z
+UID:e6311874978925845@facebook.com
+SUMMARY:Lazy G Tapping Party
+LOCATION:LazyG Brewhouse
+URL:https://www.facebook.com/events/6311874978925845/
+DESCRIPTION:The Lazy G competition winning bee
+ r is going on tap at Lazy G\, come 
+ give it a try and hang out!\n\nhttps
+ ://www.facebook.com/events/6311874
+ 978925845/
 CLASS:PUBLIC
 STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
+PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20230523T205325Z
@@ -1013,243 +1035,6 @@ DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
  eryone at every intersection).\n\nht
  tps://www.facebook.com/events/1953
  55096753518/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230523T205325Z
-LAST-MODIFIED:20230523T205325Z
-CREATED:20230523T205225Z
-SEQUENCE:60
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20230623T003000Z
-DTEND:20230623T020000Z
-UID:e204762685722001@facebook.com
-SUMMARY:PATR Thursday Night Social Run
-LOCATION:Pioneer Park In Prescott Az
-URL:https://www.facebook.com/events/204762669055336/?event_time_id=204762685722001
-DESCRIPTION:Thursday Night Social Run 5:30 Pio
- neer Park.  Come and run a couple 
- miles on the local trails and then
-  hang out and socialize afterwards
- .  Feel free to bring drinks or sn
- acks. Newcomers/visitors welcome!!
-   We’ll meet at the ramada at th
- e north corner of the parking lot\,
-  just to the west of the baseball 
- complex.  Potluck first Thursday o
- f the month.\n\nhttps://www.facebook
- .com/events/204762669055336/?event
- _time_id=204762685722001
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230523T172918Z
-LAST-MODIFIED:20230523T172918Z
-CREATED:20230523T172918Z
-SEQUENCE:0
-ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
-DTSTART:20230621T130000Z
-DTEND:20230621T170000Z
-UID:e1038732074199555@facebook.com
-SUMMARY:Vert Club
-LOCATION:Thumb Butte
-URL:https://www.facebook.com/events/1038732034199559/?event_time_id=1038732074199555
-DESCRIPTION:Meet us at 0600 at the Thumb Butte
-  Parking Lot (parking is free on W
- ednesdays) for as many loops as yo
- u want! \n\nhttps://www.facebook.com
- /events/1038732034199559/?event_ti
- me_id=1038732074199555
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230607T175531Z
-LAST-MODIFIED:20230607T175531Z
-CREATED:20230515T211817Z
-SEQUENCE:1975034
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20230621T003000Z
-DTEND:20230621T033000Z
-UID:e1300428840897978@facebook.com
-SUMMARY:CHANGE***Tuesday Group Run- Yeagar Canyon
-LOCATION:34.67866\, -112.17366
-URL:https://www.facebook.com/events/1300428840897978/
-DESCRIPTION:Sunset at Yeagar!\n\nMeeting at 530.
-  No drop run! (We stop at every in
- tersection and wait for the whole 
- group to catch up before running a
- gain - no runners left behind!) \n\n
- Expect 1000 ft of elevation gain i
- n the first two miles (yes some pe
- ople hike this part!) followed by 
- 2 miles with rolling hills and fla
- t(ish) trails thru a forested cany
- on to a sunset lookout and ending 
- with the most amazing downhill in 
- all of the area - gorgeous views t
- he whole way - beautiful trail (ok
-  ok maybe this is one of my favori
- te trails!!)\n\n34.67866\, -112.17366
- \n\nNote: This run is a little furth
- er out so you may need to plan for
-  additional drive time. \n\n*Jason l
- eading\n\nhttps://www.facebook.com/e
- vents/1300428840897978/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230612T144355Z
-LAST-MODIFIED:20230612T144355Z
-CREATED:20230525T020441Z
-SEQUENCE:1600754
-ORGANIZER;CN=Whiskey Row Brewfest - Prescott\, AZ:MAILTO:noreply@facebookmail.com
-DTSTART:20230618T010000Z
-DTEND:20230618T040000Z
-UID:e564565669057496@facebook.com
-SUMMARY:Whiskey Row Brew Fest - Prescott, AZ
-LOCATION:300 S Granite St\, Prescott\, AZ 863
- 03-4253\, United States
-URL:https://www.facebook.com/events/564565669057496/
-DESCRIPTION:Prescott's Biggest Independent Bre
- w Fest\n\nLOCATION: Mile High Field 
- at 300 S Granite Street\, Prescott\,
-  AZ 86303\n\n5pm: Early Entrance (VI
- P ONLY) \n6-9pm: General Admission\n
- \nhttps://www.facebook.com/events/5
- 64565669057496/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230613T212423Z
-LAST-MODIFIED:20230613T212423Z
-CREATED:20230613T212423Z
-SEQUENCE:0
-ORGANIZER;CN=Jeffrey S. Auman:MAILTO:aumanjeffrey@gmail.com
-DTSTART:20230617T140000Z
-DTEND:20230617T170000Z
-UID:e1456132191854078@facebook.com
-SUMMARY:SATR PATR - Goldwater Lakes Loop
-LOCATION:White Spar Campground
-URL:https://www.facebook.com/events/1456132191854078/
-DESCRIPTION:Come join us for an 8 mile\,  no dr
- op run as we make our way around b
- oth upper and lower lakes. Most of
-  the elevation is in the first 1/3
-  of the loop. Happy Trails!\n\nhttps
- ://www.facebook.com/events/1456132
- 191854078/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230611T181709Z
-LAST-MODIFIED:20230611T181709Z
-CREATED:20230611T181709Z
-SEQUENCE:0
-ORGANIZER;CN=Whiskey Row Brew Club:MAILTO:noreply@facebookmail.com
-DTSTART:20230616T010000Z
-DTEND:20230616T040000Z
-UID:e245686284758982@facebook.com
-SUMMARY:June Meeting
-LOCATION:Park Plaza Liquor and Deli
-URL:https://www.facebook.com/events/245686284758982/
-DESCRIPTION:Monthly Club Meeting\nThursday June
-  15\, 6pm\nPark Plaza Liquor & Deli\n
- \nProspective members welcome!\n\nMal
- t evaluation/smoked Malt Ed. topic
- \nfruit Beer Comp\n\nlook for the tab
- le sign during happy hour \nfor mor
- e information\n\nhttps://www.faceboo
- k.com/events/245686284758982/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230523T205325Z
-LAST-MODIFIED:20230523T205325Z
-CREATED:20230523T205225Z
-SEQUENCE:60
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20230616T003000Z
-DTEND:20230616T020000Z
-UID:e204762695722000@facebook.com
-SUMMARY:PATR Thursday Night Social Run
-LOCATION:Pioneer Park In Prescott Az
-URL:https://www.facebook.com/events/204762669055336/?event_time_id=204762695722000
-DESCRIPTION:Thursday Night Social Run 5:30 Pio
- neer Park.  Come and run a couple 
- miles on the local trails and then
-  hang out and socialize afterwards
- .  Feel free to bring drinks or sn
- acks. Newcomers/visitors welcome!!
-   We’ll meet at the ramada at th
- e north corner of the parking lot\,
-  just to the west of the baseball 
- complex.  Potluck first Thursday o
- f the month.\n\nhttps://www.facebook
- .com/events/204762669055336/?event
- _time_id=204762695722000
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230523T172918Z
-LAST-MODIFIED:20230523T172918Z
-CREATED:20230523T172918Z
-SEQUENCE:0
-ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
-DTSTART:20230614T130000Z
-DTEND:20230614T170000Z
-UID:e1038732070866222@facebook.com
-SUMMARY:Vert Club
-LOCATION:Thumb Butte
-URL:https://www.facebook.com/events/1038732034199559/?event_time_id=1038732070866222
-DESCRIPTION:Meet us at 0600 at the Thumb Butte
-  Parking Lot (parking is free on W
- ednesdays) for as many loops as yo
- u want! \n\nhttps://www.facebook.com
- /events/1038732034199559/?event_ti
- me_id=1038732070866222
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230515T212020Z
-LAST-MODIFIED:20230515T212020Z
-CREATED:20230515T212020Z
-SEQUENCE:0
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20230614T003000Z
-DTEND:20230614T033000Z
-UID:e803755391380779@facebook.com
-SUMMARY:Tuesday Group Run- Upper Spence Basin
-LOCATION:https://maps.apple.com/?ll=34.5819
- 04\,-112.548972&q=Dropped%20Pin&_ex
- t=EiYpaevoe+dJQUAxxHG9OnsjXMA558AO
- 2A1LQUBB5GbvdsgiXMBQBA%3D%3D&t=h
-URL:https://www.facebook.com/events/803755391380779/
-DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
-  will meet at UPPER Parking lot al
- ong Iron Springs\, where the circle
-  trail crosses the Iron Springs at
-  5:30pm. Expect 4-6 miles. No drop
-  run (we stop for everyone at ever
- y intersection). \n\n\nhttps://www.fa
- cebook.com/events/803755391380779/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
