@@ -7,117 +7,93 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-DTSTAMP:20230523T205325Z
-LAST-MODIFIED:20230523T205325Z
+DTSTAMP:20230801T162757Z
+LAST-MODIFIED:20230801T162757Z
 CREATED:20230523T205225Z
-SEQUENCE:60
+SEQUENCE:6032132
 ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
 DTSTART:20231020T003000Z
 DTEND:20231020T020000Z
 UID:e204762682388668@facebook.com
 SUMMARY:PATR Thursday Night Social Run
-LOCATION:Pioneer Park In Prescott Az
+LOCATION:La Planchada
 URL:https://www.facebook.com/events/204762669055336/?event_time_id=204762682388668
-DESCRIPTION:Thursday Night Social Run 5:30 Pio
- neer Park.  Come and run a couple 
- miles on the local trails and then
-  hang out and socialize afterwards
- .  Feel free to bring drinks or sn
- acks. Newcomers/visitors welcome!!
-   We’ll meet at the ramada at th
- e north corner of the parking lot\,
-  just to the west of the baseball 
- complex.  Potluck first Thursday o
- f the month.\n\nhttps://www.facebook
- .com/events/204762669055336/?event
- _time_id=204762682388668
+DESCRIPTION:Thursday Night Social Run 5:30 at 
+ La Planchada\, 217 Gurley St. Come 
+ and run a couple miles on the loca
+ l trails and then hang out and soc
+ ialize afterwards.\n\nhttps://www.fa
+ cebook.com/events/204762669055336/
+ ?event_time_id=204762682388668
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230523T205325Z
-LAST-MODIFIED:20230523T205325Z
+DTSTAMP:20230801T162757Z
+LAST-MODIFIED:20230801T162757Z
 CREATED:20230523T205225Z
-SEQUENCE:60
+SEQUENCE:6032132
 ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
 DTSTART:20231013T003000Z
 DTEND:20231013T020000Z
 UID:e204762745721995@facebook.com
 SUMMARY:PATR Thursday Night Social Run
-LOCATION:Pioneer Park In Prescott Az
+LOCATION:La Planchada
 URL:https://www.facebook.com/events/204762669055336/?event_time_id=204762745721995
-DESCRIPTION:Thursday Night Social Run 5:30 Pio
- neer Park.  Come and run a couple 
- miles on the local trails and then
-  hang out and socialize afterwards
- .  Feel free to bring drinks or sn
- acks. Newcomers/visitors welcome!!
-   We’ll meet at the ramada at th
- e north corner of the parking lot\,
-  just to the west of the baseball 
- complex.  Potluck first Thursday o
- f the month.\n\nhttps://www.facebook
- .com/events/204762669055336/?event
- _time_id=204762745721995
+DESCRIPTION:Thursday Night Social Run 5:30 at 
+ La Planchada\, 217 Gurley St. Come 
+ and run a couple miles on the loca
+ l trails and then hang out and soc
+ ialize afterwards.\n\nhttps://www.fa
+ cebook.com/events/204762669055336/
+ ?event_time_id=204762745721995
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230523T205325Z
-LAST-MODIFIED:20230523T205325Z
+DTSTAMP:20230801T162757Z
+LAST-MODIFIED:20230801T162757Z
 CREATED:20230523T205225Z
-SEQUENCE:60
+SEQUENCE:6032132
 ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
 DTSTART:20231006T003000Z
 DTEND:20231006T020000Z
 UID:e204762739055329@facebook.com
 SUMMARY:PATR Thursday Night Social Run
-LOCATION:Pioneer Park In Prescott Az
+LOCATION:La Planchada
 URL:https://www.facebook.com/events/204762669055336/?event_time_id=204762739055329
-DESCRIPTION:Thursday Night Social Run 5:30 Pio
- neer Park.  Come and run a couple 
- miles on the local trails and then
-  hang out and socialize afterwards
- .  Feel free to bring drinks or sn
- acks. Newcomers/visitors welcome!!
-   We’ll meet at the ramada at th
- e north corner of the parking lot\,
-  just to the west of the baseball 
- complex.  Potluck first Thursday o
- f the month.\n\nhttps://www.facebook
- .com/events/204762669055336/?event
- _time_id=204762739055329
+DESCRIPTION:Thursday Night Social Run 5:30 at 
+ La Planchada\, 217 Gurley St. Come 
+ and run a couple miles on the loca
+ l trails and then hang out and soc
+ ialize afterwards.\n\nhttps://www.fa
+ cebook.com/events/204762669055336/
+ ?event_time_id=204762739055329
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230523T205325Z
-LAST-MODIFIED:20230523T205325Z
+DTSTAMP:20230801T162757Z
+LAST-MODIFIED:20230801T162757Z
 CREATED:20230523T205225Z
-SEQUENCE:60
+SEQUENCE:6032132
 ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
 DTSTART:20230929T003000Z
 DTEND:20230929T020000Z
 UID:e204762742388662@facebook.com
 SUMMARY:PATR Thursday Night Social Run
-LOCATION:Pioneer Park In Prescott Az
+LOCATION:La Planchada
 URL:https://www.facebook.com/events/204762669055336/?event_time_id=204762742388662
-DESCRIPTION:Thursday Night Social Run 5:30 Pio
- neer Park.  Come and run a couple 
- miles on the local trails and then
-  hang out and socialize afterwards
- .  Feel free to bring drinks or sn
- acks. Newcomers/visitors welcome!!
-   We’ll meet at the ramada at th
- e north corner of the parking lot\,
-  just to the west of the baseball 
- complex.  Potluck first Thursday o
- f the month.\n\nhttps://www.facebook
- .com/events/204762669055336/?event
- _time_id=204762742388662
+DESCRIPTION:Thursday Night Social Run 5:30 at 
+ La Planchada\, 217 Gurley St. Come 
+ and run a couple miles on the loca
+ l trails and then hang out and soc
+ ialize afterwards.\n\nhttps://www.fa
+ cebook.com/events/204762669055336/
+ ?event_time_id=204762742388662
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -148,30 +124,24 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230523T205325Z
-LAST-MODIFIED:20230523T205325Z
+DTSTAMP:20230801T162757Z
+LAST-MODIFIED:20230801T162757Z
 CREATED:20230523T205225Z
-SEQUENCE:60
+SEQUENCE:6032132
 ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
 DTSTART:20230922T003000Z
 DTEND:20230922T020000Z
 UID:e204762712388665@facebook.com
 SUMMARY:PATR Thursday Night Social Run
-LOCATION:Pioneer Park In Prescott Az
+LOCATION:La Planchada
 URL:https://www.facebook.com/events/204762669055336/?event_time_id=204762712388665
-DESCRIPTION:Thursday Night Social Run 5:30 Pio
- neer Park.  Come and run a couple 
- miles on the local trails and then
-  hang out and socialize afterwards
- .  Feel free to bring drinks or sn
- acks. Newcomers/visitors welcome!!
-   We’ll meet at the ramada at th
- e north corner of the parking lot\,
-  just to the west of the baseball 
- complex.  Potluck first Thursday o
- f the month.\n\nhttps://www.facebook
- .com/events/204762669055336/?event
- _time_id=204762712388665
+DESCRIPTION:Thursday Night Social Run 5:30 at 
+ La Planchada\, 217 Gurley St. Come 
+ and run a couple miles on the loca
+ l trails and then hang out and soc
+ ialize afterwards.\n\nhttps://www.fa
+ cebook.com/events/204762669055336/
+ ?event_time_id=204762712388665
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -202,30 +172,24 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230523T205325Z
-LAST-MODIFIED:20230523T205325Z
+DTSTAMP:20230801T162757Z
+LAST-MODIFIED:20230801T162757Z
 CREATED:20230523T205225Z
-SEQUENCE:60
+SEQUENCE:6032132
 ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
 DTSTART:20230915T003000Z
 DTEND:20230915T020000Z
 UID:e204762722388664@facebook.com
 SUMMARY:PATR Thursday Night Social Run
-LOCATION:Pioneer Park In Prescott Az
+LOCATION:La Planchada
 URL:https://www.facebook.com/events/204762669055336/?event_time_id=204762722388664
-DESCRIPTION:Thursday Night Social Run 5:30 Pio
- neer Park.  Come and run a couple 
- miles on the local trails and then
-  hang out and socialize afterwards
- .  Feel free to bring drinks or sn
- acks. Newcomers/visitors welcome!!
-   We’ll meet at the ramada at th
- e north corner of the parking lot\,
-  just to the west of the baseball 
- complex.  Potluck first Thursday o
- f the month.\n\nhttps://www.facebook
- .com/events/204762669055336/?event
- _time_id=204762722388664
+DESCRIPTION:Thursday Night Social Run 5:30 at 
+ La Planchada\, 217 Gurley St. Come 
+ and run a couple miles on the loca
+ l trails and then hang out and soc
+ ialize afterwards.\n\nhttps://www.fa
+ cebook.com/events/204762669055336/
+ ?event_time_id=204762722388664
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -256,30 +220,24 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230523T205325Z
-LAST-MODIFIED:20230523T205325Z
+DTSTAMP:20230801T162757Z
+LAST-MODIFIED:20230801T162757Z
 CREATED:20230523T205225Z
-SEQUENCE:60
+SEQUENCE:6032132
 ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
 DTSTART:20230908T003000Z
 DTEND:20230908T020000Z
 UID:e204762725721997@facebook.com
 SUMMARY:PATR Thursday Night Social Run
-LOCATION:Pioneer Park In Prescott Az
+LOCATION:La Planchada
 URL:https://www.facebook.com/events/204762669055336/?event_time_id=204762725721997
-DESCRIPTION:Thursday Night Social Run 5:30 Pio
- neer Park.  Come and run a couple 
- miles on the local trails and then
-  hang out and socialize afterwards
- .  Feel free to bring drinks or sn
- acks. Newcomers/visitors welcome!!
-   We’ll meet at the ramada at th
- e north corner of the parking lot\,
-  just to the west of the baseball 
- complex.  Potluck first Thursday o
- f the month.\n\nhttps://www.facebook
- .com/events/204762669055336/?event
- _time_id=204762725721997
+DESCRIPTION:Thursday Night Social Run 5:30 at 
+ La Planchada\, 217 Gurley St. Come 
+ and run a couple miles on the loca
+ l trails and then hang out and soc
+ ialize afterwards.\n\nhttps://www.fa
+ cebook.com/events/204762669055336/
+ ?event_time_id=204762725721997
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -310,30 +268,24 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230523T205325Z
-LAST-MODIFIED:20230523T205325Z
+DTSTAMP:20230801T162757Z
+LAST-MODIFIED:20230801T162757Z
 CREATED:20230523T205225Z
-SEQUENCE:60
+SEQUENCE:6032132
 ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
 DTSTART:20230901T003000Z
 DTEND:20230901T020000Z
 UID:e204762702388666@facebook.com
 SUMMARY:PATR Thursday Night Social Run
-LOCATION:Pioneer Park In Prescott Az
+LOCATION:La Planchada
 URL:https://www.facebook.com/events/204762669055336/?event_time_id=204762702388666
-DESCRIPTION:Thursday Night Social Run 5:30 Pio
- neer Park.  Come and run a couple 
- miles on the local trails and then
-  hang out and socialize afterwards
- .  Feel free to bring drinks or sn
- acks. Newcomers/visitors welcome!!
-   We’ll meet at the ramada at th
- e north corner of the parking lot\,
-  just to the west of the baseball 
- complex.  Potluck first Thursday o
- f the month.\n\nhttps://www.facebook
- .com/events/204762669055336/?event
- _time_id=204762702388666
+DESCRIPTION:Thursday Night Social Run 5:30 at 
+ La Planchada\, 217 Gurley St. Come 
+ and run a couple miles on the loca
+ l trails and then hang out and soc
+ ialize afterwards.\n\nhttps://www.fa
+ cebook.com/events/204762669055336/
+ ?event_time_id=204762702388666
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -361,30 +313,24 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230523T205325Z
-LAST-MODIFIED:20230523T205325Z
+DTSTAMP:20230801T162757Z
+LAST-MODIFIED:20230801T162757Z
 CREATED:20230523T205225Z
-SEQUENCE:60
+SEQUENCE:6032132
 ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
 DTSTART:20230825T003000Z
 DTEND:20230825T020000Z
 UID:e204762735721996@facebook.com
 SUMMARY:PATR Thursday Night Social Run
-LOCATION:Pioneer Park In Prescott Az
+LOCATION:La Planchada
 URL:https://www.facebook.com/events/204762669055336/?event_time_id=204762735721996
-DESCRIPTION:Thursday Night Social Run 5:30 Pio
- neer Park.  Come and run a couple 
- miles on the local trails and then
-  hang out and socialize afterwards
- .  Feel free to bring drinks or sn
- acks. Newcomers/visitors welcome!!
-   We’ll meet at the ramada at th
- e north corner of the parking lot\,
-  just to the west of the baseball 
- complex.  Potluck first Thursday o
- f the month.\n\nhttps://www.facebook
- .com/events/204762669055336/?event
- _time_id=204762735721996
+DESCRIPTION:Thursday Night Social Run 5:30 at 
+ La Planchada\, 217 Gurley St. Come 
+ and run a couple miles on the loca
+ l trails and then hang out and soc
+ ialize afterwards.\n\nhttps://www.fa
+ cebook.com/events/204762669055336/
+ ?event_time_id=204762735721996
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -412,35 +358,6 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230523T205325Z
-LAST-MODIFIED:20230523T205325Z
-CREATED:20230523T205225Z
-SEQUENCE:60
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20230818T003000Z
-DTEND:20230818T020000Z
-UID:e204762729055330@facebook.com
-SUMMARY:PATR Thursday Night Social Run
-LOCATION:Pioneer Park In Prescott Az
-URL:https://www.facebook.com/events/204762669055336/?event_time_id=204762729055330
-DESCRIPTION:Thursday Night Social Run 5:30 Pio
- neer Park.  Come and run a couple 
- miles on the local trails and then
-  hang out and socialize afterwards
- .  Feel free to bring drinks or sn
- acks. Newcomers/visitors welcome!!
-   We’ll meet at the ramada at th
- e north corner of the parking lot\,
-  just to the west of the baseball 
- complex.  Potluck first Thursday o
- f the month.\n\nhttps://www.facebook
- .com/events/204762669055336/?event
- _time_id=204762729055330
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20230523T172918Z
 LAST-MODIFIED:20230523T172918Z
 CREATED:20230523T172918Z
@@ -458,35 +375,6 @@ DESCRIPTION:Meet us at 0600 at the Thumb Butte
  u want! \n\nhttps://www.facebook.com
  /events/1038732034199559/?event_ti
  me_id=1038732064199556
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230523T205325Z
-LAST-MODIFIED:20230523T205325Z
-CREATED:20230523T205225Z
-SEQUENCE:60
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20230811T003000Z
-DTEND:20230811T020000Z
-UID:e204762715721998@facebook.com
-SUMMARY:PATR Thursday Night Social Run
-LOCATION:Pioneer Park In Prescott Az
-URL:https://www.facebook.com/events/204762669055336/?event_time_id=204762715721998
-DESCRIPTION:Thursday Night Social Run 5:30 Pio
- neer Park.  Come and run a couple 
- miles on the local trails and then
-  hang out and socialize afterwards
- .  Feel free to bring drinks or sn
- acks. Newcomers/visitors welcome!!
-   We’ll meet at the ramada at th
- e north corner of the parking lot\,
-  just to the west of the baseball 
- complex.  Potluck first Thursday o
- f the month.\n\nhttps://www.facebook
- .com/events/204762669055336/?event
- _time_id=204762715721998
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -584,35 +472,6 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230523T205325Z
-LAST-MODIFIED:20230523T205325Z
-CREATED:20230523T205225Z
-SEQUENCE:60
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20230804T003000Z
-DTEND:20230804T020000Z
-UID:e204762705721999@facebook.com
-SUMMARY:PATR Thursday Night Social Run
-LOCATION:Pioneer Park In Prescott Az
-URL:https://www.facebook.com/events/204762669055336/?event_time_id=204762705721999
-DESCRIPTION:Thursday Night Social Run 5:30 Pio
- neer Park.  Come and run a couple 
- miles on the local trails and then
-  hang out and socialize afterwards
- .  Feel free to bring drinks or sn
- acks. Newcomers/visitors welcome!!
-   We’ll meet at the ramada at th
- e north corner of the parking lot\,
-  just to the west of the baseball 
- complex.  Potluck first Thursday o
- f the month.\n\nhttps://www.facebook
- .com/events/204762669055336/?event
- _time_id=204762705721999
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20230523T172918Z
 LAST-MODIFIED:20230523T172918Z
 CREATED:20230523T172918Z
@@ -635,27 +494,28 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230621T171258Z
-LAST-MODIFIED:20230621T171258Z
-CREATED:20230621T160122Z
-SEQUENCE:4296
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20230802T003000Z
-DTEND:20230802T033000Z
-UID:e1490209204848923@facebook.com
-SUMMARY:Tuesday Group Run- Flume Trail - Brandon leading
-LOCATION:Flume Trail Watson Lake Dam
-URL:https://www.facebook.com/events/1490209204848923/
-DESCRIPTION:Flume and Watson Dam Trailhead\nhtt
- ps://maps.app.goo.gl/AAaDhFoQDtNXM
- o1x6?g_st=ic\n\nNo drop group run (w
- e stop at every intersection and e
- veryone hangs out/catches up). Exp
- ect 4-6 miles. \n\nhttps://www.faceb
- ook.com/events/1490209204848923/
+DTSTAMP:20230710T214725Z
+LAST-MODIFIED:20230710T214725Z
+CREATED:20230710T214725Z
+SEQUENCE:0
+ORGANIZER;CN=Andrew Baker:MAILTO:bakerag1@gmail.com
+DTSTART:20230729T180000Z
+DTEND:20230729T210000Z
+UID:e277300074971706@facebook.com
+SUMMARY:Highway Cleanup
+LOCATION:Old Stage Stop
+URL:https://www.facebook.com/events/277300074971706/
+DESCRIPTION:Clean up our mile of highway on Ou
+ ter Loop Rd. Meet at the gas stati
+ on at 11am\, after cleaning up\, we'
+ ll decide where to go for beers an
+ d/or lunch.\n\ndate and time subject
+  to change\, feel free to comment s
+ uggestions\n\nhttps://www.facebook.c
+ om/events/277300074971706/
 CLASS:PUBLIC
 STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
+PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20230725T022415Z
@@ -686,30 +546,24 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230523T205325Z
-LAST-MODIFIED:20230523T205325Z
+DTSTAMP:20230801T162757Z
+LAST-MODIFIED:20230801T162757Z
 CREATED:20230523T205225Z
-SEQUENCE:60
+SEQUENCE:6032132
 ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
 DTSTART:20230728T003000Z
 DTEND:20230728T020000Z
 UID:e204762732388663@facebook.com
 SUMMARY:PATR Thursday Night Social Run
-LOCATION:Pioneer Park In Prescott Az
+LOCATION:La Planchada
 URL:https://www.facebook.com/events/204762669055336/?event_time_id=204762732388663
-DESCRIPTION:Thursday Night Social Run 5:30 Pio
- neer Park.  Come and run a couple 
- miles on the local trails and then
-  hang out and socialize afterwards
- .  Feel free to bring drinks or sn
- acks. Newcomers/visitors welcome!!
-   We’ll meet at the ramada at th
- e north corner of the parking lot\,
-  just to the west of the baseball 
- complex.  Potluck first Thursday o
- f the month.\n\nhttps://www.facebook
- .com/events/204762669055336/?event
- _time_id=204762732388663
+DESCRIPTION:Thursday Night Social Run 5:30 at 
+ La Planchada\, 217 Gurley St. Come 
+ and run a couple miles on the loca
+ l trails and then hang out and soc
+ ialize afterwards.\n\nhttps://www.fa
+ cebook.com/events/204762669055336/
+ ?event_time_id=204762732388663
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -760,30 +614,24 @@ STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230523T205325Z
-LAST-MODIFIED:20230523T205325Z
+DTSTAMP:20230801T162757Z
+LAST-MODIFIED:20230801T162757Z
 CREATED:20230523T205225Z
-SEQUENCE:60
+SEQUENCE:6032132
 ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
 DTSTART:20230721T003000Z
 DTEND:20230721T020000Z
 UID:e204762709055332@facebook.com
 SUMMARY:PATR Thursday Night Social Run
-LOCATION:Pioneer Park In Prescott Az
+LOCATION:La Planchada
 URL:https://www.facebook.com/events/204762669055336/?event_time_id=204762709055332
-DESCRIPTION:Thursday Night Social Run 5:30 Pio
- neer Park.  Come and run a couple 
- miles on the local trails and then
-  hang out and socialize afterwards
- .  Feel free to bring drinks or sn
- acks. Newcomers/visitors welcome!!
-   We’ll meet at the ramada at th
- e north corner of the parking lot\,
-  just to the west of the baseball 
- complex.  Potluck first Thursday o
- f the month.\n\nhttps://www.facebook
- .com/events/204762669055336/?event
- _time_id=204762709055332
+DESCRIPTION:Thursday Night Social Run 5:30 at 
+ La Planchada\, 217 Gurley St. Come 
+ and run a couple miles on the loca
+ l trails and then hang out and soc
+ ialize afterwards.\n\nhttps://www.fa
+ cebook.com/events/204762669055336/
+ ?event_time_id=204762709055332
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -832,30 +680,24 @@ STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230523T205325Z
-LAST-MODIFIED:20230523T205325Z
+DTSTAMP:20230801T162757Z
+LAST-MODIFIED:20230801T162757Z
 CREATED:20230523T205225Z
-SEQUENCE:60
+SEQUENCE:6032132
 ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
 DTSTART:20230714T003000Z
 DTEND:20230714T020000Z
 UID:e204762719055331@facebook.com
 SUMMARY:PATR Thursday Night Social Run
-LOCATION:Pioneer Park In Prescott Az
+LOCATION:La Planchada
 URL:https://www.facebook.com/events/204762669055336/?event_time_id=204762719055331
-DESCRIPTION:Thursday Night Social Run 5:30 Pio
- neer Park.  Come and run a couple 
- miles on the local trails and then
-  hang out and socialize afterwards
- .  Feel free to bring drinks or sn
- acks. Newcomers/visitors welcome!!
-   We’ll meet at the ramada at th
- e north corner of the parking lot\,
-  just to the west of the baseball 
- complex.  Potluck first Thursday o
- f the month.\n\nhttps://www.facebook
- .com/events/204762669055336/?event
- _time_id=204762719055331
+DESCRIPTION:Thursday Night Social Run 5:30 at 
+ La Planchada\, 217 Gurley St. Come 
+ and run a couple miles on the loca
+ l trails and then hang out and soc
+ ialize afterwards.\n\nhttps://www.fa
+ cebook.com/events/204762669055336/
+ ?event_time_id=204762719055331
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -914,127 +756,6 @@ DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nNo
  TS/stelprd3811851.pdf\n\nhttps://www
  .facebook.com/events/2804259712116
  61/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230523T172918Z
-LAST-MODIFIED:20230523T172918Z
-CREATED:20230523T172918Z
-SEQUENCE:0
-ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
-DTSTART:20230705T130000Z
-DTEND:20230705T170000Z
-UID:e1038732050866224@facebook.com
-SUMMARY:Vert Club
-LOCATION:Thumb Butte
-URL:https://www.facebook.com/events/1038732034199559/?event_time_id=1038732050866224
-DESCRIPTION:Meet us at 0600 at the Thumb Butte
-  Parking Lot (parking is free on W
- ednesdays) for as many loops as yo
- u want! \n\nhttps://www.facebook.com
- /events/1038732034199559/?event_ti
- me_id=1038732050866224
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230516T004837Z
-LAST-MODIFIED:20230516T004837Z
-CREATED:20230515T212645Z
-SEQUENCE:12112
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20230705T003000Z
-DTEND:20230705T033000Z
-UID:e1275894676615201@facebook.com
-SUMMARY:Tuesday Group Run- Granite Basin
-URL:https://www.facebook.com/events/1275894676615201/
-DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
-  will meet at the cattleguard (lin
- k here https://goo.gl/maps/CnyTC6T
- oppAjWTcn6) at 5:30pm. \n\nExpect 5-
- 6 miles\, all downhill (except for 
- the uphills). No drop run (we stop
-  for everyone at every intersectio
- n). \n\n\nhttps://www.facebook.com/ev
- ents/1275894676615201/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230523T205325Z
-LAST-MODIFIED:20230523T205325Z
-CREATED:20230523T205225Z
-SEQUENCE:60
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20230630T003000Z
-DTEND:20230630T020000Z
-UID:e204762689055334@facebook.com
-SUMMARY:PATR Thursday Night Social Run
-LOCATION:Pioneer Park In Prescott Az
-URL:https://www.facebook.com/events/204762669055336/?event_time_id=204762689055334
-DESCRIPTION:Thursday Night Social Run 5:30 Pio
- neer Park.  Come and run a couple 
- miles on the local trails and then
-  hang out and socialize afterwards
- .  Feel free to bring drinks or sn
- acks. Newcomers/visitors welcome!!
-   We’ll meet at the ramada at th
- e north corner of the parking lot\,
-  just to the west of the baseball 
- complex.  Potluck first Thursday o
- f the month.\n\nhttps://www.facebook
- .com/events/204762669055336/?event
- _time_id=204762689055334
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230523T172918Z
-LAST-MODIFIED:20230523T172918Z
-CREATED:20230523T172918Z
-SEQUENCE:0
-ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
-DTSTART:20230628T130000Z
-DTEND:20230628T170000Z
-UID:e1038732077532888@facebook.com
-SUMMARY:Vert Club
-LOCATION:Thumb Butte
-URL:https://www.facebook.com/events/1038732034199559/?event_time_id=1038732077532888
-DESCRIPTION:Meet us at 0600 at the Thumb Butte
-  Parking Lot (parking is free on W
- ednesdays) for as many loops as yo
- u want! \n\nhttps://www.facebook.com
- /events/1038732034199559/?event_ti
- me_id=1038732077532888
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230621T171213Z
-LAST-MODIFIED:20230621T171213Z
-CREATED:20230515T212306Z
-SEQUENCE:3181747
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20230628T003000Z
-DTEND:20230628T033000Z
-UID:e195355096753518@facebook.com
-SUMMARY:Tuesday Group Run- Willow Lake - Brandon leading
-URL:https://www.facebook.com/events/195355096753518/
-DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
-  will meet at the Dog Park parking
-  lot (link here https://goo.gl/map
- s/ZCLmd4fQPGkyXCHP7) at 5:30pm. Pl
- an for 5 miles(ish).\n\n*Brandon lea
- ding \n\nNo drop run (we stop for ev
- eryone at every intersection).\n\nht
- tps://www.facebook.com/events/1953
- 55096753518/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
