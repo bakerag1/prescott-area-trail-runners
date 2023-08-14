@@ -172,6 +172,34 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20230807T202256Z
+LAST-MODIFIED:20230807T202256Z
+CREATED:20230807T202256Z
+SEQUENCE:0
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20230920T003000Z
+DTEND:20230920T033000Z
+UID:e832513398474978@facebook.com
+SUMMARY:Tuesday Group Run- Upper Spence Basin
+LOCATION:https://maps.apple.com/?ll=34.5819
+ 04\,-112.548972&q=Dropped%20Pin&_ex
+ t=EiYpaevoe+dJQUAxxHG9OnsjXMA558AO
+ 2A1LQUBB5GbvdsgiXMBQBA%3D%3D&t=h
+URL:https://www.facebook.com/events/832513398474978/
+DESCRIPTION:PLEASE READ THIS DESCRIPTION. \nWe 
+ will meet at UPPER Parking lot alo
+ ng Iron Springs\, where the circle 
+ trail crosses the Iron Springs at 
+ 5:30pm. Expect 4-6 miles. No drop 
+ run (we stop for everyone at every
+  intersection). \n\nBring a headlamp
+ !\n\nhttps://www.facebook.com/events
+ /832513398474978/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20230801T162757Z
 LAST-MODIFIED:20230801T162757Z
 CREATED:20230523T205225Z
@@ -215,6 +243,29 @@ DESCRIPTION:Vert Club is back!! Every Wednesda
  www.facebook.com/events/5318141124
  43086/?event_time_id=5318141924430
  78
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230807T202043Z
+LAST-MODIFIED:20230807T202043Z
+CREATED:20230807T202043Z
+SEQUENCE:0
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20230913T003000Z
+DTEND:20230913T033000Z
+UID:e613414397322798@facebook.com
+SUMMARY:Tuesday Group Run- White Rock 
+URL:https://www.facebook.com/events/613414397322798/
+DESCRIPTION:We will meet at White Rock Parking
+  lot (link here https://goo.gl/map
+ s/YN2uMvQnyQWTM9JK7) at 5:30pm. \n\n
+ No-drop group run of approximately
+  5 miles. No-drop means we stop at
+  every intersection and wait for e
+ veryone. \n\n\n\n\nhttps://www.facebook
+ .com/events/613414397322798/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -268,6 +319,30 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20230807T201536Z
+LAST-MODIFIED:20230807T201536Z
+CREATED:20230807T201536Z
+SEQUENCE:0
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20230906T003000Z
+DTEND:20230906T033000Z
+UID:e3096993547273102@facebook.com
+SUMMARY:Tuesday Group Run- Granite Basin
+URL:https://www.facebook.com/events/3096993547273102/
+DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
+  will meet at the cattleguard (lin
+ k here https://goo.gl/maps/CnyTC6T
+ oppAjWTcn6) at 5:30pm. \n\nExpect 5-
+ 6 miles\, all downhill (except for 
+ the uphills). No drop run (we stop
+  for everyone at every intersectio
+ n). \n\n\nhttps://www.facebook.com/ev
+ ents/3096993547273102/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20230801T162757Z
 LAST-MODIFIED:20230801T162757Z
 CREATED:20230523T205225Z
@@ -308,6 +383,29 @@ DESCRIPTION:Meet us at 0600 at the Thumb Butte
  u want! \n\nhttps://www.facebook.com
  /events/1038732034199559/?event_ti
  me_id=1038732067532889
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230808T000032Z
+LAST-MODIFIED:20230808T000032Z
+CREATED:20230807T201449Z
+SEQUENCE:13543
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20230830T003000Z
+DTEND:20230830T033000Z
+UID:e1333702307583122@facebook.com
+SUMMARY:Tuesday Group Run- Willow Lake- Brandon leading!
+URL:https://www.facebook.com/events/1333702307583122/
+DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
+  will meet at the Dog Park parking
+  lot (link here https://goo.gl/map
+ s/ZCLmd4fQPGkyXCHP7) at 5:30pm. Pl
+ an for 5 miles(ish).\n\nNo drop run 
+ (we stop for everyone at every int
+ ersection).\n\nhttps://www.facebook.
+ com/events/1333702307583122/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -358,6 +456,32 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20230807T232105Z
+LAST-MODIFIED:20230807T232105Z
+CREATED:20230807T201342Z
+SEQUENCE:11243
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20230823T003000Z
+DTEND:20230823T033000Z
+UID:e304684862224156@facebook.com
+SUMMARY:Tuesday Group Run- White Spar- Jon leading
+URL:https://www.facebook.com/events/304684862224156/
+DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
+  will meet at the White Spar Parki
+ ng lot (link here https://goo.gl/m
+ aps/nX4JGH75u4T7R15g7) at 5:30 PM.
+  Expect 4-6 miles. No drop run (we
+  stop for everyone at every inters
+ ection). \n\nBe careful\, this is NOT
+  the usual white ROCK parking lot\,
+  this is white SPAR. \n\n\n\nhttps://w
+ ww.facebook.com/events/30468486222
+ 4156/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20230523T172918Z
 LAST-MODIFIED:20230523T172918Z
 CREATED:20230523T172918Z
@@ -375,6 +499,53 @@ DESCRIPTION:Meet us at 0600 at the Thumb Butte
  u want! \n\nhttps://www.facebook.com
  /events/1038732034199559/?event_ti
  me_id=1038732064199556
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230808T000006Z
+LAST-MODIFIED:20230808T000006Z
+CREATED:20230807T201132Z
+SEQUENCE:13714
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20230816T003000Z
+DTEND:20230816T033000Z
+UID:e3452355775006410@facebook.com
+SUMMARY:Tuesday Group Run- Peavine- Brandon leading!
+URL:https://www.facebook.com/events/3452355775006410/
+DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
+  will meet at the Peavine Trailhea
+ d by the Humane Society at 5:30pm.
+  No drop run (we stop for everyone
+  at every intersection). \n\nExpect 
+ 5-6 miles.\n\n\n\n\n\n\n\nhttps://www.face
+ book.com/events/3452355775006410/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230810T142724Z
+LAST-MODIFIED:20230810T142724Z
+CREATED:20230810T142724Z
+SEQUENCE:0
+ORGANIZER;CN=Chris Hawthorne:MAILTO:noreply@facebookmail.com
+DTSTART:20230812T133000Z
+DTEND:20230812T163000Z
+UID:e661863922539013@facebook.com
+SUMMARY:SATR PATR - White Rock
+LOCATION:White Rock TH on Thumb Butte Rd
+URL:https://www.facebook.com/events/661863922539013/
+DESCRIPTION:Come run with us! We'll have optio
+ ns from 6 to 10 miles\, heading up 
+ towards the Skull Valley Overlook.
+  No drop run\, meaning we wait for 
+ everyone at each intersection. Bri
+ ng a chair if you want to chill ou
+ t with some watermelon post-run. \n
+ \nhttps://www.facebook.com/events/6
+ 61863922539013/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -402,10 +573,10 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230621T160241Z
-LAST-MODIFIED:20230621T160241Z
+DTSTAMP:20230807T202453Z
+LAST-MODIFIED:20230807T202453Z
 CREATED:20230621T160241Z
-SEQUENCE:0
+SEQUENCE:4076532
 ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
 DTSTART:20230809T003000Z
 DTEND:20230809T033000Z
@@ -657,107 +828,5 @@ DESCRIPTION:Meet us at 0600 at the Thumb Butte
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230710T191657Z
-LAST-MODIFIED:20230710T191657Z
-CREATED:20230710T191657Z
-SEQUENCE:0
-ORGANIZER;CN=Andrew Baker:MAILTO:bakerag1@gmail.com
-DTSTART:20230715T003000Z
-DTEND:20230715T033000Z
-UID:e6311874978925845@facebook.com
-SUMMARY:Lazy G Tapping Party
-LOCATION:LazyG Brewhouse
-URL:https://www.facebook.com/events/6311874978925845/
-DESCRIPTION:The Lazy G competition winning bee
- r is going on tap at Lazy G\, come 
- give it a try and hang out!\n\nhttps
- ://www.facebook.com/events/6311874
- 978925845/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230801T162757Z
-LAST-MODIFIED:20230801T162757Z
-CREATED:20230523T205225Z
-SEQUENCE:6032132
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20230714T003000Z
-DTEND:20230714T020000Z
-UID:e204762719055331@facebook.com
-SUMMARY:PATR Thursday Night Social Run
-LOCATION:La Planchada
-URL:https://www.facebook.com/events/204762669055336/?event_time_id=204762719055331
-DESCRIPTION:Thursday Night Social Run 5:30 at 
- La Planchada\, 217 Gurley St. Come 
- and run a couple miles on the loca
- l trails and then hang out and soc
- ialize afterwards.\n\nhttps://www.fa
- cebook.com/events/204762669055336/
- ?event_time_id=204762719055331
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230523T172918Z
-LAST-MODIFIED:20230523T172918Z
-CREATED:20230523T172918Z
-SEQUENCE:0
-ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
-DTSTART:20230712T130000Z
-DTEND:20230712T170000Z
-UID:e1038732054199557@facebook.com
-SUMMARY:Vert Club
-LOCATION:Thumb Butte
-URL:https://www.facebook.com/events/1038732034199559/?event_time_id=1038732054199557
-DESCRIPTION:Meet us at 0600 at the Thumb Butte
-  Parking Lot (parking is free on W
- ednesdays) for as many loops as yo
- u want! \n\nhttps://www.facebook.com
- /events/1038732034199559/?event_ti
- me_id=1038732054199557
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230621T234356Z
-LAST-MODIFIED:20230621T234356Z
-CREATED:20230621T154715Z
-SEQUENCE:28601
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20230712T003000Z
-DTEND:20230712T033000Z
-UID:e280425971211661@facebook.com
-SUMMARY:Tuesday Group Run- Trail 305 and Lynx Lake
-LOCATION:34.543106599752065\, -112.398415751
- 0335
-URL:https://www.facebook.com/events/280425971211661/
-DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nNo
-  drop group run (we stop for every
- one at every intersection and hang
-  out/catch up then run again!). Ex
- pect 6 miles. This run is an out &
-  back. Mild rolling hills through 
- the pines and a short section by L
- ynx lake in the middle. Park close
- r to trail 305 (veer forward\, slig
- htly left\, not toward the right).\n
- \nWe will meet at the trailhead tha
- t is shared by Trail 62 and Trail 
- 305. 34.543106599752065\, -112.3984
- 157510335\n\nClick here for addition
- al details from the FS: https://ww
- w.fs.usda.gov/Internet/FSE_DOCUMEN
- TS/stelprd3811851.pdf\n\nhttps://www
- .facebook.com/events/2804259712116
- 61/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
 END:VEVENT
 END:VCALENDAR
