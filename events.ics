@@ -94,6 +94,34 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20230919T195613Z
+LAST-MODIFIED:20230919T195613Z
+CREATED:20230919T195613Z
+SEQUENCE:0
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20231101T003000Z
+DTEND:20231101T033000Z
+UID:e816274333834480@facebook.com
+SUMMARY:Tuesday Group Run- Upper Spence Basin
+LOCATION:https://maps.apple.com/?ll=34.5819
+ 04\,-112.548972&q=Dropped%20Pin&_ex
+ t=EiYpaevoe+dJQUAxxHG9OnsjXMA558AO
+ 2A1LQUBB5GbvdsgiXMBQBA%3D%3D&t=h
+URL:https://www.facebook.com/events/816274333834480/
+DESCRIPTION:PLEASE READ THIS DESCRIPTION. \nWe 
+ will meet at UPPER Parking lot alo
+ ng Iron Springs\, where the circle 
+ trail crosses the Iron Springs at 
+ 5:30pm. Expect 4-6 miles. No drop 
+ run (we stop for everyone at every
+  intersection). \n\nBring a headlamp
+ !\n\nhttps://www.facebook.com/events
+ /816274333834480/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20230802T180841Z
 LAST-MODIFIED:20230802T180841Z
 CREATED:20230802T175945Z
@@ -163,10 +191,33 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230801T162757Z
-LAST-MODIFIED:20230801T162757Z
+DTSTAMP:20230919T195100Z
+LAST-MODIFIED:20230919T195100Z
+CREATED:20230919T195100Z
+SEQUENCE:0
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20231025T003000Z
+DTEND:20231025T033000Z
+UID:e270029442668978@facebook.com
+SUMMARY:Tuesday Group Run- White Rock 
+URL:https://www.facebook.com/events/270029442668978/
+DESCRIPTION:We will meet at White Rock Parking
+  lot (link here https://goo.gl/map
+ s/YN2uMvQnyQWTM9JK7) at 5:30pm. \n\n
+ No-drop group run of approximately
+  5 miles. No-drop means we stop at
+  every intersection and wait for e
+ veryone. \n\n\n\n\nhttps://www.facebook
+ .com/events/270029442668978/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230909T182354Z
+LAST-MODIFIED:20230909T182354Z
 CREATED:20230523T205225Z
-SEQUENCE:6032132
+SEQUENCE:9408689
 ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
 DTSTART:20231020T003000Z
 DTEND:20231020T020000Z
@@ -178,18 +229,43 @@ DESCRIPTION:Thursday Night Social Run 5:30 at
  La Planchada\, 217 Gurley St. Come 
  and run a couple miles on the loca
  l trails and then hang out and soc
- ialize afterwards.\n\nhttps://www.fa
- cebook.com/events/204762669055336/
- ?event_time_id=204762682388668
+ ialize afterwards. (testing)\n\nhttp
+ s://www.facebook.com/events/204762
+ 669055336/?event_time_id=204762682
+ 388668
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230801T162757Z
-LAST-MODIFIED:20230801T162757Z
+DTSTAMP:20230919T195145Z
+LAST-MODIFIED:20230919T195145Z
+CREATED:20230919T195145Z
+SEQUENCE:0
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20231018T003000Z
+DTEND:20231018T033000Z
+UID:e342641451528667@facebook.com
+SUMMARY:Tuesday Group Run- Granite Basin
+URL:https://www.facebook.com/events/342641451528667/
+DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
+  will meet at the cattleguard (lin
+ k here https://goo.gl/maps/CnyTC6T
+ oppAjWTcn6) at 5:30pm. \n\nExpect 5-
+ 6 miles\, all downhill (except for 
+ the uphills). No drop run (we stop
+  for everyone at every intersectio
+ n). \n\n\nhttps://www.facebook.com/ev
+ ents/342641451528667/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230909T182354Z
+LAST-MODIFIED:20230909T182354Z
 CREATED:20230523T205225Z
-SEQUENCE:6032132
+SEQUENCE:9408689
 ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
 DTSTART:20231013T003000Z
 DTEND:20231013T020000Z
@@ -201,18 +277,42 @@ DESCRIPTION:Thursday Night Social Run 5:30 at
  La Planchada\, 217 Gurley St. Come 
  and run a couple miles on the loca
  l trails and then hang out and soc
- ialize afterwards.\n\nhttps://www.fa
- cebook.com/events/204762669055336/
- ?event_time_id=204762745721995
+ ialize afterwards. (testing)\n\nhttp
+ s://www.facebook.com/events/204762
+ 669055336/?event_time_id=204762745
+ 721995
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230801T162757Z
-LAST-MODIFIED:20230801T162757Z
+DTSTAMP:20230919T195257Z
+LAST-MODIFIED:20230919T195257Z
+CREATED:20230919T195257Z
+SEQUENCE:0
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20231011T003000Z
+DTEND:20231011T033000Z
+UID:e819498852978767@facebook.com
+SUMMARY:Tuesday Group Run- Willow Lake- Brandon leading!
+URL:https://www.facebook.com/events/819498852978767/
+DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
+  will meet at the Dog Park parking
+  lot (link here https://goo.gl/map
+ s/ZCLmd4fQPGkyXCHP7) at 5:30pm. Pl
+ an for 5 miles(ish).\n\nNo drop run 
+ (we stop for everyone at every int
+ ersection).\n\nhttps://www.facebook.
+ com/events/819498852978767/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230909T182354Z
+LAST-MODIFIED:20230909T182354Z
 CREATED:20230523T205225Z
-SEQUENCE:6032132
+SEQUENCE:9408689
 ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
 DTSTART:20231006T003000Z
 DTEND:20231006T020000Z
@@ -224,18 +324,68 @@ DESCRIPTION:Thursday Night Social Run 5:30 at
  La Planchada\, 217 Gurley St. Come 
  and run a couple miles on the loca
  l trails and then hang out and soc
- ialize afterwards.\n\nhttps://www.fa
- cebook.com/events/204762669055336/
- ?event_time_id=204762739055329
+ ialize afterwards. (testing)\n\nhttp
+ s://www.facebook.com/events/204762
+ 669055336/?event_time_id=204762739
+ 055329
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230801T162757Z
-LAST-MODIFIED:20230801T162757Z
+DTSTAMP:20230919T195359Z
+LAST-MODIFIED:20230919T195359Z
+CREATED:20230919T195359Z
+SEQUENCE:0
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20231004T003000Z
+DTEND:20231004T033000Z
+UID:e1483567872425361@facebook.com
+SUMMARY:Tuesday Group Run- White Spar
+URL:https://www.facebook.com/events/1483567872425361/
+DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
+  will meet at the White Spar Parki
+ ng lot (link here https://goo.gl/m
+ aps/nX4JGH75u4T7R15g7) at 5:30 PM.
+  Expect 4-6 miles. No drop run (we
+  stop for everyone at every inters
+ ection). \n\nBe careful\, this is NOT
+  the usual white ROCK parking lot\,
+  this is white SPAR. \n\n\n\nhttps://w
+ ww.facebook.com/events/14835678724
+ 25361/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230925T162706Z
+LAST-MODIFIED:20230925T162706Z
+CREATED:20230925T162706Z
+SEQUENCE:0
+ORGANIZER;CN=Chris Hawthorne:MAILTO:noreply@facebookmail.com
+DTSTART:20231002T140000Z
+DTEND:20231002T170000Z
+UID:e1980284042350228@facebook.com
+SUMMARY:Brownlow Mondays
+LOCATION:Brownlow lot off of Commerce
+URL:https://www.facebook.com/events/1980284042350228/
+DESCRIPTION:Start the week off right 😊We’
+ ll do the 10k loop\; any pace or ab
+ ility welcome\, including hikers! G
+ reat training for December’s San
+ ta Run 👊🏼 🎅🏼 \n\nhttps:/
+ /www.facebook.com/events/198028404
+ 2350228/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230909T182354Z
+LAST-MODIFIED:20230909T182354Z
 CREATED:20230523T205225Z
-SEQUENCE:6032132
+SEQUENCE:9408689
 ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
 DTSTART:20230929T003000Z
 DTEND:20230929T020000Z
@@ -247,9 +397,10 @@ DESCRIPTION:Thursday Night Social Run 5:30 at
  La Planchada\, 217 Gurley St. Come 
  and run a couple miles on the loca
  l trails and then hang out and soc
- ialize afterwards.\n\nhttps://www.fa
- cebook.com/events/204762669055336/
- ?event_time_id=204762742388662
+ ialize afterwards. (testing)\n\nhttp
+ s://www.facebook.com/events/204762
+ 669055336/?event_time_id=204762742
+ 388662
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -280,10 +431,104 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230801T162757Z
-LAST-MODIFIED:20230801T162757Z
+DTSTAMP:20230919T195444Z
+LAST-MODIFIED:20230919T195444Z
+CREATED:20230919T195444Z
+SEQUENCE:0
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20230927T003000Z
+DTEND:20230927T033000Z
+UID:e292198126781425@facebook.com
+SUMMARY:Tuesday Group Run- Peavine- Brandon leading!
+URL:https://www.facebook.com/events/292198126781425/
+DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
+  will meet at the Peavine Trailhea
+ d by the Humane Society at 5:30pm.
+  No drop run (we stop for everyone
+  at every intersection). \n\nExpect 
+ 5-6 miles.\n\n\n\n\n\n\n\nhttps://www.face
+ book.com/events/292198126781425/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230918T165009Z
+LAST-MODIFIED:20230918T165009Z
+CREATED:20230918T165009Z
+SEQUENCE:0
+ORGANIZER;CN=Chris Hawthorne:MAILTO:noreply@facebookmail.com
+DTSTART:20230925T140000Z
+DTEND:20230925T170000Z
+UID:e326560609853683@facebook.com
+SUMMARY:Brownlow Mondays
+LOCATION:Brownlow lot off of Commerce
+URL:https://www.facebook.com/events/326560609853683/
+DESCRIPTION:Start the week off right 😊We’
+ ll do the 10k loop\; any pace or ab
+ ility welcome\, including hikers! G
+ reat training for December’s San
+ ta Run 👊🏼 🎅🏼 \n\nhttps:/
+ /www.facebook.com/events/326560609
+ 853683/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230920T232043Z
+LAST-MODIFIED:20230920T232043Z
+CREATED:20230920T231518Z
+SEQUENCE:325
+ORGANIZER;CN=Chris Hawthorne:MAILTO:noreply@facebookmail.com
+DTSTART:20230923T140000Z
+DTEND:20230923T170000Z
+UID:e255712574113866@facebook.com
+SUMMARY:SATR PATR Baby Granite edition
+LOCATION:Williamson Valley Trailhead
+URL:https://www.facebook.com/events/255712574113866/
+DESCRIPTION:Meet at the Williamson Valley Trai
+ lhead\, on Williamson Valley Rd abo
+ ut 4 miles north of Pioneer Parkwa
+ y. Options include a 6 mile out an
+ d back OR a 12 mile/1000' gain lol
+ lipop route. All abilities/paces a
+ re welcome! This is a no-drop run\;
+  we will wait at all intersections
+  for everyone.\n\nhttps://www.facebo
+ ok.com/events/255712574113866/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230915T183825Z
+LAST-MODIFIED:20230915T183825Z
+CREATED:20230915T183825Z
+SEQUENCE:0
+ORGANIZER;CN=Whiskey Row Brew Club:MAILTO:noreply@facebookmail.com
+DTSTART:20230922T010000Z
+DTEND:20230922T040000Z
+UID:e327610056593364@facebook.com
+SUMMARY:September General Meeting
+LOCATION:Park Plaza Liquor and Deli
+URL:https://www.facebook.com/events/327610056593364/
+DESCRIPTION:General Meeting\n\nSeptember 21st 6p
+ m\nPark Plaza Liquor and Deli\n* All
+ -Grain brewing overview ed topic\n*
+  Munich Helles Gauntlet\n\n#prescott
+ az  #homebrewing #hellesbier\n\nhttp
+ s://www.facebook.com/events/327610
+ 056593364/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230909T182354Z
+LAST-MODIFIED:20230909T182354Z
 CREATED:20230523T205225Z
-SEQUENCE:6032132
+SEQUENCE:9408689
 ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
 DTSTART:20230922T003000Z
 DTEND:20230922T020000Z
@@ -295,9 +540,10 @@ DESCRIPTION:Thursday Night Social Run 5:30 at
  La Planchada\, 217 Gurley St. Come 
  and run a couple miles on the loca
  l trails and then hang out and soc
- ialize afterwards.\n\nhttps://www.fa
- cebook.com/events/204762669055336/
- ?event_time_id=204762712388665
+ ialize afterwards. (testing)\n\nhttp
+ s://www.facebook.com/events/204762
+ 669055336/?event_time_id=204762712
+ 388665
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -353,13 +599,13 @@ DESCRIPTION:PLEASE READ THIS DESCRIPTION. \nWe
  /832513398474978/
 CLASS:PUBLIC
 STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
+PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230801T162757Z
-LAST-MODIFIED:20230801T162757Z
+DTSTAMP:20230909T182354Z
+LAST-MODIFIED:20230909T182354Z
 CREATED:20230523T205225Z
-SEQUENCE:6032132
+SEQUENCE:9408689
 ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
 DTSTART:20230915T003000Z
 DTEND:20230915T020000Z
@@ -371,9 +617,10 @@ DESCRIPTION:Thursday Night Social Run 5:30 at
  La Planchada\, 217 Gurley St. Come 
  and run a couple miles on the loca
  l trails and then hang out and soc
- ialize afterwards.\n\nhttps://www.fa
- cebook.com/events/204762669055336/
- ?event_time_id=204762722388664
+ ialize afterwards. (testing)\n\nhttp
+ s://www.facebook.com/events/204762
+ 669055336/?event_time_id=204762722
+ 388664
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -404,29 +651,6 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T202043Z
-LAST-MODIFIED:20230807T202043Z
-CREATED:20230807T202043Z
-SEQUENCE:0
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20230913T003000Z
-DTEND:20230913T033000Z
-UID:e613414397322798@facebook.com
-SUMMARY:Tuesday Group Run- White Rock 
-URL:https://www.facebook.com/events/613414397322798/
-DESCRIPTION:We will meet at White Rock Parking
-  lot (link here https://goo.gl/map
- s/YN2uMvQnyQWTM9JK7) at 5:30pm. \n\n
- No-drop group run of approximately
-  5 miles. No-drop means we stop at
-  every intersection and wait for e
- veryone. \n\n\n\n\nhttps://www.facebook
- .com/events/613414397322798/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20230725T203709Z
 LAST-MODIFIED:20230725T203709Z
 CREATED:20230725T203709Z
@@ -450,10 +674,10 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230801T162757Z
-LAST-MODIFIED:20230801T162757Z
+DTSTAMP:20230909T182354Z
+LAST-MODIFIED:20230909T182354Z
 CREATED:20230523T205225Z
-SEQUENCE:6032132
+SEQUENCE:9408689
 ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
 DTSTART:20230908T003000Z
 DTEND:20230908T020000Z
@@ -465,9 +689,10 @@ DESCRIPTION:Thursday Night Social Run 5:30 at
  La Planchada\, 217 Gurley St. Come 
  and run a couple miles on the loca
  l trails and then hang out and soc
- ialize afterwards.\n\nhttps://www.fa
- cebook.com/events/204762669055336/
- ?event_time_id=204762725721997
+ ialize afterwards. (testing)\n\nhttp
+ s://www.facebook.com/events/204762
+ 669055336/?event_time_id=204762725
+ 721997
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -522,10 +747,10 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230801T162757Z
-LAST-MODIFIED:20230801T162757Z
+DTSTAMP:20230909T182354Z
+LAST-MODIFIED:20230909T182354Z
 CREATED:20230523T205225Z
-SEQUENCE:6032132
+SEQUENCE:9408689
 ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
 DTSTART:20230901T003000Z
 DTEND:20230901T020000Z
@@ -537,9 +762,10 @@ DESCRIPTION:Thursday Night Social Run 5:30 at
  La Planchada\, 217 Gurley St. Come 
  and run a couple miles on the loca
  l trails and then hang out and soc
- ialize afterwards.\n\nhttps://www.fa
- cebook.com/events/204762669055336/
- ?event_time_id=204762702388666
+ ialize afterwards. (testing)\n\nhttp
+ s://www.facebook.com/events/204762
+ 669055336/?event_time_id=204762702
+ 388666
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -588,308 +814,5 @@ DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230824T203136Z
-LAST-MODIFIED:20230824T203136Z
-CREATED:20230822T020652Z
-SEQUENCE:239084
-ORGANIZER;CN=Brandon McDowell:MAILTO:noreply@facebookmail.com
-DTSTART:20230826T133000Z
-DTEND:20230826T163000Z
-UID:e340125468350436@facebook.com
-SUMMARY:SATR PATR- Peavine to Storm Trails to Dells Bonanza Trails and beyond
-LOCATION:Peavine Trail Parking Lot
-URL:https://www.facebook.com/events/340125468350436/
-DESCRIPTION:Plan on heading out from the Peavi
- ne trailhead to amble around all t
- he Dells. So many options from thi
- s trailhead(6.5\, 7.5\, and beyond) 
- whether you want a flat cruiser or
-  want to hop around a little bit o
- r a lot bit. \n\nI plan on running d
- own Peavine and veering off at the
-  first right at about mile 1.25. T
- hen take the perimeter of the Stor
- m Trail system and attempt to conn
- ect it as simply as possible to th
- e new Bonanza system. \n\nThere will
-  be options to jump back on Peavin
- e after we complete the perimeter 
- and move on to connecting the Bona
- nza. \n\n6.5-7.5 mile options from P
- eavine around the perimeter of the
-  Storm trails and back down Peavin
- e. \n\n7.5 mile option from Peavine 
- around the perimeter of the Storm 
- trails then connecting to the Wats
- on Lake Loop (finishing counter cl
- ockwise) back to the Peavine Trail
- head. \n\nI am doing a longer run an
- d will get in between 12 and 14 an
- d will definitely tackle the Bonan
- za system as well\, but am more tha
- n willing to lead anyone to howeve
- r many miles they would like then 
- I will tack miles on accordingly. 
- \n\nIf you want to see this area\, pl
- ease come out. \n\nDon is also leadi
- ng a hike from the Peavine Trailhe
- ad if you want to get out and enjo
- y the day at a bit more tolerable 
- pace. \n\n Being outside is fun. Bei
- ng outside exercising is funner. B
- eing outside exercising with frien
- ds is the funnest. \n\nhttps://www.f
- acebook.com/events/340125468350436
- /
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230801T162757Z
-LAST-MODIFIED:20230801T162757Z
-CREATED:20230523T205225Z
-SEQUENCE:6032132
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20230825T003000Z
-DTEND:20230825T020000Z
-UID:e204762735721996@facebook.com
-SUMMARY:PATR Thursday Night Social Run
-LOCATION:La Planchada
-URL:https://www.facebook.com/events/204762669055336/?event_time_id=204762735721996
-DESCRIPTION:Thursday Night Social Run 5:30 at 
- La Planchada\, 217 Gurley St. Come 
- and run a couple miles on the loca
- l trails and then hang out and soc
- ialize afterwards.\n\nhttps://www.fa
- cebook.com/events/204762669055336/
- ?event_time_id=204762735721996
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230523T172918Z
-LAST-MODIFIED:20230523T172918Z
-CREATED:20230523T172918Z
-SEQUENCE:0
-ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
-DTSTART:20230823T130000Z
-DTEND:20230823T170000Z
-UID:e1038732060866223@facebook.com
-SUMMARY:Vert Club
-LOCATION:Thumb Butte
-URL:https://www.facebook.com/events/1038732034199559/?event_time_id=1038732060866223
-DESCRIPTION:Meet us at 0600 at the Thumb Butte
-  Parking Lot (parking is free on W
- ednesdays) for as many loops as yo
- u want! \n\nhttps://www.facebook.com
- /events/1038732034199559/?event_ti
- me_id=1038732060866223
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230807T232105Z
-LAST-MODIFIED:20230807T232105Z
-CREATED:20230807T201342Z
-SEQUENCE:11243
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20230823T003000Z
-DTEND:20230823T033000Z
-UID:e304684862224156@facebook.com
-SUMMARY:Tuesday Group Run- White Spar- Jon leading
-URL:https://www.facebook.com/events/304684862224156/
-DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
-  will meet at the White Spar Parki
- ng lot (link here https://goo.gl/m
- aps/nX4JGH75u4T7R15g7) at 5:30 PM.
-  Expect 4-6 miles. No drop run (we
-  stop for everyone at every inters
- ection). \n\nBe careful\, this is NOT
-  the usual white ROCK parking lot\,
-  this is white SPAR. \n\n\n\nhttps://w
- ww.facebook.com/events/30468486222
- 4156/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230815T011555Z
-LAST-MODIFIED:20230815T011555Z
-CREATED:20230815T011555Z
-SEQUENCE:0
-ORGANIZER;CN=Harley Guy:MAILTO:noreply@facebookmail.com
-DTSTART:20230818T003000Z
-DTEND:20230818T033000Z
-UID:e809693410627613@facebook.com
-SUMMARY:Thursday Night Social Run! 
-LOCATION:La Planchada
-URL:https://www.facebook.com/events/809693410627613/
-DESCRIPTION:Hello everyone! Hope you are all w
- ell!  \n\nOn the 17th and 24th of th
- is month the Thursday night social
-  runs will be held at Laplanchada 
- !  It’s a local taco and tequila
-  place that is off the hook! \n\nAft
- er a few miles on the urban trail 
- system we will be hanging out and 
- there will be FREE tequila tasting
- s! \n\nAlso\, all the proceeds from a
- ny food and beverage sales from 5:
- 30 to 9pm will go to support the W
- ildland Firefighter Foundation via
-  my Charity bib for Cocodona 250 !
-  \n\nPlease share with all your frie
- nd and family that would like to r
- un and support a great cause! \n\nI 
- look forward to seeing everyone th
- ere!\n\nhttps://www.facebook.com/eve
- nts/809693410627613/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230815T014316Z
-LAST-MODIFIED:20230815T014316Z
-CREATED:20230815T011833Z
-SEQUENCE:1483
-ORGANIZER;CN=Richard Covey:MAILTO:noreply@facebookmail.com
-DTSTART:20230818T003000Z
-DTEND:20230818T024500Z
-UID:e221784384190213@facebook.com
-SUMMARY:Taco Thursday - social run
-LOCATION:La Planchada
-URL:https://www.facebook.com/events/221784384190213/
-DESCRIPTION:Meet at Laplanchada. \n\nhttps://www
- .facebook.com/events/2217843841902
- 13/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230523T172918Z
-LAST-MODIFIED:20230523T172918Z
-CREATED:20230523T172918Z
-SEQUENCE:0
-ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
-DTSTART:20230816T130000Z
-DTEND:20230816T170000Z
-UID:e1038732064199556@facebook.com
-SUMMARY:Vert Club
-LOCATION:Thumb Butte
-URL:https://www.facebook.com/events/1038732034199559/?event_time_id=1038732064199556
-DESCRIPTION:Meet us at 0600 at the Thumb Butte
-  Parking Lot (parking is free on W
- ednesdays) for as many loops as yo
- u want! \n\nhttps://www.facebook.com
- /events/1038732034199559/?event_ti
- me_id=1038732064199556
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230808T000006Z
-LAST-MODIFIED:20230808T000006Z
-CREATED:20230807T201132Z
-SEQUENCE:13714
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20230816T003000Z
-DTEND:20230816T033000Z
-UID:e3452355775006410@facebook.com
-SUMMARY:Tuesday Group Run- Peavine- Brandon leading!
-URL:https://www.facebook.com/events/3452355775006410/
-DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
-  will meet at the Peavine Trailhea
- d by the Humane Society at 5:30pm.
-  No drop run (we stop for everyone
-  at every intersection). \n\nExpect 
- 5-6 miles.\n\n\n\n\n\n\n\nhttps://www.face
- book.com/events/3452355775006410/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230810T142724Z
-LAST-MODIFIED:20230810T142724Z
-CREATED:20230810T142724Z
-SEQUENCE:0
-ORGANIZER;CN=Chris Hawthorne:MAILTO:noreply@facebookmail.com
-DTSTART:20230812T133000Z
-DTEND:20230812T163000Z
-UID:e661863922539013@facebook.com
-SUMMARY:SATR PATR - White Rock
-LOCATION:White Rock TH on Thumb Butte Rd
-URL:https://www.facebook.com/events/661863922539013/
-DESCRIPTION:Come run with us! We'll have optio
- ns from 6 to 10 miles\, heading up 
- towards the Skull Valley Overlook.
-  No drop run\, meaning we wait for 
- everyone at each intersection. Bri
- ng a chair if you want to chill ou
- t with some watermelon post-run. \n
- \nhttps://www.facebook.com/events/6
- 61863922539013/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230523T172918Z
-LAST-MODIFIED:20230523T172918Z
-CREATED:20230523T172918Z
-SEQUENCE:0
-ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
-DTSTART:20230809T130000Z
-DTEND:20230809T170000Z
-UID:e1038732057532890@facebook.com
-SUMMARY:Vert Club
-LOCATION:Thumb Butte
-URL:https://www.facebook.com/events/1038732034199559/?event_time_id=1038732057532890
-DESCRIPTION:Meet us at 0600 at the Thumb Butte
-  Parking Lot (parking is free on W
- ednesdays) for as many loops as yo
- u want! \n\nhttps://www.facebook.com
- /events/1038732034199559/?event_ti
- me_id=1038732057532890
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230807T202453Z
-LAST-MODIFIED:20230807T202453Z
-CREATED:20230621T160241Z
-SEQUENCE:4076532
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20230809T003000Z
-DTEND:20230809T033000Z
-UID:e264334169614756@facebook.com
-SUMMARY:Tuesday Group Run- Upper Spence Basin
-LOCATION:https://maps.apple.com/?ll=34.5819
- 04\,-112.548972&q=Dropped%20Pin&_ex
- t=EiYpaevoe+dJQUAxxHG9OnsjXMA558AO
- 2A1LQUBB5GbvdsgiXMBQBA%3D%3D&t=h
-URL:https://www.facebook.com/events/264334169614756/
-DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
-  will meet at UPPER Parking lot al
- ong Iron Springs\, where the circle
-  trail crosses the Iron Springs at
-  5:30pm. Expect 4-6 miles. No drop
-  run (we stop for everyone at ever
- y intersection). \n\n\n\nhttps://www.f
- acebook.com/events/264334169614756
- /
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
 END:VEVENT
 END:VCALENDAR
