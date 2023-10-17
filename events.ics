@@ -94,6 +94,120 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20231009T184749Z
+LAST-MODIFIED:20231009T184749Z
+CREATED:20230825T235335Z
+SEQUENCE:3869654
+ORGANIZER;CN=Black Canyon Ultras:MAILTO:noreply@facebookmail.com
+DTSTART:20231119T140000Z
+DTEND:20231119T170000Z
+UID:e245298674580570@facebook.com
+SUMMARY:Black Canyon Training Run #1
+LOCATION:Big Bug Trailhead\, Black Canyon Tr
+ ail
+URL:https://www.facebook.com/events/245298674580570/
+DESCRIPTION:This will be the first of three tr
+ aining runs leading up to the 2024
+  Black Canyon Ultras. We will be b
+ reaking up the 100K course into th
+ ree sections. Each run will be min
+ imally supported\, minimally marked
+  and point to point. We will have 
+ shorter options at each. Here is i
+ nformation for those of you wantin
+ g to join on this first training r
+ un:\n\nDate:\nNovember 19\, 2023\n\nDist
+ ance:\nMile 0 – Big Bug Trailhead
+ \nMile 8 – Antelope Mesa (Water)\n
+ Mile 13 – Hidden Treasure Mine T
+ H \nMile 20ish – Bumble Bee (Fini
+ sh) \n\nTime:\n7:00am Meet just North
+  of the bridge at the trailhead in
+  Bumble Bee to carpool to start or
+  7:45am Meet at Big Bug Trailhead\n
+ \nThe run will start approximately 
+ at 8:00am from the Big Bug Trailhe
+ ad off HWY 69. This is an establis
+ hed Trailhead of the BCT just west
+  of Mayer HS. It will have restroo
+ ms and plenty of parking. \n\nDrivin
+ g Directions:\nDirections to Bumble
+  Bee (end of run\, park here to car
+ pool to run start):\n1. Drive north
+  from Phoenix on the I-17 Freeway\n
+ 2. Take exit #248 towards Bumble B
+ ee / Crown King\n3. Turn left and d
+ rive 2.1 miles on pavement (road d
+ escends downhill)\n4. Turn right at
+  the bottom where it turns to dirt
+  and take Crown King Road for 3.0 
+ miles and park just past the bridg
+ e on the left hand side of the roa
+ d.\n\nDirections to Big Bug from Bum
+ ble Bee (we will carpool as a grou
+ p):\n1. Drive north on Crown King R
+ oad for 5.6 miles\n2. Turn right on
+ to Forest Road 259 and go 1.3 mile
+ s\n3. Turn right staying on Forest 
+ Road 259 and go 2.8 miles\n4. Conti
+ nue straight onto Antelope Creek R
+ oad at town of Cordes and go 2.8 m
+ iles\n5. Take right onto Duffers Dr
+ ive and then go 1.3 miles\n6. Turn 
+ left onto Spring Lane and go 0.6 m
+ iles through the town of Spring Va
+ lley\n7. Turn left onto HWY 69 and 
+ the Trailhead will be just west of
+  town on the left hand side. \n\nFor
+ mat:\nThis is a no fee\, limited aid
+ \, limited course marking training 
+ run. You must plan to be self suff
+ icient in terms of navigation\, per
+ sonal safety and aid between stati
+ ons. We will drop water at the Ant
+ elope Mesa Mile 8 and have food an
+ d water at Hidden Treasure Mine TH
+  at mile 13ish. Please study the m
+ aps in this post and follow signag
+ e for the Black Canyon Trail.\n\nMar
+ kings:\nThe course on principle wil
+ l be unmarked. There is signage fo
+ r the Black Canyon Trail at most q
+ uestionable junctions\, but we reco
+ mmend studying and printing maps t
+ o bring with you.\n\n\nPost Run Gathe
+ ring:\nBring a camp chair\, some sna
+ cks and BYOB if you enjoy a post-r
+ un Sunday Funday at the trailhead.
+ \n\nhttps://www.facebook.com/events/
+ 245298674580570/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231016T150257Z
+LAST-MODIFIED:20231016T150257Z
+CREATED:20231016T150257Z
+SEQUENCE:0
+ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
+DTSTART:20231101T140000Z
+DTEND:20231101T140100Z
+UID:e866675794969437@facebook.com
+SUMMARY:Vert Club
+URL:https://www.facebook.com/events/866675784969438/?event_time_id=866675794969437
+DESCRIPTION:Meet in the Thumb Butte parking lo
+ t for as many 2 mile loops up & do
+ wn Thumb Butte as you want. Each l
+ oop is ~2 miles & 600’. This is 
+ a self-paced run.\n\nhttps://www.fac
+ ebook.com/events/866675784969438/?
+ event_time_id=866675794969437
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20230919T195613Z
 LAST-MODIFIED:20230919T195613Z
 CREATED:20230919T195613Z
@@ -122,10 +236,10 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230802T180841Z
-LAST-MODIFIED:20230802T180841Z
+DTSTAMP:20231004T175414Z
+LAST-MODIFIED:20231004T175414Z
 CREATED:20230802T175945Z
-SEQUENCE:536
+SEQUENCE:5442869
 ORGANIZER;CN=Yavapai CASA for Kids:MAILTO:noreply@facebookmail.com
 DTSTART:20231028T160000Z
 DTEND:20231028T190000Z
@@ -191,6 +305,28 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20231016T150257Z
+LAST-MODIFIED:20231016T150257Z
+CREATED:20231016T150257Z
+SEQUENCE:0
+ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
+DTSTART:20231025T140000Z
+DTEND:20231025T140100Z
+UID:e866675798302770@facebook.com
+SUMMARY:Vert Club
+URL:https://www.facebook.com/events/866675784969438/?event_time_id=866675798302770
+DESCRIPTION:Meet in the Thumb Butte parking lo
+ t for as many 2 mile loops up & do
+ wn Thumb Butte as you want. Each l
+ oop is ~2 miles & 600’. This is 
+ a self-paced run.\n\nhttps://www.fac
+ ebook.com/events/866675784969438/?
+ event_time_id=866675798302770
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20230919T195100Z
 LAST-MODIFIED:20230919T195100Z
 CREATED:20230919T195100Z
@@ -209,6 +345,33 @@ DESCRIPTION:We will meet at White Rock Parking
   every intersection and wait for e
  veryone. \n\n\n\n\nhttps://www.facebook
  .com/events/270029442668978/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231017T153451Z
+LAST-MODIFIED:20231017T153451Z
+CREATED:20231017T153451Z
+SEQUENCE:0
+ORGANIZER;CN=Chris Hawthorne:MAILTO:noreply@facebookmail.com
+DTSTART:20231021T140000Z
+DTEND:20231021T170000Z
+UID:e356656096703380@facebook.com
+SUMMARY:SATR PATR White Spar
+LOCATION:White Spar Campground
+URL:https://www.facebook.com/events/356656096703380/
+DESCRIPTION:Join us for a group hike/run out t
+ o Goldwater Lake! Various distance
+ s and paces available\; as usual\, w
+ e will determine at the trailhead 
+ what each person would like to do 
+ and group up before heading out. T
+ here is an 8.5 mile loop around th
+ e lake\, as well as out-n-back opti
+ ons for 5-6 total miles. \n\nhttps:/
+ /www.facebook.com/events/356656096
+ 703380/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -233,6 +396,28 @@ DESCRIPTION:Thursday Night Social Run 5:30 at
  s://www.facebook.com/events/204762
  669055336/?event_time_id=204762682
  388668
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231016T150257Z
+LAST-MODIFIED:20231016T150257Z
+CREATED:20231016T150257Z
+SEQUENCE:0
+ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
+DTSTART:20231018T140000Z
+DTEND:20231018T140100Z
+UID:e866675791636104@facebook.com
+SUMMARY:Vert Club
+URL:https://www.facebook.com/events/866675784969438/?event_time_id=866675791636104
+DESCRIPTION:Meet in the Thumb Butte parking lo
+ t for as many 2 mile loops up & do
+ wn Thumb Butte as you want. Each l
+ oop is ~2 miles & 600’. This is 
+ a self-paced run.\n\nhttps://www.fac
+ ebook.com/events/866675784969438/?
+ event_time_id=866675791636104
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -356,7 +541,7 @@ DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
  25361/
 CLASS:PUBLIC
 STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
+PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20230925T162706Z
@@ -450,7 +635,7 @@ DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
  book.com/events/292198126781425/
 CLASS:PUBLIC
 STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
+PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20230918T165009Z
@@ -497,29 +682,6 @@ DESCRIPTION:Meet at the Williamson Valley Trai
   we will wait at all intersections
   for everyone.\n\nhttps://www.facebo
  ok.com/events/255712574113866/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230915T183825Z
-LAST-MODIFIED:20230915T183825Z
-CREATED:20230915T183825Z
-SEQUENCE:0
-ORGANIZER;CN=Whiskey Row Brew Club:MAILTO:noreply@facebookmail.com
-DTSTART:20230922T010000Z
-DTEND:20230922T040000Z
-UID:e327610056593364@facebook.com
-SUMMARY:September General Meeting
-LOCATION:Park Plaza Liquor and Deli
-URL:https://www.facebook.com/events/327610056593364/
-DESCRIPTION:General Meeting\n\nSeptember 21st 6p
- m\nPark Plaza Liquor and Deli\n* All
- -Grain brewing overview ed topic\n*
-  Munich Helles Gauntlet\n\n#prescott
- az  #homebrewing #hellesbier\n\nhttp
- s://www.facebook.com/events/327610
- 056593364/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
@@ -597,220 +759,6 @@ DESCRIPTION:PLEASE READ THIS DESCRIPTION. \nWe
   intersection). \n\nBring a headlamp
  !\n\nhttps://www.facebook.com/events
  /832513398474978/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230909T182354Z
-LAST-MODIFIED:20230909T182354Z
-CREATED:20230523T205225Z
-SEQUENCE:9408689
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20230915T003000Z
-DTEND:20230915T020000Z
-UID:e204762722388664@facebook.com
-SUMMARY:PATR Thursday Night Social Run
-LOCATION:La Planchada
-URL:https://www.facebook.com/events/204762669055336/?event_time_id=204762722388664
-DESCRIPTION:Thursday Night Social Run 5:30 at 
- La Planchada\, 217 Gurley St. Come 
- and run a couple miles on the loca
- l trails and then hang out and soc
- ialize afterwards. (testing)\n\nhttp
- s://www.facebook.com/events/204762
- 669055336/?event_time_id=204762722
- 388664
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230523T170829Z
-LAST-MODIFIED:20230523T170829Z
-CREATED:20230418T230715Z
-SEQUENCE:3002474
-ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
-DTSTART:20230913T140000Z
-DTEND:20230913T150000Z
-UID:e531814192443078@facebook.com
-SUMMARY:Vert Club
-LOCATION:Thumb Butte Mountain
-URL:https://www.facebook.com/events/531814112443086/?event_time_id=531814192443078
-DESCRIPTION:Vert Club is back!! Every Wednesda
- y at 0600 (parking is free on Wed)
-  … meet in the parking lot and d
- o as many loops as you want!\n\nOn 1
-  May the time will change to 0600 
- so we can beat the heat.\n\nhttps://
- www.facebook.com/events/5318141124
- 43086/?event_time_id=5318141924430
- 78
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230725T203709Z
-LAST-MODIFIED:20230725T203709Z
-CREATED:20230725T203709Z
-SEQUENCE:0
-ORGANIZER;CN=The Patriot Run 2023 at the Northern Arizona Healing Field:MAILTO:noreply@facebookmail.com
-DTSTART:20230909T140000Z
-DTEND:20230909T170000Z
-UID:e1242185243152244@facebook.com
-SUMMARY:The Patriot Run 
-LOCATION:Prescott Valley Healing Field of N
- orthern Arizona
-URL:https://www.facebook.com/events/1242185243152244/
-DESCRIPTION:10k\, 5k\, 1 mile run that starts an
- d finishes at the Prescott Valley 
- Healing Field. Route maps are avai
- lable on the website. \n\nhttps://ww
- w.facebook.com/events/124218524315
- 2244/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230909T182354Z
-LAST-MODIFIED:20230909T182354Z
-CREATED:20230523T205225Z
-SEQUENCE:9408689
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20230908T003000Z
-DTEND:20230908T020000Z
-UID:e204762725721997@facebook.com
-SUMMARY:PATR Thursday Night Social Run
-LOCATION:La Planchada
-URL:https://www.facebook.com/events/204762669055336/?event_time_id=204762725721997
-DESCRIPTION:Thursday Night Social Run 5:30 at 
- La Planchada\, 217 Gurley St. Come 
- and run a couple miles on the loca
- l trails and then hang out and soc
- ialize afterwards. (testing)\n\nhttp
- s://www.facebook.com/events/204762
- 669055336/?event_time_id=204762725
- 721997
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230523T170829Z
-LAST-MODIFIED:20230523T170829Z
-CREATED:20230418T230715Z
-SEQUENCE:3002474
-ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
-DTSTART:20230906T140000Z
-DTEND:20230906T150000Z
-UID:e531814159109748@facebook.com
-SUMMARY:Vert Club
-LOCATION:Thumb Butte Mountain
-URL:https://www.facebook.com/events/531814112443086/?event_time_id=531814159109748
-DESCRIPTION:Vert Club is back!! Every Wednesda
- y at 0600 (parking is free on Wed)
-  … meet in the parking lot and d
- o as many loops as you want!\n\nOn 1
-  May the time will change to 0600 
- so we can beat the heat.\n\nhttps://
- www.facebook.com/events/5318141124
- 43086/?event_time_id=5318141591097
- 48
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230807T201536Z
-LAST-MODIFIED:20230807T201536Z
-CREATED:20230807T201536Z
-SEQUENCE:0
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20230906T003000Z
-DTEND:20230906T033000Z
-UID:e3096993547273102@facebook.com
-SUMMARY:Tuesday Group Run- Granite Basin
-URL:https://www.facebook.com/events/3096993547273102/
-DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
-  will meet at the cattleguard (lin
- k here https://goo.gl/maps/CnyTC6T
- oppAjWTcn6) at 5:30pm. \n\nExpect 5-
- 6 miles\, all downhill (except for 
- the uphills). No drop run (we stop
-  for everyone at every intersectio
- n). \n\n\nhttps://www.facebook.com/ev
- ents/3096993547273102/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230909T182354Z
-LAST-MODIFIED:20230909T182354Z
-CREATED:20230523T205225Z
-SEQUENCE:9408689
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20230901T003000Z
-DTEND:20230901T020000Z
-UID:e204762702388666@facebook.com
-SUMMARY:PATR Thursday Night Social Run
-LOCATION:La Planchada
-URL:https://www.facebook.com/events/204762669055336/?event_time_id=204762702388666
-DESCRIPTION:Thursday Night Social Run 5:30 at 
- La Planchada\, 217 Gurley St. Come 
- and run a couple miles on the loca
- l trails and then hang out and soc
- ialize afterwards. (testing)\n\nhttp
- s://www.facebook.com/events/204762
- 669055336/?event_time_id=204762702
- 388666
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230523T172918Z
-LAST-MODIFIED:20230523T172918Z
-CREATED:20230523T172918Z
-SEQUENCE:0
-ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
-DTSTART:20230830T130000Z
-DTEND:20230830T170000Z
-UID:e1038732067532889@facebook.com
-SUMMARY:Vert Club
-LOCATION:Thumb Butte
-URL:https://www.facebook.com/events/1038732034199559/?event_time_id=1038732067532889
-DESCRIPTION:Meet us at 0600 at the Thumb Butte
-  Parking Lot (parking is free on W
- ednesdays) for as many loops as yo
- u want! \n\nhttps://www.facebook.com
- /events/1038732034199559/?event_ti
- me_id=1038732067532889
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230808T000032Z
-LAST-MODIFIED:20230808T000032Z
-CREATED:20230807T201449Z
-SEQUENCE:13543
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20230830T003000Z
-DTEND:20230830T033000Z
-UID:e1333702307583122@facebook.com
-SUMMARY:Tuesday Group Run- Willow Lake- Brandon leading!
-URL:https://www.facebook.com/events/1333702307583122/
-DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
-  will meet at the Dog Park parking
-  lot (link here https://goo.gl/map
- s/ZCLmd4fQPGkyXCHP7) at 5:30pm. Pl
- an for 5 miles(ish).\n\nNo drop run 
- (we stop for everyone at every int
- ersection).\n\nhttps://www.facebook.
- com/events/1333702307583122/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
