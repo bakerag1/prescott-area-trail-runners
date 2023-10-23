@@ -94,6 +94,32 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20231002T134930Z
+LAST-MODIFIED:20231002T134930Z
+CREATED:20231002T134930Z
+SEQUENCE:0
+ORGANIZER;CN=Mohona Aktar:MAILTO:noreply@facebookmail.com
+DTSTART:20231209T000000Z
+DTEND:20231209T030000Z
+UID:e1540718749999712@facebook.com
+SUMMARY: Acker Night
+LOCATION:Downtown Prescott
+URL:https://www.facebook.com/events/1540718749999712/
+DESCRIPTION:This is a FREE downtown event for 
+ everyone. The streets in downtown 
+ Prescott are closed and the busine
+ sses open their doors for a few ho
+ urs for this wonderful musical eve
+ nt.\nThe Christmas lights are gleam
+ ing\, and music fills the air for t
+ his special one night\n\nhttps://www
+ .facebook.com/events/1540718749999
+ 712/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20231009T184749Z
 LAST-MODIFIED:20231009T184749Z
 CREATED:20230825T235335Z
@@ -345,6 +371,29 @@ DESCRIPTION:We will meet at White Rock Parking
   every intersection and wait for e
  veryone. \n\n\n\n\nhttps://www.facebook
  .com/events/270029442668978/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231020T152010Z
+LAST-MODIFIED:20231020T152010Z
+CREATED:20231020T152010Z
+SEQUENCE:0
+ORGANIZER;CN=Chris Hawthorne:MAILTO:noreply@facebookmail.com
+DTSTART:20231023T140000Z
+DTEND:20231023T170000Z
+UID:e299025819649266@facebook.com
+SUMMARY:Brownlow Mondays
+LOCATION:Brownlow lot off of Commerce
+URL:https://www.facebook.com/events/299025819649266/
+DESCRIPTION:Start the week off right 😊We’
+ ll do the 10k loop\; any pace or ab
+ ility welcome\, including hikers! G
+ reat training for December’s San
+ ta Run 👊🏼 🎅🏼 \n\nhttps:/
+ /www.facebook.com/events/299025819
+ 649266/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -659,108 +708,5 @@ DESCRIPTION:Start the week off right 😊We’
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230920T232043Z
-LAST-MODIFIED:20230920T232043Z
-CREATED:20230920T231518Z
-SEQUENCE:325
-ORGANIZER;CN=Chris Hawthorne:MAILTO:noreply@facebookmail.com
-DTSTART:20230923T140000Z
-DTEND:20230923T170000Z
-UID:e255712574113866@facebook.com
-SUMMARY:SATR PATR Baby Granite edition
-LOCATION:Williamson Valley Trailhead
-URL:https://www.facebook.com/events/255712574113866/
-DESCRIPTION:Meet at the Williamson Valley Trai
- lhead\, on Williamson Valley Rd abo
- ut 4 miles north of Pioneer Parkwa
- y. Options include a 6 mile out an
- d back OR a 12 mile/1000' gain lol
- lipop route. All abilities/paces a
- re welcome! This is a no-drop run\;
-  we will wait at all intersections
-  for everyone.\n\nhttps://www.facebo
- ok.com/events/255712574113866/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230909T182354Z
-LAST-MODIFIED:20230909T182354Z
-CREATED:20230523T205225Z
-SEQUENCE:9408689
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20230922T003000Z
-DTEND:20230922T020000Z
-UID:e204762712388665@facebook.com
-SUMMARY:PATR Thursday Night Social Run
-LOCATION:La Planchada
-URL:https://www.facebook.com/events/204762669055336/?event_time_id=204762712388665
-DESCRIPTION:Thursday Night Social Run 5:30 at 
- La Planchada\, 217 Gurley St. Come 
- and run a couple miles on the loca
- l trails and then hang out and soc
- ialize afterwards. (testing)\n\nhttp
- s://www.facebook.com/events/204762
- 669055336/?event_time_id=204762712
- 388665
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230523T170829Z
-LAST-MODIFIED:20230523T170829Z
-CREATED:20230418T230715Z
-SEQUENCE:3002474
-ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
-DTSTART:20230920T140000Z
-DTEND:20230920T150000Z
-UID:e531814165776414@facebook.com
-SUMMARY:Vert Club
-LOCATION:Thumb Butte Mountain
-URL:https://www.facebook.com/events/531814112443086/?event_time_id=531814165776414
-DESCRIPTION:Vert Club is back!! Every Wednesda
- y at 0600 (parking is free on Wed)
-  … meet in the parking lot and d
- o as many loops as you want!\n\nOn 1
-  May the time will change to 0600 
- so we can beat the heat.\n\nhttps://
- www.facebook.com/events/5318141124
- 43086/?event_time_id=5318141657764
- 14
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230807T202256Z
-LAST-MODIFIED:20230807T202256Z
-CREATED:20230807T202256Z
-SEQUENCE:0
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20230920T003000Z
-DTEND:20230920T033000Z
-UID:e832513398474978@facebook.com
-SUMMARY:Tuesday Group Run- Upper Spence Basin
-LOCATION:https://maps.apple.com/?ll=34.5819
- 04\,-112.548972&q=Dropped%20Pin&_ex
- t=EiYpaevoe+dJQUAxxHG9OnsjXMA558AO
- 2A1LQUBB5GbvdsgiXMBQBA%3D%3D&t=h
-URL:https://www.facebook.com/events/832513398474978/
-DESCRIPTION:PLEASE READ THIS DESCRIPTION. \nWe 
- will meet at UPPER Parking lot alo
- ng Iron Springs\, where the circle 
- trail crosses the Iron Springs at 
- 5:30pm. Expect 4-6 miles. No drop 
- run (we stop for everyone at every
-  intersection). \n\nBring a headlamp
- !\n\nhttps://www.facebook.com/events
- /832513398474978/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
 END:VEVENT
 END:VCALENDAR
