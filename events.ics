@@ -561,42 +561,6 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231024T191753Z
-LAST-MODIFIED:20231024T191753Z
-CREATED:20231024T191753Z
-SEQUENCE:0
-ORGANIZER;CN=Whiskey Row Brew Club:MAILTO:noreply@facebookmail.com
-DTSTART:20231105T170000Z
-DTEND:20231105T200000Z
-UID:e2012466075819185@facebook.com
-SUMMARY:Learn to Brew Day Brewout
-LOCATION:6396 Lear Ln\, Prescott\, AZ 86301-9
- 118\, United States
-URL:https://www.facebook.com/events/2012466075819185/
-DESCRIPTION:We're having a brew out at Wren Ho
- use Prairie Patio to celebrate Lea
- rn to Homebrew Day!\n\nSunday\, Novem
- ber 5\nWren House Prairie Patio\n639
- 6 Lear Ln\nPrescott\, AZ 86301\n\nBrew
- ing starts at 10am (will continue 
- well into the afternoon)\nPatio sta
- rts selling beer at 1pm\nPatio clos
- es at 6:30\nThere will be power and
-  water available for brewers. At l
- east three brewers will be brewing
-  that day. If you want to learn ho
- w to brew\, or are just curious\, st
- op by and check it out. Let us kno
- w if you intend to brew\, if you wa
- nt help brewing\, or if you have an
- y other questions. \n\n\n\n\nhttps://ww
- w.facebook.com/events/201246607581
- 9185/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20231027T033734Z
 LAST-MODIFIED:20231027T033734Z
 CREATED:20231027T033734Z
@@ -873,28 +837,6 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231011T231755Z
-LAST-MODIFIED:20231011T231755Z
-CREATED:20231011T231755Z
-SEQUENCE:0
-ORGANIZER;CN=Whiskey Row Brew Club:MAILTO:noreply@facebookmail.com
-DTSTART:20231020T010000Z
-DTEND:20231020T040000Z
-UID:e1566408267608488@facebook.com
-SUMMARY:October General Meeting
-LOCATION:Park Plaza Liquor and Deli
-URL:https://www.facebook.com/events/1566408267608488/
-DESCRIPTION:Monthly Club Meeting\nThursday Octo
- ber 19\, 6pm\nPark Plaza Liquor & De
- li\n\nProspective members welcome!\n\n
- Cleaning & Sanitizing ed. topic\nDo
- ppelbock Gauntlet\n\nhttps://www.fac
- ebook.com/events/1566408267608488/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20230909T182354Z
 LAST-MODIFIED:20230909T182354Z
 CREATED:20230523T205225Z
@@ -1007,35 +949,6 @@ DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
  (we stop for everyone at every int
  ersection).\n\nhttps://www.facebook.
  com/events/819498852978767/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231004T005702Z
-LAST-MODIFIED:20231004T005702Z
-CREATED:20230914T185617Z
-SEQUENCE:1663245
-ORGANIZER;CN=Mark's BeerGarden:MAILTO:noreply@facebookmail.com
-DTSTART:20231007T190000Z
-DTEND:20231008T050000Z
-UID:e611817437820757@facebook.com
-SUMMARY:Oktoberfest 
-LOCATION:Mark's BeerGarden
-URL:https://www.facebook.com/events/611817437820757/
-DESCRIPTION: Sunday Oct. 8th has been added fo
- r more Oktoberfest celebrations! \n
- Join us for live music\, German sty
- le food & beer! \nOur crew will als
- o be dressed in their German attir
- e for the event! \nLive Music line 
- up: \nSaturday The Swamp Poets with
-  special guest will play from 1-4 
- and Doc Garvey’s Remedy from 6-9
- pm. \n\nSunday: Billy Reno Band feat
- uring Merri McKee from 12-3!\n\nhttp
- s://www.facebook.com/events/611817
- 437820757/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
