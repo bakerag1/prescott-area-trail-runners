@@ -1,0 +1,79 @@
+<html>
+
+<head>
+    <meta charset="UTF-8" />
+    <style>
+        aria-label {
+            color: blue;
+        }
+
+        hr {
+            margin: 2.0em auto;
+        }
+
+        h1 {
+            padding-top: 3.0em;
+            color: brown;
+            font-size: 28pt;
+        }
+
+        ul:before {
+            content: attr(aria-label);
+            font-size: 120%;
+            font-weight: bold;
+            margin-left: -15px;
+        }
+    </style>
+</head>
+<table style="width: 100%;table-layout: fixed; background-color: lightblue">
+    
+    <tr><td align="left">
+        <table>
+            <tr>
+                <td>
+                    <br><h1>PATR Chatter</h1>
+                    <br><i>The monthly newsletter of the <a href="https://prescottareatrailrunners.com">Prescott Area Trail Runners</a></i>
+                    <br>{{.Config.Month}} {{.Config.Year}}
+                </td>
+                <td>
+                    <img width="300" src="https://prescottareatrailrunners.com/assets/img/patr-logo.png" />
+                </td>
+            <tr>
+        </table>
+    </td></tr>
+    <tr><td>Hope you find the newsletter useful, apologies for any beer related events that I've accidentally included!</td></tr>
+    <tr>
+        <td>
+            <ul style="list-style-type: none;" aria-label="Events">
+                {{range .MonthInfo.Events}}
+                    <li style="margin: 10px;">
+                        <summary>{{.Start}} - <a href="https://prescottareatrailrunners.com/calendar/{{.Uid}}">{{.Summary}}</a>
+                        <br>
+                        <p style="padding-left: 12pt;">
+                            {{ printf "%.400s" .Description}}
+                        </p>
+                        </details>
+                    </li>
+                {{end}}
+            </ul>
+        </td>
+    </tr>
+</table>
+
+<script>
+    var coll = document.getElementsByClassName("collapsible");
+    var i;
+
+    for (i = 0; i < coll.length; i++) {
+    coll[i].addEventListener("click", function() {
+        this.classList.toggle("active");
+        var content = this.nextElementSibling;
+        if (content.style.maxHeight){
+        content.style.maxHeight = null;
+        } else {
+        content.style.maxHeight = content.scrollHeight + "px";
+        } 
+    });
+    }
+</script> 
+</html>

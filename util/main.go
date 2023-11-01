@@ -6,6 +6,7 @@ import (
 	"log"
 	"os"
 	"regexp"
+	"sort"
 	"strings"
 	"text/template"
 	"time"
@@ -66,6 +67,37 @@ func addCalendarItems() {
 	if err != nil {
 		log.Fatal(err)
 	}
+	events := parseEvents()
+	for _, e := range events {
+		cal, err := os.Create("_calendar/" + e.Uid + ".md")
+		defer cal.Close()
+		if err != nil {
+			log.Fatal(err)
+		}
+
+		layout := "post"
+		if strings.Contains(e.Description, "#boost") {
+			layout = "advertised_event"
+			e.Description = strings.ReplaceAll(e.Description, "#boost", "")
+		}
+
+		e.Description = "starting at: " + e.Start + "<br>" + "until: " + e.End + "<br>" + "<a href=\"" + e.Uri + "\">more info on FB</a><br><br>" + e.Description
+
+		log.Printf("creating event: %s: %s - %s\n", e.Start, e.Uid, e.Summary)
+		cal.Write([]byte(
+			fmt.Sprintf(outputFmt,
+				e.Summary,
+				time.Now().Format("2006-01-02 15:04"),
+				e.Start,
+				e.End,
+				e.Uri,
+				layout,
+				e.Location,
+				e.Description)))
+	}
+}
+
+func parseEvents() []event {
 	f, err := os.Open("events.ics")
 	defer f.Close()
 	if err != nil {
@@ -81,42 +113,106 @@ func addCalendarItems() {
 			log.Printf("non-public event skipped: %s\n", e.Summary)
 			continue
 		}
-		uri := e.URL
-		uid := e.Uid
-		uid = uid[:strings.IndexByte(uid, '@')]
-		description := strings.ReplaceAll(e.Description, "\\n", "<br>\n  ")
-		description = strings.ReplaceAll(description, uri, "")
-		description = strings.ReplaceAll(description, ":", "&#58;")
-		description = strings.ReplaceAll(description, "\n\n", "<br>\n  ")
+		ev.Uri = e.URL
+		ev.Uid = e.Uid[:strings.IndexByte(e.Uid, '@')]
+		ev.Description = strings.ReplaceAll(e.Description, "\\n", "<br>\n  ")
+		ev.Description = strings.ReplaceAll(ev.Description, ev.Uri, "")
+		ev.Description = strings.ReplaceAll(ev.Description, ":", "&#58;")
+		ev.Description = strings.ReplaceAll(ev.Description, "\n\n", "<br>\n  ")
 		expr := regexp.MustCompile(`(http[s]?)&#58;(//[^ )]*)`)
-		description = expr.ReplaceAllString(description, "[$1:$2]($1:$2)")
+		ev.Description = expr.ReplaceAllString(ev.Description, "[$1:$2]($1:$2)")
 		expr2 := regexp.MustCompile(`^([^A-z0-9]*)(.*)`)
-		summary := expr2.ReplaceAllString(e.Summary, "$2")
-
-		cal, err := os.Create("_calendar/" + uid + ".md")
-		defer cal.Close()
-		if err != nil {
-			log.Fatal(err)
-		}
-
-		layout := "post"
-		if strings.Contains(description, "#boost") {
-			layout = "advertised_event"
-			description = strings.ReplaceAll(description, "#boost", "")
-		}
-
-		description = "starting at: " + e.Start.Local().Format("2006-01-02 15:04") + "<br>" + "until: " + e.End.Local().Format("2006-01-02 15:04") + "<br>" + "<a href=\"" + uri + "\">more info on FB</a><br><br>" + description
-
-		log.Printf("creating event: %s: %s - %s\n", e.Start.Local().Format("2006-01-02"), e.Uid, summary)
-		cal.Write([]byte(
-			fmt.Sprintf(outputFmt,
-				summary,
-				time.Now().Format("2006-01-02 15:04"),
-				e.Start.Local().Format("2006-01-02 15:04"),
-				e.End.Local().Format("2006-01-02 15:04"),
-				uri,
-				layout,
-				e.Location,
-				description)))
+		ev.Summary = expr2.ReplaceAllString(e.Summary, "$2")
+		ev.Start = e.Start.Local().Format("2006-01-02 15:04")
+		ev.End = e.End.Local().Format("2006-01-02 15:04")
+		events = append(events, ev)
 	}
+	sortByStart := func(a, b int) bool {
+		return strings.Compare(events[a].Start, events[b].Start) < 0
+	}
+	sort.Slice(events, sortByStart)
+	return events
+}
+
+func newsletter() {
+
+	paths := []string{
+		"util/newsletter.tmpl",
+	}
+
+	funcMap := template.FuncMap{
+		// The name "inc" is what the function will be called in the template text.
+		"inc": func(i int) int {
+			return i + 1
+		},
+		"modIsZero": func(i int, m int) bool {
+			return i%m == 0 && i != 0
+		},
+	}
+
+	var cfg config
+	cfg.getConf()
+	cfg.Month = time.Now().Local().Format("January")
+	cfg.Year = time.Now().Local().Format("2006")
+	f, err := os.Create("newsletter.html")
+	if err != nil {
+		panic(err)
+	}
+	tData := struct {
+		Config    config
+		MonthInfo monthData
+	}{
+		Config: cfg,
+		MonthInfo: monthData{
+			Events: parseEvents(),
+		},
+	}
+	writer := bufio.NewWriter(f)
+	defer writer.Flush()
+	t := template.Must(template.New("newsletter").Funcs(funcMap).ParseFiles(paths...))
+	err = t.ExecuteTemplate(writer, "newsletter.tmpl", tData)
+	if err != nil {
+		panic(err)
+	}
+}
+
+func (c *config) getConf() *config {
+
+	yamlFile, err := ioutil.ReadFile("util/newsletter-config.yaml")
+	if err != nil {
+		log.Printf("yamlFile.Get err   #%v ", err)
+	}
+	err = yaml.Unmarshal(yamlFile, c)
+	if err != nil {
+		log.Fatalf("Unmarshal: %v", err)
+	}
+
+	return c
+}
+
+type link struct {
+	Name string `yaml:"name"`
+	Url  string `yaml:"url"`
+}
+type config struct {
+	Links []link `yaml:"links"`
+	Month string
+	Year  string
+}
+type monthData struct {
+	Events []event
+	News   []news
+}
+type event struct {
+	Name        string
+	Uri         string
+	PatrUri     string
+	Description string
+	Summary     string
+	Start       string
+	End         string
+	Location    string
+	Uid         string
+}
+type news struct {
 }
