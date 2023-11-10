@@ -17,9 +17,9 @@ A 4-6 mile no-drop run, which means we stop at every intersection and wait for e
 
 *Wednesdays:* 6am when it's hot, 7am when it's not, the Vert Club does laps on Thumb Butte
 
-*Thursdays:* 5:30pm at Pioneer Park, Social Run run your own pace and distance, meet at 5:30 at the last west-most ramada in pioneer park. Most run 3-5 miles, snacks and beverages after. Potluck first Thursday of the month.
+*Thursdays:* 5:30pm at La Planchada, Social Run run or walk your own pace and distance, grab some tacos and beverages after. 
 
-*Saturdays:* 7am SATR PATR no-drop trail run, at various locations, usually around 8 miles.
+*Saturdays:* 7:30am SATR PATR no-drop trail run, at various locations, usually around 8 miles.
 
 *Miscellaneous:* Frequently members will plan runs or hikes inviting all comers.
 
