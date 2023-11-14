@@ -3,6 +3,7 @@ package main
 import (
 	"bufio"
 	"fmt"
+	"io/ioutil"
 	"log"
 	"os"
 	"regexp"
@@ -12,6 +13,7 @@ import (
 	"time"
 
 	"github.com/bakerag1/gocal"
+	"gopkg.in/yaml.v2"
 )
 
 const outputFmt = `---
@@ -34,6 +36,8 @@ func main() {
 		addCalendarItems()
 	case "weekly":
 		postWeeklyCalendar()
+	case "newsletter":
+		newsletter()
 	default:
 		log.Fatal("no valid argument passed")
 	}
@@ -108,7 +112,9 @@ func parseEvents() []event {
 	c.Start, c.End = &start, &end
 	c.Strict.Mode = gocal.StrictModeFailAttribute
 	c.Parse()
+	var events []event
 	for _, e := range c.Events {
+		var ev event
 		if e.Class != "PUBLIC" {
 			log.Printf("non-public event skipped: %s\n", e.Summary)
 			continue
@@ -154,7 +160,7 @@ func newsletter() {
 	cfg.getConf()
 	cfg.Month = time.Now().Local().Format("January")
 	cfg.Year = time.Now().Local().Format("2006")
-	f, err := os.Create("newsletter.html")
+	f, err := os.Create("_posts/" + time.Now().Local().Format("2006-01-02") + "-newsletter.html")
 	if err != nil {
 		panic(err)
 	}

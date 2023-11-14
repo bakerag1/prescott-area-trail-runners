@@ -44,6 +44,182 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20231109T140951Z
+LAST-MODIFIED:20231109T140951Z
+CREATED:20231109T140737Z
+SEQUENCE:134
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240403T140000Z
+DTEND:20240403T153000Z
+UID:e649324554022217@facebook.com
+SUMMARY:Vert Club
+LOCATION:Thumb Butte Parking Lot
+URL:https://www.facebook.com/events/649323204022352/?event_time_id=649324554022217
+DESCRIPTION:Run/walk from the Thumb Butte Park
+ ing Lot to the top of the trail as
+  many times as you want.  Free par
+ king on Wednesday's.\n\nhttps://www.
+ facebook.com/events/64932320402235
+ 2/?event_time_id=649324554022217
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231109T140951Z
+LAST-MODIFIED:20231109T140951Z
+CREATED:20231109T140737Z
+SEQUENCE:134
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240327T140000Z
+DTEND:20240327T153000Z
+UID:e649324577355548@facebook.com
+SUMMARY:Vert Club
+LOCATION:Thumb Butte Parking Lot
+URL:https://www.facebook.com/events/649323204022352/?event_time_id=649324577355548
+DESCRIPTION:Run/walk from the Thumb Butte Park
+ ing Lot to the top of the trail as
+  many times as you want.  Free par
+ king on Wednesday's.\n\nhttps://www.
+ facebook.com/events/64932320402235
+ 2/?event_time_id=649324577355548
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231109T140951Z
+LAST-MODIFIED:20231109T140951Z
+CREATED:20231109T140737Z
+SEQUENCE:134
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240320T140000Z
+DTEND:20240320T153000Z
+UID:e649324564022216@facebook.com
+SUMMARY:Vert Club
+LOCATION:Thumb Butte Parking Lot
+URL:https://www.facebook.com/events/649323204022352/?event_time_id=649324564022216
+DESCRIPTION:Run/walk from the Thumb Butte Park
+ ing Lot to the top of the trail as
+  many times as you want.  Free par
+ king on Wednesday's.\n\nhttps://www.
+ facebook.com/events/64932320402235
+ 2/?event_time_id=649324564022216
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231109T140951Z
+LAST-MODIFIED:20231109T140951Z
+CREATED:20231109T140737Z
+SEQUENCE:134
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240313T140000Z
+DTEND:20240313T153000Z
+UID:e649324567355549@facebook.com
+SUMMARY:Vert Club
+LOCATION:Thumb Butte Parking Lot
+URL:https://www.facebook.com/events/649323204022352/?event_time_id=649324567355549
+DESCRIPTION:Run/walk from the Thumb Butte Park
+ ing Lot to the top of the trail as
+  many times as you want.  Free par
+ king on Wednesday's.\n\nhttps://www.
+ facebook.com/events/64932320402235
+ 2/?event_time_id=649324567355549
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231109T140951Z
+LAST-MODIFIED:20231109T140951Z
+CREATED:20231109T140737Z
+SEQUENCE:134
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240306T140000Z
+DTEND:20240306T153000Z
+UID:e649324570688882@facebook.com
+SUMMARY:Vert Club
+LOCATION:Thumb Butte Parking Lot
+URL:https://www.facebook.com/events/649323204022352/?event_time_id=649324570688882
+DESCRIPTION:Run/walk from the Thumb Butte Park
+ ing Lot to the top of the trail as
+  many times as you want.  Free par
+ king on Wednesday's.\n\nhttps://www.
+ facebook.com/events/64932320402235
+ 2/?event_time_id=649324570688882
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231109T140951Z
+LAST-MODIFIED:20231109T140951Z
+CREATED:20231109T140737Z
+SEQUENCE:134
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240228T140000Z
+DTEND:20240228T153000Z
+UID:e649324580688881@facebook.com
+SUMMARY:Vert Club
+LOCATION:Thumb Butte Parking Lot
+URL:https://www.facebook.com/events/649323204022352/?event_time_id=649324580688881
+DESCRIPTION:Run/walk from the Thumb Butte Park
+ ing Lot to the top of the trail as
+  many times as you want.  Free par
+ king on Wednesday's.\n\nhttps://www.
+ facebook.com/events/64932320402235
+ 2/?event_time_id=649324580688881
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231109T140951Z
+LAST-MODIFIED:20231109T140951Z
+CREATED:20231109T140737Z
+SEQUENCE:134
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240221T140000Z
+DTEND:20240221T153000Z
+UID:e649324574022215@facebook.com
+SUMMARY:Vert Club
+LOCATION:Thumb Butte Parking Lot
+URL:https://www.facebook.com/events/649323204022352/?event_time_id=649324574022215
+DESCRIPTION:Run/walk from the Thumb Butte Park
+ ing Lot to the top of the trail as
+  many times as you want.  Free par
+ king on Wednesday's.\n\nhttps://www.
+ facebook.com/events/64932320402235
+ 2/?event_time_id=649324574022215
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231109T140951Z
+LAST-MODIFIED:20231109T140951Z
+CREATED:20231109T140737Z
+SEQUENCE:134
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240214T140000Z
+DTEND:20240214T153000Z
+UID:e649324584022214@facebook.com
+SUMMARY:Vert Club
+LOCATION:Thumb Butte Parking Lot
+URL:https://www.facebook.com/events/649323204022352/?event_time_id=649324584022214
+DESCRIPTION:Run/walk from the Thumb Butte Park
+ ing Lot to the top of the trail as
+  many times as you want.  Free par
+ king on Wednesday's.\n\nhttps://www.
+ facebook.com/events/64932320402235
+ 2/?event_time_id=649324584022214
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20230826T000818Z
 LAST-MODIFIED:20230826T000818Z
 CREATED:20230505T190356Z
@@ -85,6 +261,94 @@ DESCRIPTION:Experience the history and beauty
  at the Black Canyon Ultras! 🤠\n\n
  https://www.facebook.com/events/11
  66064680731854/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231109T140951Z
+LAST-MODIFIED:20231109T140951Z
+CREATED:20231109T140737Z
+SEQUENCE:134
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240207T140000Z
+DTEND:20240207T153000Z
+UID:e649324587355547@facebook.com
+SUMMARY:Vert Club
+LOCATION:Thumb Butte Parking Lot
+URL:https://www.facebook.com/events/649323204022352/?event_time_id=649324587355547
+DESCRIPTION:Run/walk from the Thumb Butte Park
+ ing Lot to the top of the trail as
+  many times as you want.  Free par
+ king on Wednesday's.\n\nhttps://www.
+ facebook.com/events/64932320402235
+ 2/?event_time_id=649324587355547
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231109T140951Z
+LAST-MODIFIED:20231109T140951Z
+CREATED:20231109T140737Z
+SEQUENCE:134
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240131T140000Z
+DTEND:20240131T153000Z
+UID:e649324560688883@facebook.com
+SUMMARY:Vert Club
+LOCATION:Thumb Butte Parking Lot
+URL:https://www.facebook.com/events/649323204022352/?event_time_id=649324560688883
+DESCRIPTION:Run/walk from the Thumb Butte Park
+ ing Lot to the top of the trail as
+  many times as you want.  Free par
+ king on Wednesday's.\n\nhttps://www.
+ facebook.com/events/64932320402235
+ 2/?event_time_id=649324560688883
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231109T140951Z
+LAST-MODIFIED:20231109T140951Z
+CREATED:20231109T140737Z
+SEQUENCE:134
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240124T140000Z
+DTEND:20240124T153000Z
+UID:e649324590688880@facebook.com
+SUMMARY:Vert Club
+LOCATION:Thumb Butte Parking Lot
+URL:https://www.facebook.com/events/649323204022352/?event_time_id=649324590688880
+DESCRIPTION:Run/walk from the Thumb Butte Park
+ ing Lot to the top of the trail as
+  many times as you want.  Free par
+ king on Wednesday's.\n\nhttps://www.
+ facebook.com/events/64932320402235
+ 2/?event_time_id=649324590688880
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231109T140951Z
+LAST-MODIFIED:20231109T140951Z
+CREATED:20231109T140737Z
+SEQUENCE:134
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240117T140000Z
+DTEND:20240117T153000Z
+UID:e649324607355545@facebook.com
+SUMMARY:Vert Club
+LOCATION:Thumb Butte Parking Lot
+URL:https://www.facebook.com/events/649323204022352/?event_time_id=649324607355545
+DESCRIPTION:Run/walk from the Thumb Butte Park
+ ing Lot to the top of the trail as
+  many times as you want.  Free par
+ king on Wednesday's.\n\nhttps://www.
+ facebook.com/events/64932320402235
+ 2/?event_time_id=649324607355545
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -163,6 +427,94 @@ DESCRIPTION:Sunday\, January 14 will the the th
   a Sunday Funday post-run hang\n\nht
  tps://www.facebook.com/events/2836
  47724365697/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231109T140951Z
+LAST-MODIFIED:20231109T140951Z
+CREATED:20231109T140737Z
+SEQUENCE:134
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240110T140000Z
+DTEND:20240110T153000Z
+UID:e649324614022211@facebook.com
+SUMMARY:Vert Club
+LOCATION:Thumb Butte Parking Lot
+URL:https://www.facebook.com/events/649323204022352/?event_time_id=649324614022211
+DESCRIPTION:Run/walk from the Thumb Butte Park
+ ing Lot to the top of the trail as
+  many times as you want.  Free par
+ king on Wednesday's.\n\nhttps://www.
+ facebook.com/events/64932320402235
+ 2/?event_time_id=649324614022211
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231109T140951Z
+LAST-MODIFIED:20231109T140951Z
+CREATED:20231109T140737Z
+SEQUENCE:134
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240103T140000Z
+DTEND:20240103T153000Z
+UID:e649324597355546@facebook.com
+SUMMARY:Vert Club
+LOCATION:Thumb Butte Parking Lot
+URL:https://www.facebook.com/events/649323204022352/?event_time_id=649324597355546
+DESCRIPTION:Run/walk from the Thumb Butte Park
+ ing Lot to the top of the trail as
+  many times as you want.  Free par
+ king on Wednesday's.\n\nhttps://www.
+ facebook.com/events/64932320402235
+ 2/?event_time_id=649324597355546
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231109T140951Z
+LAST-MODIFIED:20231109T140951Z
+CREATED:20231109T140737Z
+SEQUENCE:134
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20231227T140000Z
+DTEND:20231227T153000Z
+UID:e649324600688879@facebook.com
+SUMMARY:Vert Club
+LOCATION:Thumb Butte Parking Lot
+URL:https://www.facebook.com/events/649323204022352/?event_time_id=649324600688879
+DESCRIPTION:Run/walk from the Thumb Butte Park
+ ing Lot to the top of the trail as
+  many times as you want.  Free par
+ king on Wednesday's.\n\nhttps://www.
+ facebook.com/events/64932320402235
+ 2/?event_time_id=649324600688879
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231109T140951Z
+LAST-MODIFIED:20231109T140951Z
+CREATED:20231109T140737Z
+SEQUENCE:134
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20231220T140000Z
+DTEND:20231220T153000Z
+UID:e649324610688878@facebook.com
+SUMMARY:Vert Club
+LOCATION:Thumb Butte Parking Lot
+URL:https://www.facebook.com/events/649323204022352/?event_time_id=649324610688878
+DESCRIPTION:Run/walk from the Thumb Butte Park
+ ing Lot to the top of the trail as
+  many times as you want.  Free par
+ king on Wednesday's.\n\nhttps://www.
+ facebook.com/events/64932320402235
+ 2/?event_time_id=649324610688878
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -255,6 +607,28 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20231109T140951Z
+LAST-MODIFIED:20231109T140951Z
+CREATED:20231109T140737Z
+SEQUENCE:134
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20231213T140000Z
+DTEND:20231213T153000Z
+UID:e649324604022212@facebook.com
+SUMMARY:Vert Club
+LOCATION:Thumb Butte Parking Lot
+URL:https://www.facebook.com/events/649323204022352/?event_time_id=649324604022212
+DESCRIPTION:Run/walk from the Thumb Butte Park
+ ing Lot to the top of the trail as
+  many times as you want.  Free par
+ king on Wednesday's.\n\nhttps://www.
+ facebook.com/events/64932320402235
+ 2/?event_time_id=649324604022212
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20231024T221558Z
 LAST-MODIFIED:20231024T221558Z
 CREATED:20231024T212015Z
@@ -335,6 +709,28 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20231109T140951Z
+LAST-MODIFIED:20231109T140951Z
+CREATED:20231109T140737Z
+SEQUENCE:134
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20231206T140000Z
+DTEND:20231206T153000Z
+UID:e649324617355544@facebook.com
+SUMMARY:Vert Club
+LOCATION:Thumb Butte Parking Lot
+URL:https://www.facebook.com/events/649323204022352/?event_time_id=649324617355544
+DESCRIPTION:Run/walk from the Thumb Butte Park
+ ing Lot to the top of the trail as
+  many times as you want.  Free par
+ king on Wednesday's.\n\nhttps://www.
+ facebook.com/events/64932320402235
+ 2/?event_time_id=649324617355544
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20231025T045342Z
 LAST-MODIFIED:20231025T045342Z
 CREATED:20231024T211911Z
@@ -379,6 +775,76 @@ DESCRIPTION:This time-honored tradition is the
  928-445-2000 Ext 117\n\nhttps://www.
  facebook.com/events/27531340533572
  5/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T183055Z
+LAST-MODIFIED:20231111T183055Z
+CREATED:20231111T183055Z
+SEQUENCE:0
+ORGANIZER;CN=Yavapai Trails Association:MAILTO:noreply@facebookmail.com
+DTSTART:20231202T150000Z
+DTEND:20231202T190000Z
+UID:e2051704581846197@facebook.com
+SUMMARY:Trail 264 Extention 
+LOCATION:Copper Basin Rd\, Prescott\, AZ 8630
+ 3\, United States
+URL:https://www.facebook.com/events/2051704581846197/
+DESCRIPTION:Join the Yavapai Trails Associatio
+ n on Saturday December 2nd at 8:00
+  am to work on the Trail 264 exten
+ sion project from Copper Basin Rd 
+ Dispersed Site #6.\n \nPlan for the 
+ day: After a safety discussion at 
+ 8:00 AM\, we’ll hike out and get 
+ started building trail. We’ll ha
+ ve our break at 10:00\, and then be
+  back at the vehicles by 12:00.\n \n
+ Directions to Copper Basin Road Di
+ spersed Site #6 from downtown Pres
+ cott: Head south on South Montezum
+ a St (which turns into Highway 89)
+  for 1.1 miles. Turn right at the 
+ traffic light onto Copper Basin Rd
+ \, and continue for 5.5 miles to th
+ e dispersed site. Coordinates for 
+ site #6: 34.498860\, -112.540767. P
+ arking is free.\n \nIf you have them
+ \, please bring your own hard hat/b
+ ike helmet\, gloves\, and eye protec
+ tion. If you don’t have them\, we
+  are able to provide those items. 
+ As always\, make sure to wear long 
+ sleeve shirts\, pants\, closed-toe s
+ hoes\, and bring snacks/water for t
+ he morning. Please RSVP to yta.tra
+ ilwork@gmail.com. \n\nhttps://www.fa
+ cebook.com/events/2051704581846197
+ /
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231109T140951Z
+LAST-MODIFIED:20231109T140951Z
+CREATED:20231109T140737Z
+SEQUENCE:134
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20231129T140000Z
+DTEND:20231129T153000Z
+UID:e649324620688877@facebook.com
+SUMMARY:Vert Club
+LOCATION:Thumb Butte Parking Lot
+URL:https://www.facebook.com/events/649323204022352/?event_time_id=649324620688877
+DESCRIPTION:Run/walk from the Thumb Butte Park
+ ing Lot to the top of the trail as
+  many times as you want.  Free par
+ king on Wednesday's.\n\nhttps://www.
+ facebook.com/events/64932320402235
+ 2/?event_time_id=649324620688877
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -460,6 +926,28 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20231109T140951Z
+LAST-MODIFIED:20231109T140951Z
+CREATED:20231109T140737Z
+SEQUENCE:134
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20231122T140000Z
+DTEND:20231122T153000Z
+UID:e649324594022213@facebook.com
+SUMMARY:Vert Club
+LOCATION:Thumb Butte Parking Lot
+URL:https://www.facebook.com/events/649323204022352/?event_time_id=649324594022213
+DESCRIPTION:Run/walk from the Thumb Butte Park
+ ing Lot to the top of the trail as
+  many times as you want.  Free par
+ king on Wednesday's.\n\nhttps://www.
+ facebook.com/events/64932320402235
+ 2/?event_time_id=649324594022213
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20231024T221435Z
 LAST-MODIFIED:20231024T221435Z
 CREATED:20231024T211510Z
@@ -482,6 +970,29 @@ DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231113T224955Z
+LAST-MODIFIED:20231113T224955Z
+CREATED:20231113T224955Z
+SEQUENCE:0
+ORGANIZER;CN=Chris Hawthorne:MAILTO:noreply@facebookmail.com
+DTSTART:20231120T143000Z
+DTEND:20231120T173000Z
+UID:e828318245642575@facebook.com
+SUMMARY:Brownlow Mondays
+LOCATION:Brownlow lot off of Commerce
+URL:https://www.facebook.com/events/828318245642575/
+DESCRIPTION:* moving to 7:30! \nStart the week 
+ off right 😊We’ll do the 10k l
+ oop\; any pace or ability welcome\, 
+ including hikers! Great training f
+ or December’s Santa Run 👊🏼
+  🎅🏼 \n\nhttps://www.facebook.c
+ om/events/828318245642575/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20231009T184749Z
@@ -595,6 +1106,28 @@ STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20231109T140951Z
+LAST-MODIFIED:20231109T140951Z
+CREATED:20231109T140737Z
+SEQUENCE:134
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20231115T140000Z
+DTEND:20231115T153000Z
+UID:e649324557355550@facebook.com
+SUMMARY:Vert Club
+LOCATION:Thumb Butte Parking Lot
+URL:https://www.facebook.com/events/649323204022352/?event_time_id=649324557355550
+DESCRIPTION:Run/walk from the Thumb Butte Park
+ ing Lot to the top of the trail as
+  many times as you want.  Free par
+ king on Wednesday's.\n\nhttps://www.
+ facebook.com/events/64932320402235
+ 2/?event_time_id=649324557355550
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20231024T221526Z
 LAST-MODIFIED:20231024T221526Z
 CREATED:20231024T211416Z
@@ -616,6 +1149,29 @@ DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
   this is white SPAR. \n\nBring a hea
  dlamp!\n\n\n\nhttps://www.facebook.com
  /events/1315119165799209/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231113T002056Z
+LAST-MODIFIED:20231113T002056Z
+CREATED:20231113T002056Z
+SEQUENCE:0
+ORGANIZER;CN=Chris Hawthorne:MAILTO:noreply@facebookmail.com
+DTSTART:20231113T143000Z
+DTEND:20231113T173000Z
+UID:e1043772186895351@facebook.com
+SUMMARY:Brownlow Mondays
+LOCATION:Brownlow lot off of Commerce
+URL:https://www.facebook.com/events/1043772186895351/
+DESCRIPTION:* moving to 7:30! \nStart the week 
+ off right 😊We’ll do the 10k l
+ oop\; any pace or ability welcome\, 
+ including hikers! Great training f
+ or December’s Santa Run 👊🏼
+  🎅🏼 \n\nhttps://www.facebook.c
+ om/events/1043772186895351/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -1048,52 +1604,5 @@ DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230909T182354Z
-LAST-MODIFIED:20230909T182354Z
-CREATED:20230523T205225Z
-SEQUENCE:9408689
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20231013T003000Z
-DTEND:20231013T020000Z
-UID:e204762745721995@facebook.com
-SUMMARY:PATR Thursday Night Social Run
-LOCATION:La Planchada
-URL:https://www.facebook.com/events/204762669055336/?event_time_id=204762745721995
-DESCRIPTION:Thursday Night Social Run 5:30 at 
- La Planchada\, 217 Gurley St. Come 
- and run a couple miles on the loca
- l trails and then hang out and soc
- ialize afterwards. (testing)\n\nhttp
- s://www.facebook.com/events/204762
- 669055336/?event_time_id=204762745
- 721995
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230919T195257Z
-LAST-MODIFIED:20230919T195257Z
-CREATED:20230919T195257Z
-SEQUENCE:0
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20231011T003000Z
-DTEND:20231011T033000Z
-UID:e819498852978767@facebook.com
-SUMMARY:Tuesday Group Run- Willow Lake- Brandon leading!
-URL:https://www.facebook.com/events/819498852978767/
-DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
-  will meet at the Dog Park parking
-  lot (link here https://goo.gl/map
- s/ZCLmd4fQPGkyXCHP7) at 5:30pm. Pl
- an for 5 miles(ish).\n\nNo drop run 
- (we stop for everyone at every int
- ersection).\n\nhttps://www.facebook.
- com/events/819498852978767/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
 END:VEVENT
 END:VCALENDAR
