@@ -66,6 +66,28 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20231117T202019Z
+LAST-MODIFIED:20231117T202019Z
+CREATED:20231117T202019Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240329T003000Z
+DTEND:20240329T003100Z
+UID:e1556735195157180@facebook.com
+SUMMARY:Thursday Night Social Run/Walk
+URL:https://www.facebook.com/events/1556735191823847/?event_time_id=1556735195157180
+DESCRIPTION:Join us for a 2-4 mile run or walk
+  starting at La Planchada 217 West
+  Gurley. Stay after for food and/o
+ r beverages if you like. \n\nhttps:/
+ /www.facebook.com/events/155673519
+ 1823847/?event_time_id=15567351951
+ 57180
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20231109T140951Z
 LAST-MODIFIED:20231109T140951Z
 CREATED:20231109T140737Z
@@ -83,6 +105,28 @@ DESCRIPTION:Run/walk from the Thumb Butte Park
  king on Wednesday's.\n\nhttps://www.
  facebook.com/events/64932320402235
  2/?event_time_id=649324577355548
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231117T202019Z
+LAST-MODIFIED:20231117T202019Z
+CREATED:20231117T202019Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240322T003000Z
+DTEND:20240322T003100Z
+UID:e1556735255157174@facebook.com
+SUMMARY:Thursday Night Social Run/Walk
+URL:https://www.facebook.com/events/1556735191823847/?event_time_id=1556735255157174
+DESCRIPTION:Join us for a 2-4 mile run or walk
+  starting at La Planchada 217 West
+  Gurley. Stay after for food and/o
+ r beverages if you like. \n\nhttps:/
+ /www.facebook.com/events/155673519
+ 1823847/?event_time_id=15567352551
+ 57174
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -110,6 +154,28 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20231117T202019Z
+LAST-MODIFIED:20231117T202019Z
+CREATED:20231117T202019Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240315T003000Z
+DTEND:20240315T003100Z
+UID:e1556735225157177@facebook.com
+SUMMARY:Thursday Night Social Run/Walk
+URL:https://www.facebook.com/events/1556735191823847/?event_time_id=1556735225157177
+DESCRIPTION:Join us for a 2-4 mile run or walk
+  starting at La Planchada 217 West
+  Gurley. Stay after for food and/o
+ r beverages if you like. \n\nhttps:/
+ /www.facebook.com/events/155673519
+ 1823847/?event_time_id=15567352251
+ 57177
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20231109T140951Z
 LAST-MODIFIED:20231109T140951Z
 CREATED:20231109T140737Z
@@ -127,6 +193,28 @@ DESCRIPTION:Run/walk from the Thumb Butte Park
  king on Wednesday's.\n\nhttps://www.
  facebook.com/events/64932320402235
  2/?event_time_id=649324567355549
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231117T202019Z
+LAST-MODIFIED:20231117T202019Z
+CREATED:20231117T202019Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240308T003000Z
+DTEND:20240308T003100Z
+UID:e1556735251823841@facebook.com
+SUMMARY:Thursday Night Social Run/Walk
+URL:https://www.facebook.com/events/1556735191823847/?event_time_id=1556735251823841
+DESCRIPTION:Join us for a 2-4 mile run or walk
+  starting at La Planchada 217 West
+  Gurley. Stay after for food and/o
+ r beverages if you like. \n\nhttps:/
+ /www.facebook.com/events/155673519
+ 1823847/?event_time_id=15567352518
+ 23841
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -154,6 +242,28 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20231117T202019Z
+LAST-MODIFIED:20231117T202019Z
+CREATED:20231117T202019Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240301T003000Z
+DTEND:20240301T003100Z
+UID:e1556735218490511@facebook.com
+SUMMARY:Thursday Night Social Run/Walk
+URL:https://www.facebook.com/events/1556735191823847/?event_time_id=1556735218490511
+DESCRIPTION:Join us for a 2-4 mile run or walk
+  starting at La Planchada 217 West
+  Gurley. Stay after for food and/o
+ r beverages if you like. \n\nhttps:/
+ /www.facebook.com/events/155673519
+ 1823847/?event_time_id=15567352184
+ 90511
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20231109T140951Z
 LAST-MODIFIED:20231109T140951Z
 CREATED:20231109T140737Z
@@ -176,6 +286,28 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20231117T202019Z
+LAST-MODIFIED:20231117T202019Z
+CREATED:20231117T202019Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240223T003000Z
+DTEND:20240223T003100Z
+UID:e1556735221823844@facebook.com
+SUMMARY:Thursday Night Social Run/Walk
+URL:https://www.facebook.com/events/1556735191823847/?event_time_id=1556735221823844
+DESCRIPTION:Join us for a 2-4 mile run or walk
+  starting at La Planchada 217 West
+  Gurley. Stay after for food and/o
+ r beverages if you like. \n\nhttps:/
+ /www.facebook.com/events/155673519
+ 1823847/?event_time_id=15567352218
+ 23844
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20231109T140951Z
 LAST-MODIFIED:20231109T140951Z
 CREATED:20231109T140737Z
@@ -193,6 +325,28 @@ DESCRIPTION:Run/walk from the Thumb Butte Park
  king on Wednesday's.\n\nhttps://www.
  facebook.com/events/64932320402235
  2/?event_time_id=649324574022215
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231117T202019Z
+LAST-MODIFIED:20231117T202019Z
+CREATED:20231117T202019Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240216T003000Z
+DTEND:20240216T003100Z
+UID:e1556735248490508@facebook.com
+SUMMARY:Thursday Night Social Run/Walk
+URL:https://www.facebook.com/events/1556735191823847/?event_time_id=1556735248490508
+DESCRIPTION:Join us for a 2-4 mile run or walk
+  starting at La Planchada 217 West
+  Gurley. Stay after for food and/o
+ r beverages if you like. \n\nhttps:/
+ /www.facebook.com/events/155673519
+ 1823847/?event_time_id=15567352484
+ 90508
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -266,6 +420,28 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20231117T202019Z
+LAST-MODIFIED:20231117T202019Z
+CREATED:20231117T202019Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240209T003000Z
+DTEND:20240209T003100Z
+UID:e1556735215157178@facebook.com
+SUMMARY:Thursday Night Social Run/Walk
+URL:https://www.facebook.com/events/1556735191823847/?event_time_id=1556735215157178
+DESCRIPTION:Join us for a 2-4 mile run or walk
+  starting at La Planchada 217 West
+  Gurley. Stay after for food and/o
+ r beverages if you like. \n\nhttps:/
+ /www.facebook.com/events/155673519
+ 1823847/?event_time_id=15567352151
+ 57178
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20231109T140951Z
 LAST-MODIFIED:20231109T140951Z
 CREATED:20231109T140737Z
@@ -283,6 +459,28 @@ DESCRIPTION:Run/walk from the Thumb Butte Park
  king on Wednesday's.\n\nhttps://www.
  facebook.com/events/64932320402235
  2/?event_time_id=649324587355547
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231117T202019Z
+LAST-MODIFIED:20231117T202019Z
+CREATED:20231117T202019Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240202T003000Z
+DTEND:20240202T003100Z
+UID:e1556735211823845@facebook.com
+SUMMARY:Thursday Night Social Run/Walk
+URL:https://www.facebook.com/events/1556735191823847/?event_time_id=1556735211823845
+DESCRIPTION:Join us for a 2-4 mile run or walk
+  starting at La Planchada 217 West
+  Gurley. Stay after for food and/o
+ r beverages if you like. \n\nhttps:/
+ /www.facebook.com/events/155673519
+ 1823847/?event_time_id=15567352118
+ 23845
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -310,6 +508,28 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20231117T202019Z
+LAST-MODIFIED:20231117T202019Z
+CREATED:20231117T202019Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240126T003000Z
+DTEND:20240126T003100Z
+UID:e1556735245157175@facebook.com
+SUMMARY:Thursday Night Social Run/Walk
+URL:https://www.facebook.com/events/1556735191823847/?event_time_id=1556735245157175
+DESCRIPTION:Join us for a 2-4 mile run or walk
+  starting at La Planchada 217 West
+  Gurley. Stay after for food and/o
+ r beverages if you like. \n\nhttps:/
+ /www.facebook.com/events/155673519
+ 1823847/?event_time_id=15567352451
+ 57175
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20231109T140951Z
 LAST-MODIFIED:20231109T140951Z
 CREATED:20231109T140737Z
@@ -327,6 +547,28 @@ DESCRIPTION:Run/walk from the Thumb Butte Park
  king on Wednesday's.\n\nhttps://www.
  facebook.com/events/64932320402235
  2/?event_time_id=649324590688880
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231117T202019Z
+LAST-MODIFIED:20231117T202019Z
+CREATED:20231117T202019Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240119T003000Z
+DTEND:20240119T003100Z
+UID:e1556735238490509@facebook.com
+SUMMARY:Thursday Night Social Run/Walk
+URL:https://www.facebook.com/events/1556735191823847/?event_time_id=1556735238490509
+DESCRIPTION:Join us for a 2-4 mile run or walk
+  starting at La Planchada 217 West
+  Gurley. Stay after for food and/o
+ r beverages if you like. \n\nhttps:/
+ /www.facebook.com/events/155673519
+ 1823847/?event_time_id=15567352384
+ 90509
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -432,6 +674,93 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20231116T195541Z
+LAST-MODIFIED:20231116T195541Z
+CREATED:20231116T195541Z
+SEQUENCE:0
+ORGANIZER;CN=Aravaipa Running:MAILTO:noreply@facebookmail.com
+DTSTART:20240113T140000Z
+DTEND:20240113T170000Z
+UID:e3191655624474953@facebook.com
+SUMMARY:Elephant Mountain Training Run! 
+LOCATION:Spur Cross Ranch Conservation Area
+URL:https://www.facebook.com/events/3191655624474953/
+DESCRIPTION:This training run will be followin
+ g the northern loop of the Elephan
+ t Mountain 50 Mile\, but everyone i
+ s welcome (whether you’re racing
+  or not). The northern portion of 
+ the course within the Tonto Nation
+ al Forest is quite rugged. Preview
+ ing this section of the trail befo
+ re race day is very valuable. \n\nht
+ tps://caltopo.com/m/114EQ\n\nThe rou
+ te starts at Spur Cross Parking lo
+ t. The first 2.5 miles are quite e
+ asy as you make your way north. Th
+ ere are a couple spots where you c
+ ross Cave Creek and you may get yo
+ ur feet wet. At mile 2.5\, there’
+ s a substantial water crossing bef
+ ore entering the Tonto National Fo
+ rest. You’ll slowly climb as you
+  make your way north to Skunk Cany
+ on where you’ll cross Cave Cave 
+ Creek a few more times (use this a
+ s an opportunity to cool off). Thi
+ s is probably the most beautiful s
+ ection of the course. Lots of flow
+ ing water\, green plants\, and stunn
+ ing views. At mile 12 you’ll hit
+  the one and only aid station. \n\nF
+ or the return journey\, you’ll be
+  following some trails that aren’
+ t really trails… more like game 
+ paths. Some parts are pretty overg
+ rown and this entire section is ve
+ ry exposed. Make sure to pack enou
+ gh water when you leave Seven Spri
+ ngs. This section is net downhill 
+ to the finish\, but it doesn’t se
+ em like it. There are a lot of pun
+ chy climbs. Make sure to follow th
+ e GPX closely. This is the exact r
+ oute that I took last year when I 
+ ran the race (and never went off c
+ ourse). You’ll finally get back 
+ to Cave Creek and take the same tr
+ ail back that you started out on. 
+ \n\nTotal Distance: 25.6 miles\n\nAid 
+ Station: 12.1 miles\n\nhttps://calto
+ po.com/m/114EQ\n\nhttps://www.facebo
+ ok.com/events/3191655624474953/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231117T202019Z
+LAST-MODIFIED:20231117T202019Z
+CREATED:20231117T202019Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240112T003000Z
+DTEND:20240112T003100Z
+UID:e1556735208490512@facebook.com
+SUMMARY:Thursday Night Social Run/Walk
+URL:https://www.facebook.com/events/1556735191823847/?event_time_id=1556735208490512
+DESCRIPTION:Join us for a 2-4 mile run or walk
+  starting at La Planchada 217 West
+  Gurley. Stay after for food and/o
+ r beverages if you like. \n\nhttps:/
+ /www.facebook.com/events/155673519
+ 1823847/?event_time_id=15567352084
+ 90512
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20231109T140951Z
 LAST-MODIFIED:20231109T140951Z
 CREATED:20231109T140737Z
@@ -449,6 +778,28 @@ DESCRIPTION:Run/walk from the Thumb Butte Park
  king on Wednesday's.\n\nhttps://www.
  facebook.com/events/64932320402235
  2/?event_time_id=649324614022211
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231117T202019Z
+LAST-MODIFIED:20231117T202019Z
+CREATED:20231117T202019Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240105T003000Z
+DTEND:20240105T003100Z
+UID:e1556735241823842@facebook.com
+SUMMARY:Thursday Night Social Run/Walk
+URL:https://www.facebook.com/events/1556735191823847/?event_time_id=1556735241823842
+DESCRIPTION:Join us for a 2-4 mile run or walk
+  starting at La Planchada 217 West
+  Gurley. Stay after for food and/o
+ r beverages if you like. \n\nhttps:/
+ /www.facebook.com/events/155673519
+ 1823847/?event_time_id=15567352418
+ 23842
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -476,6 +827,28 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20231117T202019Z
+LAST-MODIFIED:20231117T202019Z
+CREATED:20231117T202019Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20231229T003000Z
+DTEND:20231229T003100Z
+UID:e1556735205157179@facebook.com
+SUMMARY:Thursday Night Social Run/Walk
+URL:https://www.facebook.com/events/1556735191823847/?event_time_id=1556735205157179
+DESCRIPTION:Join us for a 2-4 mile run or walk
+  starting at La Planchada 217 West
+  Gurley. Stay after for food and/o
+ r beverages if you like. \n\nhttps:/
+ /www.facebook.com/events/155673519
+ 1823847/?event_time_id=15567352051
+ 57179
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20231109T140951Z
 LAST-MODIFIED:20231109T140951Z
 CREATED:20231109T140737Z
@@ -493,6 +866,28 @@ DESCRIPTION:Run/walk from the Thumb Butte Park
  king on Wednesday's.\n\nhttps://www.
  facebook.com/events/64932320402235
  2/?event_time_id=649324600688879
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231117T202019Z
+LAST-MODIFIED:20231117T202019Z
+CREATED:20231117T202019Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20231222T003000Z
+DTEND:20231222T003100Z
+UID:e1556735201823846@facebook.com
+SUMMARY:Thursday Night Social Run/Walk
+URL:https://www.facebook.com/events/1556735191823847/?event_time_id=1556735201823846
+DESCRIPTION:Join us for a 2-4 mile run or walk
+  starting at La Planchada 217 West
+  Gurley. Stay after for food and/o
+ r beverages if you like. \n\nhttps:/
+ /www.facebook.com/events/155673519
+ 1823847/?event_time_id=15567352018
+ 23846
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -607,6 +1002,28 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20231117T202019Z
+LAST-MODIFIED:20231117T202019Z
+CREATED:20231117T202019Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20231215T003000Z
+DTEND:20231215T003100Z
+UID:e1556735235157176@facebook.com
+SUMMARY:Thursday Night Social Run/Walk
+URL:https://www.facebook.com/events/1556735191823847/?event_time_id=1556735235157176
+DESCRIPTION:Join us for a 2-4 mile run or walk
+  starting at La Planchada 217 West
+  Gurley. Stay after for food and/o
+ r beverages if you like. \n\nhttps:/
+ /www.facebook.com/events/155673519
+ 1823847/?event_time_id=15567352351
+ 57176
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20231109T140951Z
 LAST-MODIFIED:20231109T140951Z
 CREATED:20231109T140737Z
@@ -683,13 +1100,13 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231002T134930Z
-LAST-MODIFIED:20231002T134930Z
+DTSTAMP:20231123T135218Z
+LAST-MODIFIED:20231123T135218Z
 CREATED:20231002T134930Z
-SEQUENCE:0
+SEQUENCE:4492968
 ORGANIZER;CN=Mohona Aktar:MAILTO:noreply@facebookmail.com
-DTSTART:20231209T000000Z
-DTEND:20231209T030000Z
+DTSTART:20231208T115000Z
+DTEND:20231208T145000Z
 UID:e1540718749999712@facebook.com
 SUMMARY: Acker Night
 LOCATION:Downtown Prescott
@@ -704,6 +1121,28 @@ DESCRIPTION:This is a FREE downtown event for
  his special one night\n\nhttps://www
  .facebook.com/events/1540718749999
  712/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231117T202019Z
+LAST-MODIFIED:20231117T202019Z
+CREATED:20231117T202019Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20231208T003000Z
+DTEND:20231208T003100Z
+UID:e1556735228490510@facebook.com
+SUMMARY:Thursday Night Social Run/Walk
+URL:https://www.facebook.com/events/1556735191823847/?event_time_id=1556735228490510
+DESCRIPTION:Join us for a 2-4 mile run or walk
+  starting at La Planchada 217 West
+  Gurley. Stay after for food and/o
+ r beverages if you like. \n\nhttps:/
+ /www.facebook.com/events/155673519
+ 1823847/?event_time_id=15567352284
+ 90510
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -752,7 +1191,7 @@ DESCRIPTION:We will meet at White Rock Parking
  45809643126/
 CLASS:PUBLIC
 STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
+PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20230920T154823Z
@@ -826,6 +1265,45 @@ DESCRIPTION:Join the Yavapai Trails Associatio
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231117T202019Z
+LAST-MODIFIED:20231117T202019Z
+CREATED:20231117T202019Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20231201T003000Z
+DTEND:20231201T003100Z
+UID:e1556735231823843@facebook.com
+SUMMARY:Thursday Night Social Run/Walk
+URL:https://www.facebook.com/events/1556735191823847/?event_time_id=1556735231823843
+DESCRIPTION:Join us for a 2-4 mile run or walk
+  starting at La Planchada 217 West
+  Gurley. Stay after for food and/o
+ r beverages if you like. \n\nhttps:/
+ /www.facebook.com/events/155673519
+ 1823847/?event_time_id=15567352318
+ 23843
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231115T174949Z
+LAST-MODIFIED:20231115T174949Z
+CREATED:20231115T174859Z
+SEQUENCE:50
+ORGANIZER;CN=Andrew Baker:MAILTO:bakerag1@gmail.com
+DTSTART:20231129T180000Z
+DTEND:20231129T210000Z
+UID:e364353702628738@facebook.com
+SUMMARY:just testing something, sorry
+URL:https://www.facebook.com/events/364353702628738/
+DESCRIPTION:https://www.facebook.com/events/36
+ 4353702628738/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20231109T140951Z
@@ -995,13 +1473,13 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231009T184749Z
-LAST-MODIFIED:20231009T184749Z
+DTSTAMP:20231117T220120Z
+LAST-MODIFIED:20231117T220120Z
 CREATED:20230825T235335Z
-SEQUENCE:3869654
+SEQUENCE:7250865
 ORGANIZER;CN=Black Canyon Ultras:MAILTO:noreply@facebookmail.com
-DTSTART:20231119T140000Z
-DTEND:20231119T170000Z
+DTSTART:20231119T150000Z
+DTEND:20231119T180000Z
 UID:e245298674580570@facebook.com
 SUMMARY:Black Canyon Training Run #1
 LOCATION:Big Bug Trailhead\, Black Canyon Tr
@@ -1223,6 +1701,42 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20231024T191753Z
+LAST-MODIFIED:20231024T191753Z
+CREATED:20231024T191753Z
+SEQUENCE:0
+ORGANIZER;CN=Whiskey Row Brew Club:MAILTO:noreply@facebookmail.com
+DTSTART:20231105T170000Z
+DTEND:20231105T200000Z
+UID:e2012466075819185@facebook.com
+SUMMARY:Learn to Brew Day Brewout
+LOCATION:6396 Lear Ln\, Prescott\, AZ 86301-9
+ 118\, United States
+URL:https://www.facebook.com/events/2012466075819185/
+DESCRIPTION:We're having a brew out at Wren Ho
+ use Prairie Patio to celebrate Lea
+ rn to Homebrew Day!\n\nSunday\, Novem
+ ber 5\nWren House Prairie Patio\n639
+ 6 Lear Ln\nPrescott\, AZ 86301\n\nBrew
+ ing starts at 10am (will continue 
+ well into the afternoon)\nPatio sta
+ rts selling beer at 1pm\nPatio clos
+ es at 6:30\nThere will be power and
+  water available for brewers. At l
+ east three brewers will be brewing
+  that day. If you want to learn ho
+ w to brew\, or are just curious\, st
+ op by and check it out. Let us kno
+ w if you intend to brew\, if you wa
+ nt help brewing\, or if you have an
+ y other questions. \n\n\n\n\nhttps://ww
+ w.facebook.com/events/201246607581
+ 9185/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20231101T164126Z
 LAST-MODIFIED:20231101T164126Z
 CREATED:20231101T163346Z
@@ -1370,239 +1884,5 @@ DESCRIPTION:* moving to 7:30! \nStart the week
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231004T175414Z
-LAST-MODIFIED:20231004T175414Z
-CREATED:20230802T175945Z
-SEQUENCE:5442869
-ORGANIZER;CN=Yavapai CASA for Kids:MAILTO:noreply@facebookmail.com
-DTSTART:20231028T160000Z
-DTEND:20231028T190000Z
-UID:e962693095000360@facebook.com
-SUMMARY:Costumes for Kids 5K Fun Run & Halloween Festival
-LOCATION:Courthouse Square\, Prescott
-URL:https://www.facebook.com/events/962693095000360/
-DESCRIPTION:🎃 Get ready to have a blast thi
- s October with the Yavapai CASA fo
- r Kids Foundation's 8th annual Cos
- tumes for Kids 5K Fun Run and Hall
- oween Festival in Prescott!\n\nGrab 
- your most boo-tiful costumes and j
- oin us on Saturday\, October 28th\, 
- at the enchanting Courthouse Squar
- e an action-packed morning. \n\nWhet
- her you're a seasoned 5K enthusias
- t or a family of eager trick-or-tr
- eaters\, this event has something f
- or everyone!\n\n🏃‍♀️A 5k\n🚶
- ‍♀️A 1-mile fun run around t
- he Courthouse\n🎵 Music provided 
- by Magic 99.1\n🕹 Games\, activiti
- es\, and prizes\n👻 A costume cont
- est with prizes for the best girl\,
-  boy\, adult male\, adult female\, an
- d group costumes\n🎟 Raffles for 
- some a-MAZE-ing adventures\n😋 Fr
- ee pre and post-race snacks and dr
- inks to keep you fueled\n\nBut wait\,
-  there's more! We've got a special
-  treat for kids under 16 and foste
- r/kinship families—free entry fo
- r all\, as we believe Halloween mag
- ic should be shared by everyone! \n
- \nGather your coven of friends and 
- family and take advantage of team 
- registration for a howling good di
- scount! 🐺🌕\n\n🎃 So\, witches
-  and warlocks\, get your brooms rea
- dy and make your way to the Courth
- ouse Square on October 28th to hav
- e a spook-tac-ular time for a grea
- t cause!\n\nLet's create memories to
- gether at the Costumes for Kids 5K
-  Fun Run and Halloween Festival—
-  you Won't want to miss it! 👻🎃
- \n\nSchedule for the day:\n9:00 AM: R
- unner and volunteer sign-in\, walk-
- up registration\, T-Shirt sales\, ga
- mes\, and snacks.\n10:00 AM: 5K Race
-  begins.\n10:05 AM: 1 Mile Fun Run 
- begins.\n10:06 AM: Music\, game boot
- hs\, and socialization.\n11:30 AM: A
- wards ceremony for the best costum
- es\, race time awards\, free food\, a
- nd socialization.\n12:00 PM: Event 
- ends.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nhttps://w
- ww.facebook.com/events/96269309500
- 0360/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231016T150257Z
-LAST-MODIFIED:20231016T150257Z
-CREATED:20231016T150257Z
-SEQUENCE:0
-ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
-DTSTART:20231025T140000Z
-DTEND:20231025T140100Z
-UID:e866675798302770@facebook.com
-SUMMARY:Vert Club
-URL:https://www.facebook.com/events/866675784969438/?event_time_id=866675798302770
-DESCRIPTION:Meet in the Thumb Butte parking lo
- t for as many 2 mile loops up & do
- wn Thumb Butte as you want. Each l
- oop is ~2 miles & 600’. This is 
- a self-paced run.\n\nhttps://www.fac
- ebook.com/events/866675784969438/?
- event_time_id=866675798302770
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230919T195100Z
-LAST-MODIFIED:20230919T195100Z
-CREATED:20230919T195100Z
-SEQUENCE:0
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20231025T003000Z
-DTEND:20231025T033000Z
-UID:e270029442668978@facebook.com
-SUMMARY:Tuesday Group Run- White Rock 
-URL:https://www.facebook.com/events/270029442668978/
-DESCRIPTION:We will meet at White Rock Parking
-  lot (link here https://goo.gl/map
- s/YN2uMvQnyQWTM9JK7) at 5:30pm. \n\n
- No-drop group run of approximately
-  5 miles. No-drop means we stop at
-  every intersection and wait for e
- veryone. \n\n\n\n\nhttps://www.facebook
- .com/events/270029442668978/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231020T152010Z
-LAST-MODIFIED:20231020T152010Z
-CREATED:20231020T152010Z
-SEQUENCE:0
-ORGANIZER;CN=Chris Hawthorne:MAILTO:noreply@facebookmail.com
-DTSTART:20231023T140000Z
-DTEND:20231023T170000Z
-UID:e299025819649266@facebook.com
-SUMMARY:Brownlow Mondays
-LOCATION:Brownlow lot off of Commerce
-URL:https://www.facebook.com/events/299025819649266/
-DESCRIPTION:Start the week off right 😊We’
- ll do the 10k loop\; any pace or ab
- ility welcome\, including hikers! G
- reat training for December’s San
- ta Run 👊🏼 🎅🏼 \n\nhttps:/
- /www.facebook.com/events/299025819
- 649266/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231017T153451Z
-LAST-MODIFIED:20231017T153451Z
-CREATED:20231017T153451Z
-SEQUENCE:0
-ORGANIZER;CN=Chris Hawthorne:MAILTO:noreply@facebookmail.com
-DTSTART:20231021T140000Z
-DTEND:20231021T170000Z
-UID:e356656096703380@facebook.com
-SUMMARY:SATR PATR White Spar
-LOCATION:White Spar Campground
-URL:https://www.facebook.com/events/356656096703380/
-DESCRIPTION:Join us for a group hike/run out t
- o Goldwater Lake! Various distance
- s and paces available\; as usual\, w
- e will determine at the trailhead 
- what each person would like to do 
- and group up before heading out. T
- here is an 8.5 mile loop around th
- e lake\, as well as out-n-back opti
- ons for 5-6 total miles. \n\nhttps:/
- /www.facebook.com/events/356656096
- 703380/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230909T182354Z
-LAST-MODIFIED:20230909T182354Z
-CREATED:20230523T205225Z
-SEQUENCE:9408689
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20231020T003000Z
-DTEND:20231020T020000Z
-UID:e204762682388668@facebook.com
-SUMMARY:PATR Thursday Night Social Run
-LOCATION:La Planchada
-URL:https://www.facebook.com/events/204762669055336/?event_time_id=204762682388668
-DESCRIPTION:Thursday Night Social Run 5:30 at 
- La Planchada\, 217 Gurley St. Come 
- and run a couple miles on the loca
- l trails and then hang out and soc
- ialize afterwards. (testing)\n\nhttp
- s://www.facebook.com/events/204762
- 669055336/?event_time_id=204762682
- 388668
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231016T150257Z
-LAST-MODIFIED:20231016T150257Z
-CREATED:20231016T150257Z
-SEQUENCE:0
-ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
-DTSTART:20231018T140000Z
-DTEND:20231018T140100Z
-UID:e866675791636104@facebook.com
-SUMMARY:Vert Club
-URL:https://www.facebook.com/events/866675784969438/?event_time_id=866675791636104
-DESCRIPTION:Meet in the Thumb Butte parking lo
- t for as many 2 mile loops up & do
- wn Thumb Butte as you want. Each l
- oop is ~2 miles & 600’. This is 
- a self-paced run.\n\nhttps://www.fac
- ebook.com/events/866675784969438/?
- event_time_id=866675791636104
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230919T195145Z
-LAST-MODIFIED:20230919T195145Z
-CREATED:20230919T195145Z
-SEQUENCE:0
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20231018T003000Z
-DTEND:20231018T033000Z
-UID:e342641451528667@facebook.com
-SUMMARY:Tuesday Group Run- Granite Basin
-URL:https://www.facebook.com/events/342641451528667/
-DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
-  will meet at the cattleguard (lin
- k here https://goo.gl/maps/CnyTC6T
- oppAjWTcn6) at 5:30pm. \n\nExpect 5-
- 6 miles\, all downhill (except for 
- the uphills). No drop run (we stop
-  for everyone at every intersectio
- n). \n\n\nhttps://www.facebook.com/ev
- ents/342641451528667/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
 END:VEVENT
 END:VCALENDAR
