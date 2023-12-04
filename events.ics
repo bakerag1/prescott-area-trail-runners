@@ -44,6 +44,49 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20231110T210358Z
+LAST-MODIFIED:20231110T210358Z
+CREATED:20231110T210358Z
+SEQUENCE:0
+ORGANIZER;CN=Aravaipa Running:MAILTO:noreply@facebookmail.com
+DTSTART:20240506T120000Z
+DTEND:20240506T150000Z
+UID:e193810637103441@facebook.com
+SUMMARY:Cocodona 
+LOCATION:Black Canyon City/rock Springs
+URL:https://www.facebook.com/events/193810637103441/
+DESCRIPTION:Cocodona250 - May 6-11\, 2024\n\n🏜
+ ️ The original epic of the Cocod
+ ona name starts at Rock Springs Ca
+ fe in Black Canyon City and traver
+ ses a continuous 250 mile point-to
+ -point route\, ending in Flagstaff\,
+  Arizona. Arguably the most divers
+ e 200+miler on the map. Be prepare
+ d for a life changing epic adventu
+ re.\n\n⛰️ Sedona Canyons 125 - M
+ ay 8-11\, 2024\n\nThis 125-mile point
+ -to-point adventure runs the back 
+ half of the full Cocodona course. 
+ You’ll start in Jerome\, run thro
+ ugh Sedona\, and finish in Flagstaf
+ f\, alongside runners competing in 
+ the 250-miler. Get the best sectio
+ ns of the full course with half th
+ e pain.\n\n🌲 Elden Crest 38 - May
+  10-11\, 2024\n\nThe last 38 miles of
+  the full Cocodona course is a Tou
+ r-de-Flagstaff. Start at Fort Tuth
+ ill\, run through beautiful Walnut 
+ Canyon\, up-n-over Mt Elden\, and fi
+ nish in downtown Flagstaff.\n\nhttps
+ ://www.facebook.com/events/1938106
+ 37103441/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20231109T140951Z
 LAST-MODIFIED:20231109T140951Z
 CREATED:20231109T140737Z
@@ -827,6 +870,30 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20231128T225646Z
+LAST-MODIFIED:20231128T225646Z
+CREATED:20231128T222123Z
+SEQUENCE:2123
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20240103T003000Z
+DTEND:20240103T033000Z
+UID:e6985261914860054@facebook.com
+SUMMARY:Tuesday Group Run- Willow Lake-Brandon leading!
+URL:https://www.facebook.com/events/6985261914860054/
+DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
+  will meet at the Dog Park parking
+  lot (link here https://goo.gl/map
+ s/ZCLmd4fQPGkyXCHP7) at 5:30pm. Pl
+ an for 5 miles(ish).\n\nNo drop run 
+ (we stop for everyone at every int
+ ersection).\n\nBring a headlamp!\n\nht
+ tps://www.facebook.com/events/6985
+ 261914860054/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20231117T202019Z
 LAST-MODIFIED:20231117T202019Z
 CREATED:20231117T202019Z
@@ -871,6 +938,29 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20231128T225527Z
+LAST-MODIFIED:20231128T225527Z
+CREATED:20231128T221929Z
+SEQUENCE:2158
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20231227T003000Z
+DTEND:20231227T033000Z
+UID:e869476311385863@facebook.com
+SUMMARY:Tuesday Group Run- Peavine -Brandon leading!
+URL:https://www.facebook.com/events/869476311385863/
+DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
+  will meet at the Peavine Trailhea
+ d by the Humane Society at 5:30pm.
+  No drop run (we stop for everyone
+  at every intersection). \n\nExpect 
+ 5-6 miles.\n\nBring a headlamp :)\n\n\n
+ \n\n\n\n\nhttps://www.facebook.com/even
+ ts/869476311385863/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20231117T202019Z
 LAST-MODIFIED:20231117T202019Z
 CREATED:20231117T202019Z
@@ -910,6 +1000,32 @@ DESCRIPTION:Run/walk from the Thumb Butte Park
  king on Wednesday's.\n\nhttps://www.
  facebook.com/events/64932320402235
  2/?event_time_id=649324610688878
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231128T232041Z
+LAST-MODIFIED:20231128T232041Z
+CREATED:20231128T221739Z
+SEQUENCE:3782
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20231220T003000Z
+DTEND:20231220T033000Z
+UID:e715249293846228@facebook.com
+SUMMARY:Tuesday Group Run- White Spar
+URL:https://www.facebook.com/events/715249293846228/
+DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
+  will meet at the White Spar Parki
+ ng lot (link here https://goo.gl/m
+ aps/nX4JGH75u4T7R15g7) at 5:30 PM.
+  Expect 4-6 miles. No drop run (we
+  stop for everyone at every inters
+ ection). \n\nBe careful\, this is NOT
+  the usual white ROCK parking lot\,
+  this is white SPAR. \n\nBring a hea
+ dlamp!\n\n\n\nhttps://www.facebook.com
+ /events/715249293846228/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -1194,6 +1310,28 @@ STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20231203T144359Z
+LAST-MODIFIED:20231203T144359Z
+CREATED:20231203T144359Z
+SEQUENCE:0
+ORGANIZER;CN=Chris Hawthorne:MAILTO:noreply@facebookmail.com
+DTSTART:20231204T150000Z
+DTEND:20231204T180000Z
+UID:e1040774747190280@facebook.com
+SUMMARY:Brownlow Mondays
+LOCATION:Brownlow lot off of Commerce
+URL:https://www.facebook.com/events/1040774747190280/
+DESCRIPTION:*8:00AM! Could be your last chance
+  to practice for Saturday’s Sant
+ a Run! Btw\, have you registered ye
+ t?? I’ll put a link in the comme
+ nts. 🎅🏼 \n\nhttps://www.facebo
+ ok.com/events/1040774747190280/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20230920T154823Z
 LAST-MODIFIED:20230920T154823Z
 CREATED:20230920T154823Z
@@ -1214,6 +1352,28 @@ DESCRIPTION:This time-honored tradition is the
  928-445-2000 Ext 117\n\nhttps://www.
  facebook.com/events/27531340533572
  5/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231130T165300Z
+LAST-MODIFIED:20231130T165300Z
+CREATED:20231130T165300Z
+SEQUENCE:0
+ORGANIZER;CN=Chris Hawthorne:MAILTO:noreply@facebookmail.com
+DTSTART:20231202T153000Z
+DTEND:20231202T183000Z
+UID:e883367476403816@facebook.com
+SUMMARY:SATR PATR at Watershed trailhead (Senator Hwy)
+URL:https://www.facebook.com/events/883367476403816/
+DESCRIPTION:Watershed trailhead is on Senator 
+ Hwy\, on the left\, just a bit past 
+ the entrance to Goldwater Lake. We
+  can pick a direction (62? 396?) b
+ ased on consensus\, but plan on 5-6
+  miles. \n\nhttps://www.facebook.com
+ /events/883367476403816/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -1696,191 +1856,6 @@ DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
  ion). \n\nExpect 5-6 miles.\n\nBring a
   headlamp!\n\n\n\n\n\n\n\nhttps://www.face
  book.com/events/1723893918123319/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231024T191753Z
-LAST-MODIFIED:20231024T191753Z
-CREATED:20231024T191753Z
-SEQUENCE:0
-ORGANIZER;CN=Whiskey Row Brew Club:MAILTO:noreply@facebookmail.com
-DTSTART:20231105T170000Z
-DTEND:20231105T200000Z
-UID:e2012466075819185@facebook.com
-SUMMARY:Learn to Brew Day Brewout
-LOCATION:6396 Lear Ln\, Prescott\, AZ 86301-9
- 118\, United States
-URL:https://www.facebook.com/events/2012466075819185/
-DESCRIPTION:We're having a brew out at Wren Ho
- use Prairie Patio to celebrate Lea
- rn to Homebrew Day!\n\nSunday\, Novem
- ber 5\nWren House Prairie Patio\n639
- 6 Lear Ln\nPrescott\, AZ 86301\n\nBrew
- ing starts at 10am (will continue 
- well into the afternoon)\nPatio sta
- rts selling beer at 1pm\nPatio clos
- es at 6:30\nThere will be power and
-  water available for brewers. At l
- east three brewers will be brewing
-  that day. If you want to learn ho
- w to brew\, or are just curious\, st
- op by and check it out. Let us kno
- w if you intend to brew\, if you wa
- nt help brewing\, or if you have an
- y other questions. \n\n\n\n\nhttps://ww
- w.facebook.com/events/201246607581
- 9185/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231101T164126Z
-LAST-MODIFIED:20231101T164126Z
-CREATED:20231101T163346Z
-SEQUENCE:460
-ORGANIZER;CN=Chris Hawthorne:MAILTO:noreply@facebookmail.com
-DTSTART:20231104T140000Z
-DTEND:20231104T170000Z
-UID:e256118783717939@facebook.com
-SUMMARY:SATR PATR: P-Mtn summit scramble and REI grand opening
-URL:https://www.facebook.com/events/256118783717939/
-DESCRIPTION:Who’s ready for something comple
- tely different? Come explore a rar
- ely used trail/trailhead (Turley T
- H)\, leading up to the summit of P 
- (Badger) Mountain. Afterwards\, we 
- can meet down the hill for the gra
- nd opening event at REI around 9:0
- 0am (apparently there will be give
- aways\, festivities\, and free ☕️
- ). The trailhead is located off of
-  Wells Fargo Rd (see map in the co
- mments) - you’ll see a sign and 
- a small dirt rd\; drive up carefull
- y\, it’s just an 1/8 mile to the 
- parking area but it’s kinda bump
- y. It will be mostly hiking up the
-  1.5 miles to the summit\, and then
-  we can add some running on the ci
- rcle trail before heading down and
-  driving over to REI. \n\nhttps://ww
- w.facebook.com/events/256118783717
- 939/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231027T033734Z
-LAST-MODIFIED:20231027T033734Z
-CREATED:20231027T033734Z
-SEQUENCE:0
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20231103T003000Z
-DTEND:20231103T033000Z
-UID:e6992435654153194@facebook.com
-SUMMARY:Social Run/Walk
-LOCATION:La Planchada
-URL:https://www.facebook.com/events/6992435654153194/
-DESCRIPTION:Run/walk 2-4 miles followed by soc
- ializing \n\nhttps://www.facebook.co
- m/events/6992435654153194/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231027T033259Z
-LAST-MODIFIED:20231027T033259Z
-CREATED:20231027T033259Z
-SEQUENCE:0
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20231103T003000Z
-DTEND:20231103T023000Z
-UID:e990490428708754@facebook.com
-SUMMARY:Thursday Social Run/Walk
-LOCATION:La Planchada
-URL:https://www.facebook.com/events/990490428708754/
-DESCRIPTION:Run/walk 2-4 miles followed by soc
- ializing at La Planchada \n\nhttps:/
- /www.facebook.com/events/990490428
- 708754/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231016T150257Z
-LAST-MODIFIED:20231016T150257Z
-CREATED:20231016T150257Z
-SEQUENCE:0
-ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
-DTSTART:20231101T140000Z
-DTEND:20231101T140100Z
-UID:e866675794969437@facebook.com
-SUMMARY:Vert Club
-URL:https://www.facebook.com/events/866675784969438/?event_time_id=866675794969437
-DESCRIPTION:Meet in the Thumb Butte parking lo
- t for as many 2 mile loops up & do
- wn Thumb Butte as you want. Each l
- oop is ~2 miles & 600’. This is 
- a self-paced run.\n\nhttps://www.fac
- ebook.com/events/866675784969438/?
- event_time_id=866675794969437
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231024T211038Z
-LAST-MODIFIED:20231024T211038Z
-CREATED:20231024T211038Z
-SEQUENCE:0
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20231101T003000Z
-DTEND:20231101T033000Z
-UID:e723883332889733@facebook.com
-SUMMARY:Tuesday Group Run- Upper Spence Basin
-LOCATION:https://maps.apple.com/?ll=34.5819
- 04\,-112.548972&q=Dropped%20Pin&_ex
- t=EiYpaevoe+dJQUAxxHG9OnsjXMA558AO
- 2A1LQUBB5GbvdsgiXMBQBA%3D%3D&t=h
-URL:https://www.facebook.com/events/723883332889733/
-DESCRIPTION:PLEASE READ THIS DESCRIPTION. \nWe 
- will meet at UPPER Parking lot alo
- ng Iron Springs\, where the circle 
- trail crosses the Iron Springs at 
- 5:30pm. Expect 4-6 miles. No drop 
- run (we stop for everyone at every
-  intersection). \n\nBring a headlamp
- !\n\nhttps://www.facebook.com/events
- /723883332889733/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231027T174624Z
-LAST-MODIFIED:20231027T174624Z
-CREATED:20231027T174624Z
-SEQUENCE:0
-ORGANIZER;CN=Chris Hawthorne:MAILTO:noreply@facebookmail.com
-DTSTART:20231030T143000Z
-DTEND:20231030T173000Z
-UID:e3677367142548565@facebook.com
-SUMMARY:Brownlow Mondays
-LOCATION:Brownlow lot off of Commerce
-URL:https://www.facebook.com/events/3677367142548565/
-DESCRIPTION:* moving to 7:30! \nStart the week 
- off right 😊We’ll do the 10k l
- oop\; any pace or ability welcome\, 
- including hikers! Great training f
- or December’s Santa Run 👊🏼
-  🎅🏼 \n\nhttps://www.facebook.c
- om/events/3677367142548565/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
