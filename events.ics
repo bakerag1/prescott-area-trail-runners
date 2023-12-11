@@ -1137,7 +1137,7 @@ DESCRIPTION:Join us for a 2-4 mile run or walk
  57176
 CLASS:PUBLIC
 STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
+PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20231109T140951Z
@@ -1162,32 +1162,36 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231024T221558Z
-LAST-MODIFIED:20231024T221558Z
+DTSTAMP:20231210T172356Z
+LAST-MODIFIED:20231210T172356Z
 CREATED:20231024T212015Z
-SEQUENCE:3343
+SEQUENCE:4046621
 ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
 DTSTART:20231213T003000Z
 DTEND:20231213T033000Z
 UID:e730680835615215@facebook.com
-SUMMARY:Tuesday Group Run- Upper Spence Basin-Jon leading!
+SUMMARY:***Change***Tuesday Group Run- LOWER Spence Basin-Jon leading!
 LOCATION:https://maps.apple.com/?ll=34.5819
  04\,-112.548972&q=Dropped%20Pin&_ex
  t=EiYpaevoe+dJQUAxxHG9OnsjXMA558AO
  2A1LQUBB5GbvdsgiXMBQBA%3D%3D&t=h
 URL:https://www.facebook.com/events/730680835615215/
-DESCRIPTION:PLEASE READ THIS DESCRIPTION. \nWe 
- will meet at UPPER Parking lot alo
- ng Iron Springs\, where the circle 
- trail crosses the Iron Springs at 
- 5:30pm. Expect 4-6 miles. No drop 
- run (we stop for everyone at every
-  intersection). \n\nBring a headlamp
- !\n\nhttps://www.facebook.com/events
- /730680835615215/
+DESCRIPTION:Location changed!!! Will meet at L
+ OWER Spence Springs parking lot: \n
+ \nGPS here https://maps.app.goo.gl/
+ tvsxZcN1fCTD7FMV8?g_st=ic\n\nPLEASE 
+ READ THIS DESCRIPTION. \nWe will me
+ et at Lower Parking lot along Iron
+  Springs\, where Spence Springs Rd 
+ meets Iron Springs (trailhead). 5:
+ 30pm. Expect 4-6 miles. No drop ru
+ n (we stop for everyone at every i
+ ntersection). \n\nBring a headlamp!\n
+ \nhttps://www.facebook.com/events/7
+ 30680835615215/
 CLASS:PUBLIC
 STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
+PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20230922T225117Z
@@ -1216,32 +1220,6 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231123T135218Z
-LAST-MODIFIED:20231123T135218Z
-CREATED:20231002T134930Z
-SEQUENCE:4492968
-ORGANIZER;CN=Mohona Aktar:MAILTO:noreply@facebookmail.com
-DTSTART:20231208T115000Z
-DTEND:20231208T145000Z
-UID:e1540718749999712@facebook.com
-SUMMARY: Acker Night
-LOCATION:Downtown Prescott
-URL:https://www.facebook.com/events/1540718749999712/
-DESCRIPTION:This is a FREE downtown event for 
- everyone. The streets in downtown 
- Prescott are closed and the busine
- sses open their doors for a few ho
- urs for this wonderful musical eve
- nt.\nThe Christmas lights are gleam
- ing\, and music fills the air for t
- his special one night\n\nhttps://www
- .facebook.com/events/1540718749999
- 712/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20231117T202019Z
 LAST-MODIFIED:20231117T202019Z
 CREATED:20231117T202019Z
@@ -1261,7 +1239,7 @@ DESCRIPTION:Join us for a 2-4 mile run or walk
  90510
 CLASS:PUBLIC
 STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
+PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20231109T140951Z
@@ -1810,52 +1788,6 @@ DESCRIPTION:* moving to 7:30! \nStart the week
  or December’s Santa Run 👊🏼
   🎅🏼 \n\nhttps://www.facebook.c
  om/events/1043772186895351/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231027T143147Z
-LAST-MODIFIED:20231027T143147Z
-CREATED:20231027T143147Z
-SEQUENCE:0
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20231110T003000Z
-DTEND:20231110T033000Z
-UID:e843353620612669@facebook.com
-SUMMARY:Social Run/Walk
-LOCATION:La Planchada
-URL:https://www.facebook.com/events/843353620612669/
-DESCRIPTION:Run/walk 2-4 miles followed by soc
- ializing \n\nhttps://www.facebook.co
- m/events/843353620612669/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231025T233257Z
-LAST-MODIFIED:20231025T233257Z
-CREATED:20231024T211320Z
-SEQUENCE:94777
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20231108T003000Z
-DTEND:20231108T033000Z
-UID:e1723893918123319@facebook.com
-SUMMARY:Tuesday Group Run- Upper Spence- Cindy leading!
-LOCATION:https://maps.apple.com/?ll=34.5819
- 04\,-112.548972&q=Dropped%20Pin&_ex
- t=EiYpaevoe+dJQUAxxHG9OnsjXMA558AO
- 2A1LQUBB5GbvdsgiXMBQBA%3D%3D&t=h
-URL:https://www.facebook.com/events/1723893918123319/
-DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
-  will meet at the Upper Spence tra
- ilhead (where the trail crosses Ir
- on Springs Rd). No drop run (we st
- op for everyone at every intersect
- ion). \n\nExpect 5-6 miles.\n\nBring a
-  headlamp!\n\n\n\n\n\n\n\nhttps://www.face
- book.com/events/1723893918123319/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
