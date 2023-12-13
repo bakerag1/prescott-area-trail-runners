@@ -241,6 +241,42 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20231213T032453Z
+LAST-MODIFIED:20231213T032453Z
+CREATED:20231213T032453Z
+SEQUENCE:0
+ORGANIZER;CN=Hope_Thewildburroplace:MAILTO:noreply@facebookmail.com
+DTSTART:20240309T150000Z
+DTEND:20240310T230000Z
+UID:e743370304486713@facebook.com
+SUMMARY:Black Canyon Donkey Derby
+LOCATION:18181 E Deep Canyon Trail  Black C
+ anyon City Az 85324
+URL:https://www.facebook.com/events/743370304486713/
+DESCRIPTION:This is a wonderful community even
+ t! If you love donkeys\, this is th
+ e place for you! Saturday is the B
+ urro Race and St. Paddy’s Day Co
+ stume Contest\, then on Sunday we h
+ ave an In-hand Obstacle Course Cha
+ llenge. There will be food trucks\,
+  vendors\, and kids’ activities! 
+ The Race is a 3\, 6\, or 9 mile cour
+ se! The 3 mile is a great beginner
+  course you can walk with your don
+ key!! Come and join the fun! If yo
+ u don’t own a donkey but want to
+  participate\, there are local resc
+ ues who have donkeys to rent! You 
+ can also just come watch and enjoy
+  being a part of the burro communi
+ ty! \n\nhttps://www.facebook.com/eve
+ nts/743370304486713/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20231117T202019Z
 LAST-MODIFIED:20231117T202019Z
 CREATED:20231117T202019Z
@@ -1031,10 +1067,10 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230826T000331Z
-LAST-MODIFIED:20230826T000331Z
+DTSTAMP:20231212T232214Z
+LAST-MODIFIED:20231212T232214Z
 CREATED:20230826T000331Z
-SEQUENCE:0
+SEQUENCE:9415123
 ORGANIZER;CN=Black Canyon Ultras:MAILTO:noreply@facebookmail.com
 DTSTART:20231217T140000Z
 DTEND:20231217T170000Z
@@ -1765,29 +1801,6 @@ DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
   this is white SPAR. \n\nBring a hea
  dlamp!\n\n\n\nhttps://www.facebook.com
  /events/1315119165799209/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231113T002056Z
-LAST-MODIFIED:20231113T002056Z
-CREATED:20231113T002056Z
-SEQUENCE:0
-ORGANIZER;CN=Chris Hawthorne:MAILTO:noreply@facebookmail.com
-DTSTART:20231113T143000Z
-DTEND:20231113T173000Z
-UID:e1043772186895351@facebook.com
-SUMMARY:Brownlow Mondays
-LOCATION:Brownlow lot off of Commerce
-URL:https://www.facebook.com/events/1043772186895351/
-DESCRIPTION:* moving to 7:30! \nStart the week 
- off right 😊We’ll do the 10k l
- oop\; any pace or ability welcome\, 
- including hikers! Great training f
- or December’s Santa Run 👊🏼
-  🎅🏼 \n\nhttps://www.facebook.c
- om/events/1043772186895351/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
