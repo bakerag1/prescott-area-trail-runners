@@ -1,0 +1,31 @@
+baseURL: https://prescottareatrailrunners.com
+disablePathToLower: true
+languageCode: en-us
+title: PATR
+theme: hyde
+googleAnalytics: G-5Q4TX7CD5X
+
+ignoreFiles:
+  - events.ics
+
+params:
+  description: "Prescott Area Trail Runners"
+  themeColor: "theme-base-09"
+  logo: https://prescottareatrailrunners.com/assets/img/patr-logo.png
+  meta:
+    favicon: false
+
+Menus:
+  main:
+    - Name: about us
+      URL: /about
+    - Name: schedule
+      URL: /events
+    - Name: trails
+      URL: /trails
+    - Name: Facebook
+      URL: https://www.facebook.com/groups/prescottareatrailrunners
+    - Name: Strava
+      URL: https://www.strava.com/clubs/493251
+    - Name: Newsletter Signup
+      URL: https://groups.google.com/g/patr-chatter

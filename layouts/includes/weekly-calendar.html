@@ -1,0 +1,18 @@
+<!-- Portfolio Grid Section -->
+  <table>
+    <tr><th colspan=2>
+      <a href="https://prescottareatrailrunners.com/schedule"><i>see all events</i></a>
+    </th></tr>
+    \{% assign last_day = site.time | date: "%j" | plus: 7  %\}
+    \{% assign items = site.calendar | sort: 'startdate' %\}
+    \{% for item in items %\}
+    \{% assign item_day = item.startdate | date: "%j"| plus: 0 %\}
+    \{% assign today = site.time | date: "%j"| plus: 0 %\}
+		\{% if  item_day < last_day and item_day > today %\}
+    <tr>
+      <td><a href="\{\{ item.url \}\}">\{\{ item.title \}\}</a><br>\{\{ item.startdate | date: '%Y-%m-%d %H:%M'\}\}</td>
+      <td>\{\{ item.description \}\}</td>
+    </tr>
+    \{% endif %\}
+   \{% endfor %\}
+  </table>

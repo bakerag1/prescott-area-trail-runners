@@ -5,6 +5,5 @@ https://prescottareatrailrunners.com
 * If you want to make a suggestion or report a bug, feel free to create an issue  
 * If you want to make a contribution feel free to create a fork and merge
   request
-* This site was built with the [Type on Strap](https://github.com/sylhare/Type-on-Strap) template
-  and is hosted on GitHub pages
+* This site was built on Hugo
 
