@@ -23,6 +23,7 @@ Menus:
       URL: /events
     - Name: trails
       URL: /trails
+  links:
     - Name: Facebook
       URL: https://www.facebook.com/groups/prescottareatrailrunners
     - Name: Strava
