@@ -9,5 +9,3 @@ here's what is going on this week
 Join our [Facebook Group](https://www.facebook.com/groups/1909677022694360/) for
 event details, updates, and discussion
 
-
-{% include weekly-calendar.html %}
