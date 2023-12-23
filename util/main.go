@@ -67,31 +67,26 @@ func postWeeklyCalendar() {
 
 func addCalendarItems() {
 	time.LoadLocation("America/Phoenix")
-	err := os.RemoveAll("_calendar/*")
+	err := os.RemoveAll("content/events/*")
 	if err != nil {
 		log.Fatal(err)
 	}
 	events := parseEvents()
 	for _, e := range events {
-		cal, err := os.Create("_calendar/" + e.Uid + ".md")
+		cal, err := os.Create("content/events/" + e.Uid + ".md")
 		defer cal.Close()
 		if err != nil {
 			log.Fatal(err)
 		}
 
 		layout := "post"
-		if strings.Contains(e.Description, "#boost") {
-			layout = "advertised_event"
-			e.Description = strings.ReplaceAll(e.Description, "#boost", "")
-		}
-
-		e.Description = "starting at: " + e.Start + "<br>" + "until: " + e.End + "<br>" + "<a href=\"" + e.Uri + "\">more info on FB</a><br><br>" + e.Description
 
 		log.Printf("creating event: %s: %s - %s\n", e.Start, e.Uid, e.Summary)
+
 		cal.Write([]byte(
 			fmt.Sprintf(outputFmt,
 				e.Summary,
-				time.Now().Format("2006-01-02 15:04"),
+				e.Created,
 				e.Start,
 				e.End,
 				e.Uri,
@@ -129,8 +124,9 @@ func parseEvents() []event {
 		ev.Description = expr.ReplaceAllString(ev.Description, "[$1:$2]($1:$2)")
 		expr2 := regexp.MustCompile(`^([^A-z0-9]*)(.*)`)
 		ev.Summary = expr2.ReplaceAllString(e.Summary, "$2")
-		ev.Start = e.Start.Local().Format("2006-01-02 15:04")
-		ev.End = e.End.Local().Format("2006-01-02 15:04")
+		ev.Start = e.Start.Local().Format("2006-01-02T15:04:00Z")
+		ev.End = e.End.Local().Format("2006-01-02T15:04:00Z")
+		ev.Created = e.Created.Format("2006-01-02T15:04:00Z")
 		events = append(events, ev)
 	}
 	sortByStart := func(a, b int) bool {
@@ -219,6 +215,7 @@ type event struct {
 	End         string
 	Location    string
 	Uid         string
+	Created     string
 }
 type news struct {
 }
