@@ -109,10 +109,10 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231117T202019Z
-LAST-MODIFIED:20231117T202019Z
+DTSTAMP:20240101T143804Z
+LAST-MODIFIED:20240101T143804Z
 CREATED:20231117T202019Z
-SEQUENCE:0
+SEQUENCE:3867465
 ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
 DTSTART:20240329T003000Z
 DTEND:20240329T003100Z
@@ -153,10 +153,10 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231117T202019Z
-LAST-MODIFIED:20231117T202019Z
+DTSTAMP:20240101T143804Z
+LAST-MODIFIED:20240101T143804Z
 CREATED:20231117T202019Z
-SEQUENCE:0
+SEQUENCE:3867465
 ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
 DTSTART:20240322T003000Z
 DTEND:20240322T003100Z
@@ -197,10 +197,10 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231117T202019Z
-LAST-MODIFIED:20231117T202019Z
+DTSTAMP:20240101T143804Z
+LAST-MODIFIED:20240101T143804Z
 CREATED:20231117T202019Z
-SEQUENCE:0
+SEQUENCE:3867465
 ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
 DTSTART:20240315T003000Z
 DTEND:20240315T003100Z
@@ -277,10 +277,10 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231117T202019Z
-LAST-MODIFIED:20231117T202019Z
+DTSTAMP:20240101T143804Z
+LAST-MODIFIED:20240101T143804Z
 CREATED:20231117T202019Z
-SEQUENCE:0
+SEQUENCE:3867465
 ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
 DTSTART:20240308T003000Z
 DTEND:20240308T003100Z
@@ -321,10 +321,10 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231117T202019Z
-LAST-MODIFIED:20231117T202019Z
+DTSTAMP:20240101T143804Z
+LAST-MODIFIED:20240101T143804Z
 CREATED:20231117T202019Z
-SEQUENCE:0
+SEQUENCE:3867465
 ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
 DTSTART:20240301T003000Z
 DTEND:20240301T003100Z
@@ -365,10 +365,10 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231117T202019Z
-LAST-MODIFIED:20231117T202019Z
+DTSTAMP:20240101T143804Z
+LAST-MODIFIED:20240101T143804Z
 CREATED:20231117T202019Z
-SEQUENCE:0
+SEQUENCE:3867465
 ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
 DTSTART:20240223T003000Z
 DTEND:20240223T003100Z
@@ -409,10 +409,10 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231117T202019Z
-LAST-MODIFIED:20231117T202019Z
+DTSTAMP:20240101T143804Z
+LAST-MODIFIED:20240101T143804Z
 CREATED:20231117T202019Z
-SEQUENCE:0
+SEQUENCE:3867465
 ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
 DTSTART:20240216T003000Z
 DTEND:20240216T003100Z
@@ -499,10 +499,10 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231117T202019Z
-LAST-MODIFIED:20231117T202019Z
+DTSTAMP:20240101T143804Z
+LAST-MODIFIED:20240101T143804Z
 CREATED:20231117T202019Z
-SEQUENCE:0
+SEQUENCE:3867465
 ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
 DTSTART:20240209T003000Z
 DTEND:20240209T003100Z
@@ -543,10 +543,10 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231117T202019Z
-LAST-MODIFIED:20231117T202019Z
+DTSTAMP:20240101T143804Z
+LAST-MODIFIED:20240101T143804Z
 CREATED:20231117T202019Z
-SEQUENCE:0
+SEQUENCE:3867465
 ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
 DTSTART:20240202T003000Z
 DTEND:20240202T003100Z
@@ -587,10 +587,10 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231117T202019Z
-LAST-MODIFIED:20231117T202019Z
+DTSTAMP:20240101T143804Z
+LAST-MODIFIED:20240101T143804Z
 CREATED:20231117T202019Z
-SEQUENCE:0
+SEQUENCE:3867465
 ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
 DTSTART:20240126T003000Z
 DTEND:20240126T003100Z
@@ -631,10 +631,10 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231117T202019Z
-LAST-MODIFIED:20231117T202019Z
+DTSTAMP:20240101T143804Z
+LAST-MODIFIED:20240101T143804Z
 CREATED:20231117T202019Z
-SEQUENCE:0
+SEQUENCE:3867465
 ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
 DTSTART:20240119T003000Z
 DTEND:20240119T003100Z
@@ -818,10 +818,10 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231117T202019Z
-LAST-MODIFIED:20231117T202019Z
+DTSTAMP:20240101T143804Z
+LAST-MODIFIED:20240101T143804Z
 CREATED:20231117T202019Z
-SEQUENCE:0
+SEQUENCE:3867465
 ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
 DTSTART:20240112T003000Z
 DTEND:20240112T003100Z
@@ -862,10 +862,31 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231117T202019Z
-LAST-MODIFIED:20231117T202019Z
-CREATED:20231117T202019Z
+DTSTAMP:20240101T230859Z
+LAST-MODIFIED:20240101T230859Z
+CREATED:20240101T230859Z
 SEQUENCE:0
+ORGANIZER;CN=Chris Hawthorne:MAILTO:noreply@facebookmail.com
+DTSTART:20240108T160000Z
+DTEND:20240108T190000Z
+UID:e736556571518155@facebook.com
+SUMMARY:Brownlow Mondays
+LOCATION:Brownlow lot off of Commerce
+URL:https://www.facebook.com/events/736556571518155/
+DESCRIPTION:9:00AM! Come start your week and y
+ ear off right. All paces & abiliti
+ es welcome. 10k or 5k options!\n\nht
+ tps://www.facebook.com/events/7365
+ 56571518155/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240101T143804Z
+LAST-MODIFIED:20240101T143804Z
+CREATED:20231117T202019Z
+SEQUENCE:3867465
 ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
 DTSTART:20240105T003000Z
 DTEND:20240105T003100Z
@@ -930,10 +951,10 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231117T202019Z
-LAST-MODIFIED:20231117T202019Z
+DTSTAMP:20240101T143804Z
+LAST-MODIFIED:20240101T143804Z
 CREATED:20231117T202019Z
-SEQUENCE:0
+SEQUENCE:3867465
 ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
 DTSTART:20231229T003000Z
 DTEND:20231229T003100Z
@@ -994,29 +1015,7 @@ DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
  ts/869476311385863/
 CLASS:PUBLIC
 STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231117T202019Z
-LAST-MODIFIED:20231117T202019Z
-CREATED:20231117T202019Z
-SEQUENCE:0
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20231222T003000Z
-DTEND:20231222T003100Z
-UID:e1556735201823846@facebook.com
-SUMMARY:Thursday Night Social Run/Walk
-URL:https://www.facebook.com/events/1556735191823847/?event_time_id=1556735201823846
-DESCRIPTION:Join us for a 2-4 mile run or walk
-  starting at La Planchada 217 West
-  Gurley. Stay after for food and/o
- r beverages if you like. \n\nhttps:/
- /www.facebook.com/events/155673519
- 1823847/?event_time_id=15567352018
- 23846
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
+PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20231109T140951Z
@@ -1064,7 +1063,7 @@ DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
  /events/715249293846228/
 CLASS:PUBLIC
 STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
+PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20231212T232214Z
@@ -1154,10 +1153,10 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231117T202019Z
-LAST-MODIFIED:20231117T202019Z
+DTSTAMP:20240101T143804Z
+LAST-MODIFIED:20240101T143804Z
 CREATED:20231117T202019Z
-SEQUENCE:0
+SEQUENCE:3867465
 ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
 DTSTART:20231215T003000Z
 DTEND:20231215T003100Z
@@ -1256,10 +1255,10 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231117T202019Z
-LAST-MODIFIED:20231117T202019Z
+DTSTAMP:20240101T143804Z
+LAST-MODIFIED:20240101T143804Z
 CREATED:20231117T202019Z
-SEQUENCE:0
+SEQUENCE:3867465
 ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
 DTSTART:20231208T003000Z
 DTEND:20231208T003100Z
@@ -1341,466 +1340,6 @@ DESCRIPTION:*8:00AM! Could be your last chance
  t?? I’ll put a link in the comme
  nts. 🎅🏼 \n\nhttps://www.facebo
  ok.com/events/1040774747190280/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230920T154823Z
-LAST-MODIFIED:20230920T154823Z
-CREATED:20230920T154823Z
-SEQUENCE:0
-ORGANIZER;CN=The Prescott Times:MAILTO:noreply@facebookmail.com
-DTSTART:20231203T010000Z
-DTEND:20231203T040000Z
-UID:e275313405335725@facebook.com
-SUMMARY:69th Annual Courthouse Lighting
-LOCATION:Courthouse Square\, Prescott
-URL:https://www.facebook.com/events/275313405335725/
-DESCRIPTION:This time-honored tradition is the
-  must-see event of the year!\nThe m
- usic starts at 5:30 pm\, the Ceremo
- ny at 6:00 pm\,\nfollowed by the Cou
- rthouse Lighting!\n*This is not our
-  event please contact  Crystal at 
- 928-445-2000 Ext 117\n\nhttps://www.
- facebook.com/events/27531340533572
- 5/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231130T165300Z
-LAST-MODIFIED:20231130T165300Z
-CREATED:20231130T165300Z
-SEQUENCE:0
-ORGANIZER;CN=Chris Hawthorne:MAILTO:noreply@facebookmail.com
-DTSTART:20231202T153000Z
-DTEND:20231202T183000Z
-UID:e883367476403816@facebook.com
-SUMMARY:SATR PATR at Watershed trailhead (Senator Hwy)
-URL:https://www.facebook.com/events/883367476403816/
-DESCRIPTION:Watershed trailhead is on Senator 
- Hwy\, on the left\, just a bit past 
- the entrance to Goldwater Lake. We
-  can pick a direction (62? 396?) b
- ased on consensus\, but plan on 5-6
-  miles. \n\nhttps://www.facebook.com
- /events/883367476403816/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231111T183055Z
-LAST-MODIFIED:20231111T183055Z
-CREATED:20231111T183055Z
-SEQUENCE:0
-ORGANIZER;CN=Yavapai Trails Association:MAILTO:noreply@facebookmail.com
-DTSTART:20231202T150000Z
-DTEND:20231202T190000Z
-UID:e2051704581846197@facebook.com
-SUMMARY:Trail 264 Extention 
-LOCATION:Copper Basin Rd\, Prescott\, AZ 8630
- 3\, United States
-URL:https://www.facebook.com/events/2051704581846197/
-DESCRIPTION:Join the Yavapai Trails Associatio
- n on Saturday December 2nd at 8:00
-  am to work on the Trail 264 exten
- sion project from Copper Basin Rd 
- Dispersed Site #6.\n \nPlan for the 
- day: After a safety discussion at 
- 8:00 AM\, we’ll hike out and get 
- started building trail. We’ll ha
- ve our break at 10:00\, and then be
-  back at the vehicles by 12:00.\n \n
- Directions to Copper Basin Road Di
- spersed Site #6 from downtown Pres
- cott: Head south on South Montezum
- a St (which turns into Highway 89)
-  for 1.1 miles. Turn right at the 
- traffic light onto Copper Basin Rd
- \, and continue for 5.5 miles to th
- e dispersed site. Coordinates for 
- site #6: 34.498860\, -112.540767. P
- arking is free.\n \nIf you have them
- \, please bring your own hard hat/b
- ike helmet\, gloves\, and eye protec
- tion. If you don’t have them\, we
-  are able to provide those items. 
- As always\, make sure to wear long 
- sleeve shirts\, pants\, closed-toe s
- hoes\, and bring snacks/water for t
- he morning. Please RSVP to yta.tra
- ilwork@gmail.com. \n\nhttps://www.fa
- cebook.com/events/2051704581846197
- /
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231117T202019Z
-LAST-MODIFIED:20231117T202019Z
-CREATED:20231117T202019Z
-SEQUENCE:0
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20231201T003000Z
-DTEND:20231201T003100Z
-UID:e1556735231823843@facebook.com
-SUMMARY:Thursday Night Social Run/Walk
-URL:https://www.facebook.com/events/1556735191823847/?event_time_id=1556735231823843
-DESCRIPTION:Join us for a 2-4 mile run or walk
-  starting at La Planchada 217 West
-  Gurley. Stay after for food and/o
- r beverages if you like. \n\nhttps:/
- /www.facebook.com/events/155673519
- 1823847/?event_time_id=15567352318
- 23843
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231115T174949Z
-LAST-MODIFIED:20231115T174949Z
-CREATED:20231115T174859Z
-SEQUENCE:50
-ORGANIZER;CN=Andrew Baker:MAILTO:bakerag1@gmail.com
-DTSTART:20231129T180000Z
-DTEND:20231129T210000Z
-UID:e364353702628738@facebook.com
-SUMMARY:just testing something, sorry
-URL:https://www.facebook.com/events/364353702628738/
-DESCRIPTION:https://www.facebook.com/events/36
- 4353702628738/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231109T140951Z
-LAST-MODIFIED:20231109T140951Z
-CREATED:20231109T140737Z
-SEQUENCE:134
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20231129T140000Z
-DTEND:20231129T153000Z
-UID:e649324620688877@facebook.com
-SUMMARY:Vert Club
-LOCATION:Thumb Butte Parking Lot
-URL:https://www.facebook.com/events/649323204022352/?event_time_id=649324620688877
-DESCRIPTION:Run/walk from the Thumb Butte Park
- ing Lot to the top of the trail as
-  many times as you want.  Free par
- king on Wednesday's.\n\nhttps://www.
- facebook.com/events/64932320402235
- 2/?event_time_id=649324620688877
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231102T224915Z
-LAST-MODIFIED:20231102T224915Z
-CREATED:20231024T211825Z
-SEQUENCE:783050
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20231129T003000Z
-DTEND:20231129T033000Z
-UID:e1344304829812096@facebook.com
-SUMMARY:Tuesday Group Run- Granite Basin-Brandon leading!
-URL:https://www.facebook.com/events/1344304829812096/
-DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
-  will meet at the cattleguard (lin
- k here https://goo.gl/maps/CnyTC6T
- oppAjWTcn6) at 5:30pm. \n\nExpect 5-
- 6 miles\, all downhill (except for 
- the uphills). No drop run (we stop
-  for everyone at every intersectio
- n). \n\nBring a headlamp!\n\n\nhttps://
- www.facebook.com/events/1344304829
- 812096/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231030T144543Z
-LAST-MODIFIED:20231030T144543Z
-CREATED:20231026T021121Z
-SEQUENCE:390862
-ORGANIZER;CN=Jeffrey S. Auman:MAILTO:aumanjeffrey@gmail.com
-DTSTART:20231125T160000Z
-DTEND:20231125T200000Z
-UID:e1008397293720574@facebook.com
-SUMMARY:PATR Social Run - Pizza Party - Fundraiser
-LOCATION:White Rock Trailhead Parking Lot
-URL:https://www.facebook.com/events/1008397293720574/
-DESCRIPTION:EVERYONE is invited to a Socail Ru
- n on Saturday\, November 25th @ 9:0
- 0am @ White Rock Trailhead Parking
-  Lot! There will be a  3-4 mile hi
- ke\, 4-6 mile run and a longer run 
- than that\, hopefully led by a few 
- of the 2024 Cocodona Runners with 
- a Charity Bib. Stephanie Rosebaugh
- \, Harley Guy & Thomas Arnold are s
- cheduled to attend! Im pretty sure
-  that a couple of past runners wil
- l be in attendance as well. Come o
- n out and be a Coco Crazy like me.
-  After the runs there will be a PI
- ZZA PARTY with soda\, dessert & mus
- ic provided. There will also be a 
- table set up for your used gear th
- at you once loved and now no longe
- r need and feel good about giving 
- away. Any leftover gear will be do
- nated to a local charity.\nATTENTIO
- N! There will also be an opportuni
- ty to donate to Stephanie\, Thomas 
- & Harley to support their charitie
- s for Cocodona. As always\, there i
- s absolutely NO pressure to contri
- bute! Donate if you feel so inclin
- ed to do so. \n\nThanks everyone! Pl
- ease let  us know if you plan to a
- ttend so that we can have enough p
- izza for everyone! Hope to see you
-  there!\nIf you are interested in l
- ending a hand\, message me. TIA\n\nht
- tps://www.facebook.com/events/1008
- 397293720574/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231109T140951Z
-LAST-MODIFIED:20231109T140951Z
-CREATED:20231109T140737Z
-SEQUENCE:134
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20231122T140000Z
-DTEND:20231122T153000Z
-UID:e649324594022213@facebook.com
-SUMMARY:Vert Club
-LOCATION:Thumb Butte Parking Lot
-URL:https://www.facebook.com/events/649323204022352/?event_time_id=649324594022213
-DESCRIPTION:Run/walk from the Thumb Butte Park
- ing Lot to the top of the trail as
-  many times as you want.  Free par
- king on Wednesday's.\n\nhttps://www.
- facebook.com/events/64932320402235
- 2/?event_time_id=649324594022213
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231024T221435Z
-LAST-MODIFIED:20231024T221435Z
-CREATED:20231024T211510Z
-SEQUENCE:3565
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20231122T003000Z
-DTEND:20231122T033000Z
-UID:e1072800056941038@facebook.com
-SUMMARY:Tuesday Group Run- Willow Lake-Brandon leading!
-URL:https://www.facebook.com/events/1072800056941038/
-DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
-  will meet at the Dog Park parking
-  lot (link here https://goo.gl/map
- s/ZCLmd4fQPGkyXCHP7) at 5:30pm. Pl
- an for 5 miles(ish).\n\nNo drop run 
- (we stop for everyone at every int
- ersection).\n\nBring a headlamp!\n\nht
- tps://www.facebook.com/events/1072
- 800056941038/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231113T224955Z
-LAST-MODIFIED:20231113T224955Z
-CREATED:20231113T224955Z
-SEQUENCE:0
-ORGANIZER;CN=Chris Hawthorne:MAILTO:noreply@facebookmail.com
-DTSTART:20231120T143000Z
-DTEND:20231120T173000Z
-UID:e828318245642575@facebook.com
-SUMMARY:Brownlow Mondays
-LOCATION:Brownlow lot off of Commerce
-URL:https://www.facebook.com/events/828318245642575/
-DESCRIPTION:* moving to 7:30! \nStart the week 
- off right 😊We’ll do the 10k l
- oop\; any pace or ability welcome\, 
- including hikers! Great training f
- or December’s Santa Run 👊🏼
-  🎅🏼 \n\nhttps://www.facebook.c
- om/events/828318245642575/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231117T220120Z
-LAST-MODIFIED:20231117T220120Z
-CREATED:20230825T235335Z
-SEQUENCE:7250865
-ORGANIZER;CN=Black Canyon Ultras:MAILTO:noreply@facebookmail.com
-DTSTART:20231119T150000Z
-DTEND:20231119T180000Z
-UID:e245298674580570@facebook.com
-SUMMARY:Black Canyon Training Run #1
-LOCATION:Big Bug Trailhead\, Black Canyon Tr
- ail
-URL:https://www.facebook.com/events/245298674580570/
-DESCRIPTION:This will be the first of three tr
- aining runs leading up to the 2024
-  Black Canyon Ultras. We will be b
- reaking up the 100K course into th
- ree sections. Each run will be min
- imally supported\, minimally marked
-  and point to point. We will have 
- shorter options at each. Here is i
- nformation for those of you wantin
- g to join on this first training r
- un:\n\nDate:\nNovember 19\, 2023\n\nDist
- ance:\nMile 0 – Big Bug Trailhead
- \nMile 8 – Antelope Mesa (Water)\n
- Mile 13 – Hidden Treasure Mine T
- H \nMile 20ish – Bumble Bee (Fini
- sh) \n\nTime:\n7:00am Meet just North
-  of the bridge at the trailhead in
-  Bumble Bee to carpool to start or
-  7:45am Meet at Big Bug Trailhead\n
- \nThe run will start approximately 
- at 8:00am from the Big Bug Trailhe
- ad off HWY 69. This is an establis
- hed Trailhead of the BCT just west
-  of Mayer HS. It will have restroo
- ms and plenty of parking. \n\nDrivin
- g Directions:\nDirections to Bumble
-  Bee (end of run\, park here to car
- pool to run start):\n1. Drive north
-  from Phoenix on the I-17 Freeway\n
- 2. Take exit #248 towards Bumble B
- ee / Crown King\n3. Turn left and d
- rive 2.1 miles on pavement (road d
- escends downhill)\n4. Turn right at
-  the bottom where it turns to dirt
-  and take Crown King Road for 3.0 
- miles and park just past the bridg
- e on the left hand side of the roa
- d.\n\nDirections to Big Bug from Bum
- ble Bee (we will carpool as a grou
- p):\n1. Drive north on Crown King R
- oad for 5.6 miles\n2. Turn right on
- to Forest Road 259 and go 1.3 mile
- s\n3. Turn right staying on Forest 
- Road 259 and go 2.8 miles\n4. Conti
- nue straight onto Antelope Creek R
- oad at town of Cordes and go 2.8 m
- iles\n5. Take right onto Duffers Dr
- ive and then go 1.3 miles\n6. Turn 
- left onto Spring Lane and go 0.6 m
- iles through the town of Spring Va
- lley\n7. Turn left onto HWY 69 and 
- the Trailhead will be just west of
-  town on the left hand side. \n\nFor
- mat:\nThis is a no fee\, limited aid
- \, limited course marking training 
- run. You must plan to be self suff
- icient in terms of navigation\, per
- sonal safety and aid between stati
- ons. We will drop water at the Ant
- elope Mesa Mile 8 and have food an
- d water at Hidden Treasure Mine TH
-  at mile 13ish. Please study the m
- aps in this post and follow signag
- e for the Black Canyon Trail.\n\nMar
- kings:\nThe course on principle wil
- l be unmarked. There is signage fo
- r the Black Canyon Trail at most q
- uestionable junctions\, but we reco
- mmend studying and printing maps t
- o bring with you.\n\n\nPost Run Gathe
- ring:\nBring a camp chair\, some sna
- cks and BYOB if you enjoy a post-r
- un Sunday Funday at the trailhead.
- \n\nhttps://www.facebook.com/events/
- 245298674580570/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231027T143225Z
-LAST-MODIFIED:20231027T143225Z
-CREATED:20231027T143225Z
-SEQUENCE:0
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20231116T123000Z
-DTEND:20231116T153000Z
-UID:e330437159634990@facebook.com
-SUMMARY:Social Run/Walk
-LOCATION:La Planchada
-URL:https://www.facebook.com/events/330437159634990/
-DESCRIPTION:Run/walk 2-4 miles followed by soc
- ializing \n\nhttps://www.facebook.co
- m/events/330437159634990/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231109T140951Z
-LAST-MODIFIED:20231109T140951Z
-CREATED:20231109T140737Z
-SEQUENCE:134
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20231115T140000Z
-DTEND:20231115T153000Z
-UID:e649324557355550@facebook.com
-SUMMARY:Vert Club
-LOCATION:Thumb Butte Parking Lot
-URL:https://www.facebook.com/events/649323204022352/?event_time_id=649324557355550
-DESCRIPTION:Run/walk from the Thumb Butte Park
- ing Lot to the top of the trail as
-  many times as you want.  Free par
- king on Wednesday's.\n\nhttps://www.
- facebook.com/events/64932320402235
- 2/?event_time_id=649324557355550
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231024T221526Z
-LAST-MODIFIED:20231024T221526Z
-CREATED:20231024T211416Z
-SEQUENCE:3670
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20231115T003000Z
-DTEND:20231115T033000Z
-UID:e1315119165799209@facebook.com
-SUMMARY:Tuesday Group Run- White Spar-Jon leading!
-URL:https://www.facebook.com/events/1315119165799209/
-DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
-  will meet at the White Spar Parki
- ng lot (link here https://goo.gl/m
- aps/nX4JGH75u4T7R15g7) at 5:30 PM.
-  Expect 4-6 miles. No drop run (we
-  stop for everyone at every inters
- ection). \n\nBe careful\, this is NOT
-  the usual white ROCK parking lot\,
-  this is white SPAR. \n\nBring a hea
- dlamp!\n\n\n\nhttps://www.facebook.com
- /events/1315119165799209/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
