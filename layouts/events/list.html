@@ -12,7 +12,9 @@ event list updated: {{  time.Now | time.Format "Jan 02, 2006" }}
 {{ $pages := collections.Sort .Data.Pages "Params.startdate"}}
 {{ range $pages -}}
   {{ $start := (time.AsTime .Params.startdate) }}
-  {{ if lt (.Params.startdate) time.Now }}
+  {{ $minus1d := time.ParseDuration "-24h"}}
+  {{ $now := (time.Now.Add $minus1d) }}
+  {{ if ($start.After $now) }}
   <li style="padding:5;list-style-type:none">
     <span><time class="pull-right post-list" datetime="2006-01-02T15:04:05Z">{{ $start.Format "Monday, Jan 2 3:04pm"}}</time> <a href="{{ .Permalink }}">{{ .Title }}</a> </span>
   </li>
