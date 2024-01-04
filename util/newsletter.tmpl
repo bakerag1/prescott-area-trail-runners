@@ -1,5 +1,6 @@
 ---
 layout: post
+date: {{ .Config.Now }}
 title: PATR Chatter {{.Config.Month}} {{.Config.Year}}
 feature-img: "assets/img/big-trail.jpg"
 ---
@@ -53,7 +54,7 @@ feature-img: "assets/img/big-trail.jpg"
             <ul style="list-style-type: none;" aria-label="Events">
                 {{range .MonthInfo.Events}}
                     <li style="margin: 10px;">
-                        <summary>{{.Start}} - <a href="https://prescottareatrailrunners.com/calendar/{{.Uid}}">{{.Summary}}</a>
+                        <summary>{{.Start}} - <a href="https://prescottareatrailrunners.com/events/{{.Uid}}">{{.Summary}}</a>
                         <br>
                         <p style="padding-left: 12pt;">
                             {{ printf "%.400s" .Description}}

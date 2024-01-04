@@ -47,7 +47,7 @@ func postWeeklyCalendar() {
 	newname := time.Now().Format("2006-01-02") + "-this-week.md"
 	title := time.Now().Format("Jan 2, 2006")
 	log.Printf("creating post %s", newname)
-	out, err := os.Create("_posts/" + newname)
+	out, err := os.Create("content/post/" + newname)
 	if err != nil {
 		log.Fatal("unable to create post", err)
 	}
@@ -159,7 +159,8 @@ func newsletter() {
 	cfg.getConf()
 	cfg.Month = time.Now().Local().Format("January")
 	cfg.Year = time.Now().Local().Format("2006")
-	f, err := os.Create("_posts/" + time.Now().Local().Format("2006-01-02") + "-newsletter.html")
+	cfg.Now = time.Now().UTC().Format(time.RFC3339)
+	f, err := os.Create("content/post/" + time.Now().Local().Format("2006-01-02") + "-newsletter.html")
 	if err != nil {
 		panic(err)
 	}
@@ -203,6 +204,7 @@ type config struct {
 	Links []link `yaml:"links"`
 	Month string
 	Year  string
+	Now   string
 }
 type monthData struct {
 	Events []event
