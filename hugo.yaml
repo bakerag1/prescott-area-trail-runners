@@ -13,7 +13,7 @@ params:
   themeColor: "theme-base-09"
   logo: https://prescottareatrailrunners.com/assets/img/patr-logo.png
   meta:
-    favicon: false
+    favicon: true
 
 Menus:
   main:
