@@ -7,13 +7,47 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-DTSTAMP:20231020T214132Z
-LAST-MODIFIED:20231020T214132Z
-CREATED:20231020T214132Z
-SEQUENCE:0
+DTSTAMP:20240104T170748Z
+LAST-MODIFIED:20240104T170748Z
+CREATED:20240104T170715Z
+SEQUENCE:33
 ORGANIZER;CN=Aravaipa Running:MAILTO:noreply@facebookmail.com
-DTSTART:20240608T140000Z
-DTEND:20240608T170000Z
+DTSTART:20241026T130000Z
+DTEND:20241026T160000Z
+UID:e1994869350883998@facebook.com
+SUMMARY:The Javelina Jundred 
+LOCATION:McDowell Mountain Regional Park
+URL:https://www.facebook.com/events/1994869350883998/
+DESCRIPTION:It’s the original costumed ultra
+  trail run party in the desert…\n
+ \nIt’s the world famous\, Javelina
+  Jundred presented by Hoka! \n\nThe 
+ race is held on a 20 mile rolling 
+ single track trail course comprise
+ d mostly of the Pemberton Trail in
+  beautiful McDowell Mountain Regio
+ nal Park near Fountain Hills\, Ariz
+ ona. Runners will take on 100 mile
+ s\, 100k or a nighttime 31k dubbed 
+ “Jackass Night Trail” on a loo
+ ped course in the gorgeous Sonoran
+  Desert. \n\nCome dressed in your be
+ st and be ready to party at the on
+ e and only\, Javelina Jundred!\n\nhtt
+ ps://www.facebook.com/events/19948
+ 69350883998/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240104T160155Z
+LAST-MODIFIED:20240104T160155Z
+CREATED:20231020T214132Z
+SEQUENCE:6546023
+ORGANIZER;CN=Aravaipa Running:MAILTO:noreply@facebookmail.com
+DTSTART:20240622T140000Z
+DTEND:20240622T170000Z
 UID:e706154844738936@facebook.com
 SUMMARY:Flagstaff Extreme Big Pine Trail Runs
 LOCATION:Fort Tuthill County Park Flagstaff
@@ -87,6 +121,46 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20230630T223435Z
+LAST-MODIFIED:20230630T223435Z
+CREATED:20230630T223435Z
+SEQUENCE:0
+ORGANIZER;CN=Aravaipa Running:MAILTO:noreply@facebookmail.com
+DTSTART:20240407T140000Z
+DTEND:20240407T170000Z
+UID:e279988737846056@facebook.com
+SUMMARY:Dam Good Run 
+LOCATION:Lake Pleasant Regional Park
+URL:https://www.facebook.com/events/279988737846056/
+DESCRIPTION:It’s always a DAM good time at D
+ am Good Run! \n\nJoin us Sunday\, Apr
+ il 3rd at beautiful Lake Pleasant 
+ for the 19th annual Dam Good Run/W
+ alk/Hike. \n\nThere’s a distance o
+ ption for everyone\, and all except
+  for the 2 mile runners get to cro
+ ss the New Waddell Dam! \n\nEnjoy ru
+ gged single track\, challenging cli
+ mbs and beautiful lake vistas in t
+ he 40k\, 26k\, and 13k! The 4 mile a
+ nd 2 mile distances utilize the ne
+ wly added\, Roadrunner Trail\, that 
+ takes runners right along the lake
+ side. \n\nAll courses are fast\, fun\,
+  and finish with a straight shot i
+ nto the refreshing waters of Lake 
+ Pleasant if you’re looking for a
+ n immediate cool down after your r
+ ace! \n\nSo bring your kayaks\, paddl
+ e boards and picnics and make it a
+  “racing lake day” at Dam Good
+  Run on April 3rd!\n\nhttps://www.fa
+ cebook.com/events/279988737846056/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20231109T140951Z
 LAST-MODIFIED:20231109T140951Z
 CREATED:20231109T140737Z
@@ -148,6 +222,38 @@ DESCRIPTION:Run/walk from the Thumb Butte Park
  king on Wednesday's.\n\nhttps://www.
  facebook.com/events/64932320402235
  2/?event_time_id=649324577355548
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230630T220300Z
+LAST-MODIFIED:20230630T220300Z
+CREATED:20230630T220300Z
+SEQUENCE:0
+ORGANIZER;CN=Aravaipa Running:MAILTO:noreply@facebookmail.com
+DTSTART:20240323T130000Z
+DTEND:20240323T160000Z
+UID:e1935722730119086@facebook.com
+SUMMARY:Crown King Scramble 
+LOCATION:Lake Pleasant Regional Park
+URL:https://www.facebook.com/events/1935722730119086/
+DESCRIPTION:After all\, it’s only “one clim
+ b”! \n\nJoin us on March 23rd for 
+ the 32nd running of the Crown King
+  Scramble 50k! \n\nFrom 'spines to p
+ ines' start lakeside and run throu
+ gh the heart of the Sonoran Desert
+  to climb to the cool pines of the
+  Bradshaw Mountains.\n\nStay and cel
+ ebrate your victory after you cros
+ s the finish line in the historic 
+ and quaint town of Crown King! It’
+ s a race like no other and a day y
+ ou’ll never forget. \n\nWe hope to
+  see you at the saloon this spring
+ !\n\nhttps://www.facebook.com/events
+ /1935722730119086/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -241,10 +347,37 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231213T032453Z
-LAST-MODIFIED:20231213T032453Z
-CREATED:20231213T032453Z
+DTSTAMP:20240104T211339Z
+LAST-MODIFIED:20240104T211339Z
+CREATED:20240104T211339Z
 SEQUENCE:0
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20240313T003000Z
+DTEND:20240313T033000Z
+UID:e3593634150916981@facebook.com
+SUMMARY:Tuesday Group Run- Sundog Ranch Rd Area
+LOCATION:34.57229361759619\, -112.4364327781
+ 496
+URL:https://www.facebook.com/events/3593634150916981/
+DESCRIPTION:No drop group run (we stop at ever
+ y intersection and wait for everyo
+ ne to join up before running again
+ ). This is an out and back. \n\nExpe
+ ct 4-6 mi\n\nBring a headlamp.\n\nDriv
+ e up 89 away from Prescott toward 
+ Chino\, turn RIGHT at the light acr
+ oss from Cliff Rose/Rosser St. \n\n\n
+ https://www.facebook.com/events/35
+ 93634150916981/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240107T015429Z
+LAST-MODIFIED:20240107T015429Z
+CREATED:20231213T032453Z
+SEQUENCE:2154576
 ORGANIZER;CN=Hope_Thewildburroplace:MAILTO:noreply@facebookmail.com
 DTSTART:20240309T150000Z
 DTEND:20240310T230000Z
@@ -270,8 +403,12 @@ DESCRIPTION:This is a wonderful community even
  ues who have donkeys to rent! You 
  can also just come watch and enjoy
   being a part of the burro communi
- ty! \n\nhttps://www.facebook.com/eve
- nts/743370304486713/
+ ty! \n\nRun Sign Up Link and Event I
+ nformation:\n\nhttps://runsignup.com
+ /Race/AZ/BlackCanyonCity/BlackCany
+ onDonkeyDerby2024\n\n\n\nhttps://www.f
+ acebook.com/events/743370304486713
+ /
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -321,6 +458,32 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20240104T210608Z
+LAST-MODIFIED:20240104T210608Z
+CREATED:20240104T210608Z
+SEQUENCE:0
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20240306T003000Z
+DTEND:20240306T033000Z
+UID:e7723211927693962@facebook.com
+SUMMARY:Tuesday Group Run- White Spar
+URL:https://www.facebook.com/events/7723211927693962/
+DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
+  will meet at the White Spar Parki
+ ng lot (link here https://goo.gl/m
+ aps/nX4JGH75u4T7R15g7) at 5:30 PM.
+  Expect 4-6 miles. No drop run (we
+  stop for everyone at every inters
+ ection). \n\nBe careful\, this is NOT
+  the usual white ROCK parking lot\,
+  this is white SPAR. \n\nBring a hea
+ dlamp!\n\n\n\nhttps://www.facebook.com
+ /events/7723211927693962/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20240101T143804Z
 LAST-MODIFIED:20240101T143804Z
 CREATED:20231117T202019Z
@@ -360,6 +523,34 @@ DESCRIPTION:Run/walk from the Thumb Butte Park
  king on Wednesday's.\n\nhttps://www.
  facebook.com/events/64932320402235
  2/?event_time_id=649324580688881
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240104T210709Z
+LAST-MODIFIED:20240104T210709Z
+CREATED:20240104T210501Z
+SEQUENCE:128
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20240228T003000Z
+DTEND:20240228T033000Z
+UID:e1612215029546372@facebook.com
+SUMMARY:Tuesday Group Run -Watson Dam Flume Trailhead
+LOCATION:34.60485585428271\, -112.4210594090
+ 2127
+URL:https://www.facebook.com/events/1612215029546372/
+DESCRIPTION:No drop group run (we stop at ever
+ y intersection and join up before 
+ running again). \n\nBring a headlamp
+ .\n\nExpect 5ish miles. (no waterfal
+ ls guaranteed- this is an AZ water
+ fall after all!) \n\nDrive up Hwy 89
+ \, turn right on E Granite Dells Rd
+ \, trailhead on the right. \n\n34.604
+ 156489351595\, -112.42166632364031\n
+ \nhttps://www.facebook.com/events/1
+ 612215029546372/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -409,6 +600,37 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20240104T205851Z
+LAST-MODIFIED:20240104T205851Z
+CREATED:20240104T205851Z
+SEQUENCE:0
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20240221T003000Z
+DTEND:20240221T033000Z
+UID:e1315443739162164@facebook.com
+SUMMARY:Tuesday Group Run- LOWER Spence Basin
+LOCATION:https://maps.apple.com/?ll=34.5819
+ 04\,-112.548972&q=Dropped%20Pin&_ex
+ t=EiYpaevoe+dJQUAxxHG9OnsjXMA558AO
+ 2A1LQUBB5GbvdsgiXMBQBA%3D%3D&t=h
+URL:https://www.facebook.com/events/1315443739162164/
+DESCRIPTION:Will meet at LOWER Spence Springs 
+ parking lot: \n\nGPS here https://ma
+ ps.app.goo.gl/tvsxZcN1fCTD7FMV8?g_
+ st=ic\n\nPLEASE READ THIS DESCRIPTIO
+ N. \nWe will meet at Lower Parking 
+ lot along Iron Springs\, where Spen
+ ce Springs Rd meets Iron Springs (
+ trailhead). 5:30pm. Expect 4-6 mil
+ es. No drop run (we stop for every
+ one at every intersection). \n\nBrin
+ g a headlamp!\n\nhttps://www.faceboo
+ k.com/events/1315443739162164/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20240101T143804Z
 LAST-MODIFIED:20240101T143804Z
 CREATED:20231117T202019Z
@@ -448,6 +670,46 @@ DESCRIPTION:Run/walk from the Thumb Butte Park
  king on Wednesday's.\n\nhttps://www.
  facebook.com/events/64932320402235
  2/?event_time_id=649324584022214
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240104T205528Z
+LAST-MODIFIED:20240104T205528Z
+CREATED:20240104T205440Z
+SEQUENCE:48
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20240214T003000Z
+DTEND:20240214T033000Z
+UID:e1051703139369963@facebook.com
+SUMMARY:Tuesday Group Run- Salida Gulch 
+URL:https://www.facebook.com/events/1051703139369963/
+DESCRIPTION:No drop group run (we stop at ever
+ y intersection and wait for everyo
+ ne to join before running again). 
+ Expect 4-6 miles \n\nBring a headlam
+ p. \n\n34.541322138945276\, -112.3813
+ 1895761529\n\n***This trailhead can 
+ be confusing to find and GPS is so
+ metimes wrong!! Follow the route b
+ elow from FS!***\n\nDirections from 
+ FS:\nFrom downtown Prescott\, travel
+  east on Hwy 69 to Walker Road. Tu
+ rn right and go 1.2 miles to the s
+ ign for Lynx Creek Ruin. Turn left
+  onto Lynx Creek Road (FR 9401) ju
+ st after the sign. Travel 0.8 mile
+ s past the Day Use area\, bearing r
+ ight down the hill and continuing 
+ to the end of the road. There is a
+  large improved lot with ample par
+ king for both single vehicles and 
+ horse trailers. Road conditions ar
+ e paved\, then graded dirt and suit
+ able for all vehicles.\n\nhttps://ww
+ w.facebook.com/events/105170313936
+ 9963/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -543,6 +805,30 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20240104T205628Z
+LAST-MODIFIED:20240104T205628Z
+CREATED:20240104T205628Z
+SEQUENCE:0
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20240207T003000Z
+DTEND:20240207T033000Z
+UID:e690697859937167@facebook.com
+SUMMARY:Tuesday Group Run- White Rock
+URL:https://www.facebook.com/events/690697859937167/
+DESCRIPTION:We will meet at White Rock Parking
+  lot (link here https://goo.gl/map
+ s/YN2uMvQnyQWTM9JK7) at 5:30pm. \n\n
+ No-drop group run of approximately
+  5 miles. No-drop means we stop at
+  every intersection and wait for e
+ veryone. \n\nBring a headlamp!\n\n\nhtt
+ ps://www.facebook.com/events/69069
+ 7859937167/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20240101T143804Z
 LAST-MODIFIED:20240101T143804Z
 CREATED:20231117T202019Z
@@ -582,6 +868,29 @@ DESCRIPTION:Run/walk from the Thumb Butte Park
  king on Wednesday's.\n\nhttps://www.
  facebook.com/events/64932320402235
  2/?event_time_id=649324560688883
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240104T204905Z
+LAST-MODIFIED:20240104T204905Z
+CREATED:20240104T204905Z
+SEQUENCE:0
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20240131T003000Z
+DTEND:20240131T033000Z
+UID:e926327501699289@facebook.com
+SUMMARY:Tuesday Group Run- Peavine 
+URL:https://www.facebook.com/events/926327501699289/
+DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
+  will meet at the Peavine Trailhea
+ d by the Humane Society at 5:30pm.
+  No drop run (we stop for everyone
+  at every intersection). \n\nExpect 
+ 5-6 miles.\n\nBring a headlamp :)\n\n\n
+ \n\n\n\n\nhttps://www.facebook.com/even
+ ts/926327501699289/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -631,6 +940,28 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20240104T204323Z
+LAST-MODIFIED:20240104T204323Z
+CREATED:20240104T204323Z
+SEQUENCE:0
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20240124T003000Z
+DTEND:20240124T033000Z
+UID:e1498674864315452@facebook.com
+SUMMARY:Tuesday Group Run- Ranch 62 Trailhead
+URL:https://www.facebook.com/events/1498674864315452/
+DESCRIPTION:No drop group run (we stop at ever
+ y intersection and wait for everyo
+ ne to join together again). Expect
+  5ish miles. Bring a head lamp :)\n
+ \nhttps://maps.app.goo.gl/z4HLncfjM
+ vfpKqcg8?g_st=ic\n\nhttps://www.face
+ book.com/events/1498674864315452/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20240101T143804Z
 LAST-MODIFIED:20240101T143804Z
 CREATED:20231117T202019Z
@@ -670,6 +1001,58 @@ DESCRIPTION:Run/walk from the Thumb Butte Park
  king on Wednesday's.\n\nhttps://www.
  facebook.com/events/64932320402235
  2/?event_time_id=649324607355545
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240104T203747Z
+LAST-MODIFIED:20240104T203747Z
+CREATED:20240104T203747Z
+SEQUENCE:0
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20240117T003000Z
+DTEND:20240117T033000Z
+UID:e2032259107160364@facebook.com
+SUMMARY:Tuesday Group Run- Granite Basin
+URL:https://www.facebook.com/events/2032259107160364/
+DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
+  will meet at the cattleguard (lin
+ k here https://goo.gl/maps/CnyTC6T
+ oppAjWTcn6) at 5:30pm. \n\nExpect 5-
+ 6 miles\, all downhill (except for 
+ the uphills). No drop run (we stop
+  for everyone at every intersectio
+ n). \n\nBring a headlamp!\n\n\nhttps://
+ www.facebook.com/events/2032259107
+ 160364/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240110T033759Z
+LAST-MODIFIED:20240110T033759Z
+CREATED:20240110T032434Z
+SEQUENCE:805
+ORGANIZER;CN=Erin Mann:MAILTO:noreply@facebookmail.com
+DTSTART:20240114T160000Z
+DTEND:20240114T190000Z
+UID:e3404800756478748@facebook.com
+SUMMARY:Sunday Group Run - White Spar
+URL:https://www.facebook.com/events/3404800756478748/
+DESCRIPTION:Meet at White Spar for an 8ish mil
+ e loop around Goldwater White Spar
+  Campground\n(928) 443-8000\nhttps:/
+ /maps.app.goo.gl/zWW2Q4P3WuZDA2Uq7
+ ?g_st=ic\n\nFor anyone who wants to 
+ run on Sunday (1/14)\, I’ll be at
+  White Spar at 9am to run my favor
+ ite loop around Goldwater (I’ll 
+ create an event). No drop of cours
+ e and everyone is welcome!\n\nhttps:
+ //www.facebook.com/events/34048007
+ 56478748/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -1064,284 +1447,5 @@ DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231212T232214Z
-LAST-MODIFIED:20231212T232214Z
-CREATED:20230826T000331Z
-SEQUENCE:9415123
-ORGANIZER;CN=Black Canyon Ultras:MAILTO:noreply@facebookmail.com
-DTSTART:20231217T140000Z
-DTEND:20231217T170000Z
-UID:e1671502210018718@facebook.com
-SUMMARY:Black Canyon training run #2 
-LOCATION:Bumble Bee Trailhead - BCT
-URL:https://www.facebook.com/events/1671502210018718/
-DESCRIPTION:Sunday\, December 17 will be the se
- cond of three training runs leadin
- g up to the 2024 Black Canyon Ultr
- as. Each run will be minimally sup
- ported\, minimally marked and point
-  to point. We will have shorter op
- tions at each. Here is information
-  for those of you wanting to join 
- on this first training run:\n\nDate:
- \nSunday\, December 17\, 2023.\n\nDista
- nce:\nMile 0 – Bumble Bee\nMile 4.
- 5 – Gloriana Mine TH (we may hav
- e water here)\nMile 12.8 – Soap C
- reek (Aid)\nMile 18.0 – Black Can
- yon City TH (Finish)\n\nTime:\n7:00am
-  Meet at Black Canyon City TH.\nor 
- 7:30am Meet at Bumble Bee.\n\nThe ru
- n will start at approximately 7:45
- -8:00 am from Bumble Bee.\n\nDriving
-  Directions:\n\nDirections to Black 
- Canyon City TH (end of run\, park h
- ere to carpool to Bumble Bee)\n1. T
- ake exit 242 off the I-17 towards 
- Rock Springs / Black Canyon City\n2
- . Turn left at the stop sign onto 
- Velda Road Road\n3. Turn right at t
- he next stop sign onto the Old Bla
- ck Canyon Highway and then an imme
- diate left onto Warner Road toward
- s the Black Canyon City Trailhead\n
- 4. Follow Warner Road for 0.3 mile
- s to the trailhead and aid station
- . There is a restroom located at t
- his trailhead. There are also dini
- ng options and a General Store in 
- Rock Springs and some more options
-  a couple miles north on the Old B
- lack Canyon Highway in Black Canyo
- n City as well as a gas station.\n\n
- Directions to Bumble Bee (start of
-  run):\n1. Drive north from Phoenix
-  on the I-17 Freeway\n2. Take exit 
- #248 towards Bumble Bee / Crown Ki
- ng\n3. Turn left and drive 2.1 mile
- s on pavement (road descends downh
- ill)\n4. Turn right at the bottom w
- here it turns to dirt and take Cro
- wn King Road for 3.0 miles and par
- k just past the bridge on the left
-  hand side of the road.\n\nFormat:\nT
- his is a no fee\, limited aid\, limi
- ted course marking training run. Y
- ou must plan to be self sufficient
-  in terms of navigation\, personal 
- safety and aid between stations. W
- e may drop water at the Gloriana M
- ine TH at mile 4.5 and have water 
- and food at mile 12.8 (Soap Creek)
- . Please study the maps in this po
- st and follow signage for the Blac
- k Canyon Trail.\n\nMarkings:\nThe cou
- rse on principle will be unmarked.
-  There is signage for the Black Ca
- nyon Trail at most questionable ju
- nctions\, but we recommend studying
-  and printing maps to bring with y
- ou. \n\nPost Run Gathering:\nBring a 
- camp chair\, some snacks and BYOB i
- f you enjoy a Sunday Funday Post-R
- un hang.\n\nhttps://www.facebook.com
- /events/1671502210018718/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240101T143804Z
-LAST-MODIFIED:20240101T143804Z
-CREATED:20231117T202019Z
-SEQUENCE:3867465
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20231215T003000Z
-DTEND:20231215T003100Z
-UID:e1556735235157176@facebook.com
-SUMMARY:Thursday Night Social Run/Walk
-URL:https://www.facebook.com/events/1556735191823847/?event_time_id=1556735235157176
-DESCRIPTION:Join us for a 2-4 mile run or walk
-  starting at La Planchada 217 West
-  Gurley. Stay after for food and/o
- r beverages if you like. \n\nhttps:/
- /www.facebook.com/events/155673519
- 1823847/?event_time_id=15567352351
- 57176
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231109T140951Z
-LAST-MODIFIED:20231109T140951Z
-CREATED:20231109T140737Z
-SEQUENCE:134
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20231213T140000Z
-DTEND:20231213T153000Z
-UID:e649324604022212@facebook.com
-SUMMARY:Vert Club
-LOCATION:Thumb Butte Parking Lot
-URL:https://www.facebook.com/events/649323204022352/?event_time_id=649324604022212
-DESCRIPTION:Run/walk from the Thumb Butte Park
- ing Lot to the top of the trail as
-  many times as you want.  Free par
- king on Wednesday's.\n\nhttps://www.
- facebook.com/events/64932320402235
- 2/?event_time_id=649324604022212
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231210T172356Z
-LAST-MODIFIED:20231210T172356Z
-CREATED:20231024T212015Z
-SEQUENCE:4046621
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20231213T003000Z
-DTEND:20231213T033000Z
-UID:e730680835615215@facebook.com
-SUMMARY:***Change***Tuesday Group Run- LOWER Spence Basin-Jon leading!
-LOCATION:https://maps.apple.com/?ll=34.5819
- 04\,-112.548972&q=Dropped%20Pin&_ex
- t=EiYpaevoe+dJQUAxxHG9OnsjXMA558AO
- 2A1LQUBB5GbvdsgiXMBQBA%3D%3D&t=h
-URL:https://www.facebook.com/events/730680835615215/
-DESCRIPTION:Location changed!!! Will meet at L
- OWER Spence Springs parking lot: \n
- \nGPS here https://maps.app.goo.gl/
- tvsxZcN1fCTD7FMV8?g_st=ic\n\nPLEASE 
- READ THIS DESCRIPTION. \nWe will me
- et at Lower Parking lot along Iron
-  Springs\, where Spence Springs Rd 
- meets Iron Springs (trailhead). 5:
- 30pm. Expect 4-6 miles. No drop ru
- n (we stop for everyone at every i
- ntersection). \n\nBring a headlamp!\n
- \nhttps://www.facebook.com/events/7
- 30680835615215/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230922T225117Z
-LAST-MODIFIED:20230922T225117Z
-CREATED:20230922T225117Z
-SEQUENCE:0
-ORGANIZER;CN=Acker Night:MAILTO:noreply@facebookmail.com
-DTSTART:20231209T000000Z
-DTEND:20231209T033000Z
-UID:e2490402891132043@facebook.com
-SUMMARY:Acker Night 
-LOCATION:Downtown Prescott
-URL:https://www.facebook.com/events/2490402891132043/
-DESCRIPTION:This is a FREE downtown event for 
- everyone. The streets in downtown 
- Prescott are closed and the busine
- sses open their doors for a few ho
- urs for this wonderful musical eve
- nt.\n\nThe Christmas lights are glea
- ming\, and music fills the air for 
- this special one night.\n\nhttps://w
- ww.facebook.com/events/24904028911
- 32043/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240101T143804Z
-LAST-MODIFIED:20240101T143804Z
-CREATED:20231117T202019Z
-SEQUENCE:3867465
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20231208T003000Z
-DTEND:20231208T003100Z
-UID:e1556735228490510@facebook.com
-SUMMARY:Thursday Night Social Run/Walk
-URL:https://www.facebook.com/events/1556735191823847/?event_time_id=1556735228490510
-DESCRIPTION:Join us for a 2-4 mile run or walk
-  starting at La Planchada 217 West
-  Gurley. Stay after for food and/o
- r beverages if you like. \n\nhttps:/
- /www.facebook.com/events/155673519
- 1823847/?event_time_id=15567352284
- 90510
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231109T140951Z
-LAST-MODIFIED:20231109T140951Z
-CREATED:20231109T140737Z
-SEQUENCE:134
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20231206T140000Z
-DTEND:20231206T153000Z
-UID:e649324617355544@facebook.com
-SUMMARY:Vert Club
-LOCATION:Thumb Butte Parking Lot
-URL:https://www.facebook.com/events/649323204022352/?event_time_id=649324617355544
-DESCRIPTION:Run/walk from the Thumb Butte Park
- ing Lot to the top of the trail as
-  many times as you want.  Free par
- king on Wednesday's.\n\nhttps://www.
- facebook.com/events/64932320402235
- 2/?event_time_id=649324617355544
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231025T045342Z
-LAST-MODIFIED:20231025T045342Z
-CREATED:20231024T211911Z
-SEQUENCE:27271
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20231206T003000Z
-DTEND:20231206T033000Z
-UID:e1478745809643126@facebook.com
-SUMMARY:Tuesday Group Run- White Rock- Cindy leading! 
-URL:https://www.facebook.com/events/1478745809643126/
-DESCRIPTION:We will meet at White Rock Parking
-  lot (link here https://goo.gl/map
- s/YN2uMvQnyQWTM9JK7) at 5:30pm. \n\n
- No-drop group run of approximately
-  5 miles. No-drop means we stop at
-  every intersection and wait for e
- veryone. \n\nBring a headlamp!\n\n\nhtt
- ps://www.facebook.com/events/14787
- 45809643126/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231203T144359Z
-LAST-MODIFIED:20231203T144359Z
-CREATED:20231203T144359Z
-SEQUENCE:0
-ORGANIZER;CN=Chris Hawthorne:MAILTO:noreply@facebookmail.com
-DTSTART:20231204T150000Z
-DTEND:20231204T180000Z
-UID:e1040774747190280@facebook.com
-SUMMARY:Brownlow Mondays
-LOCATION:Brownlow lot off of Commerce
-URL:https://www.facebook.com/events/1040774747190280/
-DESCRIPTION:*8:00AM! Could be your last chance
-  to practice for Saturday’s Sant
- a Run! Btw\, have you registered ye
- t?? I’ll put a link in the comme
- nts. 🎅🏼 \n\nhttps://www.facebo
- ok.com/events/1040774747190280/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
 END:VEVENT
 END:VCALENDAR
