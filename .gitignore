@@ -34,3 +34,5 @@ jekyll-theme-type-on-strap.gemspec
 *copy.md
 test/*
 *.swp
+
+.hugo_build.lock
