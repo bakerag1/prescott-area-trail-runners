@@ -1,29 +1,47 @@
 <aside class="sidebar">
-  <div class="container">
-    <img src="{{ .Site.Params.logo }}" alt="PATR Logo" width="200pt" 
-    style="display: block; margin-left: auto; margin-right: auto;"/>
-    <div class="sidebar-about">
-      
-      <p class="lead">
-      {{ with .Site.Params.description }} {{.}} {{ else }}An elegant open source and mobile first theme for <a href="http://hugo.spf13.com">hugo</a> made by <a href="http://twitter.com/mdo">@mdo</a>. Originally made for Jekyll.{{end}}
-      </p>
-    </div>
-
+  <style>
+    #homeimg {
+        display: none;
+      }
+    @media (max-width: 768px) {
+      .hideable {
+        display: none;
+      }
+      .sidebar-nav {
+        display: block;
+        align-items: center;
+      }
+      .sidebar-nav li{
+        display: inline-block;
+      }
+      .sidebar-nav li a{
+        float: left;
+        padding-right: 15px;
+      }
+      .logo {
+        width: 100px;
+      }
+      #homeword {
+        display: none;
+      }
+      #homeimg {
+        display: block;
+        align-self: center;
+      }
+    }
+  </style>
+  <div class="container sidebar-sticky">
+    <div class="logo"><a src="{{ .Site.BaseURL }}"><img class="hideable" src="{{ .Site.Params.logo }}" alt="Whiskey Row Brew Club" width="250pt" /></a></div>
     <nav>
       <ul class="sidebar-nav">
-        <li><a href="{{ .Site.BaseURL }}">Home</a> </li>
+        <li id="homeword"><a href="{{ .Site.BaseURL }}">Home</a> </li>
+        <li id="homeimg"><a href="{{ .Site.BaseURL }}"><img src="{{ .Site.Params.logo }}" alt="Whiskey Row Brew Club" width="100pt" /></a></a> </li>
         {{ range .Site.Menus.main -}}
-          <li><a href="{{.URL}}"> {{ .Name }} </a></li>
-        {{- end }}
-      </ul>
-      <ul class="sidebar-nav">
-        <li>Links</li>
-        {{ range .Site.Menus.links -}}
           <li><a href="{{.URL}}"> {{ .Name }} </a></li>
         {{- end }}
       </ul>
     </nav>
 
-    <p>{{ with .Site.Params.copyright }}{{.}}{{ else }}&copy; {{ now.Format "2006"}}. All rights reserved. {{end}}</p>
+    <p class="hideable">{{ with .Site.Params.copyright }}{{.}}{{ else }}&copy; {{ now.Format "2006"}}. All rights reserved. {{end}}</p>
   </div>
 </aside>
