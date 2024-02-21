@@ -54,7 +54,13 @@ func postWeeklyCalendar() {
 	defer out.Close()
 	t := template.Must(template.New("this-week.md").ParseFiles("util/this-week.md"))
 	fw := bufio.NewWriter(out)
-	err = t.Execute(fw, struct{ Date string }{Date: title})
+	err = t.Execute(fw, struct {
+		Date string
+		Now  string
+	}{
+		Date: title,
+		Now:  time.Now().Format("2006-01-02"),
+	})
 	if err != nil {
 		log.Fatal("unable to apply post template", err)
 	}
