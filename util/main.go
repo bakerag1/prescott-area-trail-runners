@@ -134,6 +134,9 @@ func parseEvents() []event {
 			ev.Summary = "CANCELLED - Thursday Night Social Run/Walk"
 		}
 		ev.Start = e.Start.Local().Format("2006-01-02T15:04:00Z")
+		ev.DayOfMonth = e.Start.Local().Format("02")
+		ev.Month = e.Start.Local().Format("Jan")
+		ev.DayOfWeek = e.Start.Local().Format("Mon")
 		ev.End = e.End.Local().Format("2006-01-02T15:04:00Z")
 		ev.Created = e.Created.Format("2006-01-02T15:04:00Z")
 		events = append(events, ev)
@@ -148,7 +151,7 @@ func parseEvents() []event {
 func newsletter() {
 
 	paths := []string{
-		"util/newsletter.tmpl",
+		"util/newsletter.html",
 	}
 
 	funcMap := template.FuncMap{
@@ -182,7 +185,7 @@ func newsletter() {
 	writer := bufio.NewWriter(f)
 	defer writer.Flush()
 	t := template.Must(template.New("newsletter").Funcs(funcMap).ParseFiles(paths...))
-	err = t.ExecuteTemplate(writer, "newsletter.tmpl", tData)
+	err = t.ExecuteTemplate(writer, "newsletter.html", tData)
 	if err != nil {
 		panic(err)
 	}
@@ -223,6 +226,9 @@ type event struct {
 	Description string
 	Summary     string
 	Start       string
+	Month       string
+	DayOfWeek   string
+	DayOfMonth  string
 	End         string
 	Location    string
 	Uid         string

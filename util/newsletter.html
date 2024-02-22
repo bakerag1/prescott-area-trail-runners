@@ -1,0 +1,117 @@
+---
+type: newsletter
+date: {{ .Config.Now }}
+title: PATR Chatter {{.Config.Month}} {{.Config.Year}}
+feature-img: "assets/img/big-trail.jpg"
+---
+
+<html>
+
+<head>
+    <meta charset="UTF-8" />
+    <style>
+        aria-label {
+            color: blue;
+        }
+
+        hr {
+            margin: 2.0em auto;
+        }
+
+        h1 {
+            padding-top: 3.0em;
+            color: brown;
+            font-size: 36pt;
+            text-align: center;
+        }
+
+        ul:before {
+            content: attr(aria-label);
+            font-size: 120%;
+            font-weight: bold;
+            margin-left: -15px;
+        }
+
+        .eventContainer {
+            display: flex;
+            padding: 5px;
+            background-color: lightgray; 
+            border-radius: 15px; 
+            border-width: 5px;
+            border-style: ridge;
+        }
+
+        .eventDate {
+            font-size: 20pt;
+            border-style: solid; 
+            text-align: center; 
+            line-height: 40px;
+            border-radius: 15px;
+            border-width: 1px;
+            height: 120px;
+            width: 120px;
+        }
+
+        .event {
+            min-height: 100px;
+            width: 600px;
+            text-align: center; 
+        }
+
+        .event a {
+            font-size: 14pt;
+        }
+        </style>
+</head>
+<div style="width: 100%; background-color: lightblue; padding-left: 10px;">
+    
+    <div style="float: right;">
+        <img width="300" src="https://prescottareatrailrunners.com/assets/img/patr-logo.png" />
+    </div>
+    <h1>PATR Chatter</h1>
+    <br><i>The monthly newsletter of the <a href="https://prescottareatrailrunners.com">Prescott Area Trail Runners</a></i>
+    <br>{{.Config.Month}} {{.Config.Year}}
+</div>
+
+<br>Hope you find the newsletter useful, apologies for any beer related events that I've accidentally included!</td></tr>
+{{ $currMonth := "notamonth"}}
+{{range .MonthInfo.Events }}
+    {{ if ne $currMonth .Month }}
+        {{ $currMonth = .Month }}
+        <h2>{{ .Month }}</h2>
+    {{ end }}
+        <div class="eventContainer">
+            <div class="eventDate">
+                {{ .DayOfWeek }}<br>
+                {{ .Month }} {{ .DayOfMonth }}
+            </div>
+            <div class="event">
+                <summary><a href="https://prescottareatrailrunners.com/events/{{.Uid}}">{{.Summary}}</a>
+                <br>
+                <details class="collapsible">
+                    <p>
+                        {{ .Description}}
+                    </p>
+                </details>
+            </div>
+        </div>
+    {{end}}
+        
+
+<script>
+    var coll = document.getElementsByClassName("collapsible");
+    var i;
+
+    for (i = 0; i < coll.length; i++) {
+    coll[i].addEventListener("click", function() {
+        this.classList.toggle("active");
+        var content = this.nextElementSibling;
+        if (content.style.maxHeight){
+        content.style.maxHeight = null;
+        } else {
+        content.style.maxHeight = content.scrollHeight + "px";
+        } 
+    });
+    }
+</script> 
+</html>
