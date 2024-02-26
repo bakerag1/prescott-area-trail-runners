@@ -578,7 +578,7 @@ DESCRIPTION:No drop group run (we stop at ever
  612215029546372/
 CLASS:PUBLIC
 STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
+PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20240218T231131Z
@@ -972,93 +972,6 @@ DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
  randon is leading :) \n\n\n\n\n\n\n\nhttps
  ://www.facebook.com/events/9263275
  01699289/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240123T220648Z
-LAST-MODIFIED:20240123T220648Z
-CREATED:20240123T220648Z
-SEQUENCE:0
-ORGANIZER;CN=Andrew Baker:MAILTO:bakerag1@gmail.com
-DTSTART:20240126T220000Z
-DTEND:20240127T010000Z
-UID:e391371946759676@facebook.com
-SUMMARY:Stephanie's Birthday
-LOCATION:wren house prairie patio
-URL:https://www.facebook.com/events/391371946759676/
-DESCRIPTION:Come wish Stephanie a happy 50th! 
- \nif wren house decides to be close
- d\, I will update here and we'll be
-  at lazy g\n\nhttps://www.facebook.c
- om/events/391371946759676/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240101T143804Z
-LAST-MODIFIED:20240101T143804Z
-CREATED:20231117T202019Z
-SEQUENCE:3867465
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20240126T003000Z
-DTEND:20240126T003100Z
-UID:e1556735245157175@facebook.com
-SUMMARY:Thursday Night Social Run/Walk
-URL:https://www.facebook.com/events/1556735191823847/?event_time_id=1556735245157175
-DESCRIPTION:Join us for a 2-4 mile run or walk
-  starting at La Planchada 217 West
-  Gurley. Stay after for food and/o
- r beverages if you like. \n\nhttps:/
- /www.facebook.com/events/155673519
- 1823847/?event_time_id=15567352451
- 57175
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231109T140951Z
-LAST-MODIFIED:20231109T140951Z
-CREATED:20231109T140737Z
-SEQUENCE:134
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20240124T140000Z
-DTEND:20240124T153000Z
-UID:e649324590688880@facebook.com
-SUMMARY:Vert Club
-LOCATION:Thumb Butte Parking Lot
-URL:https://www.facebook.com/events/649323204022352/?event_time_id=649324590688880
-DESCRIPTION:Run/walk from the Thumb Butte Park
- ing Lot to the top of the trail as
-  many times as you want.  Free par
- king on Wednesday's.\n\nhttps://www.
- facebook.com/events/64932320402235
- 2/?event_time_id=649324590688880
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240104T204323Z
-LAST-MODIFIED:20240104T204323Z
-CREATED:20240104T204323Z
-SEQUENCE:0
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20240124T003000Z
-DTEND:20240124T033000Z
-UID:e1498674864315452@facebook.com
-SUMMARY:Tuesday Group Run- Ranch 62 Trailhead
-URL:https://www.facebook.com/events/1498674864315452/
-DESCRIPTION:No drop group run (we stop at ever
- y intersection and wait for everyo
- ne to join together again). Expect
-  5ish miles. Bring a head lamp :)\n
- \nhttps://maps.app.goo.gl/z4HLncfjM
- vfpKqcg8?g_st=ic\n\nhttps://www.face
- book.com/events/1498674864315452/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
