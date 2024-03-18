@@ -7,10 +7,44 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-DTSTAMP:20240104T170748Z
-LAST-MODIFIED:20240104T170748Z
+DTSTAMP:20240311T160533Z
+LAST-MODIFIED:20240311T160533Z
+CREATED:20240311T160533Z
+SEQUENCE:0
+ORGANIZER;CN=Aravaipa Running:MAILTO:noreply@facebookmail.com
+DTSTART:20241228T140000Z
+DTEND:20241228T170000Z
+UID:e332421699289711@facebook.com
+SUMMARY:Across The Years 
+LOCATION:Camelback Ranch Staduim
+URL:https://www.facebook.com/events/332421699289711/
+DESCRIPTION:🎉 Across the Years is back for 
+ the 2024-25 edition and we are exc
+ ited to welcome runners to Camelba
+ ck Ranch this December! Join us fo
+ r this fixed-time 6-day running ev
+ ent as we run into the New year wi
+ th a community of familiar faces a
+ nd welcomed new friends.\n\nRunners 
+ can choose from a menu of events t
+ hat include both fixed-time and fi
+ xed-distance. Ring in the New Year
+  and set a goal\, break a record\, e
+ arn a buckle or simply make new fr
+ iends as we travel together Across
+  the Years! Celebrate with us Dece
+ mber 28\, 2024 - January 3\, 2025.\n\n
+ https://www.facebook.com/events/33
+ 2421699289711/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240313T144011Z
+LAST-MODIFIED:20240313T144011Z
 CREATED:20240104T170715Z
-SEQUENCE:33
+SEQUENCE:5952776
 ORGANIZER;CN=Aravaipa Running:MAILTO:noreply@facebookmail.com
 DTSTART:20241026T130000Z
 DTEND:20241026T160000Z
@@ -36,6 +70,172 @@ DESCRIPTION:It’s the original costumed ultra
  e and only\, Javelina Jundred!\n\nhtt
  ps://www.facebook.com/events/19948
  69350883998/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231109T194551Z
+LAST-MODIFIED:20231109T194551Z
+CREATED:20231109T194551Z
+SEQUENCE:0
+ORGANIZER;CN=Aravaipa Running:MAILTO:noreply@facebookmail.com
+DTSTART:20240922T000000Z
+DTEND:20240922T030000Z
+UID:e1707803409697522@facebook.com
+SUMMARY:Jangover Night Runs 
+LOCATION:McDowell Mountain Regional Park
+URL:https://www.facebook.com/events/1707803409697522/
+DESCRIPTION:This is one Jangover you won’t w
+ ant a cure for...\n\nYes! It’s Jan
+ gover Night Runs and it’s happen
+ ing on September 21st! \n\nWhat star
+ ted as an informal training run fo
+ r the Javelina Jundred has evolved
+  into one of our flagship races in
+  the Insomniac Night Trail Run Ser
+ ies. Come experience the beauty of
+  desert trail running at night und
+ er a blanket of stars! The Javelin
+ a Jangover Night Runs is the 6th a
+ nd final race in the Summer Insomn
+ iac Night Trail Run Series. \n\nTake
+  to the trails all night to comple
+ te 7 kilometers\, 15 kilometers\, 25
+  kilometers\,50 kilometers\, or 75 k
+ ilometers of trails...there’s a 
+ Jangover for every level and age o
+ f runner! \n\nJoin us for Jangover\, 
+ or snag a series pass and save big
+  on registration. \nThe choice is y
+ ours! \n\nWe “jope” to see you t
+ his September at Jangover Night Ru
+ ns at McDowell Mountain Regional P
+ ark!\n\nhttps://www.facebook.com/eve
+ nts/1707803409697522/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231206T194821Z
+LAST-MODIFIED:20231206T194821Z
+CREATED:20231206T194716Z
+SEQUENCE:65
+ORGANIZER;CN=Aravaipa Running:MAILTO:noreply@facebookmail.com
+DTSTART:20240907T130000Z
+DTEND:20240907T160000Z
+UID:e375554058274306@facebook.com
+SUMMARY:Mogollon Monster 100 
+LOCATION:Pine\, Az
+URL:https://www.facebook.com/events/375554058274306/
+DESCRIPTION:It’s out there…will YOU be the
+  one to find it this September 7th
+ ? \n\nChallenge yourself at one of t
+ he toughest and most beautiful rac
+ es you’ll ever toe the line at. 
+ \n\nJoin us this fall at the 2024 ed
+ ition of the Mogollon Monster! \n\nC
+ hoose from the point to point 100 
+ mile or get a hefty dose of the Mo
+ nster in the 42k “Monster Marath
+ on”. No matter which distance yo
+ u choose\, you are sure to apprecia
+ te breathtaking climbs up the Rim\,
+  exhilarating descents down\, spect
+ acular views in between\, and possi
+ ble monster sightings at each turn
+ . \n\nThe 42 Km course takes place o
+ n Sunday starting at the Pine Trai
+ lhead and heads out on the histori
+ c Highline Trail to its first rim 
+ climb\, the Donahue Trail\, where ru
+ nners will join courses with the 1
+ 00 milers who start 24 hours and 8
+ 5 miles earlier. The drop off the 
+ rim and right back up via West Web
+ ber and Turkey Springs will test r
+ unners but be sure to soak up the 
+ views along the Mogollon Rim. Fini
+ shing with a massive vista off the
+  Pine Canyon Trail and miles of go
+ rgeous trail all the way back to t
+ he town of Pine where runners will
+  cross under the finish line at th
+ e town community center. \n\nThis is
+  mountain running at its finest\, a
+ nd you’ll relish every minute of
+  it. \n\nJoin us in Pine this Septem
+ ber 7-8 for the Mogollon Monster!\n
+ \nhttps://www.facebook.com/events/3
+ 75554058274306/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231109T200115Z
+LAST-MODIFIED:20231109T200115Z
+CREATED:20231109T200115Z
+SEQUENCE:0
+ORGANIZER;CN=Aravaipa Running:MAILTO:noreply@facebookmail.com
+DTSTART:20240825T020000Z
+DTEND:20240825T050000Z
+UID:e1299639983943359@facebook.com
+SUMMARY:Jackrabbit Jubilee
+LOCATION:Nardini Manor
+URL:https://www.facebook.com/events/1299639983943359/
+DESCRIPTION:Hoppiness abounds at the Jackrabbi
+ t Jubilee! \n\nThe 12 & 6 Hour fixed
+ -time night race kicks off this Au
+ gust on the 500 meter USATF certif
+ ied course (road) at Nardini Manor
+ . The course is a flat crushed gra
+ vel loop that winds its way around
+  the grounds. Run\, hop\, skip\, laug
+ h and spend the night with us at N
+ ardini Manor--fun for everybunny!\n
+ \nhttps://www.facebook.com/events/1
+ 299639983943359/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231109T193505Z
+LAST-MODIFIED:20231109T193505Z
+CREATED:20231109T193505Z
+SEQUENCE:0
+ORGANIZER;CN=Aravaipa Running:MAILTO:noreply@facebookmail.com
+DTSTART:20240623T023000Z
+DTEND:20240623T053000Z
+UID:e2408285646049135@facebook.com
+SUMMARY:Hypnosis Night Runs 
+LOCATION:Estrella Mountain Regional Park
+URL:https://www.facebook.com/events/2408285646049135/
+DESCRIPTION:Ready to be hypnotized? \n\nWell the
+ n\, plan to join us on June 22nd fo
+ r the third race in our Insomniac 
+ Night Runs Series\, Hypnosis Night 
+ Runs! \n\nNEW COURSE!!! What? \n\nThat
+ ’s right\, we are once again usin
+ g the same new\, fun course from th
+ e 2021 edition! \n\nAll runs will be
+  staged out of the main park\, at t
+ he Coldwater Trailhead. We're exci
+ ted to introduce this new route\, h
+ ighlighting some of the great trai
+ ls of Estrella Mountain Park. Expe
+ rience Butterfield\, Gadsen\, Coldwa
+ ter\, Dysart\, and Rainbow Valley tr
+ ails depending on your distance. T
+ hese new routes are flowy and fun!
+  \n\nSo pick your poison (50k\, 36k\, 
+ 22k\, 15k or 6k) Insomniacs\, and pl
+ an to party the night away on the 
+ trails at Hypnosis Night Runs!\n\nht
+ tps://www.facebook.com/events/2408
+ 285646049135/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -78,6 +278,73 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20240104T160133Z
+LAST-MODIFIED:20240104T160133Z
+CREATED:20231020T213339Z
+SEQUENCE:6546474
+ORGANIZER;CN=Aravaipa Running:MAILTO:noreply@facebookmail.com
+DTSTART:20240622T020000Z
+DTEND:20240622T050000Z
+UID:e1079026550118569@facebook.com
+SUMMARY:Blackout Night Runs 
+LOCATION:Fort Tuthill County Park Flagstaff
+URL:https://www.facebook.com/events/1079026550118569/
+DESCRIPTION:Join us in the pines of Flagstaff 
+ for our only night race in Norther
+ n Arizona at the Blackout Night Ru
+ ns. This race takes place on the e
+ ve of the annual camping extravaga
+ nza at the Big Pine Trail Runs. Do
+  both and earn a "double down" med
+ al!\n\nChoose from a 27k\, 13k or 6k 
+ under a canopy of ponderosa pines 
+ and a blanket of stars. These trai
+ ls are smooth and fabulous for the
+  entire family! \n\nhttps://www.face
+ book.com/events/1079026550118569/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231109T195902Z
+LAST-MODIFIED:20231109T195902Z
+CREATED:20231109T195902Z
+SEQUENCE:0
+ORGANIZER;CN=Aravaipa Running:MAILTO:noreply@facebookmail.com
+DTSTART:20240601T140000Z
+DTEND:20240601T170000Z
+UID:e660573976215883@facebook.com
+SUMMARY:Hotfoot Hamster 
+LOCATION:Nardini Manor
+URL:https://www.facebook.com/events/660573976215883/
+DESCRIPTION:Back and hotter than ever\, Hotfoot
+  Hamster returns to Nardini Manor 
+ 2024!\n\nTest your endurance and see
+  how far you can run in 6 hours\,  
+ 12 hours\,  or 24 hours at the idea
+ l flat and fast custom built grave
+ l running track at the historic Na
+ rdini Manor. This is one of two ch
+ ances this year to participate in 
+ a running event on this unique ult
+ ra runner built course!\n\nWe'll hav
+ e a fully stocked aid station dire
+ ctly on course and you can setup t
+ rackside for ultimate convenience.
+ \n\nThe USATF Certified 500 meter co
+ urse is perfect for your first ult
+ ra or for a personal best. The Hot
+ foot Hamster is a classic fixed ti
+ me ultra that is sure to be a fun 
+ time with new friends.\n\nhttps://ww
+ w.facebook.com/events/660573976215
+ 883/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20240305T014500Z
 LAST-MODIFIED:20240305T014500Z
 CREATED:20240304T223535Z
@@ -99,6 +366,38 @@ DESCRIPTION:No drop group run (we stop at ever
  osser St. Trailhead is right next 
  to Hwy 89.\n\n\nhttps://www.facebook.
  com/events/1697500380778012/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231109T193142Z
+LAST-MODIFIED:20231109T193142Z
+CREATED:20231109T193142Z
+SEQUENCE:0
+ORGANIZER;CN=Aravaipa Running:MAILTO:noreply@facebookmail.com
+DTSTART:20240519T020000Z
+DTEND:20240519T050000Z
+UID:e3535867590007118@facebook.com
+SUMMARY:Adrenaline Night Runs 
+LOCATION:McDowell Mountain Regional Park
+URL:https://www.facebook.com/events/3535867590007118/
+DESCRIPTION:Run the night at the second race i
+ n our Insomniac Night Run Series\, 
+ Adrenaline Night Runs! \n\nBreak out
+  your headlamps and join us on May
+  18th at McDowell Mountain Regiona
+ l Park for a 50k\, 25k\, 15k\, 10k or
+  6k distance under the stars. \n\nAl
+ l Adrenaline Night Run courses tak
+ e to the Escondido\, Scenic\, Cinch\,
+  and Shallmo trails...all single t
+ rack\, all fun! \n\nRun one race in t
+ he series\, or race them all! \nWhat
+ ever you choose\, we hope to see yo
+ u at Adrenaline Night Runs!\n\nhttps
+ ://www.facebook.com/events/3535867
+ 590007118/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -505,6 +804,29 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20240229T130231Z
+LAST-MODIFIED:20240229T130231Z
+CREATED:20240222T183309Z
+SEQUENCE:584962
+ORGANIZER;CN=Andre Lee:MAILTO:noreply@facebookmail.com
+DTSTART:20240324T133000Z
+DTEND:20240324T163000Z
+UID:e1568462493992369@facebook.com
+SUMMARY:4th Annual Cocodona 250 Training Run - Crown King to Friendly Pines 
+LOCATION:Crown King Saloon & Eatery
+URL:https://www.facebook.com/events/1568462493992369/
+DESCRIPTION:Meet at 06:30\; Run at 06:45. 34 mi
+ les from Crown King to Friendly Pi
+ nes. This will cover the last port
+ ion of the race prior to pacer ava
+ ilability. Mostly gravel road (Sen
+ ator Hwy).\n\nhttps://www.facebook.c
+ om/events/1568462493992369/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20230630T220300Z
 LAST-MODIFIED:20230630T220300Z
 CREATED:20230630T220300Z
@@ -605,13 +927,35 @@ DESCRIPTION:No drop group run (we stop at ever
  ebook.com/events/3593634150916981/
 CLASS:PUBLIC
 STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
+PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240312T205732Z
-LAST-MODIFIED:20240312T205732Z
+DTSTAMP:20240308T013603Z
+LAST-MODIFIED:20240308T013603Z
+CREATED:20240304T161910Z
+SEQUENCE:292613
+ORGANIZER;CN=Shelley Deardorff:MAILTO:noreply@facebookmail.com
+DTSTART:20240317T210000Z
+DTEND:20240318T000000Z
+UID:e924036976072052@facebook.com
+SUMMARY:St Paddy's at Founding Fathers
+LOCATION:Founding Fathers Collective
+URL:https://www.facebook.com/events/924036976072052/
+DESCRIPTION:Join the Whiskey Row Beer Club to 
+ celebrate the best holiday of the 
+ year! 🍀💚\nWear green or I wil
+ l pinch you\, hard! 😁\n\n\nhttps://
+ www.facebook.com/events/9240369760
+ 72052/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240315T220746Z
+LAST-MODIFIED:20240315T220746Z
 CREATED:20240310T011358Z
-SEQUENCE:243814
+SEQUENCE:507228
 ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
 DTSTART:20240316T150000Z
 DTEND:20240316T180000Z
@@ -1032,90 +1376,6 @@ DESCRIPTION:Will meet at LOWER Spence Springs
  one at every intersection). \n\nBrin
  g a headlamp!\n\nhttps://www.faceboo
  k.com/events/1315443739162164/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240101T143804Z
-LAST-MODIFIED:20240101T143804Z
-CREATED:20231117T202019Z
-SEQUENCE:3867465
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20240216T003000Z
-DTEND:20240216T003100Z
-UID:e1556735248490508@facebook.com
-SUMMARY:Thursday Night Social Run/Walk
-URL:https://www.facebook.com/events/1556735191823847/?event_time_id=1556735248490508
-DESCRIPTION:Join us for a 2-4 mile run or walk
-  starting at La Planchada 217 West
-  Gurley. Stay after for food and/o
- r beverages if you like. \n\nhttps:/
- /www.facebook.com/events/155673519
- 1823847/?event_time_id=15567352484
- 90508
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231109T140951Z
-LAST-MODIFIED:20231109T140951Z
-CREATED:20231109T140737Z
-SEQUENCE:134
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20240214T140000Z
-DTEND:20240214T153000Z
-UID:e649324584022214@facebook.com
-SUMMARY:Vert Club
-LOCATION:Thumb Butte Parking Lot
-URL:https://www.facebook.com/events/649323204022352/?event_time_id=649324584022214
-DESCRIPTION:Run/walk from the Thumb Butte Park
- ing Lot to the top of the trail as
-  many times as you want.  Free par
- king on Wednesday's.\n\nhttps://www.
- facebook.com/events/64932320402235
- 2/?event_time_id=649324584022214
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240117T032400Z
-LAST-MODIFIED:20240117T032400Z
-CREATED:20240104T205440Z
-SEQUENCE:1060160
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20240214T003000Z
-DTEND:20240214T033000Z
-UID:e1051703139369963@facebook.com
-SUMMARY:Tuesday Group Run- Salida Gulch- Cindy leading! 
-URL:https://www.facebook.com/events/1051703139369963/
-DESCRIPTION:No drop group run (we stop at ever
- y intersection and wait for everyo
- ne to join before running again). 
- Expect 4-6 miles \n\nBring a headlam
- p. \n\n34.541322138945276\, -112.3813
- 1895761529\n\n***This trailhead can 
- be confusing to find and GPS is so
- metimes wrong!! Follow the route b
- elow from FS!***\n\nDirections from 
- FS:\nFrom downtown Prescott\, travel
-  east on Hwy 69 to Walker Road. Tu
- rn right and go 1.2 miles to the s
- ign for Lynx Creek Ruin. Turn left
-  onto Lynx Creek Road (FR 9401) ju
- st after the sign. Travel 0.8 mile
- s past the Day Use area\, bearing r
- ight down the hill and continuing 
- to the end of the road. There is a
-  large improved lot with ample par
- king for both single vehicles and 
- horse trailers. Road conditions ar
- e paved\, then graded dirt and suit
- able for all vehicles.\n\nhttps://ww
- w.facebook.com/events/105170313936
- 9963/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
