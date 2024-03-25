@@ -75,6 +75,141 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20240319T133927Z
+LAST-MODIFIED:20240319T133927Z
+CREATED:20240319T133927Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20241025T003000Z
+DTEND:20241025T033000Z
+UID:e3661597560748111@facebook.com
+SUMMARY:Thursday Night Social Run/Walk
+LOCATION:La Planchada
+URL:https://www.facebook.com/events/3661597557414778/?event_time_id=3661597560748111
+DESCRIPTION:Please join us for our Thursday ni
+ ght social run/walk! Meet on the p
+ atio at La Planchada\, 217 W Gurley
+ .  We'll run or walk on the path a
+ long Granite Creek to the Park\, do
+  a couple laps in the Park\, then r
+ eturn (or do your own route).  Sta
+ y after for food and/or drinks if 
+ you like.\n\nhttps://www.facebook.co
+ m/events/3661597557414778/?event_t
+ ime_id=3661597560748111
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240319T133927Z
+LAST-MODIFIED:20240319T133927Z
+CREATED:20240319T133927Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20241018T003000Z
+DTEND:20241018T033000Z
+UID:e3661597627414771@facebook.com
+SUMMARY:Thursday Night Social Run/Walk
+LOCATION:La Planchada
+URL:https://www.facebook.com/events/3661597557414778/?event_time_id=3661597627414771
+DESCRIPTION:Please join us for our Thursday ni
+ ght social run/walk! Meet on the p
+ atio at La Planchada\, 217 W Gurley
+ .  We'll run or walk on the path a
+ long Granite Creek to the Park\, do
+  a couple laps in the Park\, then r
+ eturn (or do your own route).  Sta
+ y after for food and/or drinks if 
+ you like.\n\nhttps://www.facebook.co
+ m/events/3661597557414778/?event_t
+ ime_id=3661597627414771
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240319T133927Z
+LAST-MODIFIED:20240319T133927Z
+CREATED:20240319T133927Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20241011T003000Z
+DTEND:20241011T033000Z
+UID:e3661597630748104@facebook.com
+SUMMARY:Thursday Night Social Run/Walk
+LOCATION:La Planchada
+URL:https://www.facebook.com/events/3661597557414778/?event_time_id=3661597630748104
+DESCRIPTION:Please join us for our Thursday ni
+ ght social run/walk! Meet on the p
+ atio at La Planchada\, 217 W Gurley
+ .  We'll run or walk on the path a
+ long Granite Creek to the Park\, do
+  a couple laps in the Park\, then r
+ eturn (or do your own route).  Sta
+ y after for food and/or drinks if 
+ you like.\n\nhttps://www.facebook.co
+ m/events/3661597557414778/?event_t
+ ime_id=3661597630748104
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240319T133927Z
+LAST-MODIFIED:20240319T133927Z
+CREATED:20240319T133927Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20241004T003000Z
+DTEND:20241004T033000Z
+UID:e3661597574081443@facebook.com
+SUMMARY:Thursday Night Social Run/Walk
+LOCATION:La Planchada
+URL:https://www.facebook.com/events/3661597557414778/?event_time_id=3661597574081443
+DESCRIPTION:Please join us for our Thursday ni
+ ght social run/walk! Meet on the p
+ atio at La Planchada\, 217 W Gurley
+ .  We'll run or walk on the path a
+ long Granite Creek to the Park\, do
+  a couple laps in the Park\, then r
+ eturn (or do your own route).  Sta
+ y after for food and/or drinks if 
+ you like.\n\nhttps://www.facebook.co
+ m/events/3661597557414778/?event_t
+ ime_id=3661597574081443
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240319T133927Z
+LAST-MODIFIED:20240319T133927Z
+CREATED:20240319T133927Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240927T003000Z
+DTEND:20240927T033000Z
+UID:e3661597614081439@facebook.com
+SUMMARY:Thursday Night Social Run/Walk
+LOCATION:La Planchada
+URL:https://www.facebook.com/events/3661597557414778/?event_time_id=3661597614081439
+DESCRIPTION:Please join us for our Thursday ni
+ ght social run/walk! Meet on the p
+ atio at La Planchada\, 217 W Gurley
+ .  We'll run or walk on the path a
+ long Granite Creek to the Park\, do
+  a couple laps in the Park\, then r
+ eturn (or do your own route).  Sta
+ y after for food and/or drinks if 
+ you like.\n\nhttps://www.facebook.co
+ m/events/3661597557414778/?event_t
+ ime_id=3661597614081439
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20231109T194551Z
 LAST-MODIFIED:20231109T194551Z
 CREATED:20231109T194551Z
@@ -113,6 +248,60 @@ DESCRIPTION:This is one Jangover you won’t w
  ns at McDowell Mountain Regional P
  ark!\n\nhttps://www.facebook.com/eve
  nts/1707803409697522/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240319T133927Z
+LAST-MODIFIED:20240319T133927Z
+CREATED:20240319T133927Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240920T003000Z
+DTEND:20240920T033000Z
+UID:e3661597570748110@facebook.com
+SUMMARY:Thursday Night Social Run/Walk
+LOCATION:La Planchada
+URL:https://www.facebook.com/events/3661597557414778/?event_time_id=3661597570748110
+DESCRIPTION:Please join us for our Thursday ni
+ ght social run/walk! Meet on the p
+ atio at La Planchada\, 217 W Gurley
+ .  We'll run or walk on the path a
+ long Granite Creek to the Park\, do
+  a couple laps in the Park\, then r
+ eturn (or do your own route).  Sta
+ y after for food and/or drinks if 
+ you like.\n\nhttps://www.facebook.co
+ m/events/3661597557414778/?event_t
+ ime_id=3661597570748110
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240319T133927Z
+LAST-MODIFIED:20240319T133927Z
+CREATED:20240319T133927Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240913T003000Z
+DTEND:20240913T033000Z
+UID:e3661597580748109@facebook.com
+SUMMARY:Thursday Night Social Run/Walk
+LOCATION:La Planchada
+URL:https://www.facebook.com/events/3661597557414778/?event_time_id=3661597580748109
+DESCRIPTION:Please join us for our Thursday ni
+ ght social run/walk! Meet on the p
+ atio at La Planchada\, 217 W Gurley
+ .  We'll run or walk on the path a
+ long Granite Creek to the Park\, do
+  a couple laps in the Park\, then r
+ eturn (or do your own route).  Sta
+ y after for food and/or drinks if 
+ you like.\n\nhttps://www.facebook.co
+ m/events/3661597557414778/?event_t
+ ime_id=3661597580748109
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -174,6 +363,60 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20240319T133927Z
+LAST-MODIFIED:20240319T133927Z
+CREATED:20240319T133927Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240906T003000Z
+DTEND:20240906T033000Z
+UID:e3661597617414772@facebook.com
+SUMMARY:Thursday Night Social Run/Walk
+LOCATION:La Planchada
+URL:https://www.facebook.com/events/3661597557414778/?event_time_id=3661597617414772
+DESCRIPTION:Please join us for our Thursday ni
+ ght social run/walk! Meet on the p
+ atio at La Planchada\, 217 W Gurley
+ .  We'll run or walk on the path a
+ long Granite Creek to the Park\, do
+  a couple laps in the Park\, then r
+ eturn (or do your own route).  Sta
+ y after for food and/or drinks if 
+ you like.\n\nhttps://www.facebook.co
+ m/events/3661597557414778/?event_t
+ ime_id=3661597617414772
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240319T133927Z
+LAST-MODIFIED:20240319T133927Z
+CREATED:20240319T133927Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240830T003000Z
+DTEND:20240830T033000Z
+UID:e3661597624081438@facebook.com
+SUMMARY:Thursday Night Social Run/Walk
+LOCATION:La Planchada
+URL:https://www.facebook.com/events/3661597557414778/?event_time_id=3661597624081438
+DESCRIPTION:Please join us for our Thursday ni
+ ght social run/walk! Meet on the p
+ atio at La Planchada\, 217 W Gurley
+ .  We'll run or walk on the path a
+ long Granite Creek to the Park\, do
+  a couple laps in the Park\, then r
+ eturn (or do your own route).  Sta
+ y after for food and/or drinks if 
+ you like.\n\nhttps://www.facebook.co
+ m/events/3661597557414778/?event_t
+ ime_id=3661597624081438
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20231109T200115Z
 LAST-MODIFIED:20231109T200115Z
 CREATED:20231109T200115Z
@@ -197,6 +440,249 @@ DESCRIPTION:Hoppiness abounds at the Jackrabbi
  ardini Manor--fun for everybunny!\n
  \nhttps://www.facebook.com/events/1
  299639983943359/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240319T133927Z
+LAST-MODIFIED:20240319T133927Z
+CREATED:20240319T133927Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240823T003000Z
+DTEND:20240823T033000Z
+UID:e3661597634081437@facebook.com
+SUMMARY:Thursday Night Social Run/Walk
+LOCATION:La Planchada
+URL:https://www.facebook.com/events/3661597557414778/?event_time_id=3661597634081437
+DESCRIPTION:Please join us for our Thursday ni
+ ght social run/walk! Meet on the p
+ atio at La Planchada\, 217 W Gurley
+ .  We'll run or walk on the path a
+ long Granite Creek to the Park\, do
+  a couple laps in the Park\, then r
+ eturn (or do your own route).  Sta
+ y after for food and/or drinks if 
+ you like.\n\nhttps://www.facebook.co
+ m/events/3661597557414778/?event_t
+ ime_id=3661597634081437
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240319T133927Z
+LAST-MODIFIED:20240319T133927Z
+CREATED:20240319T133927Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240816T003000Z
+DTEND:20240816T033000Z
+UID:e3661597577414776@facebook.com
+SUMMARY:Thursday Night Social Run/Walk
+LOCATION:La Planchada
+URL:https://www.facebook.com/events/3661597557414778/?event_time_id=3661597577414776
+DESCRIPTION:Please join us for our Thursday ni
+ ght social run/walk! Meet on the p
+ atio at La Planchada\, 217 W Gurley
+ .  We'll run or walk on the path a
+ long Granite Creek to the Park\, do
+  a couple laps in the Park\, then r
+ eturn (or do your own route).  Sta
+ y after for food and/or drinks if 
+ you like.\n\nhttps://www.facebook.co
+ m/events/3661597557414778/?event_t
+ ime_id=3661597577414776
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240319T133927Z
+LAST-MODIFIED:20240319T133927Z
+CREATED:20240319T133927Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240809T003000Z
+DTEND:20240809T033000Z
+UID:e3661597640748103@facebook.com
+SUMMARY:Thursday Night Social Run/Walk
+LOCATION:La Planchada
+URL:https://www.facebook.com/events/3661597557414778/?event_time_id=3661597640748103
+DESCRIPTION:Please join us for our Thursday ni
+ ght social run/walk! Meet on the p
+ atio at La Planchada\, 217 W Gurley
+ .  We'll run or walk on the path a
+ long Granite Creek to the Park\, do
+  a couple laps in the Park\, then r
+ eturn (or do your own route).  Sta
+ y after for food and/or drinks if 
+ you like.\n\nhttps://www.facebook.co
+ m/events/3661597557414778/?event_t
+ ime_id=3661597640748103
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240319T133927Z
+LAST-MODIFIED:20240319T133927Z
+CREATED:20240319T133927Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240802T003000Z
+DTEND:20240802T033000Z
+UID:e3661597644081436@facebook.com
+SUMMARY:Thursday Night Social Run/Walk
+LOCATION:La Planchada
+URL:https://www.facebook.com/events/3661597557414778/?event_time_id=3661597644081436
+DESCRIPTION:Please join us for our Thursday ni
+ ght social run/walk! Meet on the p
+ atio at La Planchada\, 217 W Gurley
+ .  We'll run or walk on the path a
+ long Granite Creek to the Park\, do
+  a couple laps in the Park\, then r
+ eturn (or do your own route).  Sta
+ y after for food and/or drinks if 
+ you like.\n\nhttps://www.facebook.co
+ m/events/3661597557414778/?event_t
+ ime_id=3661597644081436
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240319T133927Z
+LAST-MODIFIED:20240319T133927Z
+CREATED:20240319T133927Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240726T003000Z
+DTEND:20240726T033000Z
+UID:e3661597637414770@facebook.com
+SUMMARY:Thursday Night Social Run/Walk
+LOCATION:La Planchada
+URL:https://www.facebook.com/events/3661597557414778/?event_time_id=3661597637414770
+DESCRIPTION:Please join us for our Thursday ni
+ ght social run/walk! Meet on the p
+ atio at La Planchada\, 217 W Gurley
+ .  We'll run or walk on the path a
+ long Granite Creek to the Park\, do
+  a couple laps in the Park\, then r
+ eturn (or do your own route).  Sta
+ y after for food and/or drinks if 
+ you like.\n\nhttps://www.facebook.co
+ m/events/3661597557414778/?event_t
+ ime_id=3661597637414770
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240319T133927Z
+LAST-MODIFIED:20240319T133927Z
+CREATED:20240319T133927Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240719T003000Z
+DTEND:20240719T033000Z
+UID:e3661597584081442@facebook.com
+SUMMARY:Thursday Night Social Run/Walk
+LOCATION:La Planchada
+URL:https://www.facebook.com/events/3661597557414778/?event_time_id=3661597584081442
+DESCRIPTION:Please join us for our Thursday ni
+ ght social run/walk! Meet on the p
+ atio at La Planchada\, 217 W Gurley
+ .  We'll run or walk on the path a
+ long Granite Creek to the Park\, do
+  a couple laps in the Park\, then r
+ eturn (or do your own route).  Sta
+ y after for food and/or drinks if 
+ you like.\n\nhttps://www.facebook.co
+ m/events/3661597557414778/?event_t
+ ime_id=3661597584081442
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240319T133927Z
+LAST-MODIFIED:20240319T133927Z
+CREATED:20240319T133927Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240712T003000Z
+DTEND:20240712T033000Z
+UID:e3661597647414769@facebook.com
+SUMMARY:Thursday Night Social Run/Walk
+LOCATION:La Planchada
+URL:https://www.facebook.com/events/3661597557414778/?event_time_id=3661597647414769
+DESCRIPTION:Please join us for our Thursday ni
+ ght social run/walk! Meet on the p
+ atio at La Planchada\, 217 W Gurley
+ .  We'll run or walk on the path a
+ long Granite Creek to the Park\, do
+  a couple laps in the Park\, then r
+ eturn (or do your own route).  Sta
+ y after for food and/or drinks if 
+ you like.\n\nhttps://www.facebook.co
+ m/events/3661597557414778/?event_t
+ ime_id=3661597647414769
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240319T133927Z
+LAST-MODIFIED:20240319T133927Z
+CREATED:20240319T133927Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240705T003000Z
+DTEND:20240705T033000Z
+UID:e3661597597414774@facebook.com
+SUMMARY:Thursday Night Social Run/Walk
+LOCATION:La Planchada
+URL:https://www.facebook.com/events/3661597557414778/?event_time_id=3661597597414774
+DESCRIPTION:Please join us for our Thursday ni
+ ght social run/walk! Meet on the p
+ atio at La Planchada\, 217 W Gurley
+ .  We'll run or walk on the path a
+ long Granite Creek to the Park\, do
+  a couple laps in the Park\, then r
+ eturn (or do your own route).  Sta
+ y after for food and/or drinks if 
+ you like.\n\nhttps://www.facebook.co
+ m/events/3661597557414778/?event_t
+ ime_id=3661597597414774
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240319T133927Z
+LAST-MODIFIED:20240319T133927Z
+CREATED:20240319T133927Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240628T003000Z
+DTEND:20240628T033000Z
+UID:e3661597650748102@facebook.com
+SUMMARY:Thursday Night Social Run/Walk
+LOCATION:La Planchada
+URL:https://www.facebook.com/events/3661597557414778/?event_time_id=3661597650748102
+DESCRIPTION:Please join us for our Thursday ni
+ ght social run/walk! Meet on the p
+ atio at La Planchada\, 217 W Gurley
+ .  We'll run or walk on the path a
+ long Granite Creek to the Park\, do
+  a couple laps in the Park\, then r
+ eturn (or do your own route).  Sta
+ y after for food and/or drinks if 
+ you like.\n\nhttps://www.facebook.co
+ m/events/3661597557414778/?event_t
+ ime_id=3661597650748102
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -307,6 +793,87 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20240319T133927Z
+LAST-MODIFIED:20240319T133927Z
+CREATED:20240319T133927Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240621T003000Z
+DTEND:20240621T033000Z
+UID:e3661597587414775@facebook.com
+SUMMARY:Thursday Night Social Run/Walk
+LOCATION:La Planchada
+URL:https://www.facebook.com/events/3661597557414778/?event_time_id=3661597587414775
+DESCRIPTION:Please join us for our Thursday ni
+ ght social run/walk! Meet on the p
+ atio at La Planchada\, 217 W Gurley
+ .  We'll run or walk on the path a
+ long Granite Creek to the Park\, do
+  a couple laps in the Park\, then r
+ eturn (or do your own route).  Sta
+ y after for food and/or drinks if 
+ you like.\n\nhttps://www.facebook.co
+ m/events/3661597557414778/?event_t
+ ime_id=3661597587414775
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240319T133927Z
+LAST-MODIFIED:20240319T133927Z
+CREATED:20240319T133927Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240614T003000Z
+DTEND:20240614T033000Z
+UID:e3661597654081435@facebook.com
+SUMMARY:Thursday Night Social Run/Walk
+LOCATION:La Planchada
+URL:https://www.facebook.com/events/3661597557414778/?event_time_id=3661597654081435
+DESCRIPTION:Please join us for our Thursday ni
+ ght social run/walk! Meet on the p
+ atio at La Planchada\, 217 W Gurley
+ .  We'll run or walk on the path a
+ long Granite Creek to the Park\, do
+  a couple laps in the Park\, then r
+ eturn (or do your own route).  Sta
+ y after for food and/or drinks if 
+ you like.\n\nhttps://www.facebook.co
+ m/events/3661597557414778/?event_t
+ ime_id=3661597654081435
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240319T133927Z
+LAST-MODIFIED:20240319T133927Z
+CREATED:20240319T133927Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240607T003000Z
+DTEND:20240607T033000Z
+UID:e3661597664081434@facebook.com
+SUMMARY:Thursday Night Social Run/Walk
+LOCATION:La Planchada
+URL:https://www.facebook.com/events/3661597557414778/?event_time_id=3661597664081434
+DESCRIPTION:Please join us for our Thursday ni
+ ght social run/walk! Meet on the p
+ atio at La Planchada\, 217 W Gurley
+ .  We'll run or walk on the path a
+ long Granite Creek to the Park\, do
+  a couple laps in the Park\, then r
+ eturn (or do your own route).  Sta
+ y after for food and/or drinks if 
+ you like.\n\nhttps://www.facebook.co
+ m/events/3661597557414778/?event_t
+ ime_id=3661597664081434
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20231109T195902Z
 LAST-MODIFIED:20231109T195902Z
 CREATED:20231109T195902Z
@@ -340,6 +907,60 @@ DESCRIPTION:Back and hotter than ever\, Hotfoot
  time with new friends.\n\nhttps://ww
  w.facebook.com/events/660573976215
  883/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240319T133927Z
+LAST-MODIFIED:20240319T133927Z
+CREATED:20240319T133927Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240531T003000Z
+DTEND:20240531T033000Z
+UID:e3661597600748107@facebook.com
+SUMMARY:Thursday Night Social Run/Walk
+LOCATION:La Planchada
+URL:https://www.facebook.com/events/3661597557414778/?event_time_id=3661597600748107
+DESCRIPTION:Please join us for our Thursday ni
+ ght social run/walk! Meet on the p
+ atio at La Planchada\, 217 W Gurley
+ .  We'll run or walk on the path a
+ long Granite Creek to the Park\, do
+  a couple laps in the Park\, then r
+ eturn (or do your own route).  Sta
+ y after for food and/or drinks if 
+ you like.\n\nhttps://www.facebook.co
+ m/events/3661597557414778/?event_t
+ ime_id=3661597600748107
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240319T133927Z
+LAST-MODIFIED:20240319T133927Z
+CREATED:20240319T133927Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240524T003000Z
+DTEND:20240524T033000Z
+UID:e3661597657414768@facebook.com
+SUMMARY:Thursday Night Social Run/Walk
+LOCATION:La Planchada
+URL:https://www.facebook.com/events/3661597557414778/?event_time_id=3661597657414768
+DESCRIPTION:Please join us for our Thursday ni
+ ght social run/walk! Meet on the p
+ atio at La Planchada\, 217 W Gurley
+ .  We'll run or walk on the path a
+ long Granite Creek to the Park\, do
+  a couple laps in the Park\, then r
+ eturn (or do your own route).  Sta
+ y after for food and/or drinks if 
+ you like.\n\nhttps://www.facebook.co
+ m/events/3661597557414778/?event_t
+ ime_id=3661597657414768
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -403,6 +1024,33 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20240319T133927Z
+LAST-MODIFIED:20240319T133927Z
+CREATED:20240319T133927Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240517T003000Z
+DTEND:20240517T033000Z
+UID:e3661597590748108@facebook.com
+SUMMARY:Thursday Night Social Run/Walk
+LOCATION:La Planchada
+URL:https://www.facebook.com/events/3661597557414778/?event_time_id=3661597590748108
+DESCRIPTION:Please join us for our Thursday ni
+ ght social run/walk! Meet on the p
+ atio at La Planchada\, 217 W Gurley
+ .  We'll run or walk on the path a
+ long Granite Creek to the Park\, do
+  a couple laps in the Park\, then r
+ eturn (or do your own route).  Sta
+ y after for food and/or drinks if 
+ you like.\n\nhttps://www.facebook.co
+ m/events/3661597557414778/?event_t
+ ime_id=3661597590748108
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20240304T223429Z
 LAST-MODIFIED:20240304T223429Z
 CREATED:20240304T223429Z
@@ -424,6 +1072,33 @@ DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
   this is white SPAR. \n\nBring water
  !\n\n\n\nhttps://www.facebook.com/even
  ts/781530837174816/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240319T133927Z
+LAST-MODIFIED:20240319T133927Z
+CREATED:20240319T133927Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240510T003000Z
+DTEND:20240510T033000Z
+UID:e3661597660748101@facebook.com
+SUMMARY:Thursday Night Social Run/Walk
+LOCATION:La Planchada
+URL:https://www.facebook.com/events/3661597557414778/?event_time_id=3661597660748101
+DESCRIPTION:Please join us for our Thursday ni
+ ght social run/walk! Meet on the p
+ atio at La Planchada\, 217 W Gurley
+ .  We'll run or walk on the path a
+ long Granite Creek to the Park\, do
+  a couple laps in the Park\, then r
+ eturn (or do your own route).  Sta
+ y after for food and/or drinks if 
+ you like.\n\nhttps://www.facebook.co
+ m/events/3661597557414778/?event_t
+ ime_id=3661597660748101
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -495,6 +1170,33 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20240319T133927Z
+LAST-MODIFIED:20240319T133927Z
+CREATED:20240319T133927Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240503T003000Z
+DTEND:20240503T033000Z
+UID:e3661597667414767@facebook.com
+SUMMARY:Thursday Night Social Run/Walk
+LOCATION:La Planchada
+URL:https://www.facebook.com/events/3661597557414778/?event_time_id=3661597667414767
+DESCRIPTION:Please join us for our Thursday ni
+ ght social run/walk! Meet on the p
+ atio at La Planchada\, 217 W Gurley
+ .  We'll run or walk on the path a
+ long Granite Creek to the Park\, do
+  a couple laps in the Park\, then r
+ eturn (or do your own route).  Sta
+ y after for food and/or drinks if 
+ you like.\n\nhttps://www.facebook.co
+ m/events/3661597557414778/?event_t
+ ime_id=3661597667414767
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20240304T223152Z
 LAST-MODIFIED:20240304T223152Z
 CREATED:20240304T223152Z
@@ -535,6 +1237,33 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20240319T133927Z
+LAST-MODIFIED:20240319T133927Z
+CREATED:20240319T133927Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240426T003000Z
+DTEND:20240426T033000Z
+UID:e3661597620748105@facebook.com
+SUMMARY:Thursday Night Social Run/Walk
+LOCATION:La Planchada
+URL:https://www.facebook.com/events/3661597557414778/?event_time_id=3661597620748105
+DESCRIPTION:Please join us for our Thursday ni
+ ght social run/walk! Meet on the p
+ atio at La Planchada\, 217 W Gurley
+ .  We'll run or walk on the path a
+ long Granite Creek to the Park\, do
+  a couple laps in the Park\, then r
+ eturn (or do your own route).  Sta
+ y after for food and/or drinks if 
+ you like.\n\nhttps://www.facebook.co
+ m/events/3661597557414778/?event_t
+ ime_id=3661597620748105
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20240306T143836Z
 LAST-MODIFIED:20240306T143836Z
 CREATED:20240304T222306Z
@@ -555,6 +1284,33 @@ DESCRIPTION:We will meet at White Rock Parking
  a headlamp!\n\nJon is leading this r
  un :)\n\n\n\n\nhttps://www.facebook.com
  /events/937132421210308/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240319T133927Z
+LAST-MODIFIED:20240319T133927Z
+CREATED:20240319T133927Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240419T003000Z
+DTEND:20240419T033000Z
+UID:e3661597594081441@facebook.com
+SUMMARY:Thursday Night Social Run/Walk
+LOCATION:La Planchada
+URL:https://www.facebook.com/events/3661597557414778/?event_time_id=3661597594081441
+DESCRIPTION:Please join us for our Thursday ni
+ ght social run/walk! Meet on the p
+ atio at La Planchada\, 217 W Gurley
+ .  We'll run or walk on the path a
+ long Granite Creek to the Park\, do
+  a couple laps in the Park\, then r
+ eturn (or do your own route).  Sta
+ y after for food and/or drinks if 
+ you like.\n\nhttps://www.facebook.co
+ m/events/3661597557414778/?event_t
+ ime_id=3661597594081441
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -585,6 +1341,33 @@ DESCRIPTION:Groom Creek Loop Trail #307\, S Sen
  p due to the longer distance)\n\nhtt
  ps://www.facebook.com/events/36141
  38378855751/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240319T133927Z
+LAST-MODIFIED:20240319T133927Z
+CREATED:20240319T133927Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240412T003000Z
+DTEND:20240412T033000Z
+UID:e3661597567414777@facebook.com
+SUMMARY:Thursday Night Social Run/Walk
+LOCATION:La Planchada
+URL:https://www.facebook.com/events/3661597557414778/?event_time_id=3661597567414777
+DESCRIPTION:Please join us for our Thursday ni
+ ght social run/walk! Meet on the p
+ atio at La Planchada\, 217 W Gurley
+ .  We'll run or walk on the path a
+ long Granite Creek to the Park\, do
+  a couple laps in the Park\, then r
+ eturn (or do your own route).  Sta
+ y after for food and/or drinks if 
+ you like.\n\nhttps://www.facebook.co
+ m/events/3661597557414778/?event_t
+ ime_id=3661597567414777
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -650,6 +1433,33 @@ DESCRIPTION:It’s always a DAM good time at D
   “racing lake day” at Dam Good
   Run on April 3rd!\n\nhttps://www.fa
  cebook.com/events/279988737846056/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240319T133927Z
+LAST-MODIFIED:20240319T133927Z
+CREATED:20240319T133927Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240405T003000Z
+DTEND:20240405T033000Z
+UID:e3661597604081440@facebook.com
+SUMMARY:Thursday Night Social Run/Walk
+LOCATION:La Planchada
+URL:https://www.facebook.com/events/3661597557414778/?event_time_id=3661597604081440
+DESCRIPTION:Please join us for our Thursday ni
+ ght social run/walk! Meet on the p
+ atio at La Planchada\, 217 W Gurley
+ .  We'll run or walk on the path a
+ long Granite Creek to the Park\, do
+  a couple laps in the Park\, then r
+ eturn (or do your own route).  Sta
+ y after for food and/or drinks if 
+ you like.\n\nhttps://www.facebook.co
+ m/events/3661597557414778/?event_t
+ ime_id=3661597604081440
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -721,23 +1531,54 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240101T143804Z
-LAST-MODIFIED:20240101T143804Z
-CREATED:20231117T202019Z
-SEQUENCE:3867465
+DTSTAMP:20240319T181421Z
+LAST-MODIFIED:20240319T181421Z
+CREATED:20240319T181421Z
+SEQUENCE:0
+ORGANIZER;CN=Jeffrey S. Auman:MAILTO:aumanjeffrey@gmail.com
+DTSTART:20240330T153000Z
+DTEND:20240330T183000Z
+UID:e327506553634175@facebook.com
+SUMMARY:SATR PATR MARCH 30TH! 18 MILES WATERSHED TRAIL HEAD TO WATSON LAKE.
+LOCATION:Watson Lake
+URL:https://www.facebook.com/events/327506553634175/
+DESCRIPTION:This is the last 18 ish miles of t
+ he Whiskey Basin 90k\, 60k & most o
+ f the 30k run. We will meet at Wat
+ son Lake and shuttle to the Waters
+ hed TH on Senator Highway and Scho
+ olhouse Gulch. Since we will need 
+ to have drivers\, please RSVP in a 
+ timely fashion. Hope to see you th
+ ere!\n\nhttps://www.facebook.com/eve
+ nts/327506553634175/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240319T133927Z
+LAST-MODIFIED:20240319T133927Z
+CREATED:20240319T133927Z
+SEQUENCE:0
 ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
 DTSTART:20240329T003000Z
-DTEND:20240329T003100Z
-UID:e1556735195157180@facebook.com
+DTEND:20240329T033000Z
+UID:e3661597607414773@facebook.com
 SUMMARY:Thursday Night Social Run/Walk
-URL:https://www.facebook.com/events/1556735191823847/?event_time_id=1556735195157180
-DESCRIPTION:Join us for a 2-4 mile run or walk
-  starting at La Planchada 217 West
-  Gurley. Stay after for food and/o
- r beverages if you like. \n\nhttps:/
- /www.facebook.com/events/155673519
- 1823847/?event_time_id=15567351951
- 57180
+LOCATION:La Planchada
+URL:https://www.facebook.com/events/3661597557414778/?event_time_id=3661597607414773
+DESCRIPTION:Please join us for our Thursday ni
+ ght social run/walk! Meet on the p
+ atio at La Planchada\, 217 W Gurley
+ .  We'll run or walk on the path a
+ long Granite Creek to the Park\, do
+  a couple laps in the Park\, then r
+ eturn (or do your own route).  Sta
+ y after for food and/or drinks if 
+ you like.\n\nhttps://www.facebook.co
+ m/events/3661597557414778/?event_t
+ ime_id=3661597607414773
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -859,23 +1700,28 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240101T143804Z
-LAST-MODIFIED:20240101T143804Z
-CREATED:20231117T202019Z
-SEQUENCE:3867465
+DTSTAMP:20240319T133927Z
+LAST-MODIFIED:20240319T133927Z
+CREATED:20240319T133927Z
+SEQUENCE:0
 ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
 DTSTART:20240322T003000Z
-DTEND:20240322T003100Z
-UID:e1556735255157174@facebook.com
+DTEND:20240322T033000Z
+UID:e3661597564081444@facebook.com
 SUMMARY:Thursday Night Social Run/Walk
-URL:https://www.facebook.com/events/1556735191823847/?event_time_id=1556735255157174
-DESCRIPTION:Join us for a 2-4 mile run or walk
-  starting at La Planchada 217 West
-  Gurley. Stay after for food and/o
- r beverages if you like. \n\nhttps:/
- /www.facebook.com/events/155673519
- 1823847/?event_time_id=15567352551
- 57174
+LOCATION:La Planchada
+URL:https://www.facebook.com/events/3661597557414778/?event_time_id=3661597564081444
+DESCRIPTION:Please join us for our Thursday ni
+ ght social run/walk! Meet on the p
+ atio at La Planchada\, 217 W Gurley
+ .  We'll run or walk on the path a
+ long Granite Creek to the Park\, do
+  a couple laps in the Park\, then r
+ eturn (or do your own route).  Sta
+ y after for food and/or drinks if 
+ you like.\n\nhttps://www.facebook.co
+ m/events/3661597557414778/?event_t
+ ime_id=3661597564081444
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -903,28 +1749,32 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240305T014423Z
-LAST-MODIFIED:20240305T014423Z
+DTSTAMP:20240319T195548Z
+LAST-MODIFIED:20240319T195548Z
 CREATED:20240104T211339Z
-SEQUENCE:5200244
+SEQUENCE:6475329
 ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
 DTSTART:20240320T003000Z
 DTEND:20240320T033000Z
 UID:e3593634150916981@facebook.com
-SUMMARY:Tuesday Group Run- Sundog Ranch Rd Area- Brandon leading!
+SUMMARY:***MOVING RUN TO PEAVINE!! Brandon leading!
 LOCATION:34.57229361759619\, -112.4364327781
  496
 URL:https://www.facebook.com/events/3593634150916981/
-DESCRIPTION:No drop group run (we stop at ever
- y intersection and wait for everyo
- ne to join up before running again
- ). This is an out and back. \n\nExpe
- ct 4-6 mi\n\nBring a headlamp. Brand
- on leading! \n\nDrive up 89 away fro
- m Prescott toward Chino\, turn RIGH
- T at the light across from Cliff R
- ose/Rosser St. \n \n\nhttps://www.fac
- ebook.com/events/3593634150916981/
+DESCRIPTION:\n***run has been moved to Peavine 
+ as other trail is currently under 
+ water!! Meeting at the trail head 
+ by the Humane Society! \n\nNo drop g
+ roup run (we stop at every interse
+ ction and wait for everyone to joi
+ n up before running again). This i
+ s an out and back. \n\nExpect 4-6 mi
+ \n\nBring a headlamp. Brandon leadin
+ g! \n\nDrive up 89 away from Prescot
+ t toward Chino\, turn RIGHT at the 
+ light across from Cliff Rose/Rosse
+ r St. \n \n\nhttps://www.facebook.com
+ /events/3593634150916981/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
@@ -1001,28 +1851,6 @@ DESCRIPTION:COCODONA FatAss #3 on deck for nex
  ns to make sure we don't lose anyo
  ne.\n\nRSVP please!\n\nhttps://www.fac
  ebook.com/events/687808966896959/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240101T143804Z
-LAST-MODIFIED:20240101T143804Z
-CREATED:20231117T202019Z
-SEQUENCE:3867465
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20240315T003000Z
-DTEND:20240315T003100Z
-UID:e1556735225157177@facebook.com
-SUMMARY:Thursday Night Social Run/Walk
-URL:https://www.facebook.com/events/1556735191823847/?event_time_id=1556735225157177
-DESCRIPTION:Join us for a 2-4 mile run or walk
-  starting at La Planchada 217 West
-  Gurley. Stay after for food and/o
- r beverages if you like. \n\nhttps:/
- /www.facebook.com/events/155673519
- 1823847/?event_time_id=15567352251
- 57177
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -1115,28 +1943,6 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240101T143804Z
-LAST-MODIFIED:20240101T143804Z
-CREATED:20231117T202019Z
-SEQUENCE:3867465
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20240308T003000Z
-DTEND:20240308T003100Z
-UID:e1556735251823841@facebook.com
-SUMMARY:Thursday Night Social Run/Walk
-URL:https://www.facebook.com/events/1556735191823847/?event_time_id=1556735251823841
-DESCRIPTION:Join us for a 2-4 mile run or walk
-  starting at La Planchada 217 West
-  Gurley. Stay after for food and/o
- r beverages if you like. \n\nhttps:/
- /www.facebook.com/events/155673519
- 1823847/?event_time_id=15567352518
- 23841
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20231109T140951Z
 LAST-MODIFIED:20231109T140951Z
 CREATED:20231109T140737Z
@@ -1189,28 +1995,6 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240101T143804Z
-LAST-MODIFIED:20240101T143804Z
-CREATED:20231117T202019Z
-SEQUENCE:3867465
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20240301T003000Z
-DTEND:20240301T003100Z
-UID:e1556735218490511@facebook.com
-SUMMARY:Thursday Night Social Run/Walk
-URL:https://www.facebook.com/events/1556735191823847/?event_time_id=1556735218490511
-DESCRIPTION:Join us for a 2-4 mile run or walk
-  starting at La Planchada 217 West
-  Gurley. Stay after for food and/o
- r beverages if you like. \n\nhttps:/
- /www.facebook.com/events/155673519
- 1823847/?event_time_id=15567352184
- 90511
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20231109T140951Z
 LAST-MODIFIED:20231109T140951Z
 CREATED:20231109T140737Z
@@ -1256,126 +2040,6 @@ DESCRIPTION:No drop group run (we stop at ever
  156489351595\, -112.42166632364031\n
  \nhttps://www.facebook.com/events/1
  612215029546372/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240218T231131Z
-LAST-MODIFIED:20240218T231131Z
-CREATED:20240218T230629Z
-SEQUENCE:302
-ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
-DTSTART:20240224T150000Z
-DTEND:20240224T180000Z
-UID:e773590964129518@facebook.com
-SUMMARY:COCODONA FatAss #2 (Fain to Jerome)
-URL:https://www.facebook.com/events/773590964129518/
-DESCRIPTION:WHAT:  COCODONA FatAss / Training 
- run from Fain Ranch to Jerome (~25
-  miles)\n\nWHEN: Saturday (24 Feb) a
- t 0800\n\nWHERE: Meet at Forest Serv
- ice Rd 643 right off Hwy 89A (34°
- 39'54.1"N 112°11'38.1"W) c... we'
- ll run up over Mingus Mtn and fini
- sh where the course re-enters priv
- ate property on at the edge of Jer
- ome (~2mi past Jerome aid station 
- on the course)\n\nWHO: Anyone who wa
- nts to run!\n\nParker will provide a
- id station support (hot & cold sna
- cks\, drinks\, hype music and drop b
- ags) \n\nAid locations: \n- Mingus Mo
- untain Camp (course aid station)\n-
-  Hwy 89A Rd crossing\, Jerome Histo
- ric Park (course aid station)\n- Fi
- nish at the end of Dundee Ln in Je
- rome. \n\nIf you can assist with shu
- ttling\, please let me know (we'll 
- have room for 2 additional runners
-  in Dory).\n\nWe won't wait at every
-  intersection (**please have the c
- ourse loaded on your phone**)\, but
-  we'll regroup at aid spots and a 
- couple of tricky / key turns to ma
- ke sure we don't lose anyone.\n\nhtt
- ps://www.facebook.com/events/77359
- 0964129518/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240101T143804Z
-LAST-MODIFIED:20240101T143804Z
-CREATED:20231117T202019Z
-SEQUENCE:3867465
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20240223T003000Z
-DTEND:20240223T003100Z
-UID:e1556735221823844@facebook.com
-SUMMARY:Thursday Night Social Run/Walk
-URL:https://www.facebook.com/events/1556735191823847/?event_time_id=1556735221823844
-DESCRIPTION:Join us for a 2-4 mile run or walk
-  starting at La Planchada 217 West
-  Gurley. Stay after for food and/o
- r beverages if you like. \n\nhttps:/
- /www.facebook.com/events/155673519
- 1823847/?event_time_id=15567352218
- 23844
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231109T140951Z
-LAST-MODIFIED:20231109T140951Z
-CREATED:20231109T140737Z
-SEQUENCE:134
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20240221T140000Z
-DTEND:20240221T153000Z
-UID:e649324574022215@facebook.com
-SUMMARY:Vert Club
-LOCATION:Thumb Butte Parking Lot
-URL:https://www.facebook.com/events/649323204022352/?event_time_id=649324574022215
-DESCRIPTION:Run/walk from the Thumb Butte Park
- ing Lot to the top of the trail as
-  many times as you want.  Free par
- king on Wednesday's.\n\nhttps://www.
- facebook.com/events/64932320402235
- 2/?event_time_id=649324574022215
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240217T214107Z
-LAST-MODIFIED:20240217T214107Z
-CREATED:20240104T205851Z
-SEQUENCE:3804136
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20240221T003000Z
-DTEND:20240221T033000Z
-UID:e1315443739162164@facebook.com
-SUMMARY:Tuesday Group Run- LOWER Spence Basin- Christian leading!
-LOCATION:https://maps.apple.com/?ll=34.5819
- 04\,-112.548972&q=Dropped%20Pin&_ex
- t=EiYpaevoe+dJQUAxxHG9OnsjXMA558AO
- 2A1LQUBB5GbvdsgiXMBQBA%3D%3D&t=h
-URL:https://www.facebook.com/events/1315443739162164/
-DESCRIPTION:Will meet at LOWER Spence Springs 
- parking lot: \n\nGPS here https://ma
- ps.app.goo.gl/tvsxZcN1fCTD7FMV8?g_
- st=ic\n\nPLEASE READ THIS DESCRIPTIO
- N. \nWe will meet at Lower Parking 
- lot along Iron Springs\, where Spen
- ce Springs Rd meets Iron Springs (
- trailhead). 5:30pm. Expect 4-6 mil
- es. No drop run (we stop for every
- one at every intersection). \n\nBrin
- g a headlamp!\n\nhttps://www.faceboo
- k.com/events/1315443739162164/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
