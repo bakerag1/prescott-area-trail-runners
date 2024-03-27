@@ -939,6 +939,50 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20240327T175007Z
+LAST-MODIFIED:20240327T175007Z
+CREATED:20240311T192552Z
+SEQUENCE:1376655
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20240529T000000Z
+DTEND:20240529T030000Z
+UID:e1091808298706442@facebook.com
+SUMMARY:Tuesday Group Run- Salida Gulch ***EARLY START at 5!!!
+URL:https://www.facebook.com/events/1091808298706442/
+DESCRIPTION:We are going to run Salida Gulch. 
+ The road will be closed at 7PM so 
+ we are starting the run 30 minutes
+  early at 5PM just for this date!\n
+ \nCindy leading!!!\n\nNo drop group r
+ un (we stop at every intersection 
+ and wait for everyone to join befo
+ re running again). Expect 4-6 mile
+ s \n\nBring a headlamp. \n\n34.5413221
+ 38945276\, -112.38131895761529\n\n***
+ This trailhead can be confusing to
+  find and GPS is sometimes wrong!!
+  Follow the route below from FS!**
+ *\n\nDirections from FS:\nFrom downto
+ wn Prescott\, travel east on Hwy 69
+  to Walker Road. Turn right and go
+  1.2 miles to the sign for Lynx Cr
+ eek Ruin. Turn left onto Lynx Cree
+ k Road (FR 9401) just after the si
+ gn. Travel 0.8 miles past the Day 
+ Use area\, bearing right down the h
+ ill and continuing to the end of t
+ he road. There is a large improved
+  lot with ample parking for both s
+ ingle vehicles and horse trailers.
+  Road conditions are paved\, then g
+ raded dirt and suitable for all ve
+ hicles.\n\nhttps://www.facebook.com/
+ events/1091808298706442/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20240319T133927Z
 LAST-MODIFIED:20240319T133927Z
 CREATED:20240319T133927Z
@@ -1487,45 +1531,36 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240312T005132Z
-LAST-MODIFIED:20240312T005132Z
-CREATED:20240311T192552Z
-SEQUENCE:19540
+DTSTAMP:20240327T180249Z
+LAST-MODIFIED:20240327T180249Z
+CREATED:20240327T180249Z
+SEQUENCE:0
 ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20240403T000000Z
-DTEND:20240403T030000Z
-UID:e1091808298706442@facebook.com
-SUMMARY:Tuesday Group Run- Salida Gulch ***EARLY START at 5!!!
-URL:https://www.facebook.com/events/1091808298706442/
-DESCRIPTION:We are going to run Salida Gulch. 
- The road will be closed at 7PM so 
- we are starting the run 30 minutes
-  early at 5PM just for this date!\n
- \nCindy leading!!!\n\nNo drop group r
- un (we stop at every intersection 
- and wait for everyone to join befo
- re running again). Expect 4-6 mile
- s \n\nBring a headlamp. \n\n34.5413221
- 38945276\, -112.38131895761529\n\n***
- This trailhead can be confusing to
-  find and GPS is sometimes wrong!!
-  Follow the route below from FS!**
- *\n\nDirections from FS:\nFrom downto
- wn Prescott\, travel east on Hwy 69
-  to Walker Road. Turn right and go
-  1.2 miles to the sign for Lynx Cr
- eek Ruin. Turn left onto Lynx Cree
- k Road (FR 9401) just after the si
- gn. Travel 0.8 miles past the Day 
- Use area\, bearing right down the h
- ill and continuing to the end of t
- he road. There is a large improved
-  lot with ample parking for both s
- ingle vehicles and horse trailers.
-  Road conditions are paved\, then g
- raded dirt and suitable for all ve
- hicles.\n\nhttps://www.facebook.com/
- events/1091808298706442/
+DTSTART:20240403T003000Z
+DTEND:20240403T033000Z
+UID:e769723658432573@facebook.com
+SUMMARY:***Location changed*** Tuesday Group Run -Constellation Trail++
+URL:https://www.facebook.com/events/769723658432573/
+DESCRIPTION:We are planning to do the Constell
+ ation Trail and then a second loop
+  to make it around 5 mi total. \n\nT
+ his is a no drop group run and we 
+ will stop at every intersection fo
+ r everyone to catch up. No trail r
+ unner left behind! (usually - hasn
+ 't happened yet but there's a firs
+ t for everything I suppose)\n\nWeath
+ er is unpredictable - dress for an
+ ything! -mud\, snow\, sun\, water cro
+ ssings LOL\n\nBring a headlamp and w
+ ater :) \n\nParking off Hwy 89\, acro
+ ss from Phippen Museum in the pave
+ d trailhead parking area. \n\nhttps:
+ //www.alltrails.com/trail/us/arizo
+ na/constellation-loop\n\nhttps://map
+ s.app.goo.gl/Wkz2aGxiFV9rYayQA\n\nht
+ tps://www.facebook.com/events/7697
+ 23658432573/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
