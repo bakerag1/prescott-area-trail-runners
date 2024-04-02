@@ -130,9 +130,6 @@ func parseEvents() []event {
 		ev.Description = expr.ReplaceAllString(ev.Description, "[$1:$2]($1:$2)")
 		expr2 := regexp.MustCompile(`^([^A-z0-9]*)(.*)`)
 		ev.Summary = expr2.ReplaceAllString(e.Summary, "$2")
-		if strings.Compare(ev.Summary, "Thursday Night Social Run/Walk") == 0 {
-			ev.Summary = "CANCELLED - Thursday Night Social Run/Walk"
-		}
 		ev.Start = e.Start.Local().Format("2006-01-02T15:04:00Z")
 		ev.DayOfMonth = e.Start.Local().Format("02")
 		ev.Month = e.Start.Local().Format("Jan")
