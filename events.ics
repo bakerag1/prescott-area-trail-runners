@@ -983,6 +983,31 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20240407T231735Z
+LAST-MODIFIED:20240407T231735Z
+CREATED:20240407T231327Z
+SEQUENCE:248
+ORGANIZER;CN=Jeffrey S. Auman:MAILTO:aumanjeffrey@gmail.com
+DTSTART:20240526T140000Z
+DTEND:20240526T190000Z
+UID:e334284262994587@facebook.com
+SUMMARY:Loop The Butte
+LOCATION:Loop The Butte
+URL:https://www.facebook.com/events/334284262994587/
+DESCRIPTION:**SAVE THE DATE** Join us for a ch
+ allenging morning of "looping the 
+ butte"! We will have an Aide Stati
+ on at the base of Thumb Butte for 
+ everyone to enjoy. There will be p
+ rizes and give-aways throughout th
+ e day. More details to follow.\n\nht
+ tps://www.facebook.com/events/3342
+ 84262994587/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20240319T133927Z
 LAST-MODIFIED:20240319T133927Z
 CREATED:20240319T133927Z
@@ -1414,7 +1439,7 @@ DESCRIPTION:Please join us for our Thursday ni
  ime_id=3661597567414777
 CLASS:PUBLIC
 STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
+PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20240304T221338Z
@@ -1439,7 +1464,7 @@ DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
  50172/
 CLASS:PUBLIC
 STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
+PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20230630T223435Z
@@ -1936,97 +1961,5 @@ DESCRIPTION:\n\nCindy leading! Tuesday March 12t
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240107T015429Z
-LAST-MODIFIED:20240107T015429Z
-CREATED:20231213T032453Z
-SEQUENCE:2154576
-ORGANIZER;CN=Hope_Thewildburroplace:MAILTO:noreply@facebookmail.com
-DTSTART:20240309T150000Z
-DTEND:20240310T230000Z
-UID:e743370304486713@facebook.com
-SUMMARY:Black Canyon Donkey Derby
-LOCATION:18181 E Deep Canyon Trail  Black C
- anyon City Az 85324
-URL:https://www.facebook.com/events/743370304486713/
-DESCRIPTION:This is a wonderful community even
- t! If you love donkeys\, this is th
- e place for you! Saturday is the B
- urro Race and St. Paddy’s Day Co
- stume Contest\, then on Sunday we h
- ave an In-hand Obstacle Course Cha
- llenge. There will be food trucks\,
-  vendors\, and kids’ activities! 
- The Race is a 3\, 6\, or 9 mile cour
- se! The 3 mile is a great beginner
-  course you can walk with your don
- key!! Come and join the fun! If yo
- u don’t own a donkey but want to
-  participate\, there are local resc
- ues who have donkeys to rent! You 
- can also just come watch and enjoy
-  being a part of the burro communi
- ty! \n\nRun Sign Up Link and Event I
- nformation:\n\nhttps://runsignup.com
- /Race/AZ/BlackCanyonCity/BlackCany
- onDonkeyDerby2024\n\n\n\nhttps://www.f
- acebook.com/events/743370304486713
- /
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231109T140951Z
-LAST-MODIFIED:20231109T140951Z
-CREATED:20231109T140737Z
-SEQUENCE:134
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20240306T140000Z
-DTEND:20240306T153000Z
-UID:e649324570688882@facebook.com
-SUMMARY:Vert Club
-LOCATION:Thumb Butte Parking Lot
-URL:https://www.facebook.com/events/649323204022352/?event_time_id=649324570688882
-DESCRIPTION:Run/walk from the Thumb Butte Park
- ing Lot to the top of the trail as
-  many times as you want.  Free par
- king on Wednesday's.\n\nhttps://www.
- facebook.com/events/64932320402235
- 2/?event_time_id=649324570688882
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240306T000020Z
-LAST-MODIFIED:20240306T000020Z
-CREATED:20240104T210608Z
-SEQUENCE:5280852
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20240306T003000Z
-DTEND:20240306T033000Z
-UID:e7723211927693962@facebook.com
-SUMMARY:**changed to white rock!!! Tuesday Group Run- White Spar
-URL:https://www.facebook.com/events/7723211927693962/
-DESCRIPTION:So sorry for the last minute! Just
-  found out the trail head is close
- d- moving run to White ROCK!!!! Ap
- ologies for any confusion!!! \n\nPLE
- ASE READ THIS DESCRIPTION. \n\nWe wi
- ll meet at the White Spar Parking 
- lot (link here https://goo.gl/maps
- /nX4JGH75u4T7R15g7) at 5:30 PM. Ex
- pect 4-6 miles. No drop run (we st
- op for everyone at every intersect
- ion). \n\nBe careful\, this is NOT th
- e usual white ROCK parking lot\, th
- is is white SPAR. \n\nBring a headla
- mp!\n\n\n\nhttps://www.facebook.com/ev
- ents/7723211927693962/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
 END:VEVENT
 END:VCALENDAR
