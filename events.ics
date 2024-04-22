@@ -183,6 +183,43 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20240412T164929Z
+LAST-MODIFIED:20240412T164929Z
+CREATED:20240412T164929Z
+SEQUENCE:0
+ORGANIZER;CN=Aravaipa Running:MAILTO:noreply@facebookmail.com
+DTSTART:20240928T130000Z
+DTEND:20240928T160000Z
+UID:e432440912770215@facebook.com
+SUMMARY:Flagstaff Sky Peaks 🍂 ⛰️ 
+LOCATION:Flagstaff\,AZ
+URL:https://www.facebook.com/events/432440912770215/
+DESCRIPTION:Experience fall vibes and mountain
+  running at their finest at the 20
+ 24 edition of Flagstaff Sky Peaks 
+ this September 28th. \n\nJoin us in 
+ beautiful Flagstaff at a new for 2
+ 024 race staging area at the Fort 
+ Valley Trailhead! \nThis exciting m
+ ove will freshen up the courses\, g
+ ranting access to even more amazin
+ g trails! \n“Ring The Peaks” in
+  the 50 miler\, or take on the 50k\,
+  26k or 10k utilizing the iconic A
+ rizona Trail\, the beautiful Schult
+ z Creek\, Weatherford and Fort Vall
+ ey Trails\, and of course\, the leaf
+ -peepers delight\; the Aspen Loop. 
+ \n\nEnjoy the crisp mountain air\, ep
+ ic trails and colorful fall\, North
+ ern Arizona foliage with us this S
+ eptember! \n\n\nhttps://www.facebook.
+ com/events/432440912770215/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20240319T133927Z
 LAST-MODIFIED:20240319T133927Z
 CREATED:20240319T133927Z
@@ -874,6 +911,31 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20240416T223433Z
+LAST-MODIFIED:20240416T223433Z
+CREATED:20240416T223433Z
+SEQUENCE:0
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20240605T003000Z
+DTEND:20240605T033000Z
+UID:e1399952070891126@facebook.com
+SUMMARY:Tuesday Group Run- Thumb Butte Loop- Cindy leading! 
+URL:https://www.facebook.com/events/1399952070891126/
+DESCRIPTION:Thumb Butte loop (326\, 392\, 367). 
+ 4.7 miles\, 784 ft if elevation gai
+ n. Meet at the Thumb Butte Parking
+  lot (paid parking or national par
+ ks pass). Cindy leading! \n\nThumb B
+ utte Trail 326\, 392\, and 367 on Al
+ lTrails\n\nhttps://maps.app.goo.gl/a
+ u5cdA9c6hYKsccSA?g_st=ic\n\nhttps://
+ www.facebook.com/events/1399952070
+ 891126/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20231109T195902Z
 LAST-MODIFIED:20231109T195902Z
 CREATED:20231109T195902Z
@@ -983,10 +1045,10 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240407T231735Z
-LAST-MODIFIED:20240407T231735Z
+DTSTAMP:20240417T020144Z
+LAST-MODIFIED:20240417T020144Z
 CREATED:20240407T231327Z
-SEQUENCE:248
+SEQUENCE:787697
 ORGANIZER;CN=Jeffrey S. Auman:MAILTO:aumanjeffrey@gmail.com
 DTSTART:20240526T140000Z
 DTEND:20240526T190000Z
@@ -994,15 +1056,36 @@ UID:e334284262994587@facebook.com
 SUMMARY:Loop The Butte
 LOCATION:Loop The Butte
 URL:https://www.facebook.com/events/334284262994587/
-DESCRIPTION:**SAVE THE DATE** Join us for a ch
- allenging morning of "looping the 
- butte"! We will have an Aide Stati
- on at the base of Thumb Butte for 
- everyone to enjoy. There will be p
- rizes and give-aways throughout th
- e day. More details to follow.\n\nht
- tps://www.facebook.com/events/3342
- 84262994587/
+DESCRIPTION:Please join us for Loop The Butte\,
+  Sunday May 26th from 7am to 12 no
+ on! This is open to everyone for F
+ REE! So come on out and see your f
+ ellow PATR Runners loop the butte.
+  Do as many or as few laps as you 
+ wish! There will be an aide statio
+ n with all kind of snacks\, drinks 
+ and such!\n\nThis is also doubling a
+ s a charity event for The Launch P
+ ad Teen Center in Prescott. For th
+ e past 6 years they have hosted a 
+ Trek4Teens Rim2Rim hike of the Gra
+ nd Canyon. Adults\, like me and pos
+ sibly you\, sign up and agree to ra
+ ise money for TLP's Outdoor Progam
+ s. Last years hike raised $72\,000.
+  If you would like to donate\, the 
+ link will be provided in the comme
+ nts. As and added bonus\, the first
+  20 people to donate at least $50 
+ and complete 5 laps will recieve a
+  special gift (think Goodrs\, Cocod
+ ona Swag and Javelina 100 Swag). A
+ s a second added bonus\, your donat
+ ion is a TAX CREDIT on your AZ Sta
+ te taxes. Talk to your tax profess
+ ional for specifics or just ask Mo
+ lly or me. \n\n\n\nhttps://www.faceboo
+ k.com/events/334284262994587/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
@@ -1333,6 +1416,33 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20240411T230006Z
+LAST-MODIFIED:20240411T230006Z
+CREATED:20240411T230006Z
+SEQUENCE:0
+ORGANIZER;CN=Paula Olson:MAILTO:noreply@facebookmail.com
+DTSTART:20240424T140000Z
+DTEND:20240424T170000Z
+UID:e1569261960518154@facebook.com
+SUMMARY:Vert club
+LOCATION:Thumb Butte Pic Area\, Prescott\, AZ
+  86305\, United States
+URL:https://www.facebook.com/events/1569261957184821/?event_time_id=1569261960518154
+DESCRIPTION:Meet at Thumb Butte trailhead and 
+ do as many loops as you want. Meet
+  in the parking lot for a group ph
+ oto. One loop is almost 2 miles. A
+ s we head out we go to the left of
+  the trail. Gate doesn’t open un
+ til 7 am for the month of April. \n
+ \nhttps://www.facebook.com/events/1
+ 569261957184821/?event_time_id=156
+ 9261960518154
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20240306T143836Z
 LAST-MODIFIED:20240306T143836Z
 CREATED:20240304T222306Z
@@ -1353,33 +1463,6 @@ DESCRIPTION:We will meet at White Rock Parking
  a headlamp!\n\nJon is leading this r
  un :)\n\n\n\n\nhttps://www.facebook.com
  /events/937132421210308/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240319T133927Z
-LAST-MODIFIED:20240319T133927Z
-CREATED:20240319T133927Z
-SEQUENCE:0
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20240419T003000Z
-DTEND:20240419T033000Z
-UID:e3661597594081441@facebook.com
-SUMMARY:Thursday Night Social Run/Walk
-LOCATION:La Planchada
-URL:https://www.facebook.com/events/3661597557414778/?event_time_id=3661597594081441
-DESCRIPTION:Please join us for our Thursday ni
- ght social run/walk! Meet on the p
- atio at La Planchada\, 217 W Gurley
- .  We'll run or walk on the path a
- long Granite Creek to the Park\, do
-  a couple laps in the Park\, then r
- eturn (or do your own route).  Sta
- y after for food and/or drinks if 
- you like.\n\nhttps://www.facebook.co
- m/events/3661597557414778/?event_t
- ime_id=3661597594081441
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -1412,7 +1495,7 @@ DESCRIPTION:Groom Creek Loop Trail #307\, S Sen
  38378855751/
 CLASS:PUBLIC
 STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
+PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20240319T133927Z
@@ -1726,240 +1809,5 @@ DESCRIPTION:Meet at 06:30\; Run at 06:45. 34 mi
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230630T220300Z
-LAST-MODIFIED:20230630T220300Z
-CREATED:20230630T220300Z
-SEQUENCE:0
-ORGANIZER;CN=Aravaipa Running:MAILTO:noreply@facebookmail.com
-DTSTART:20240323T130000Z
-DTEND:20240323T160000Z
-UID:e1935722730119086@facebook.com
-SUMMARY:Crown King Scramble 
-LOCATION:Lake Pleasant Regional Park
-URL:https://www.facebook.com/events/1935722730119086/
-DESCRIPTION:After all\, it’s only “one clim
- b”! \n\nJoin us on March 23rd for 
- the 32nd running of the Crown King
-  Scramble 50k! \n\nFrom 'spines to p
- ines' start lakeside and run throu
- gh the heart of the Sonoran Desert
-  to climb to the cool pines of the
-  Bradshaw Mountains.\n\nStay and cel
- ebrate your victory after you cros
- s the finish line in the historic 
- and quaint town of Crown King! It’
- s a race like no other and a day y
- ou’ll never forget. \n\nWe hope to
-  see you at the saloon this spring
- !\n\nhttps://www.facebook.com/events
- /1935722730119086/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240319T133927Z
-LAST-MODIFIED:20240319T133927Z
-CREATED:20240319T133927Z
-SEQUENCE:0
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20240322T003000Z
-DTEND:20240322T033000Z
-UID:e3661597564081444@facebook.com
-SUMMARY:Thursday Night Social Run/Walk
-LOCATION:La Planchada
-URL:https://www.facebook.com/events/3661597557414778/?event_time_id=3661597564081444
-DESCRIPTION:Please join us for our Thursday ni
- ght social run/walk! Meet on the p
- atio at La Planchada\, 217 W Gurley
- .  We'll run or walk on the path a
- long Granite Creek to the Park\, do
-  a couple laps in the Park\, then r
- eturn (or do your own route).  Sta
- y after for food and/or drinks if 
- you like.\n\nhttps://www.facebook.co
- m/events/3661597557414778/?event_t
- ime_id=3661597564081444
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231109T140951Z
-LAST-MODIFIED:20231109T140951Z
-CREATED:20231109T140737Z
-SEQUENCE:134
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20240320T140000Z
-DTEND:20240320T153000Z
-UID:e649324564022216@facebook.com
-SUMMARY:Vert Club
-LOCATION:Thumb Butte Parking Lot
-URL:https://www.facebook.com/events/649323204022352/?event_time_id=649324564022216
-DESCRIPTION:Run/walk from the Thumb Butte Park
- ing Lot to the top of the trail as
-  many times as you want.  Free par
- king on Wednesday's.\n\nhttps://www.
- facebook.com/events/64932320402235
- 2/?event_time_id=649324564022216
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240319T195548Z
-LAST-MODIFIED:20240319T195548Z
-CREATED:20240104T211339Z
-SEQUENCE:6475329
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20240320T003000Z
-DTEND:20240320T033000Z
-UID:e3593634150916981@facebook.com
-SUMMARY:***MOVING RUN TO PEAVINE!! Brandon leading!
-LOCATION:34.57229361759619\, -112.4364327781
- 496
-URL:https://www.facebook.com/events/3593634150916981/
-DESCRIPTION:\n***run has been moved to Peavine 
- as other trail is currently under 
- water!! Meeting at the trail head 
- by the Humane Society! \n\nNo drop g
- roup run (we stop at every interse
- ction and wait for everyone to joi
- n up before running again). This i
- s an out and back. \n\nExpect 4-6 mi
- \n\nBring a headlamp. Brandon leadin
- g! \n\nDrive up 89 away from Prescot
- t toward Chino\, turn RIGHT at the 
- light across from Cliff Rose/Rosse
- r St. \n \n\nhttps://www.facebook.com
- /events/3593634150916981/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240308T013603Z
-LAST-MODIFIED:20240308T013603Z
-CREATED:20240304T161910Z
-SEQUENCE:292613
-ORGANIZER;CN=Shelley Deardorff:MAILTO:noreply@facebookmail.com
-DTSTART:20240317T210000Z
-DTEND:20240318T000000Z
-UID:e924036976072052@facebook.com
-SUMMARY:St Paddy's at Founding Fathers
-LOCATION:Founding Fathers Collective
-URL:https://www.facebook.com/events/924036976072052/
-DESCRIPTION:Join the Whiskey Row Beer Club to 
- celebrate the best holiday of the 
- year! 🍀💚\nWear green or I wil
- l pinch you\, hard! 😁\n\n\nhttps://
- www.facebook.com/events/9240369760
- 72052/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240315T220746Z
-LAST-MODIFIED:20240315T220746Z
-CREATED:20240310T011358Z
-SEQUENCE:507228
-ORGANIZER;CN=Carol Stuart Northrup:MAILTO:noreply@facebookmail.com
-DTSTART:20240316T150000Z
-DTEND:20240316T180000Z
-UID:e687808966896959@facebook.com
-SUMMARY:COCODONA Fat Ass #3 Sedona to Munds Park
-LOCATION:Posse Ground Park
-URL:https://www.facebook.com/events/687808966896959/
-DESCRIPTION:COCODONA FatAss #3 on deck for nex
- t weekend! This is a great one for
-  Sedona Canyons 125 runners too!!\n
- \nWHAT:  COCODONA FatAss from Sedon
- a to Munds Park (plus)\n\nWHEN: Satu
- rday (**16 Mar**) at 0800\n\nWHERE: 
- Meet at Posse Grounds Park in Sedo
- na (161/37 mi aid station) and fin
- ish at Pinewood Country Club in Mu
- nds Park (190/66 mi aid station) \n
- \nWHO: Anyone who wants to run! (Th
- ere are shorter options at ~8 mile
- s and ~16 miles for anyone not int
- erested in the full monte.)\n\nWHY: 
- 'Cause we LOVE trails!!\n\nParker wi
- ll provide aid station support (ho
- t & cold snacks\, drinks\, hype musi
- c and drop bags) 3 places: 1) Gras
- shopper Point (~8 miles) just befo
- re Oak Creek crossing\, 2) Intersec
- tion of I-17 and Schnebly Rd (~16m
- i) and Pinewood Country Club in Mu
- nds Park (~30miles). \n\n*Roads are 
- closed between I-17 and Munds Park
- . Expect MUDDY conditions. Parker 
- will provide aid at the road closu
- re point which is about 1.5 miles 
- BEFORE the course aid station.\n\nIf
-  you can assist with transportatio
- n\, please let us know (we'll have 
- room for 2 additional runners in D
- ory).\n\n**Please have the course lo
- aded on your phone** \n\nWe won't wa
- it at every intersection\, but we'l
- l regroup at aid spots and key tur
- ns to make sure we don't lose anyo
- ne.\n\nRSVP please!\n\nhttps://www.fac
- ebook.com/events/687808966896959/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231109T140951Z
-LAST-MODIFIED:20231109T140951Z
-CREATED:20231109T140737Z
-SEQUENCE:134
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20240313T140000Z
-DTEND:20240313T153000Z
-UID:e649324567355549@facebook.com
-SUMMARY:Vert Club
-LOCATION:Thumb Butte Parking Lot
-URL:https://www.facebook.com/events/649323204022352/?event_time_id=649324567355549
-DESCRIPTION:Run/walk from the Thumb Butte Park
- ing Lot to the top of the trail as
-  many times as you want.  Free par
- king on Wednesday's.\n\nhttps://www.
- facebook.com/events/64932320402235
- 2/?event_time_id=649324567355549
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240214T031048Z
-LAST-MODIFIED:20240214T031048Z
-CREATED:20240214T031048Z
-SEQUENCE:0
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20240313T003000Z
-DTEND:20240313T033000Z
-UID:e363215043333625@facebook.com
-SUMMARY:Tuesday Group Run- Thumb Butte Loop- Cindy leading! 
-URL:https://www.facebook.com/events/363215043333625/
-DESCRIPTION:\n\nCindy leading! Tuesday March 12t
- h\n\nThumb Butte loop (326\, 392\, 367
- ). 4.7 miles\, 784 ft if elevation 
- gain. Meet at the Thumb Butte Park
- ing lot (paid parking or national 
- parks pass)\n\nThumb Butte Trail 326
- \, 392\, and 367 on AllTrails\n\nhttps
- ://maps.app.goo.gl/au5cdA9c6hYKscc
- SA?g_st=ic\n\nhttps://www.facebook.c
- om/events/363215043333625/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
 END:VEVENT
 END:VCALENDAR
