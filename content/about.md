@@ -1,5 +1,5 @@
 ---
-layout: page
+kind: page
 title: About
 permalink: /about/
 feature-img: "assets/img/big-trail.jpg"

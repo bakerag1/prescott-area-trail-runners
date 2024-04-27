@@ -36,3 +36,4 @@ test/*
 *.swp
 
 .hugo_build.lock
+public/

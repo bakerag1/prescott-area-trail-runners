@@ -1,5 +1,5 @@
 ---
-layout: page
+kind: page
 title: Schedule
 subtitle: club events
 feature-img: "assets/img/big-trail.jpg"

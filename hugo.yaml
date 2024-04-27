@@ -4,7 +4,8 @@ languageCode: en-us
 title: PATR
 theme: hyde
 services:
-  googleAnalytics: G-5Q4TX7CD5X
+  googleAnalytics: 
+    ID: G-5Q4TX7CD5X
 
 ignoreFiles:
   - events.ics
@@ -24,6 +25,8 @@ Menus:
       URL: /events
     - Name: trails
       URL: /trails
+    - Name: Area Races
+      URL: /races
   links:
     - Name: Facebook
       URL: https://www.facebook.com/groups/prescottareatrailrunners
