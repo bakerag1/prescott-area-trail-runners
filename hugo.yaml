@@ -23,9 +23,11 @@ Menus:
       URL: /about
     - Name: schedule
       URL: /events
+    - Name: race reports
+      URL: /reports
     - Name: trails
       URL: /trails
-    - Name: Area Races
+    - Name: area races
       URL: /races
   links:
     - Name: Facebook
