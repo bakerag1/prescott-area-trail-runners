@@ -3,7 +3,8 @@ disablePathToLower: true
 languageCode: en-us
 title: PATR
 theme: hyde
-googleAnalytics: G-5Q4TX7CD5X
+services:
+  googleAnalytics: G-5Q4TX7CD5X
 
 ignoreFiles:
   - events.ics

@@ -454,6 +454,29 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20240424T161859Z
+LAST-MODIFIED:20240424T161859Z
+CREATED:20240424T161631Z
+SEQUENCE:148
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240828T130000Z
+DTEND:20240828T150000Z
+UID:e406295252167100@facebook.com
+SUMMARY:Vert Club
+URL:https://www.facebook.com/events/406295242167101/?event_time_id=406295252167100
+DESCRIPTION:Meet in Thumb Butte parking lot (f
+ ree on Wednesdays) and run or walk
+  as many loops to the top as you l
+ ike!  Gates open at 6:00AM\, expect
+  some people to start at 6:00AM an
+ d some at 7:00AM. \n\nhttps://www.fa
+ cebook.com/events/406295242167101/
+ ?event_time_id=406295252167100
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20231109T200115Z
 LAST-MODIFIED:20231109T200115Z
 CREATED:20231109T200115Z
@@ -509,6 +532,29 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20240424T161859Z
+LAST-MODIFIED:20240424T161859Z
+CREATED:20240424T161631Z
+SEQUENCE:148
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240821T130000Z
+DTEND:20240821T150000Z
+UID:e406295255500433@facebook.com
+SUMMARY:Vert Club
+URL:https://www.facebook.com/events/406295242167101/?event_time_id=406295255500433
+DESCRIPTION:Meet in Thumb Butte parking lot (f
+ ree on Wednesdays) and run or walk
+  as many loops to the top as you l
+ ike!  Gates open at 6:00AM\, expect
+  some people to start at 6:00AM an
+ d some at 7:00AM. \n\nhttps://www.fa
+ cebook.com/events/406295242167101/
+ ?event_time_id=406295255500433
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20240319T133927Z
 LAST-MODIFIED:20240319T133927Z
 CREATED:20240319T133927Z
@@ -531,6 +577,29 @@ DESCRIPTION:Please join us for our Thursday ni
  you like.\n\nhttps://www.facebook.co
  m/events/3661597557414778/?event_t
  ime_id=3661597577414776
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240424T161859Z
+LAST-MODIFIED:20240424T161859Z
+CREATED:20240424T161631Z
+SEQUENCE:148
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240814T130000Z
+DTEND:20240814T150000Z
+UID:e406295258833766@facebook.com
+SUMMARY:Vert Club
+URL:https://www.facebook.com/events/406295242167101/?event_time_id=406295258833766
+DESCRIPTION:Meet in Thumb Butte parking lot (f
+ ree on Wednesdays) and run or walk
+  as many loops to the top as you l
+ ike!  Gates open at 6:00AM\, expect
+  some people to start at 6:00AM an
+ d some at 7:00AM. \n\nhttps://www.fa
+ cebook.com/events/406295242167101/
+ ?event_time_id=406295258833766
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -563,6 +632,29 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20240424T161859Z
+LAST-MODIFIED:20240424T161859Z
+CREATED:20240424T161631Z
+SEQUENCE:148
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240807T130000Z
+DTEND:20240807T150000Z
+UID:e406295272167098@facebook.com
+SUMMARY:Vert Club
+URL:https://www.facebook.com/events/406295242167101/?event_time_id=406295272167098
+DESCRIPTION:Meet in Thumb Butte parking lot (f
+ ree on Wednesdays) and run or walk
+  as many loops to the top as you l
+ ike!  Gates open at 6:00AM\, expect
+  some people to start at 6:00AM an
+ d some at 7:00AM. \n\nhttps://www.fa
+ cebook.com/events/406295242167101/
+ ?event_time_id=406295272167098
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20240319T133927Z
 LAST-MODIFIED:20240319T133927Z
 CREATED:20240319T133927Z
@@ -585,6 +677,29 @@ DESCRIPTION:Please join us for our Thursday ni
  you like.\n\nhttps://www.facebook.co
  m/events/3661597557414778/?event_t
  ime_id=3661597644081436
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240424T161859Z
+LAST-MODIFIED:20240424T161859Z
+CREATED:20240424T161631Z
+SEQUENCE:148
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240731T130000Z
+DTEND:20240731T150000Z
+UID:e406295285500430@facebook.com
+SUMMARY:Vert Club
+URL:https://www.facebook.com/events/406295242167101/?event_time_id=406295285500430
+DESCRIPTION:Meet in Thumb Butte parking lot (f
+ ree on Wednesdays) and run or walk
+  as many loops to the top as you l
+ ike!  Gates open at 6:00AM\, expect
+  some people to start at 6:00AM an
+ d some at 7:00AM. \n\nhttps://www.fa
+ cebook.com/events/406295242167101/
+ ?event_time_id=406295285500430
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -617,6 +732,29 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20240424T161859Z
+LAST-MODIFIED:20240424T161859Z
+CREATED:20240424T161631Z
+SEQUENCE:148
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240724T130000Z
+DTEND:20240724T150000Z
+UID:e406295275500431@facebook.com
+SUMMARY:Vert Club
+URL:https://www.facebook.com/events/406295242167101/?event_time_id=406295275500431
+DESCRIPTION:Meet in Thumb Butte parking lot (f
+ ree on Wednesdays) and run or walk
+  as many loops to the top as you l
+ ike!  Gates open at 6:00AM\, expect
+  some people to start at 6:00AM an
+ d some at 7:00AM. \n\nhttps://www.fa
+ cebook.com/events/406295242167101/
+ ?event_time_id=406295275500431
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20240319T133927Z
 LAST-MODIFIED:20240319T133927Z
 CREATED:20240319T133927Z
@@ -639,6 +777,29 @@ DESCRIPTION:Please join us for our Thursday ni
  you like.\n\nhttps://www.facebook.co
  m/events/3661597557414778/?event_t
  ime_id=3661597584081442
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240424T161859Z
+LAST-MODIFIED:20240424T161859Z
+CREATED:20240424T161631Z
+SEQUENCE:148
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240717T130000Z
+DTEND:20240717T150000Z
+UID:e406295248833767@facebook.com
+SUMMARY:Vert Club
+URL:https://www.facebook.com/events/406295242167101/?event_time_id=406295248833767
+DESCRIPTION:Meet in Thumb Butte parking lot (f
+ ree on Wednesdays) and run or walk
+  as many loops to the top as you l
+ ike!  Gates open at 6:00AM\, expect
+  some people to start at 6:00AM an
+ d some at 7:00AM. \n\nhttps://www.fa
+ cebook.com/events/406295242167101/
+ ?event_time_id=406295248833767
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -671,6 +832,29 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20240424T161859Z
+LAST-MODIFIED:20240424T161859Z
+CREATED:20240424T161631Z
+SEQUENCE:148
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240710T130000Z
+DTEND:20240710T150000Z
+UID:e406295262167099@facebook.com
+SUMMARY:Vert Club
+URL:https://www.facebook.com/events/406295242167101/?event_time_id=406295262167099
+DESCRIPTION:Meet in Thumb Butte parking lot (f
+ ree on Wednesdays) and run or walk
+  as many loops to the top as you l
+ ike!  Gates open at 6:00AM\, expect
+  some people to start at 6:00AM an
+ d some at 7:00AM. \n\nhttps://www.fa
+ cebook.com/events/406295242167101/
+ ?event_time_id=406295262167099
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20240319T133927Z
 LAST-MODIFIED:20240319T133927Z
 CREATED:20240319T133927Z
@@ -698,6 +882,29 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20240424T161859Z
+LAST-MODIFIED:20240424T161859Z
+CREATED:20240424T161631Z
+SEQUENCE:148
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240703T130000Z
+DTEND:20240703T150000Z
+UID:e406295265500432@facebook.com
+SUMMARY:Vert Club
+URL:https://www.facebook.com/events/406295242167101/?event_time_id=406295265500432
+DESCRIPTION:Meet in Thumb Butte parking lot (f
+ ree on Wednesdays) and run or walk
+  as many loops to the top as you l
+ ike!  Gates open at 6:00AM\, expect
+  some people to start at 6:00AM an
+ d some at 7:00AM. \n\nhttps://www.fa
+ cebook.com/events/406295242167101/
+ ?event_time_id=406295265500432
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20240319T133927Z
 LAST-MODIFIED:20240319T133927Z
 CREATED:20240319T133927Z
@@ -720,6 +927,29 @@ DESCRIPTION:Please join us for our Thursday ni
  you like.\n\nhttps://www.facebook.co
  m/events/3661597557414778/?event_t
  ime_id=3661597650748102
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240424T161859Z
+LAST-MODIFIED:20240424T161859Z
+CREATED:20240424T161631Z
+SEQUENCE:148
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240626T130000Z
+DTEND:20240626T150000Z
+UID:e406295282167097@facebook.com
+SUMMARY:Vert Club
+URL:https://www.facebook.com/events/406295242167101/?event_time_id=406295282167097
+DESCRIPTION:Meet in Thumb Butte parking lot (f
+ ree on Wednesdays) and run or walk
+  as many loops to the top as you l
+ ike!  Gates open at 6:00AM\, expect
+  some people to start at 6:00AM an
+ d some at 7:00AM. \n\nhttps://www.fa
+ cebook.com/events/406295242167101/
+ ?event_time_id=406295282167097
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -857,6 +1087,29 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20240424T161859Z
+LAST-MODIFIED:20240424T161859Z
+CREATED:20240424T161631Z
+SEQUENCE:148
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240619T130000Z
+DTEND:20240619T150000Z
+UID:e406295288833763@facebook.com
+SUMMARY:Vert Club
+URL:https://www.facebook.com/events/406295242167101/?event_time_id=406295288833763
+DESCRIPTION:Meet in Thumb Butte parking lot (f
+ ree on Wednesdays) and run or walk
+  as many loops to the top as you l
+ ike!  Gates open at 6:00AM\, expect
+  some people to start at 6:00AM an
+ d some at 7:00AM. \n\nhttps://www.fa
+ cebook.com/events/406295242167101/
+ ?event_time_id=406295288833763
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20240319T133927Z
 LAST-MODIFIED:20240319T133927Z
 CREATED:20240319T133927Z
@@ -884,6 +1137,29 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20240424T161859Z
+LAST-MODIFIED:20240424T161859Z
+CREATED:20240424T161631Z
+SEQUENCE:148
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240612T130000Z
+DTEND:20240612T150000Z
+UID:e406295268833765@facebook.com
+SUMMARY:Vert Club
+URL:https://www.facebook.com/events/406295242167101/?event_time_id=406295268833765
+DESCRIPTION:Meet in Thumb Butte parking lot (f
+ ree on Wednesdays) and run or walk
+  as many loops to the top as you l
+ ike!  Gates open at 6:00AM\, expect
+  some people to start at 6:00AM an
+ d some at 7:00AM. \n\nhttps://www.fa
+ cebook.com/events/406295242167101/
+ ?event_time_id=406295268833765
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20240319T133927Z
 LAST-MODIFIED:20240319T133927Z
 CREATED:20240319T133927Z
@@ -906,6 +1182,29 @@ DESCRIPTION:Please join us for our Thursday ni
  you like.\n\nhttps://www.facebook.co
  m/events/3661597557414778/?event_t
  ime_id=3661597664081434
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240424T161859Z
+LAST-MODIFIED:20240424T161859Z
+CREATED:20240424T161631Z
+SEQUENCE:148
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240605T130000Z
+DTEND:20240605T150000Z
+UID:e406295295500429@facebook.com
+SUMMARY:Vert Club
+URL:https://www.facebook.com/events/406295242167101/?event_time_id=406295295500429
+DESCRIPTION:Meet in Thumb Butte parking lot (f
+ ree on Wednesdays) and run or walk
+  as many loops to the top as you l
+ ike!  Gates open at 6:00AM\, expect
+  some people to start at 6:00AM an
+ d some at 7:00AM. \n\nhttps://www.fa
+ cebook.com/events/406295242167101/
+ ?event_time_id=406295295500429
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -996,6 +1295,29 @@ DESCRIPTION:Please join us for our Thursday ni
  you like.\n\nhttps://www.facebook.co
  m/events/3661597557414778/?event_t
  ime_id=3661597600748107
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240424T161859Z
+LAST-MODIFIED:20240424T161859Z
+CREATED:20240424T161631Z
+SEQUENCE:148
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240529T130000Z
+DTEND:20240529T150000Z
+UID:e406295302167095@facebook.com
+SUMMARY:Vert Club
+URL:https://www.facebook.com/events/406295242167101/?event_time_id=406295302167095
+DESCRIPTION:Meet in Thumb Butte parking lot (f
+ ree on Wednesdays) and run or walk
+  as many loops to the top as you l
+ ike!  Gates open at 6:00AM\, expect
+  some people to start at 6:00AM an
+ d some at 7:00AM. \n\nhttps://www.fa
+ cebook.com/events/406295242167101/
+ ?event_time_id=406295302167095
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -1118,6 +1440,29 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20240424T161859Z
+LAST-MODIFIED:20240424T161859Z
+CREATED:20240424T161631Z
+SEQUENCE:148
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240522T130000Z
+DTEND:20240522T150000Z
+UID:e406295305500428@facebook.com
+SUMMARY:Vert Club
+URL:https://www.facebook.com/events/406295242167101/?event_time_id=406295305500428
+DESCRIPTION:Meet in Thumb Butte parking lot (f
+ ree on Wednesdays) and run or walk
+  as many loops to the top as you l
+ ike!  Gates open at 6:00AM\, expect
+  some people to start at 6:00AM an
+ d some at 7:00AM. \n\nhttps://www.fa
+ cebook.com/events/406295242167101/
+ ?event_time_id=406295305500428
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20240305T014500Z
 LAST-MODIFIED:20240305T014500Z
 CREATED:20240304T223535Z
@@ -1203,6 +1548,29 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20240424T161859Z
+LAST-MODIFIED:20240424T161859Z
+CREATED:20240424T161631Z
+SEQUENCE:148
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240515T130000Z
+DTEND:20240515T150000Z
+UID:e406295298833762@facebook.com
+SUMMARY:Vert Club
+URL:https://www.facebook.com/events/406295242167101/?event_time_id=406295298833762
+DESCRIPTION:Meet in Thumb Butte parking lot (f
+ ree on Wednesdays) and run or walk
+  as many loops to the top as you l
+ ike!  Gates open at 6:00AM\, expect
+  some people to start at 6:00AM an
+ d some at 7:00AM. \n\nhttps://www.fa
+ cebook.com/events/406295242167101/
+ ?event_time_id=406295298833762
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20240304T223429Z
 LAST-MODIFIED:20240304T223429Z
 CREATED:20240304T223429Z
@@ -1251,6 +1619,29 @@ DESCRIPTION:Please join us for our Thursday ni
  you like.\n\nhttps://www.facebook.co
  m/events/3661597557414778/?event_t
  ime_id=3661597660748101
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240424T161859Z
+LAST-MODIFIED:20240424T161859Z
+CREATED:20240424T161631Z
+SEQUENCE:148
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240508T130000Z
+DTEND:20240508T150000Z
+UID:e406295278833764@facebook.com
+SUMMARY:Vert Club
+URL:https://www.facebook.com/events/406295242167101/?event_time_id=406295278833764
+DESCRIPTION:Meet in Thumb Butte parking lot (f
+ ree on Wednesdays) and run or walk
+  as many loops to the top as you l
+ ike!  Gates open at 6:00AM\, expect
+  some people to start at 6:00AM an
+ d some at 7:00AM. \n\nhttps://www.fa
+ cebook.com/events/406295242167101/
+ ?event_time_id=406295278833764
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -1344,6 +1735,51 @@ DESCRIPTION:Please join us for our Thursday ni
  you like.\n\nhttps://www.facebook.co
  m/events/3661597557414778/?event_t
  ime_id=3661597667414767
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240424T161859Z
+LAST-MODIFIED:20240424T161859Z
+CREATED:20240424T161631Z
+SEQUENCE:148
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240501T130000Z
+DTEND:20240501T150000Z
+UID:e406295292167096@facebook.com
+SUMMARY:Vert Club
+URL:https://www.facebook.com/events/406295242167101/?event_time_id=406295292167096
+DESCRIPTION:Meet in Thumb Butte parking lot (f
+ ree on Wednesdays) and run or walk
+  as many loops to the top as you l
+ ike!  Gates open at 6:00AM\, expect
+  some people to start at 6:00AM an
+ d some at 7:00AM. \n\nhttps://www.fa
+ cebook.com/events/406295242167101/
+ ?event_time_id=406295292167096
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240424T161859Z
+LAST-MODIFIED:20240424T161859Z
+CREATED:20240424T161631Z
+SEQUENCE:148
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20240501T130000Z
+DTEND:20240501T150000Z
+UID:e406295242167101@facebook.com
+SUMMARY:Vert Club
+URL:https://www.facebook.com/events/406295242167101/
+DESCRIPTION:Meet in Thumb Butte parking lot (f
+ ree on Wednesdays) and run or walk
+  as many loops to the top as you l
+ ike!  Gates open at 6:00AM\, expect
+  some people to start at 6:00AM an
+ d some at 7:00AM. \n\nhttps://www.fa
+ cebook.com/events/406295242167101/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -1722,90 +2158,6 @@ DESCRIPTION:Please join us for our Thursday ni
  you like.\n\nhttps://www.facebook.co
  m/events/3661597557414778/?event_t
  ime_id=3661597607414773
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231109T140951Z
-LAST-MODIFIED:20231109T140951Z
-CREATED:20231109T140737Z
-SEQUENCE:134
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20240327T140000Z
-DTEND:20240327T153000Z
-UID:e649324577355548@facebook.com
-SUMMARY:Vert Club
-LOCATION:Thumb Butte Parking Lot
-URL:https://www.facebook.com/events/649323204022352/?event_time_id=649324577355548
-DESCRIPTION:Run/walk from the Thumb Butte Park
- ing Lot to the top of the trail as
-  many times as you want.  Free par
- king on Wednesday's.\n\nhttps://www.
- facebook.com/events/64932320402235
- 2/?event_time_id=649324577355548
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240304T220440Z
-LAST-MODIFIED:20240304T220440Z
-CREATED:20240304T220355Z
-SEQUENCE:45
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20240327T003000Z
-DTEND:20240327T033000Z
-UID:e906057384338331@facebook.com
-SUMMARY:Tuesday Group Run -Yeager Loop
-URL:https://www.facebook.com/events/906057384338331/
-DESCRIPTION:No drop group run - we stop at eve
- ry intersection and wait for every
- one to catch up before running aga
- in. \n\nThis loop is a bit of a driv
- e but its one of the best in the a
- rea! From rocks and desert to pine
- s and forest -this loop has it all
- ! The first two miles involve a lo
- t of elevation gain (expect 1000 f
- t) followed by two miles of rollin
- g hills and 2 miles of downhill wi
- th an epic view! If you survive th
- e first two miles you will agree i
- ts all worth it by the end :) \n\nBr
- ing water & maybe a headlight as t
- his will prob take a little longer
- . \n\nDirections: Drive up Hwy 89 he
- aded away from PV toward Jerome -l
- ook for the trailhead off to the r
- ight on the side of the road - bef
- ore you get to the curvy part. \n\n3
- 4.683710184733656\, -112.1749678150
- 0802\n\nhttps://www.facebook.com/eve
- nts/906057384338331/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240229T130231Z
-LAST-MODIFIED:20240229T130231Z
-CREATED:20240222T183309Z
-SEQUENCE:584962
-ORGANIZER;CN=Andre Lee:MAILTO:noreply@facebookmail.com
-DTSTART:20240324T133000Z
-DTEND:20240324T163000Z
-UID:e1568462493992369@facebook.com
-SUMMARY:4th Annual Cocodona 250 Training Run - Crown King to Friendly Pines 
-LOCATION:Crown King Saloon & Eatery
-URL:https://www.facebook.com/events/1568462493992369/
-DESCRIPTION:Meet at 06:30\; Run at 06:45. 34 mi
- les from Crown King to Friendly Pi
- nes. This will cover the last port
- ion of the race prior to pacer ava
- ilability. Mostly gravel road (Sen
- ator Hwy).\n\nhttps://www.facebook.c
- om/events/1568462493992369/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
