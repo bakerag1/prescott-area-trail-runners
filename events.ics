@@ -994,6 +994,66 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20240429T180744Z
+LAST-MODIFIED:20240429T180744Z
+CREATED:20240429T180744Z
+SEQUENCE:0
+ORGANIZER;CN=Prescott Bluegrass Festival:MAILTO:noreply@facebookmail.com
+DTSTART:20240622T180000Z
+DTEND:20240623T220000Z
+UID:e326246773813126@facebook.com
+SUMMARY:43rd Annual Prescott Bluegrass Festival
+LOCATION:117 W Goodwin St\, Prescott\, AZ\, Un
+ ited States\, Arizona 86303
+URL:https://www.facebook.com/events/326246773813126/
+DESCRIPTION:🎻🌟 Check this out! 🎶 Don'
+ t miss the toe-tappin'\, banjo-stru
+ mmin'\, good ol' time at the 43rd A
+ nnual Prescott Bluegrass Festival🎸
+ 🎵\n\nThe Prescott Chamber of Comm
+ erce coordinates this FREE festiva
+ l and strives to bring audiences a
+  variety of bluegrass shows: tradi
+ tional and contemporary\; national\,
+  regional\, and local groups – wh
+ ile maintaining the highest standa
+ rds for the music.\n\n📅 Date: Sat
+ urday June 22nd\, 2024 - Sunday Jun
+ e 23rd\, 2024\n🕛 Time: Sat 11:00 
+ a.m. - 9:00 p.m\, Sun 11:00 a.m. - 
+ 3:00 p.m. Raffle drawing Sun at 3:
+ 00 p.m. \n📍 Location: Yavapai Co
+ unty Courthouse Plaza\n\nGet ready t
+ o immerse yourself in the soulful 
+ melodies and infectious rhythms of
+  bluegrass music! 🎶 From talent
+ ed musicians to lively performance
+ s\, this festival is the ultimate c
+ elebration of Americana culture.\n\n
+ Come join us for a weekend filled 
+ with:\n\n🎻 Live bluegrass perform
+ ances from:\n\nThe Storytellers- Hea
+ dliner!!\nBlue Canyon Boys\nCisco & 
+ The Racecars\nThe Cross-Eyed Possum
+ \nOf Kith & Kin\n\n🎶 Jam sessions\n
+ 🛍️ Craft vendors showcasing t
+ heir handmade goods\n🤠 Family-fr
+ iendly activities\n\nGather your fri
+ ends and family for a memorable ex
+ perience that's sure to have you d
+ ancing and singing along! 🎉\nSta
+ y tuned for more updates\, surprise
+ s and this years schedule of event
+ s! See you at the Prescott Bluegra
+ ss Festival! 🌟🎻 #PrescottBlu
+ egrassFestival #MusicFestival #Com
+ munityEvent\n\nhttps://www.facebook.
+ com/events/326246773813126/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20240104T160155Z
 LAST-MODIFIED:20240104T160155Z
 CREATED:20231020T214132Z
@@ -1768,8 +1828,8 @@ LAST-MODIFIED:20240424T161859Z
 CREATED:20240424T161631Z
 SEQUENCE:148
 ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20240501T130000Z
-DTEND:20240501T150000Z
+DTSTART:20240508T130000Z
+DTEND:20240508T150000Z
 UID:e406295242167101@facebook.com
 SUMMARY:Vert Club
 URL:https://www.facebook.com/events/406295242167101/
@@ -1822,7 +1882,7 @@ DESCRIPTION:Will meet at UPPER Spence Springs
  ents/1469062587016454/
 CLASS:PUBLIC
 STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
+PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20240319T133927Z
@@ -2021,143 +2081,6 @@ DESCRIPTION:It’s always a DAM good time at D
   “racing lake day” at Dam Good
   Run on April 3rd!\n\nhttps://www.fa
  cebook.com/events/279988737846056/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240319T133927Z
-LAST-MODIFIED:20240319T133927Z
-CREATED:20240319T133927Z
-SEQUENCE:0
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20240405T003000Z
-DTEND:20240405T033000Z
-UID:e3661597604081440@facebook.com
-SUMMARY:Thursday Night Social Run/Walk
-LOCATION:La Planchada
-URL:https://www.facebook.com/events/3661597557414778/?event_time_id=3661597604081440
-DESCRIPTION:Please join us for our Thursday ni
- ght social run/walk! Meet on the p
- atio at La Planchada\, 217 W Gurley
- .  We'll run or walk on the path a
- long Granite Creek to the Park\, do
-  a couple laps in the Park\, then r
- eturn (or do your own route).  Sta
- y after for food and/or drinks if 
- you like.\n\nhttps://www.facebook.co
- m/events/3661597557414778/?event_t
- ime_id=3661597604081440
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231109T140951Z
-LAST-MODIFIED:20231109T140951Z
-CREATED:20231109T140737Z
-SEQUENCE:134
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20240403T140000Z
-DTEND:20240403T153000Z
-UID:e649324554022217@facebook.com
-SUMMARY:Vert Club
-LOCATION:Thumb Butte Parking Lot
-URL:https://www.facebook.com/events/649323204022352/?event_time_id=649324554022217
-DESCRIPTION:Run/walk from the Thumb Butte Park
- ing Lot to the top of the trail as
-  many times as you want.  Free par
- king on Wednesday's.\n\nhttps://www.
- facebook.com/events/64932320402235
- 2/?event_time_id=649324554022217
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240327T180249Z
-LAST-MODIFIED:20240327T180249Z
-CREATED:20240327T180249Z
-SEQUENCE:0
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20240403T003000Z
-DTEND:20240403T033000Z
-UID:e769723658432573@facebook.com
-SUMMARY:***Location changed*** Tuesday Group Run -Constellation Trail++
-URL:https://www.facebook.com/events/769723658432573/
-DESCRIPTION:We are planning to do the Constell
- ation Trail and then a second loop
-  to make it around 5 mi total. \n\nT
- his is a no drop group run and we 
- will stop at every intersection fo
- r everyone to catch up. No trail r
- unner left behind! (usually - hasn
- 't happened yet but there's a firs
- t for everything I suppose)\n\nWeath
- er is unpredictable - dress for an
- ything! -mud\, snow\, sun\, water cro
- ssings LOL\n\nBring a headlamp and w
- ater :) \n\nParking off Hwy 89\, acro
- ss from Phippen Museum in the pave
- d trailhead parking area. \n\nhttps:
- //www.alltrails.com/trail/us/arizo
- na/constellation-loop\n\nhttps://map
- s.app.goo.gl/Wkz2aGxiFV9rYayQA\n\nht
- tps://www.facebook.com/events/7697
- 23658432573/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240319T181421Z
-LAST-MODIFIED:20240319T181421Z
-CREATED:20240319T181421Z
-SEQUENCE:0
-ORGANIZER;CN=Jeffrey S. Auman:MAILTO:aumanjeffrey@gmail.com
-DTSTART:20240330T153000Z
-DTEND:20240330T183000Z
-UID:e327506553634175@facebook.com
-SUMMARY:SATR PATR MARCH 30TH! 18 MILES WATERSHED TRAIL HEAD TO WATSON LAKE.
-LOCATION:Watson Lake
-URL:https://www.facebook.com/events/327506553634175/
-DESCRIPTION:This is the last 18 ish miles of t
- he Whiskey Basin 90k\, 60k & most o
- f the 30k run. We will meet at Wat
- son Lake and shuttle to the Waters
- hed TH on Senator Highway and Scho
- olhouse Gulch. Since we will need 
- to have drivers\, please RSVP in a 
- timely fashion. Hope to see you th
- ere!\n\nhttps://www.facebook.com/eve
- nts/327506553634175/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240319T133927Z
-LAST-MODIFIED:20240319T133927Z
-CREATED:20240319T133927Z
-SEQUENCE:0
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20240329T003000Z
-DTEND:20240329T033000Z
-UID:e3661597607414773@facebook.com
-SUMMARY:Thursday Night Social Run/Walk
-LOCATION:La Planchada
-URL:https://www.facebook.com/events/3661597557414778/?event_time_id=3661597607414773
-DESCRIPTION:Please join us for our Thursday ni
- ght social run/walk! Meet on the p
- atio at La Planchada\, 217 W Gurley
- .  We'll run or walk on the path a
- long Granite Creek to the Park\, do
-  a couple laps in the Park\, then r
- eturn (or do your own route).  Sta
- y after for food and/or drinks if 
- you like.\n\nhttps://www.facebook.co
- m/events/3661597557414778/?event_t
- ime_id=3661597607414773
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
