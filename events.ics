@@ -1360,6 +1360,27 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20240418T212027Z
+LAST-MODIFIED:20240418T212027Z
+CREATED:20240418T212027Z
+SEQUENCE:0
+ORGANIZER;CN=Park Plaza Liquor and Deli:MAILTO:noreply@facebookmail.com
+DTSTART:20240531T000000Z
+DTEND:20240531T020000Z
+UID:e330050876754115@facebook.com
+SUMMARY:FREE Roses By The Stairs Beer Tasting
+LOCATION:402 West Goodwin Street\, Prescott\,
+  AZ\, United States\, Arizona 86303
+URL:https://www.facebook.com/events/330050876754115/
+DESCRIPTION:Roses By The Stairs is stopping by
+  to sample some of their delicious
+  beer!\n\nhttps://www.facebook.com/e
+ vents/330050876754115/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20240424T161859Z
 LAST-MODIFIED:20240424T161859Z
 CREATED:20240424T161631Z
@@ -1651,6 +1672,30 @@ DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nCh
  174816/
 CLASS:PUBLIC
 STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240405T230728Z
+LAST-MODIFIED:20240405T230728Z
+CREATED:20240405T230728Z
+SEQUENCE:0
+ORGANIZER;CN=Park Plaza Liquor and Deli:MAILTO:noreply@facebookmail.com
+DTSTART:20240511T000000Z
+DTEND:20240511T020000Z
+UID:e682338880584323@facebook.com
+SUMMARY:THE SHOP Beer Release | 5-7 PM
+LOCATION:402 West Goodwin Street\, Prescott\,
+  AZ\, United States\, Arizona 86303
+URL:https://www.facebook.com/events/682338880584323/
+DESCRIPTION:The Shop will be here to sample ou
+ r new collab beer: Pew Pew! This b
+ eer is a high gravity stout (14.5%
+ ) born from our Sherry High West b
+ arrel. Join us for our newest PPLD
+  beer release!\n\nhttps://www.facebo
+ ok.com/events/682338880584323/
+CLASS:PUBLIC
+STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
@@ -1742,6 +1787,65 @@ DESCRIPTION:Cocodona250 - May 6-11\, 2024\n\n🏜
  nish in downtown Flagstaff.\n\nhttps
  ://www.facebook.com/events/1938106
  37103441/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240311T031834Z
+LAST-MODIFIED:20240311T031834Z
+CREATED:20240311T031834Z
+SEQUENCE:0
+ORGANIZER;CN=Whiskey Row Brew Club:MAILTO:noreply@facebookmail.com
+DTSTART:20240505T170000Z
+DTEND:20240505T200000Z
+UID:e227009510437439@facebook.com
+SUMMARY:National Homebrew Day Brewout
+LOCATION:6396 Lear Ln\, Prescott\, AZ 86301-9
+ 118\, United States
+URL:https://www.facebook.com/events/227009510437439/
+DESCRIPTION:We're having a brew out at Wren Ho
+ use Prairie Patio to celebrate Nat
+ ional Homebrew Day!\n\nSunday\, May 5
+ \nWren House Prairie Patio\n6396 Lea
+ r Ln\nPrescott\, AZ 86301\n\n* Brewing
+  starts at 10am (will continue wel
+ l into the afternoon)\n* Patio star
+ ts selling beer at 1pm\n* Patio clo
+ ses at 6:30\n\nThere will be power a
+ nd water available for brewers. At
+  least three brewers will be brewi
+ ng that day. If you want to learn 
+ how to brew\, or are just curious\, 
+ stop by and check it out. Let us k
+ now if you intend to brew\, if you 
+ want help brewing\, or if you have 
+ any other questions.\n\n#homebrew #p
+ rescottaz #nationalhomebrewday #Bi
+ gBrew\n\nhttps://www.facebook.com/ev
+ ents/227009510437439/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240427T193506Z
+LAST-MODIFIED:20240427T193506Z
+CREATED:20240427T193445Z
+SEQUENCE:21
+ORGANIZER;CN=Park Plaza Liquor and Deli:MAILTO:noreply@facebookmail.com
+DTSTART:20240505T000000Z
+DTEND:20240505T020000Z
+UID:e280972261649681@facebook.com
+SUMMARY:FREE Baja Brewing Tasting
+LOCATION:402 West Goodwin Street\, Prescott\,
+  AZ\, United States\, Arizona 86303
+URL:https://www.facebook.com/events/280972261649681/
+DESCRIPTION:Carlos is back from Baja Brewing! 
+ Grab some samples and choose your 
+ own brewery hat at no cost!\n\nhttps
+ ://www.facebook.com/events/2809722
+ 61649681/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE

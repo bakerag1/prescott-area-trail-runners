@@ -116,7 +116,9 @@ func parseEvents() []event {
 	var events []event
 	for _, e := range c.Events {
 		var ev event
-		if e.Class != "PUBLIC" {
+		if e.Class != "PUBLIC" ||
+			e.Organizer.Cn == "Whiskey Row Brew Club" ||
+			e.Organizer.Cn == "Park Plaza Liquor and Deli" {
 			log.Printf("non-public event skipped: %s\n", e.Summary)
 			continue
 		}
