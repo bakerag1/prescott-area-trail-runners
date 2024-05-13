@@ -1631,27 +1631,24 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240304T223429Z
-LAST-MODIFIED:20240304T223429Z
+DTSTAMP:20240513T024444Z
+LAST-MODIFIED:20240513T024444Z
 CREATED:20240304T223429Z
-SEQUENCE:0
+SEQUENCE:5976615
 ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
 DTSTART:20240515T003000Z
 DTEND:20240515T033000Z
 UID:e781530837174816@facebook.com
-SUMMARY:Tuesday Group Run- White Spar
+SUMMARY:***Change!!! Turley Trailhead- Brandon leading! 
 URL:https://www.facebook.com/events/781530837174816/
-DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
-  will meet at the White Spar Parki
- ng lot (link here https://goo.gl/m
- aps/nX4JGH75u4T7R15g7) at 5:30 PM.
-  Expect 4-6 miles. No drop run (we
-  stop for everyone at every inters
- ection). \n\nBe careful\, this is NOT
-  the usual white ROCK parking lot\,
-  this is white SPAR. \n\nBring water
- !\n\n\n\nhttps://www.facebook.com/even
- ts/781530837174816/
+DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nCh
+ anging location to Turley Trailhea
+ d: \n\nhttps://maps.app.goo.gl/yvh2j
+ JyGwkXCkUpq6?g_st=ic\n\nBrandon lead
+ ing (thank you Brandon!)\n\nExpect 4
+ -6 miles\n\n\nBring water!\n\n\n\nhttps:/
+ /www.facebook.com/events/781530837
+ 174816/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -1681,7 +1678,7 @@ DESCRIPTION:Please join us for our Thursday ni
  ime_id=3661597660748101
 CLASS:PUBLIC
 STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
+PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20240424T161859Z
@@ -1702,29 +1699,6 @@ DESCRIPTION:Meet in Thumb Butte parking lot (f
  d some at 7:00AM. \n\nhttps://www.fa
  cebook.com/events/406295242167101/
  ?event_time_id=406295278833764
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240304T223327Z
-LAST-MODIFIED:20240304T223327Z
-CREATED:20240304T223327Z
-SEQUENCE:0
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20240508T003000Z
-DTEND:20240508T033000Z
-UID:e342499438766404@facebook.com
-SUMMARY:Tuesday Group Run- Peavine 
-URL:https://www.facebook.com/events/342499438766404/
-DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
-  will meet at the Peavine Trailhea
- d by the Humane Society at 5:30pm.
-  No drop run (we stop for everyone
-  at every intersection). \n\nExpect 
- 5-6 miles.\n\nBring water :)\n\n\n\n\n\n\n\n
- \n\nhttps://www.facebook.com/events/
- 342499438766404/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -1828,8 +1802,8 @@ LAST-MODIFIED:20240424T161859Z
 CREATED:20240424T161631Z
 SEQUENCE:148
 ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20240508T130000Z
-DTEND:20240508T150000Z
+DTSTART:20240515T130000Z
+DTEND:20240515T150000Z
 UID:e406295242167101@facebook.com
 SUMMARY:Vert Club
 URL:https://www.facebook.com/events/406295242167101/
@@ -1992,97 +1966,5 @@ DESCRIPTION:Groom Creek Loop Trail #307\, S Sen
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240319T133927Z
-LAST-MODIFIED:20240319T133927Z
-CREATED:20240319T133927Z
-SEQUENCE:0
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20240412T003000Z
-DTEND:20240412T033000Z
-UID:e3661597567414777@facebook.com
-SUMMARY:Thursday Night Social Run/Walk
-LOCATION:La Planchada
-URL:https://www.facebook.com/events/3661597557414778/?event_time_id=3661597567414777
-DESCRIPTION:Please join us for our Thursday ni
- ght social run/walk! Meet on the p
- atio at La Planchada\, 217 W Gurley
- .  We'll run or walk on the path a
- long Granite Creek to the Park\, do
-  a couple laps in the Park\, then r
- eturn (or do your own route).  Sta
- y after for food and/or drinks if 
- you like.\n\nhttps://www.facebook.co
- m/events/3661597557414778/?event_t
- ime_id=3661597567414777
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240304T221338Z
-LAST-MODIFIED:20240304T221338Z
-CREATED:20240304T221338Z
-SEQUENCE:0
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20240410T003000Z
-DTEND:20240410T033000Z
-UID:e298792482950172@facebook.com
-SUMMARY:Tuesday Group Run- Granite Basin
-URL:https://www.facebook.com/events/298792482950172/
-DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
-  will meet at the cattleguard (lin
- k here https://goo.gl/maps/CnyTC6T
- oppAjWTcn6) at 5:30pm. \n\nExpect 5-
- 6 miles\, all downhill (except for 
- the uphills). No drop run (we stop
-  for everyone at every intersectio
- n). \n\nBring a headlamp!\n\n\nhttps://
- www.facebook.com/events/2987924829
- 50172/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230630T223435Z
-LAST-MODIFIED:20230630T223435Z
-CREATED:20230630T223435Z
-SEQUENCE:0
-ORGANIZER;CN=Aravaipa Running:MAILTO:noreply@facebookmail.com
-DTSTART:20240407T140000Z
-DTEND:20240407T170000Z
-UID:e279988737846056@facebook.com
-SUMMARY:Dam Good Run 
-LOCATION:Lake Pleasant Regional Park
-URL:https://www.facebook.com/events/279988737846056/
-DESCRIPTION:It’s always a DAM good time at D
- am Good Run! \n\nJoin us Sunday\, Apr
- il 3rd at beautiful Lake Pleasant 
- for the 19th annual Dam Good Run/W
- alk/Hike. \n\nThere’s a distance o
- ption for everyone\, and all except
-  for the 2 mile runners get to cro
- ss the New Waddell Dam! \n\nEnjoy ru
- gged single track\, challenging cli
- mbs and beautiful lake vistas in t
- he 40k\, 26k\, and 13k! The 4 mile a
- nd 2 mile distances utilize the ne
- wly added\, Roadrunner Trail\, that 
- takes runners right along the lake
- side. \n\nAll courses are fast\, fun\,
-  and finish with a straight shot i
- nto the refreshing waters of Lake 
- Pleasant if you’re looking for a
- n immediate cool down after your r
- ace! \n\nSo bring your kayaks\, paddl
- e boards and picnics and make it a
-  “racing lake day” at Dam Good
-  Run on April 3rd!\n\nhttps://www.fa
- cebook.com/events/279988737846056/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
 END:VEVENT
 END:VCALENDAR
