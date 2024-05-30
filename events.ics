@@ -427,6 +427,25 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20240516T220408Z
+LAST-MODIFIED:20240516T220408Z
+CREATED:20240516T220408Z
+SEQUENCE:0
+ORGANIZER;CN=Arizona Road Racers Events:MAILTO:noreply@facebookmail.com
+DTSTART:20240901T143000Z
+DTEND:20240901T173000Z
+UID:e3911592509071257@facebook.com
+SUMMARY:Jerome Hill Climb
+LOCATION:Jerome Arizona
+URL:https://www.facebook.com/events/3911592509071257/
+DESCRIPTION:4.5 mile hill climb\n\nhttps://www.f
+ acebook.com/events/391159250907125
+ 7/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20240319T133927Z
 LAST-MODIFIED:20240319T133927Z
 CREATED:20240319T133927Z
@@ -955,43 +974,43 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231109T193505Z
-LAST-MODIFIED:20231109T193505Z
-CREATED:20231109T193505Z
+DTSTAMP:20240529T225011Z
+LAST-MODIFIED:20240529T225011Z
+CREATED:20240529T225011Z
 SEQUENCE:0
-ORGANIZER;CN=Aravaipa Running:MAILTO:noreply@facebookmail.com
-DTSTART:20240623T023000Z
-DTEND:20240623T053000Z
-UID:e2408285646049135@facebook.com
-SUMMARY:Hypnosis Night Runs 
-LOCATION:Estrella Mountain Regional Park
-URL:https://www.facebook.com/events/2408285646049135/
-DESCRIPTION:Ready to be hypnotized? \n\nWell the
- n\, plan to join us on June 22nd fo
- r the third race in our Insomniac 
- Night Runs Series\, Hypnosis Night 
- Runs! \n\nNEW COURSE!!! What? \n\nThat
- ’s right\, we are once again usin
- g the same new\, fun course from th
- e 2021 edition! \n\nAll runs will be
-  staged out of the main park\, at t
- he Coldwater Trailhead. We're exci
- ted to introduce this new route\, h
- ighlighting some of the great trai
- ls of Estrella Mountain Park. Expe
- rience Butterfield\, Gadsen\, Coldwa
- ter\, Dysart\, and Rainbow Valley tr
- ails depending on your distance. T
- hese new routes are flowy and fun!
-  \n\nSo pick your poison (50k\, 36k\, 
- 22k\, 15k or 6k) Insomniacs\, and pl
- an to party the night away on the 
- trails at Hypnosis Night Runs!\n\nht
- tps://www.facebook.com/events/2408
- 285646049135/
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20240626T003000Z
+DTEND:20240626T020000Z
+UID:e971851797763005@facebook.com
+SUMMARY:Tuesday Group Run- Little Granite Mtn- Sean leading!
+URL:https://www.facebook.com/events/971851797763005/
+DESCRIPTION:Will meet at Little Granite Mtn tr
+ ailhead (TR 37) for an out and bac
+ k run. Sean is leading!  \n\nPLEASE 
+ READ THIS DESCRIPTION. \nWe will me
+ et at the Little Granite Mtn trail
+ head along Iron Springs Rd. 34.588
+ 91\, -112.57393 at 5:30pm. Expect 4
+ -6 miles. No drop run (we stop for
+  everyone at every intersection). 
+ \n\nBring water!\n\nDirections: To Iro
+ n Springs Trailhead from downtown 
+ Prescott: \nTake Montezuma Street n
+ orth (becomes Whipple St) to its i
+ ntersection with Willow Creek Road
+  (about 1.5 miles). Continue west 
+ on Iron Springs Road\, approx. 3 mi
+ les PAST the turn off for Spence S
+ prings Trailhead\, then turn right 
+ into the trailhead for Little Gran
+ ite Mtn.\n\nTRAVEL TIME: Approx. 20 
+ minutes from downtown Prescott\n\nht
+ tps://maps.app.goo.gl/hXpkAhc8GZP7
+ rCHa7\n\nhttps://www.facebook.com/ev
+ ents/971851797763005/
 CLASS:PUBLIC
 STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
+PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20240429T180744Z
@@ -1170,6 +1189,74 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20240524T182738Z
+LAST-MODIFIED:20240524T182738Z
+CREATED:20240524T182738Z
+SEQUENCE:0
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20240619T003000Z
+DTEND:20240619T023000Z
+UID:e933884351820693@facebook.com
+SUMMARY:Tuesday Group Run- Boblett ---new for a Tuesday run!
+URL:https://www.facebook.com/events/933884351820693/
+DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nTh
+ is is a trail we haven't ever done
+  for a Tuesday run! \n\nWe will meet
+  here: https://maps.app.goo.gl/nLr
+ 37AZ9G12KU2ta9?g_st=ic at 5:30pm. 
+ No drop run (we stop for everyone 
+ at every intersection). \n\nJim is l
+ eading! (Thank you Jim!) Gateway t
+ rail to Elizabeth trail to Boblett
+  trail past the grave site. \n\nExpe
+ ct 4-6 miles.\n\nBring water :) No r
+ eally\, it's getting hot - bring wa
+ ter!\n\n\n\n\n\n\n\n\n\n\nhttps://www.faceboo
+ k.com/events/933884351820693/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240527T151037Z
+LAST-MODIFIED:20240527T151037Z
+CREATED:20231109T193505Z
+SEQUENCE:17264132
+ORGANIZER;CN=Aravaipa Running:MAILTO:noreply@facebookmail.com
+DTSTART:20240616T023000Z
+DTEND:20240616T053000Z
+UID:e2408285646049135@facebook.com
+SUMMARY:Hypnosis Night Runs 
+LOCATION:Estrella Mountain Regional Park
+URL:https://www.facebook.com/events/2408285646049135/
+DESCRIPTION:Ready to be hypnotized? \n\nWell the
+ n\, plan to join us on June 22nd fo
+ r the third race in our Insomniac 
+ Night Runs Series\, Hypnosis Night 
+ Runs! \n\nNEW COURSE!!! What? \n\nThat
+ ’s right\, we are once again usin
+ g the same new\, fun course from th
+ e 2021 edition! \n\nAll runs will be
+  staged out of the main park\, at t
+ he Coldwater Trailhead. We're exci
+ ted to introduce this new route\, h
+ ighlighting some of the great trai
+ ls of Estrella Mountain Park. Expe
+ rience Butterfield\, Gadsen\, Coldwa
+ ter\, Dysart\, and Rainbow Valley tr
+ ails depending on your distance. T
+ hese new routes are flowy and fun!
+  \n\nSo pick your poison (50k\, 36k\, 
+ 22k\, 15k or 6k) Insomniacs\, and pl
+ an to party the night away on the 
+ trails at Hypnosis Night Runs!\n\nht
+ tps://www.facebook.com/events/2408
+ 285646049135/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20240319T133927Z
 LAST-MODIFIED:20240319T133927Z
 CREATED:20240319T133927Z
@@ -1215,6 +1302,41 @@ DESCRIPTION:Meet in Thumb Butte parking lot (f
  d some at 7:00AM. \n\nhttps://www.fa
  cebook.com/events/406295242167101/
  ?event_time_id=406295268833765
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240524T183202Z
+LAST-MODIFIED:20240524T183202Z
+CREATED:20240524T183202Z
+SEQUENCE:0
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20240612T003000Z
+DTEND:20240612T033000Z
+UID:e1445825736298932@facebook.com
+SUMMARY:Tuesday Group Run- meet at Peavine - new trail to explore!!
+URL:https://www.facebook.com/events/1445825736298932/
+DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
+  will meet at the Peavine Trailhea
+ d by the Humane Society off of Sun
+ dog Ranch Road at 5:30pm. No drop 
+ run (we stop for everyone at every
+  intersection). \n\nJim is leading! 
+ Message from Jim: We just opened t
+ he first segment of the Glassford 
+ Hills Trail\, about a mile out from
+  the Peavine parking lot. The trai
+ l goes up about a mile to a specta
+ cular view of Watson Lake and then
+  we will come back down the Captai
+ ns trail. \n\nExpect 4-6 miles.\n\nBri
+ ng water :)\n\n***Note: This is NOT 
+ Glassford Hills Trail in PV - this
+  is a NEW trail off of the Peavine
+  area *** \n\n\n\n\n\n\n\n\n\nhttps://www.fa
+ cebook.com/events/1445825736298932
+ /
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -1295,6 +1417,68 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20240520T220351Z
+LAST-MODIFIED:20240520T220351Z
+CREATED:20240520T220351Z
+SEQUENCE:0
+ORGANIZER;CN=Shane Carr:MAILTO:noreply@facebookmail.com
+DTSTART:20240603T133000Z
+DTEND:20240603T163000Z
+UID:e3316101442016518@facebook.com
+SUMMARY:Track workouts
+LOCATION:Prescott High School
+URL:https://www.facebook.com/events/3316101442016518/
+DESCRIPTION:I am going to be doing workouts on
+  the track every Monday for the mo
+ nth of June.  If you are intereste
+ d in running on the track for some
+  speed work or just some flat mile
+ s\, I will be there. The best way t
+ o get on the track is to park in t
+ he back where students usually par
+ k and go in the back of the school
+  to the track. Then there are no g
+ ates that will be locked. If you h
+ ave any questions message me. \n\nht
+ tps://www.facebook.com/events/3316
+ 101442016518/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240527T024334Z
+LAST-MODIFIED:20240527T024334Z
+CREATED:20240527T024334Z
+SEQUENCE:0
+ORGANIZER;CN=Jan Alfano Trail parkrun:MAILTO:noreply@facebookmail.com
+DTSTART:20240601T143000Z
+DTEND:20240601T160000Z
+UID:e329976273465295@facebook.com
+SUMMARY:Inaugural Jan Alfano Trail Parkrun 5k
+LOCATION:Willow Creek Dog Park
+URL:https://www.facebook.com/events/329976273465295/
+DESCRIPTION:Every Saturday morning at 7:30 we'
+ re holding a community 5k event on
+  the Jan Alfano Trail at Willow La
+ ke. Drive straight through the dog
+  park parking and there's a trailh
+ ead with friendly volunteers\, runn
+ ers\, and walkers there to enjoy a 
+ 5k out and back on a mild trail.\n\n
+ Find more details and sign up at h
+ ttps://www.parkrun.us/janalfanotra
+ il/ you'll need a barcode from sig
+ ning up in order to receive a time
+ . There are no winners or losers\, 
+ but you will receive a time if you
+  have a barcode. \n\nhttps://www.fac
+ ebook.com/events/329976273465295/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20231109T195902Z
 LAST-MODIFIED:20231109T195902Z
 CREATED:20231109T195902Z
@@ -1333,6 +1517,30 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20240529T181102Z
+LAST-MODIFIED:20240529T181102Z
+CREATED:20240529T175828Z
+SEQUENCE:754
+ORGANIZER;CN=Jeffrey S. Auman:MAILTO:aumanjeffrey@gmail.com
+DTSTART:20240601T140000Z
+DTEND:20240601T170000Z
+UID:e444154488359264@facebook.com
+SUMMARY:SATR PATR - White Rock Parking Lot off of Thumb Butte Road
+LOCATION:White Rock Parking Lot
+URL:https://www.facebook.com/events/444154488359264/
+DESCRIPTION:8-10 beautiful miles! Not too fast
+ \, not too slow\, just right!\nDana w
+ ill be running 20-24 (that's where
+  the "not too fast" part comes int
+ o play) and would love company! Ho
+ pe to see you there!\n\nhttps://www.
+ facebook.com/events/44415448835926
+ 4/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20240319T133927Z
 LAST-MODIFIED:20240319T133927Z
 CREATED:20240319T133927Z
@@ -1357,28 +1565,7 @@ DESCRIPTION:Please join us for our Thursday ni
  ime_id=3661597600748107
 CLASS:PUBLIC
 STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240418T212027Z
-LAST-MODIFIED:20240418T212027Z
-CREATED:20240418T212027Z
-SEQUENCE:0
-ORGANIZER;CN=Park Plaza Liquor and Deli:MAILTO:noreply@facebookmail.com
-DTSTART:20240531T000000Z
-DTEND:20240531T020000Z
-UID:e330050876754115@facebook.com
-SUMMARY:FREE Roses By The Stairs Beer Tasting
-LOCATION:402 West Goodwin Street\, Prescott\,
-  AZ\, United States\, Arizona 86303
-URL:https://www.facebook.com/events/330050876754115/
-DESCRIPTION:Roses By The Stairs is stopping by
-  to sample some of their delicious
-  beer!\n\nhttps://www.facebook.com/e
- vents/330050876754115/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
+PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20240424T161859Z
@@ -1445,13 +1632,13 @@ DESCRIPTION:We are going to run Salida Gulch.
  events/1091808298706442/
 CLASS:PUBLIC
 STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
+PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240417T020144Z
-LAST-MODIFIED:20240417T020144Z
+DTSTAMP:20240516T023426Z
+LAST-MODIFIED:20240516T023426Z
 CREATED:20240407T231327Z
-SEQUENCE:787697
+SEQUENCE:3295259
 ORGANIZER;CN=Jeffrey S. Auman:MAILTO:aumanjeffrey@gmail.com
 DTSTART:20240526T140000Z
 DTEND:20240526T190000Z
@@ -1479,16 +1666,54 @@ DESCRIPTION:Please join us for Loop The Butte\,
   If you would like to donate\, the 
  link will be provided in the comme
  nts. As and added bonus\, the first
-  20 people to donate at least $50 
- and complete 5 laps will recieve a
-  special gift (think Goodrs\, Cocod
- ona Swag and Javelina 100 Swag). A
- s a second added bonus\, your donat
- ion is a TAX CREDIT on your AZ Sta
- te taxes. Talk to your tax profess
- ional for specifics or just ask Mo
- lly or me. \n\n\n\nhttps://www.faceboo
- k.com/events/334284262994587/
+  10 people to donate at least $50 
+ will receive a pair of 2023 Javeli
+ na Jundred Limited Edition Goodrs!
+  As a second added bonus\, your don
+ ation is a TAX CREDIT on your AZ S
+ tate taxes. Talk to your tax profe
+ ssional for specifics or just ask 
+ Molly or me. \n\nhttps://give.thelau
+ nchpadteencenter.org/fundraiser/53
+ 16710\n\n\nhttps://www.facebook.com/e
+ vents/334284262994587/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240521T204506Z
+LAST-MODIFIED:20240521T204506Z
+CREATED:20240521T203948Z
+SEQUENCE:318
+ORGANIZER;CN=Noel Kingston:MAILTO:noreply@facebookmail.com
+DTSTART:20240525T140000Z
+DTEND:20240525T170000Z
+UID:e1417376668967605@facebook.com
+SUMMARY:Loop Copper Creek
+LOCATION:Top of Copper Basin Aid Station
+URL:https://www.facebook.com/events/1417376668967605/
+DESCRIPTION:Need 6 hours of run/hiking for tra
+ ining? Join me if you want some pa
+ in and suffering. Starting at the 
+ top of Copper Basin and heading do
+ wn Forest Road 53 (Copper Creek Rd
+ ) and then up Copper Creek Trail #
+ 260 for 8.3 miles and 1\,500 ft of 
+ vert. My intent is to do this 3 ti
+ mes for a total of 25 miles and 4\,
+ 500 ft vert. James Nalley is plann
+ ing to join the fun. If you need s
+ ome miles and some company\, come o
+ n out. Do as many loops as your he
+ art desires. The vehicles will be 
+ used as our aid station each loop.
+  Road 53 is easy/moderate but the 
+ climb up #260 is steep and technic
+ al. Yes\, I will also be looping th
+ e Butte on Sunday. \n\nhttps://www.f
+ acebook.com/events/141737666896760
+ 5/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
@@ -1518,7 +1743,7 @@ DESCRIPTION:Please join us for our Thursday ni
  ime_id=3661597657414768
 CLASS:PUBLIC
 STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
+PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20240424T161859Z
@@ -1567,7 +1792,7 @@ DESCRIPTION:No drop group run (we stop at ever
  com/events/1697500380778012/
 CLASS:PUBLIC
 STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
+PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20231109T193142Z
@@ -1675,30 +1900,6 @@ STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240405T230728Z
-LAST-MODIFIED:20240405T230728Z
-CREATED:20240405T230728Z
-SEQUENCE:0
-ORGANIZER;CN=Park Plaza Liquor and Deli:MAILTO:noreply@facebookmail.com
-DTSTART:20240511T000000Z
-DTEND:20240511T020000Z
-UID:e682338880584323@facebook.com
-SUMMARY:THE SHOP Beer Release | 5-7 PM
-LOCATION:402 West Goodwin Street\, Prescott\,
-  AZ\, United States\, Arizona 86303
-URL:https://www.facebook.com/events/682338880584323/
-DESCRIPTION:The Shop will be here to sample ou
- r new collab beer: Pew Pew! This b
- eer is a high gravity stout (14.5%
- ) born from our Sherry High West b
- arrel. Join us for our newest PPLD
-  beer release!\n\nhttps://www.facebo
- ok.com/events/682338880584323/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20240319T133927Z
 LAST-MODIFIED:20240319T133927Z
 CREATED:20240319T133927Z
@@ -1792,65 +1993,6 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240311T031834Z
-LAST-MODIFIED:20240311T031834Z
-CREATED:20240311T031834Z
-SEQUENCE:0
-ORGANIZER;CN=Whiskey Row Brew Club:MAILTO:noreply@facebookmail.com
-DTSTART:20240505T170000Z
-DTEND:20240505T200000Z
-UID:e227009510437439@facebook.com
-SUMMARY:National Homebrew Day Brewout
-LOCATION:6396 Lear Ln\, Prescott\, AZ 86301-9
- 118\, United States
-URL:https://www.facebook.com/events/227009510437439/
-DESCRIPTION:We're having a brew out at Wren Ho
- use Prairie Patio to celebrate Nat
- ional Homebrew Day!\n\nSunday\, May 5
- \nWren House Prairie Patio\n6396 Lea
- r Ln\nPrescott\, AZ 86301\n\n* Brewing
-  starts at 10am (will continue wel
- l into the afternoon)\n* Patio star
- ts selling beer at 1pm\n* Patio clo
- ses at 6:30\n\nThere will be power a
- nd water available for brewers. At
-  least three brewers will be brewi
- ng that day. If you want to learn 
- how to brew\, or are just curious\, 
- stop by and check it out. Let us k
- now if you intend to brew\, if you 
- want help brewing\, or if you have 
- any other questions.\n\n#homebrew #p
- rescottaz #nationalhomebrewday #Bi
- gBrew\n\nhttps://www.facebook.com/ev
- ents/227009510437439/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240427T193506Z
-LAST-MODIFIED:20240427T193506Z
-CREATED:20240427T193445Z
-SEQUENCE:21
-ORGANIZER;CN=Park Plaza Liquor and Deli:MAILTO:noreply@facebookmail.com
-DTSTART:20240505T000000Z
-DTEND:20240505T020000Z
-UID:e280972261649681@facebook.com
-SUMMARY:FREE Baja Brewing Tasting
-LOCATION:402 West Goodwin Street\, Prescott\,
-  AZ\, United States\, Arizona 86303
-URL:https://www.facebook.com/events/280972261649681/
-DESCRIPTION:Carlos is back from Baja Brewing! 
- Grab some samples and choose your 
- own brewery hat at no cost!\n\nhttps
- ://www.facebook.com/events/2809722
- 61649681/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20240319T133927Z
 LAST-MODIFIED:20240319T133927Z
 CREATED:20240319T133927Z
@@ -1906,8 +2048,8 @@ LAST-MODIFIED:20240424T161859Z
 CREATED:20240424T161631Z
 SEQUENCE:148
 ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20240515T130000Z
-DTEND:20240515T150000Z
+DTSTART:20240605T130000Z
+DTEND:20240605T150000Z
 UID:e406295242167101@facebook.com
 SUMMARY:Vert Club
 URL:https://www.facebook.com/events/406295242167101/
@@ -1958,115 +2100,6 @@ DESCRIPTION:Will meet at UPPER Spence Springs
  ps://maps.app.goo.gl/dtmvdowaEGMcp
  xEk8 \n\nhttps://www.facebook.com/ev
  ents/1469062587016454/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240319T133927Z
-LAST-MODIFIED:20240319T133927Z
-CREATED:20240319T133927Z
-SEQUENCE:0
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20240426T003000Z
-DTEND:20240426T033000Z
-UID:e3661597620748105@facebook.com
-SUMMARY:Thursday Night Social Run/Walk
-LOCATION:La Planchada
-URL:https://www.facebook.com/events/3661597557414778/?event_time_id=3661597620748105
-DESCRIPTION:Please join us for our Thursday ni
- ght social run/walk! Meet on the p
- atio at La Planchada\, 217 W Gurley
- .  We'll run or walk on the path a
- long Granite Creek to the Park\, do
-  a couple laps in the Park\, then r
- eturn (or do your own route).  Sta
- y after for food and/or drinks if 
- you like.\n\nhttps://www.facebook.co
- m/events/3661597557414778/?event_t
- ime_id=3661597620748105
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240411T230006Z
-LAST-MODIFIED:20240411T230006Z
-CREATED:20240411T230006Z
-SEQUENCE:0
-ORGANIZER;CN=Paula Olson:MAILTO:noreply@facebookmail.com
-DTSTART:20240424T140000Z
-DTEND:20240424T170000Z
-UID:e1569261960518154@facebook.com
-SUMMARY:Vert club
-LOCATION:Thumb Butte Pic Area\, Prescott\, AZ
-  86305\, United States
-URL:https://www.facebook.com/events/1569261957184821/?event_time_id=1569261960518154
-DESCRIPTION:Meet at Thumb Butte trailhead and 
- do as many loops as you want. Meet
-  in the parking lot for a group ph
- oto. One loop is almost 2 miles. A
- s we head out we go to the left of
-  the trail. Gate doesn’t open un
- til 7 am for the month of April. \n
- \nhttps://www.facebook.com/events/1
- 569261957184821/?event_time_id=156
- 9261960518154
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240306T143836Z
-LAST-MODIFIED:20240306T143836Z
-CREATED:20240304T222306Z
-SEQUENCE:144930
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20240424T003000Z
-DTEND:20240424T033000Z
-UID:e937132421210308@facebook.com
-SUMMARY:Tuesday Group Run- White Rock- Jon leading!
-URL:https://www.facebook.com/events/937132421210308/
-DESCRIPTION:We will meet at White Rock Parking
-  lot (link here https://goo.gl/map
- s/YN2uMvQnyQWTM9JK7) at 5:30pm. \n\n
- No-drop group run of approximately
-  5 miles. No-drop means we stop at
-  every intersection and wait for e
- veryone. \n\nBring water - consider 
- a headlamp!\n\nJon is leading this r
- un :)\n\n\n\n\nhttps://www.facebook.com
- /events/937132421210308/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240304T222130Z
-LAST-MODIFIED:20240304T222130Z
-CREATED:20240304T222130Z
-SEQUENCE:0
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20240417T003000Z
-DTEND:20240417T033000Z
-UID:e3614138378855751@facebook.com
-SUMMARY:Tuesday Group Run- Spruce Mtn Trail #307
-URL:https://www.facebook.com/events/3614138378855751/
-DESCRIPTION:Groom Creek Loop Trail #307\, S Sen
- ator Hwy\, Prescott\, AZ 86303\n\n34.4
- 762915458251\, -112.44153522818031\n
- \nOut and back up and down Spruce M
- tn (if a second group wants to loo
- p the mountain that's fine too!). 
- Expect 5-7 mi (out and back so eve
- ryone can choose their preferred d
- istance)\n\nNo drop group run (we st
- op along the way to allow everyone
-  to catch up and then run again). 
- \n\nBring water! (consider a headlam
- p due to the longer distance)\n\nhtt
- ps://www.facebook.com/events/36141
- 38378855751/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
