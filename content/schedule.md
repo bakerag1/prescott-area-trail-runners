@@ -17,9 +17,10 @@ A 4-6 mile no-drop run, which means we stop at every intersection and wait for e
 
 *Wednesdays:* 6am when it's hot, 7am when it's not, the Vert Club does laps on Thumb Butte
 
-*Thursdays:* 5:30pm at La Planchada, Social Run run or walk your own pace and distance, grab some tacos and beverages after. 
+*Thursdays:* 5:30pm at La Planchada, Social Run run or walk your own pace and distance, grab some tacos and beverages after. We pause it during the winter, usually November-March. 
 
-*Saturdays:* 7:30am SATR PATR no-drop trail run, at various locations, usually around 8 miles.
+*Saturdays:* 7:30am SATR PATR no-drop trail run, at various locations, usually around 8 miles.  
+7:30am [Jan Alfano Trail Parkrun](https://prescottareatrailrunners.com/post/2024-06-03-newsletter/) not a PATR event, but many of us attend or volunteer
 
 *Miscellaneous:* Frequently members will plan runs or hikes inviting all comers.
 
