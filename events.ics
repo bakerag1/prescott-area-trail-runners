@@ -7,6 +7,39 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
+DTSTAMP:20240527T202158Z
+LAST-MODIFIED:20240527T202158Z
+CREATED:20240527T202158Z
+SEQUENCE:0
+ORGANIZER;CN=Aravaipa Running:MAILTO:noreply@facebookmail.com
+DTSTART:20250322T130000Z
+DTEND:20250322T160000Z
+UID:e441158821991488@facebook.com
+SUMMARY:Crown King Scramble 50k 
+LOCATION:Lake Pleasant Regional Park
+URL:https://www.facebook.com/events/441158821991488/
+DESCRIPTION:After all\, it’s only “one clim
+ b”! 😉 \n\nJoin us on March 22nd
+  for the 33rd running of the Crown
+  King Scramble 50k! \n\nFrom 'spines
+  to pines' start lakeside on the s
+ erene shores of Lake Pleasant and 
+ run through the heart of the Sonor
+ an Desert to climb to the cool pin
+ es of the Bradshaw Mountains.\n\nSta
+ y and celebrate your victory after
+  you cross the finish line in the 
+ historic and quaint town of Crown 
+ King! It’s a race like no other 
+ and a day you’ll never forget. \n
+ \nWe hope to see you at the saloon 
+ this spring!\n\nhttps://www.facebook
+ .com/events/441158821991488/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20240311T160533Z
 LAST-MODIFIED:20240311T160533Z
 CREATED:20240311T160533Z
@@ -1013,10 +1046,10 @@ STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240429T180744Z
-LAST-MODIFIED:20240429T180744Z
+DTSTAMP:20240531T092927Z
+LAST-MODIFIED:20240531T092927Z
 CREATED:20240429T180744Z
-SEQUENCE:0
+SEQUENCE:2733703
 ORGANIZER;CN=Prescott Bluegrass Festival:MAILTO:noreply@facebookmail.com
 DTSTART:20240622T180000Z
 DTEND:20240623T220000Z
@@ -1257,6 +1290,53 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20240509T170820Z
+LAST-MODIFIED:20240509T170820Z
+CREATED:20240509T170820Z
+SEQUENCE:0
+ORGANIZER;CN=Eagle Management and Events\, LLC:MAILTO:noreply@facebookmail.com
+DTSTART:20240615T220000Z
+DTEND:20240616T020000Z
+UID:e465752189354384@facebook.com
+SUMMARY:WHISKEY ROW BREW FEST
+LOCATION:Whiskey Row Brewfest - Prescott\, A
+ Z
+URL:https://www.facebook.com/events/465752189354384/
+DESCRIPTION:WHISKEY ROW BREW FEST\nPrescott's B
+ iggest Annual Brew Fest\nLocated at
+  Mile High Field\, 300 S Granite St
+ \, Prescott\, AZ 86303\n\n3pm Early En
+ trance (VIP ONLY)  |  4-7pm Genera
+ l Admission\n\nAdmission: $40 • At
+  the Gate: $50\n10 Drink Sample Tic
+ kets\n\nVIP: $60 • At the Gate: $7
+ 5\nEarly Admission @ 3pm\, VIP Entra
+ nce on East Carleton St.\, 20 Drink
+  Sample Tickets\, Commemorative Gla
+ ss\, VIP Bathrooms\n\nA portion of th
+ e proceeds benefit Friends of Pres
+ cott Scouting\n\nBrew Fest Line Up: 
+ \nLazy G Brewing • Wren House Bre
+ wing • Insurgent Brewing\nAdventu
+ re Stills • Modern Times • Lum
+ beryard Brewing\nWalter Station •
+  Baja Brewing Chelada Bar • Ston
+ e Brewing\nSuperstition Meadery •
+  Big Sipz • Ranch La Gloria Ranc
+ h Water\nNUTRL Seltzer • Dr. Komb
+ ucha • Lexington Brewing\nBarrio 
+ Brothers • Kona Brewing Co. • 
+ Four Peaks • Mudshark\nMother Roa
+ d • AleSmith • 3 Amigos Margar
+ itas • 2 Towns Ciderhouse • Se
+ lect Beers from Scout Distribution
+ \n\nhttps://www.facebook.com/events/
+ 465752189354384/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20240319T133927Z
 LAST-MODIFIED:20240319T133927Z
 CREATED:20240319T133927Z
@@ -1392,10 +1472,10 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240416T223433Z
-LAST-MODIFIED:20240416T223433Z
+DTSTAMP:20240602T144650Z
+LAST-MODIFIED:20240602T144650Z
 CREATED:20240416T223433Z
-SEQUENCE:0
+SEQUENCE:4032737
 ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
 DTSTART:20240605T003000Z
 DTEND:20240605T033000Z
@@ -1403,7 +1483,7 @@ UID:e1399952070891126@facebook.com
 SUMMARY:Tuesday Group Run- Thumb Butte Loop- Cindy leading! 
 URL:https://www.facebook.com/events/1399952070891126/
 DESCRIPTION:Thumb Butte loop (326\, 392\, 367). 
- 4.7 miles\, 784 ft if elevation gai
+ 4.7 miles\, 784 ft of elevation gai
  n. Meet at the Thumb Butte Parking
   lot (paid parking or national par
  ks pass). Cindy leading! \n\nThumb B
@@ -1414,7 +1494,7 @@ DESCRIPTION:Thumb Butte loop (326\, 392\, 367).
  891126/
 CLASS:PUBLIC
 STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
+PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20240520T220351Z
@@ -1991,117 +2071,5 @@ DESCRIPTION:Cocodona250 - May 6-11\, 2024\n\n🏜
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240319T133927Z
-LAST-MODIFIED:20240319T133927Z
-CREATED:20240319T133927Z
-SEQUENCE:0
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20240503T003000Z
-DTEND:20240503T033000Z
-UID:e3661597667414767@facebook.com
-SUMMARY:Thursday Night Social Run/Walk
-LOCATION:La Planchada
-URL:https://www.facebook.com/events/3661597557414778/?event_time_id=3661597667414767
-DESCRIPTION:Please join us for our Thursday ni
- ght social run/walk! Meet on the p
- atio at La Planchada\, 217 W Gurley
- .  We'll run or walk on the path a
- long Granite Creek to the Park\, do
-  a couple laps in the Park\, then r
- eturn (or do your own route).  Sta
- y after for food and/or drinks if 
- you like.\n\nhttps://www.facebook.co
- m/events/3661597557414778/?event_t
- ime_id=3661597667414767
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240424T161859Z
-LAST-MODIFIED:20240424T161859Z
-CREATED:20240424T161631Z
-SEQUENCE:148
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20240501T130000Z
-DTEND:20240501T150000Z
-UID:e406295292167096@facebook.com
-SUMMARY:Vert Club
-URL:https://www.facebook.com/events/406295242167101/?event_time_id=406295292167096
-DESCRIPTION:Meet in Thumb Butte parking lot (f
- ree on Wednesdays) and run or walk
-  as many loops to the top as you l
- ike!  Gates open at 6:00AM\, expect
-  some people to start at 6:00AM an
- d some at 7:00AM. \n\nhttps://www.fa
- cebook.com/events/406295242167101/
- ?event_time_id=406295292167096
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240424T161859Z
-LAST-MODIFIED:20240424T161859Z
-CREATED:20240424T161631Z
-SEQUENCE:148
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20240605T130000Z
-DTEND:20240605T150000Z
-UID:e406295242167101@facebook.com
-SUMMARY:Vert Club
-URL:https://www.facebook.com/events/406295242167101/
-DESCRIPTION:Meet in Thumb Butte parking lot (f
- ree on Wednesdays) and run or walk
-  as many loops to the top as you l
- ike!  Gates open at 6:00AM\, expect
-  some people to start at 6:00AM an
- d some at 7:00AM. \n\nhttps://www.fa
- cebook.com/events/406295242167101/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240304T223152Z
-LAST-MODIFIED:20240304T223152Z
-CREATED:20240304T223152Z
-SEQUENCE:0
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20240501T003000Z
-DTEND:20240501T033000Z
-UID:e1469062587016454@facebook.com
-SUMMARY:Tuesday Group Run- UPPER Spence Basin
-URL:https://www.facebook.com/events/1469062587016454/
-DESCRIPTION:Will meet at UPPER Spence Springs 
- parking lot: \n\nPLEASE READ THIS DE
- SCRIPTION. \nWe will meet at the Up
- per Parking lot along Iron Springs
- \, where Javelina Trail #332 meets 
- Iron Springs (trailhead). 5:30pm. 
- Expect 4-6 miles. No drop run (we 
- stop for everyone at every interse
- ction). \n\nBring a headlamp and wat
- er!\n\nDirections: To Iron Springs T
- railhead from downtown Prescott: T
- ake Montezuma Street north (become
- s Whipple St) to its intersection 
- with Willow Creek Road (about 1.5 
- miles). Continue west on Iron Spri
- ngs Road for another 4.5 miles\, th
- en turn left into the trailhead. T
- here is parking for approximately 
- 30 vehicles. Trailers are not allo
- wed at the trailhead for highway s
- afety concerns.\n\nTRAVEL TIME: 20 m
- inutes from downtown Prescott\n\nhtt
- ps://maps.app.goo.gl/dtmvdowaEGMcp
- xEk8 \n\nhttps://www.facebook.com/ev
- ents/1469062587016454/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
 END:VEVENT
 END:VCALENDAR
