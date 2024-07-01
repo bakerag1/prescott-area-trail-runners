@@ -924,26 +924,6 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240610T200224Z
-LAST-MODIFIED:20240610T200224Z
-CREATED:20240610T200224Z
-SEQUENCE:0
-ORGANIZER;CN=Brandon McDowell:MAILTO:noreply@facebookmail.com
-DTSTART:20240810T023000Z
-DTEND:20240810T053000Z
-UID:e391062696656303@facebook.com
-SUMMARY:PATR Night Run- White Rock Edition. 
-URL:https://www.facebook.com/events/391062696656303/
-DESCRIPTION:From White Rock Parking Lot. Lots 
- of route options. Look for those d
- etails in the next couple weeks. \n
- \nhttps://www.facebook.com/events/3
- 91062696656303/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20240606T225450Z
 LAST-MODIFIED:20240606T225450Z
 CREATED:20240319T133927Z
@@ -1181,49 +1161,22 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240612T202021Z
-LAST-MODIFIED:20240612T202021Z
-CREATED:20240610T191222Z
-SEQUENCE:176879
-ORGANIZER;CN=Brandon McDowell:MAILTO:noreply@facebookmail.com
-DTSTART:20240721T030000Z
-DTEND:20240721T060000Z
-UID:e1081346800251920@facebook.com
-SUMMARY:PATRday Night Live- Granite Mountain Wilderness Edition 
-URL:https://www.facebook.com/events/1081346800251920/
-DESCRIPTION:Meet at the Metate Trailhead: http
- s://maps.app.goo.gl/TjU4aTvszyMjAQ
- vg8?g_st=ic\n\nSuper pumped for this
-  run. Two options available if we 
- have 2 groups. And possible add on
- s for those that want just a bit m
- ore nasty. \n\nWe will head out from
-  Metate and summit Granite Mountai
- n. When we get back to the split\, 
- you can choose to head back to the
-  trailhead or continue to complete
-  the Little Granite Mountain Loop.
-  If people desire more distance we
-  can make other loops from the tra
- ilhead\, but a water fill up is pro
- bably necessary at that point anyw
- ay. \n\nGranite Summit (8.2 mi): htt
- ps://www.gaiagps.com/public/R319eF
- HE3NVyGw9qocX7cRgG\n\nGranite Summit
-  and Little Granite Loop (11.3 mi)
- : https://www.gaiagps.com/public/T
- AEVnAjVBLylDH9ob5mgGHFh\n\nAs with a
- ll of these runs\, no one is left b
- ehind and everyone is welcome. The
- se routes are spicy and footing ca
- n be goofy in areas so make sure y
- ou are up for the challenge if you
-  commit. And have some knowledge o
- f the route. Bring a headlamp\, eno
- ugh fluids/nutrition and your part
- y face. This is gonna be fun one. 
- \n\nhttps://www.facebook.com/events/
- 1081346800251920/
+DTSTAMP:20240627T204434Z
+LAST-MODIFIED:20240627T204434Z
+CREATED:20240627T204434Z
+SEQUENCE:0
+ORGANIZER;CN=Park Plaza Liquor and Deli:MAILTO:noreply@facebookmail.com
+DTSTART:20240720T010000Z
+DTEND:20240720T030000Z
+UID:e1507986496820494@facebook.com
+SUMMARY:COMPLIMENTARY Prairie Artisan Ale Tasting
+LOCATION:402 West Goodwin Street\, Prescott\,
+  AZ\, United States\, Arizona 86303
+URL:https://www.facebook.com/events/1507986496820494/
+DESCRIPTION:Jason will be pouring Prairie samp
+ les to help keep you cool!\n\nhttps:
+ //www.facebook.com/events/15079864
+ 96820494/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -1493,10 +1446,10 @@ STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240612T184618Z
-LAST-MODIFIED:20240612T184618Z
+DTSTAMP:20240629T003112Z
+LAST-MODIFIED:20240629T003112Z
 CREATED:20240610T201641Z
-SEQUENCE:167377
+SEQUENCE:1570471
 ORGANIZER;CN=Brandon McDowell:MAILTO:noreply@facebookmail.com
 DTSTART:20240629T023000Z
 DTEND:20240629T053000Z
@@ -1615,72 +1568,71 @@ DESCRIPTION:Commemorative group run to the gia
  ook.com/events/362340026467158/
 CLASS:PUBLIC
 STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
+PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240612T173634Z
-LAST-MODIFIED:20240612T173634Z
+DTSTAMP:20240622T234406Z
+LAST-MODIFIED:20240622T234406Z
 CREATED:20240610T190317Z
-SEQUENCE:167597
+SEQUENCE:1053649
 ORGANIZER;CN=Brandon McDowell:MAILTO:noreply@facebookmail.com
 DTSTART:20240623T023000Z
 DTEND:20240623T053000Z
 UID:e830307645820057@facebook.com
 SUMMARY:PATRday Night Live- Granite Dells Edition
 URL:https://www.facebook.com/events/830307645820057/
-DESCRIPTION:Please try to respond by Tuesday J
- une 18th so we can work out the lo
- gistics on if we need to shuttle. 
+DESCRIPTION:Update: possible rain for the begi
+ nning of the run so be prepared fo
+ r the potential extra elements. I’
+ m all in regardless so if peeps ar
+ e still down\, I’ll be out there.
   \n\nLink to Willow Lake Rd. Parking
-  Lot: https://maps.apple.com/?ll=3
- 4.595916\,-112.435667&q=Dropped%20P
- in&t=h\n\nThere are a couple distanc
- e options and places to park or sh
- uttle based on desired length. Att
- ached are 3 links to each of the s
- egments. \n\nWe will start at the di
- rt lot off Willow Lake Rd and run 
- a clockwise loop around Willow Lak
- e (6.1 mi.) taking us back to the 
- parking lot. For those that wish t
- o continue\, we will use the Circle
-  Trail to run across the road to t
- he Watson Lake Overlook (1.2 mi). 
- From there we will do a counterclo
- ckwise Watson Lake Loop (4.7 mi) b
- ack to the overlook. Then run back
-  along the Circle Trail back to th
- e Willow Lake Rd dirt lot (1.2 mi)
- . \n\nAll runners and paces welcome.
-  We shall see how logistics actual
- ly work\, thus the request to put i
- n availability by the 18th\, so we 
- can figure out groups and if we ne
- ed to have some people shuttle fro
- m a spot on the Watson Lake Loop f
- or your desired distance. We will 
- ensure everyone  feels safe\, no on
- e gets lost and we have a group or
-  groups that all know the way. Wit
- h all that said\, I provided the ro
- utes\, so please either have them d
- ownloaded or have a general unders
- tanding of the route just in case.
-  \n\nTotals\n6.1 mi. Willow Lake Loop
- \n7.3 mi. to Watson Lake Overlook \n
- 12 mi. With both loops\n13.2 circui
- t\n\nI’m super pumped for this fir
- st night adventure. Bring a headla
- mp and a good attitude and we will
-  have a blast. \n\nWillow Lake Loop:
-  https://www.gaiagps.com/public/72
- EoUIGcg3pF5dHkTf2YaBeY\n\nCircle Tra
- il connector: https://www.gaiagps.
- com/public/5z5XyESxKNVla5Hu3nsMVEO
- z\n\nWatson Lake Loop: https://www.g
- aiagps.com/public/FOn3ohXSi16D1Izj
- fN5mHQ0E\n\n\nhttps://www.facebook.co
- m/events/830307645820057/
+  Lot Meeting Spot:  https://maps.a
+ pple.com/?ll=34.595916\,-112.435667
+ &q=Dropped%20Pin&t=h\n\nThere are a 
+ couple distance options and places
+  to park or shuttle based on desir
+ ed length. Attached are 3 links to
+  each of the segments. I will be r
+ unning the entire route. \n\nWe will
+  start at the dirt lot off Willow 
+ Lake Rd and run a clockwise loop a
+ round Willow Lake (6.1 mi.) taking
+  us back to the parking lot. For t
+ hose that wish to continue\, we wil
+ l use the Circle Trail to run acro
+ ss the road to the Watson Lake Ove
+ rlook (1.2 mi). From there we will
+  do a counterclockwise Watson Lake
+  Loop (4.7 mi) back to the overloo
+ k. Then run back along the Circle 
+ Trail back to the Willow Lake Rd d
+ irt lot (1.2 mi). \n\nWe will ensure
+  everyone feels safe\, no one gets 
+ lost and we have a group or groups
+  that all know the way. With all t
+ hat said\, I provided the routes\, s
+ o please either have them download
+ ed or have a general understanding
+  of the route just in case. Route 
+ finding and navigation is part of 
+ the purpose of these runs. Should 
+ something goofy happen\, it is alwa
+ ys a best practice to know how to 
+ get back to your car from anywhere
+  in the route. \n\nTotals\n6.1 mi. Wi
+ llow Lake Loop\n7.3 mi. to Watson L
+ ake Overlook \n12 mi. With both loo
+ ps\n13.2 circuit\n\nBring a headlamp 
+ and a good attitude. \n\nWillow Lake
+  Loop: https://www.gaiagps.com/pub
+ lic/72EoUIGcg3pF5dHkTf2YaBeY\n\nCirc
+ le Trail connector: https://www.ga
+ iagps.com/public/5z5XyESxKNVla5Hu3
+ nsMVEOz\n\nWatson Lake Loop: https:/
+ /www.gaiagps.com/public/FOn3ohXSi1
+ 6D1IzjfN5mHQ0E\n\n\nhttps://www.faceb
+ ook.com/events/830307645820057/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
@@ -2067,308 +2019,6 @@ DESCRIPTION:I am going to be doing workouts on
  ave any questions message me. \n\nht
  tps://www.facebook.com/events/3316
  101442016518/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240527T024334Z
-LAST-MODIFIED:20240527T024334Z
-CREATED:20240527T024334Z
-SEQUENCE:0
-ORGANIZER;CN=Jan Alfano Trail parkrun:MAILTO:noreply@facebookmail.com
-DTSTART:20240601T143000Z
-DTEND:20240601T160000Z
-UID:e329976273465295@facebook.com
-SUMMARY:Inaugural Jan Alfano Trail Parkrun 5k
-LOCATION:Willow Creek Dog Park
-URL:https://www.facebook.com/events/329976273465295/
-DESCRIPTION:Every Saturday morning at 7:30 we'
- re holding a community 5k event on
-  the Jan Alfano Trail at Willow La
- ke. Drive straight through the dog
-  park parking and there's a trailh
- ead with friendly volunteers\, runn
- ers\, and walkers there to enjoy a 
- 5k out and back on a mild trail.\n\n
- Find more details and sign up at h
- ttps://www.parkrun.us/janalfanotra
- il/ you'll need a barcode from sig
- ning up in order to receive a time
- . There are no winners or losers\, 
- but you will receive a time if you
-  have a barcode. \n\nhttps://www.fac
- ebook.com/events/329976273465295/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231109T195902Z
-LAST-MODIFIED:20231109T195902Z
-CREATED:20231109T195902Z
-SEQUENCE:0
-ORGANIZER;CN=Aravaipa Running:MAILTO:noreply@facebookmail.com
-DTSTART:20240601T140000Z
-DTEND:20240601T170000Z
-UID:e660573976215883@facebook.com
-SUMMARY:Hotfoot Hamster 
-LOCATION:Nardini Manor
-URL:https://www.facebook.com/events/660573976215883/
-DESCRIPTION:Back and hotter than ever\, Hotfoot
-  Hamster returns to Nardini Manor 
- 2024!\n\nTest your endurance and see
-  how far you can run in 6 hours\,  
- 12 hours\,  or 24 hours at the idea
- l flat and fast custom built grave
- l running track at the historic Na
- rdini Manor. This is one of two ch
- ances this year to participate in 
- a running event on this unique ult
- ra runner built course!\n\nWe'll hav
- e a fully stocked aid station dire
- ctly on course and you can setup t
- rackside for ultimate convenience.
- \n\nThe USATF Certified 500 meter co
- urse is perfect for your first ult
- ra or for a personal best. The Hot
- foot Hamster is a classic fixed ti
- me ultra that is sure to be a fun 
- time with new friends.\n\nhttps://ww
- w.facebook.com/events/660573976215
- 883/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240529T181102Z
-LAST-MODIFIED:20240529T181102Z
-CREATED:20240529T175828Z
-SEQUENCE:754
-ORGANIZER;CN=Jeffrey S. Auman:MAILTO:aumanjeffrey@gmail.com
-DTSTART:20240601T140000Z
-DTEND:20240601T170000Z
-UID:e444154488359264@facebook.com
-SUMMARY:SATR PATR - White Rock Parking Lot off of Thumb Butte Road
-LOCATION:White Rock Parking Lot
-URL:https://www.facebook.com/events/444154488359264/
-DESCRIPTION:8-10 beautiful miles! Not too fast
- \, not too slow\, just right!\nDana w
- ill be running 20-24 (that's where
-  the "not too fast" part comes int
- o play) and would love company! Ho
- pe to see you there!\n\nhttps://www.
- facebook.com/events/44415448835926
- 4/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240606T225450Z
-LAST-MODIFIED:20240606T225450Z
-CREATED:20240319T133927Z
-SEQUENCE:6858923
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20240531T003000Z
-DTEND:20240531T033000Z
-UID:e3661597600748107@facebook.com
-SUMMARY:Thursday Night Social Run/Walk
-LOCATION:La Planchada
-URL:https://www.facebook.com/events/3661597557414778/?event_time_id=3661597600748107
-DESCRIPTION:Please join us for our Thursday ni
- ght social run/walk! Meet on the p
- atio at La Planchada\, 217 W Gurley
-  at 5:30. We'll run or walk on the
-  path along Granite Creek to the P
- ark\, do a couple laps in the Park\,
-  then return (or do your own route
- ).  Stay after for food and/or dri
- nks if you like.\n\nhttps://www.face
- book.com/events/3661597557414778/?
- event_time_id=3661597600748107
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240327T175007Z
-LAST-MODIFIED:20240327T175007Z
-CREATED:20240311T192552Z
-SEQUENCE:1376655
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20240529T000000Z
-DTEND:20240529T030000Z
-UID:e1091808298706442@facebook.com
-SUMMARY:Tuesday Group Run- Salida Gulch ***EARLY START at 5!!!
-URL:https://www.facebook.com/events/1091808298706442/
-DESCRIPTION:We are going to run Salida Gulch. 
- The road will be closed at 7PM so 
- we are starting the run 30 minutes
-  early at 5PM just for this date!\n
- \nCindy leading!!!\n\nNo drop group r
- un (we stop at every intersection 
- and wait for everyone to join befo
- re running again). Expect 4-6 mile
- s \n\nBring a headlamp. \n\n34.5413221
- 38945276\, -112.38131895761529\n\n***
- This trailhead can be confusing to
-  find and GPS is sometimes wrong!!
-  Follow the route below from FS!**
- *\n\nDirections from FS:\nFrom downto
- wn Prescott\, travel east on Hwy 69
-  to Walker Road. Turn right and go
-  1.2 miles to the sign for Lynx Cr
- eek Ruin. Turn left onto Lynx Cree
- k Road (FR 9401) just after the si
- gn. Travel 0.8 miles past the Day 
- Use area\, bearing right down the h
- ill and continuing to the end of t
- he road. There is a large improved
-  lot with ample parking for both s
- ingle vehicles and horse trailers.
-  Road conditions are paved\, then g
- raded dirt and suitable for all ve
- hicles.\n\nhttps://www.facebook.com/
- events/1091808298706442/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240516T023426Z
-LAST-MODIFIED:20240516T023426Z
-CREATED:20240407T231327Z
-SEQUENCE:3295259
-ORGANIZER;CN=Jeffrey S. Auman:MAILTO:aumanjeffrey@gmail.com
-DTSTART:20240526T140000Z
-DTEND:20240526T190000Z
-UID:e334284262994587@facebook.com
-SUMMARY:Loop The Butte
-LOCATION:Loop The Butte
-URL:https://www.facebook.com/events/334284262994587/
-DESCRIPTION:Please join us for Loop The Butte\,
-  Sunday May 26th from 7am to 12 no
- on! This is open to everyone for F
- REE! So come on out and see your f
- ellow PATR Runners loop the butte.
-  Do as many or as few laps as you 
- wish! There will be an aide statio
- n with all kind of snacks\, drinks 
- and such!\n\nThis is also doubling a
- s a charity event for The Launch P
- ad Teen Center in Prescott. For th
- e past 6 years they have hosted a 
- Trek4Teens Rim2Rim hike of the Gra
- nd Canyon. Adults\, like me and pos
- sibly you\, sign up and agree to ra
- ise money for TLP's Outdoor Progam
- s. Last years hike raised $72\,000.
-  If you would like to donate\, the 
- link will be provided in the comme
- nts. As and added bonus\, the first
-  10 people to donate at least $50 
- will receive a pair of 2023 Javeli
- na Jundred Limited Edition Goodrs!
-  As a second added bonus\, your don
- ation is a TAX CREDIT on your AZ S
- tate taxes. Talk to your tax profe
- ssional for specifics or just ask 
- Molly or me. \n\nhttps://give.thelau
- nchpadteencenter.org/fundraiser/53
- 16710\n\n\nhttps://www.facebook.com/e
- vents/334284262994587/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240521T204506Z
-LAST-MODIFIED:20240521T204506Z
-CREATED:20240521T203948Z
-SEQUENCE:318
-ORGANIZER;CN=Noel Kingston:MAILTO:noreply@facebookmail.com
-DTSTART:20240525T140000Z
-DTEND:20240525T170000Z
-UID:e1417376668967605@facebook.com
-SUMMARY:Loop Copper Creek
-LOCATION:Top of Copper Basin Aid Station
-URL:https://www.facebook.com/events/1417376668967605/
-DESCRIPTION:Need 6 hours of run/hiking for tra
- ining? Join me if you want some pa
- in and suffering. Starting at the 
- top of Copper Basin and heading do
- wn Forest Road 53 (Copper Creek Rd
- ) and then up Copper Creek Trail #
- 260 for 8.3 miles and 1\,500 ft of 
- vert. My intent is to do this 3 ti
- mes for a total of 25 miles and 4\,
- 500 ft vert. James Nalley is plann
- ing to join the fun. If you need s
- ome miles and some company\, come o
- n out. Do as many loops as your he
- art desires. The vehicles will be 
- used as our aid station each loop.
-  Road 53 is easy/moderate but the 
- climb up #260 is steep and technic
- al. Yes\, I will also be looping th
- e Butte on Sunday. \n\nhttps://www.f
- acebook.com/events/141737666896760
- 5/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240606T225450Z
-LAST-MODIFIED:20240606T225450Z
-CREATED:20240319T133927Z
-SEQUENCE:6858923
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20240524T003000Z
-DTEND:20240524T033000Z
-UID:e3661597657414768@facebook.com
-SUMMARY:Thursday Night Social Run/Walk
-LOCATION:La Planchada
-URL:https://www.facebook.com/events/3661597557414778/?event_time_id=3661597657414768
-DESCRIPTION:Please join us for our Thursday ni
- ght social run/walk! Meet on the p
- atio at La Planchada\, 217 W Gurley
-  at 5:30. We'll run or walk on the
-  path along Granite Creek to the P
- ark\, do a couple laps in the Park\,
-  then return (or do your own route
- ).  Stay after for food and/or dri
- nks if you like.\n\nhttps://www.face
- book.com/events/3661597557414778/?
- event_time_id=3661597657414768
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240305T014500Z
-LAST-MODIFIED:20240305T014500Z
-CREATED:20240304T223535Z
-SEQUENCE:11365
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20240522T003000Z
-DTEND:20240522T033000Z
-UID:e1697500380778012@facebook.com
-SUMMARY:Tuesday Group Run- Sundog Ranch Rd Area- Brandon leading!
-URL:https://www.facebook.com/events/1697500380778012/
-DESCRIPTION:No drop group run (we stop at ever
- y intersection and wait for everyo
- ne to join up before running again
- ). This is an out and back. \n\nExpe
- ct 4-6 mi\n\nBring water. Brandon le
- ading! \n\nDrive up 89 away from Pre
- scott toward Chino\, turn RIGHT at 
- the light across from Cliff Rose/R
- osser St. Trailhead is right next 
- to Hwy 89.\n\n\nhttps://www.facebook.
- com/events/1697500380778012/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
