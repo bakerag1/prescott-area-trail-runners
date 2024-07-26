@@ -21,14 +21,22 @@ Menus:
   main:
     - Name: about us
       URL: /about
+      Weight: 10
     - Name: schedule
       URL: /events
+      Weight: 20
     - Name: race reports
       URL: /reports
+      Weight: 30
     - Name: trails
       URL: /trails
+      Weight: 40
     - Name: area races
       URL: /races
+      Weight: 50
+    - Name: get involved
+      URL: /get-involved
+      Weight: 60
   links:
     - Name: Facebook
       URL: https://www.facebook.com/groups/prescottareatrailrunners
