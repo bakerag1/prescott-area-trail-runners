@@ -1514,7 +1514,7 @@ DESCRIPTION:We will meet at the Metate trailhe
  77791391159461/
 CLASS:PUBLIC
 STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
+PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20240726T174052Z
@@ -1811,138 +1811,6 @@ DESCRIPTION:Please join us for our Thursday ni
  nks if you like.\n\nhttps://www.face
  book.com/events/3661597557414778/?
  event_time_id=3661597597414774
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240617T173019Z
-LAST-MODIFIED:20240617T173019Z
-CREATED:20240614T013901Z
-SEQUENCE:316278
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20240703T130000Z
-DTEND:20240703T160000Z
-UID:e1155618158976824@facebook.com
-SUMMARY:Vert Club
-URL:https://www.facebook.com/events/1155618102310163/?event_time_id=1155618158976824
-DESCRIPTION:Meet in the Thumb Butte parking lo
- t (free on Wednesdays) at either 6
- :00 AM or 7:00 AM and make as many
-  trips up the trail as you like.\n\n
- https://www.facebook.com/events/11
- 55618102310163/?event_time_id=1155
- 618158976824
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240612T200338Z
-LAST-MODIFIED:20240612T200338Z
-CREATED:20240529T225011Z
-SEQUENCE:1199607
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20240703T003000Z
-DTEND:20240703T020000Z
-UID:e971851797763005@facebook.com
-SUMMARY:Tuesday Group Run- Little Granite Mtn- Sean leading!
-URL:https://www.facebook.com/events/971851797763005/
-DESCRIPTION:Will meet at Little Granite Mtn tr
- ailhead (TR 37) for an out and bac
- k run. Sean is leading!  \n\nPLEASE 
- READ THIS DESCRIPTION. \nWe will me
- et at the Little Granite Mtn trail
- head along Iron Springs Rd. 34.588
- 91\, -112.57393 at 5:30pm. Expect 4
- -6 miles. No drop run (we stop for
-  everyone at every intersection). 
- \n\nBring water!\n\nDirections: To Iro
- n Springs Trailhead from downtown 
- Prescott: \nTake Montezuma Street n
- orth (becomes Whipple St) to its i
- ntersection with Willow Creek Road
-  (about 1.5 miles). Continue west 
- on Iron Springs Road\, approx. 3 mi
- les PAST the turn off for Spence S
- prings Trailhead\, then turn right 
- into the trailhead for Little Gran
- ite Mtn.\n\nTRAVEL TIME: Approx. 20 
- minutes from downtown Prescott\n\nht
- tps://maps.app.goo.gl/hXpkAhc8GZP7
- rCHa7\n\nhttps://www.facebook.com/ev
- ents/971851797763005/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240629T003112Z
-LAST-MODIFIED:20240629T003112Z
-CREATED:20240610T201641Z
-SEQUENCE:1570471
-ORGANIZER;CN=Brandon McDowell:MAILTO:noreply@facebookmail.com
-DTSTART:20240629T023000Z
-DTEND:20240629T053000Z
-UID:e821960669898799@facebook.com
-SUMMARY:PATR Night Run light - Badger Mountain Edition 
-URL:https://www.facebook.com/events/821960669898799/
-DESCRIPTION:Turley Trailhead: https://maps.app
- .goo.gl/y5vZJMo8UeM6Juis5?g_st=ic\n
- \nWe will start at Turley Trailhead
-  and do one of two loop options be
- low with a possible Badger Mountai
- n summit if you are feeling spicy.
-  Based on participation we can dec
- ide whether we want to do the Badg
- er summit first for those who want
-  less miles. \n\nBelow is the breakd
- own of distances. Note that we can
-  collectively decide what loop fol
- ks want to do or if some want to j
- ust do an out and back. Again\, eve
- rything depends on attendance\, pac
- e and desired mileage. As with all
-  of these night runs\, we are leavi
- ng no one behind. But please take 
- a look at the map or download it j
- ust in case. \n\nShorter Turley Loop
-  (7.9 mi): https://www.gaiagps.com
- /public/vezAsfSbwbksTk8nloi6b7gc\n\n
- Longer Turley Loop (9 mi): https:/
- /www.gaiagps.com/public/mKRBWLBTVj
- 6TohRwimbMh35J\n\nBadger Mountain Su
- mmit (1.8 mi total o&b): https://w
- ww.gaiagps.com/public/n1gNGLTchJ9m
- TnwPt9JICBxe\n\nhttps://www.facebook
- .com/events/821960669898799/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240606T225450Z
-LAST-MODIFIED:20240606T225450Z
-CREATED:20240319T133927Z
-SEQUENCE:6858923
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20240628T003000Z
-DTEND:20240628T033000Z
-UID:e3661597650748102@facebook.com
-SUMMARY:Thursday Night Social Run/Walk
-LOCATION:La Planchada
-URL:https://www.facebook.com/events/3661597557414778/?event_time_id=3661597650748102
-DESCRIPTION:Please join us for our Thursday ni
- ght social run/walk! Meet on the p
- atio at La Planchada\, 217 W Gurley
-  at 5:30. We'll run or walk on the
-  path along Granite Creek to the P
- ark\, do a couple laps in the Park\,
-  then return (or do your own route
- ).  Stay after for food and/or dri
- nks if you like.\n\nhttps://www.face
- book.com/events/3661597557414778/?
- event_time_id=3661597650748102
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
