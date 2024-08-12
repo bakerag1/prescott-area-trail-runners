@@ -898,6 +898,53 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20240808T173915Z
+LAST-MODIFIED:20240808T173915Z
+CREATED:20240719T001831Z
+SEQUENCE:1790444
+ORGANIZER;CN=Chino Valley Community Services:MAILTO:noreply@facebookmail.com
+DTSTART:20240830T210000Z
+DTEND:20240902T190000Z
+UID:e497161839463399@facebook.com
+SUMMARY:Chino Valley Territorial Days 
+LOCATION:Memory Park
+URL:https://www.facebook.com/events/497161839463399/
+DESCRIPTION: Join us for our Territorial Days 
+ weekend event! We will be kicking 
+ things off Friday evening with a M
+ ovie Night in Memory Park. Saturda
+ y will be a fun filled day\, starti
+ ng with the Lions Pancake breakfas
+ t at the Senior Center as well as 
+ a 10k and 2-mile walk/run and vend
+ ors in the park. Then at 9:00am we
+  will have our grand Territorial D
+ ays Parade which will be followed 
+ by food\, activities and contests i
+ n the Park! To wrap up Saturday's 
+ events\, FFA will have their corn d
+ inner at Del Rio School in the eve
+ ning. Sunday there will be a Car S
+ how from 9:00am - 1:00pm at the Aq
+ uatics Center parking lot hosted b
+ y the Chino Valley Memorial Founda
+ tion. There will be lots of cars a
+ s well as food trucks and vendors 
+ followed by free swim from 3:00pm-
+ 9:00pm. Ichor Airsoft will also ha
+ ve a sequence of events over by Ol
+ d Home Manor\, gates will open at 3
+ :00pm. We will end the weekend out
+  at Old Home Manor with fireworks!
+  For any questions call 928-636-97
+ 80 or email recreation@chinoaz.net
+ .  \n\nhttps://www.facebook.com/even
+ ts/497161839463399/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20240606T225450Z
 LAST-MODIFIED:20240606T225450Z
 CREATED:20240319T133927Z
@@ -964,6 +1011,39 @@ DESCRIPTION:Meet in the Thumb Butte parking lo
  https://www.facebook.com/events/11
  55618102310163/?event_time_id=1155
  618165643490
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240807T000610Z
+LAST-MODIFIED:20240807T000610Z
+CREATED:20240807T000610Z
+SEQUENCE:0
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20240828T003000Z
+DTEND:20240828T033000Z
+UID:e700164092275747@facebook.com
+SUMMARY:Tuesday Group Run - Woodchute (up on Mingus!) - Jason leading!
+URL:https://www.facebook.com/events/700164092275747/
+DESCRIPTION:We will meet at the Woodchute Trai
+ lhead up on Mingus Mtn. Out and ba
+ ck with variable distances possibl
+ e.\n\nParking location: 34.71557\, -1
+ 12.16019\n\n***Plan for extra drivin
+ g time for this one!***\n\nTake a br
+ eak from the heat and come run in 
+ the pines with epic views! This is
+  a no-drop group run (we stop at e
+ very intersection so everyone can 
+ catch up before running again). An
+ ticipate 7 miles for the full trai
+ l -but as this is an out and back 
+ any distance is welcome if you wan
+ t to turn back earlier and do a sh
+ orter distance :) \n\nBring water! \n
+ \nhttps://www.facebook.com/events/7
+ 00164092275747/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -1357,10 +1437,10 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240606T223448Z
-LAST-MODIFIED:20240606T223448Z
+DTSTAMP:20240806T232528Z
+LAST-MODIFIED:20240806T232528Z
 CREATED:20240606T223448Z
-SEQUENCE:0
+SEQUENCE:5273440
 ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
 DTSTART:20240807T003000Z
 DTEND:20240807T033000Z
@@ -1613,6 +1693,27 @@ STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20240627T204434Z
+LAST-MODIFIED:20240627T204434Z
+CREATED:20240627T204434Z
+SEQUENCE:0
+ORGANIZER;CN=Park Plaza Liquor and Deli:MAILTO:noreply@facebookmail.com
+DTSTART:20240720T010000Z
+DTEND:20240720T030000Z
+UID:e1507986496820494@facebook.com
+SUMMARY:COMPLIMENTARY Prairie Artisan Ale Tasting
+LOCATION:402 West Goodwin Street\, Prescott\,
+  AZ\, United States\, Arizona 86303
+URL:https://www.facebook.com/events/1507986496820494/
+DESCRIPTION:Jason will be pouring Prairie samp
+ les to help keep you cool!\n\nhttps:
+ //www.facebook.com/events/15079864
+ 96820494/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20240606T225450Z
 LAST-MODIFIED:20240606T225450Z
 CREATED:20240319T133927Z
@@ -1700,119 +1801,5 @@ DESCRIPTION:Will meet at UPPER Spence Springs
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240606T225450Z
-LAST-MODIFIED:20240606T225450Z
-CREATED:20240319T133927Z
-SEQUENCE:6858923
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20240712T003000Z
-DTEND:20240712T033000Z
-UID:e3661597647414769@facebook.com
-SUMMARY:Thursday Night Social Run/Walk
-LOCATION:La Planchada
-URL:https://www.facebook.com/events/3661597557414778/?event_time_id=3661597647414769
-DESCRIPTION:Please join us for our Thursday ni
- ght social run/walk! Meet on the p
- atio at La Planchada\, 217 W Gurley
-  at 5:30. We'll run or walk on the
-  path along Granite Creek to the P
- ark\, do a couple laps in the Park\,
-  then return (or do your own route
- ).  Stay after for food and/or dri
- nks if you like.\n\nhttps://www.face
- book.com/events/3661597557414778/?
- event_time_id=3661597647414769
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240617T173019Z
-LAST-MODIFIED:20240617T173019Z
-CREATED:20240614T013901Z
-SEQUENCE:316278
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20240710T130000Z
-DTEND:20240710T160000Z
-UID:e1155618105643496@facebook.com
-SUMMARY:Vert Club
-URL:https://www.facebook.com/events/1155618102310163/?event_time_id=1155618105643496
-DESCRIPTION:Meet in the Thumb Butte parking lo
- t (free on Wednesdays) at either 6
- :00 AM or 7:00 AM and make as many
-  trips up the trail as you like.\n\n
- https://www.facebook.com/events/11
- 55618102310163/?event_time_id=1155
- 618105643496
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240607T185325Z
-LAST-MODIFIED:20240607T185325Z
-CREATED:20240606T200059Z
-SEQUENCE:82346
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20240710T003000Z
-DTEND:20240710T033000Z
-UID:e6226362080822427@facebook.com
-SUMMARY:Tuesday Group Run -Yeager Loop - Jason leading!
-URL:https://www.facebook.com/events/6226362080822427/
-DESCRIPTION:No drop group run - we stop at eve
- ry intersection and wait for every
- one to catch up before running aga
- in. \n\nThis loop is a bit of a driv
- e but its one of the best in the a
- rea! From rocks and desert to pine
- s and forest -this loop has it all
- ! The first two miles involve a lo
- t of elevation gain (expect 1000 f
- t) followed by two miles of rollin
- g hills and 2 miles of downhill wi
- th an epic view! If you survive th
- e first two miles you will agree i
- ts all worth it by the end :) \n\nBr
- ing water!! That hill is full sun.
- \n\nDirections: Drive up Hwy 89 head
- ed away from PV toward Jerome -loo
- k for the trailhead off to the rig
- ht on the side of the road - befor
- e you get to the curvy part. \n\n34.
- 683710184733656\, -112.174967815008
- 02\n\nhttps://www.facebook.com/event
- s/6226362080822427/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240606T225450Z
-LAST-MODIFIED:20240606T225450Z
-CREATED:20240319T133927Z
-SEQUENCE:6858923
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20240705T003000Z
-DTEND:20240705T033000Z
-UID:e3661597597414774@facebook.com
-SUMMARY:Thursday Night Social Run/Walk
-LOCATION:La Planchada
-URL:https://www.facebook.com/events/3661597557414778/?event_time_id=3661597597414774
-DESCRIPTION:Please join us for our Thursday ni
- ght social run/walk! Meet on the p
- atio at La Planchada\, 217 W Gurley
-  at 5:30. We'll run or walk on the
-  path along Granite Creek to the P
- ark\, do a couple laps in the Park\,
-  then return (or do your own route
- ).  Stay after for food and/or dri
- nks if you like.\n\nhttps://www.face
- book.com/events/3661597557414778/?
- event_time_id=3661597597414774
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
 END:VEVENT
 END:VCALENDAR
