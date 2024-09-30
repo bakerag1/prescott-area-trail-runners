@@ -7,6 +7,38 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
+DTSTAMP:20240913T164433Z
+LAST-MODIFIED:20240913T164433Z
+CREATED:20240913T164239Z
+SEQUENCE:114
+ORGANIZER;CN=Aravaipa Running:MAILTO:noreply@facebookmail.com
+DTSTART:20250412T120000Z
+DTEND:20250412T150000Z
+UID:e1674300876690543@facebook.com
+SUMMARY:Whiskey Basin Trail Runs
+LOCATION:Prescott\, Arizona
+URL:https://www.facebook.com/events/1674300876690543/
+DESCRIPTION:Join us for the 2025 edition of Wh
+ iskey Basin Trail Runs in beautifu
+ l\, Prescott\, Arizona. Choose to ta
+ ke on the 'full barrel' point to p
+ oint 91k\, 60k\, 33k\, or the challen
+ ging and rewarding\, 1/2 Marathon o
+ r 10k that all take place on the g
+ orgeous Prescott Circle Trail. All
+  distances finish at the party ove
+ rlooking Watson Lake and those ico
+ nic Granite Dells where you'll wan
+ t to kick back and stay to sociali
+ ze\, enjoy the view\, and maybe some
+  whiskey...hey\, when in Rome\, righ
+ t?\n\nhttps://www.facebook.com/event
+ s/1674300876690543/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20240527T202158Z
 LAST-MODIFIED:20240527T202158Z
 CREATED:20240527T202158Z
@@ -74,6 +106,103 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20240927T205555Z
+LAST-MODIFIED:20240927T205555Z
+CREATED:20240927T205555Z
+SEQUENCE:0
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20241127T003000Z
+DTEND:20241127T033000Z
+UID:e1603187617269979@facebook.com
+SUMMARY:Tuesday Group Run- Willow Lake
+URL:https://www.facebook.com/events/1603187617269979/
+DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
+  will meet at the Dog Park parking
+  lot (link here https://goo.gl/map
+ s/ZCLmd4fQPGkyXCHP7) at 5:30pm. Pl
+ an for 5 miles(ish).\n\nNo drop run 
+ (we stop for everyone at every int
+ ersection).\n\nBring a headlamp!\n\nht
+ tps://www.facebook.com/events/1603
+ 187617269979/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240927T205320Z
+LAST-MODIFIED:20240927T205320Z
+CREATED:20240927T205320Z
+SEQUENCE:0
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20241120T003000Z
+DTEND:20241120T033000Z
+UID:e1761526267953321@facebook.com
+SUMMARY:Tuesday Group Run -Turley Trailhead (Badger Mountain)
+URL:https://www.facebook.com/events/1761526267953321/
+DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
+  will meet at the Turley Trailhead
+ : \n\nhttps://maps.app.goo.gl/yvh2jJ
+ yGwkXCkUpq6?g_st=ic\n\n34.541342\, -1
+ 12.437366\n\nExpect 4-6 miles. This 
+ is a no-drop group run\, so we will
+  stop at every trail intersection 
+ and wait for everyone to catch up 
+ before continuing the run. (No run
+ ners left behind!)\n\nBring a light 
+ :)\n\nDirections:  Take HWY-69 towar
+ ds Prescott. After leaving the Pre
+ scott Valley area\, you'll reach th
+ e intersection of HWY-69 and HWY-8
+ 9. Stay left on Gurley street and 
+ make a quick left turn onto Robins
+ on Drive into a residential area. 
+ From Robinson Drive\, turn left on 
+ Butterfield Road. When you reach a
+  five way intersection\, turn right
+  onto Wells Fargo Road. When Wells
+  Fargo road turns north\, look on y
+ our right for a small\, hidden dirt
+  road (the trailhead sign is tough
+  to spot). Take this well graded d
+ irt road to the parking area and T
+ urley Trailhead.\n\n205 Wells Fargo 
+ road\nPrescott\, AZ\n\n\n\nhttps://www.f
+ acebook.com/events/176152626795332
+ 1/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240927T204332Z
+LAST-MODIFIED:20240927T204332Z
+CREATED:20240927T204332Z
+SEQUENCE:0
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20241113T003000Z
+DTEND:20241113T033000Z
+UID:e8409743425782701@facebook.com
+SUMMARY:Tuesday Group Run- Sundog Ranch Rd Area
+URL:https://www.facebook.com/events/8409743425782701/
+DESCRIPTION:Meeting at the trailhead off of Hw
+ y 89: 34.572236\, -112.436545\n\nDriv
+ e up 89 away from Prescott toward 
+ Chino\, turn RIGHT at the light acr
+ oss from Cliff Rose/Rosser St. Tra
+ ilhead is right next to Hwy 89.\n\nN
+ o drop group run (we stop at every
+  intersection and wait for everyon
+ e to join up before running again)
+ . This is an out and back. \n\nExpec
+ t 4-6 mi\n\nBring a light :)\n\n\nhttps
+ ://www.facebook.com/events/8409743
+ 425782701/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20240617T173019Z
 LAST-MODIFIED:20240617T173019Z
 CREATED:20240614T013901Z
@@ -94,6 +223,33 @@ DESCRIPTION:Meet in the Thumb Butte parking lo
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240816T212545Z
+LAST-MODIFIED:20240816T212545Z
+CREATED:20240816T212545Z
+SEQUENCE:0
+ORGANIZER;CN=Whiskey Row Brew Club:MAILTO:noreply@facebookmail.com
+DTSTART:20241103T170000Z
+DTEND:20241103T200000Z
+UID:e803183442026144@facebook.com
+SUMMARY:Learn to Homebrew Day
+LOCATION:The Prairie Patio
+URL:https://www.facebook.com/events/803183442026144/
+DESCRIPTION:Join Whiskey Row Brew Club at Wren
+  House Prairie Patio in Prescott t
+ o learn about homebrewing. We’ll
+  have a few people brewing and the
+ re will be many members available 
+ to answer any questions about home
+ brewing or the club. We'll start s
+ etting up and brewing at 10am\, the
+  patio opens for business at 1pm.\n
+ \nhttps://www.facebook.com/events/8
+ 03183442026144/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20240617T173019Z
@@ -218,6 +374,30 @@ DESCRIPTION:Meet in the Thumb Butte parking lo
  https://www.facebook.com/events/11
  55618102310163/?event_time_id=1155
  618175643489
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240927T183851Z
+LAST-MODIFIED:20240927T183851Z
+CREATED:20240927T183851Z
+SEQUENCE:0
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20241023T003000Z
+DTEND:20241023T033000Z
+UID:e950921239806569@facebook.com
+SUMMARY:Tuesday Group Run- White Rock -Tish leading!
+URL:https://www.facebook.com/events/950921239806569/
+DESCRIPTION:We will meet at White Rock Parking
+  lot (link here https://goo.gl/map
+ s/YN2uMvQnyQWTM9JK7) at 5:30pm. \n\n
+ No-drop group run of approximately
+  5 miles. No-drop means we stop at
+  every intersection and wait for e
+ veryone. \n\nBring a light!!\n\n\n\n\n\n\nh
+ ttps://www.facebook.com/events/950
+ 921239806569/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -834,28 +1014,21 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240816T162715Z
-LAST-MODIFIED:20240816T162715Z
-CREATED:20240815T214400Z
-SEQUENCE:67395
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20240918T003000Z
-DTEND:20240918T033000Z
-UID:e465208013077438@facebook.com
-SUMMARY:Tuesday Group Run- Wolverton-Quartz Loop 
-URL:https://www.facebook.com/events/465208013077438/
-DESCRIPTION:We will meet at the Wolverton-Quar
- tz Loop Trailhead at 5:30pm. Expec
- t to park along the road as the tr
- ailhead has limited spaces availab
- le. \n\nAddress: 34.51165\, -112.5054
- 6\n\nNo-drop group run of approximat
- ely 5 miles. No-drop means we stop
-  at every intersection and wait fo
- r everyone (no friends left behind
- !). \n\nBring water!!\n\n\nhttps://www.
- facebook.com/events/46520801307743
- 8/
+DTSTAMP:20240906T212058Z
+LAST-MODIFIED:20240906T212058Z
+CREATED:20240905T151913Z
+SEQUENCE:108105
+ORGANIZER;CN=Shelley Deardorff:MAILTO:noreply@facebookmail.com
+DTSTART:20240917T230000Z
+DTEND:20240918T020000Z
+UID:e1230391194808800@facebook.com
+SUMMARY:John's birthday get together! 🎉🥳
+LOCATION:Park Plaza Liquor and Deli
+URL:https://www.facebook.com/events/1230391194808800/
+DESCRIPTION:We'll be at PPLD for happy hour so
+  come by and wish John a happy bir
+ thday!\n\nhttps://www.facebook.com/e
+ vents/1230391194808800/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
@@ -953,7 +1126,7 @@ DESCRIPTION:We are going to check-out the suns
  ents/2319522171717671/
 CLASS:PUBLIC
 STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
+PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20231206T194821Z
@@ -1123,597 +1296,6 @@ URL:https://www.facebook.com/events/3911592509071257/
 DESCRIPTION:4.5 mile hill climb\n\nhttps://www.f
  acebook.com/events/391159250907125
  7/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240726T174052Z
-LAST-MODIFIED:20240726T174052Z
-CREATED:20240726T174052Z
-SEQUENCE:0
-ORGANIZER;CN=Jan Alfano Trail parkrun:MAILTO:noreply@facebookmail.com
-DTSTART:20240831T143000Z
-DTEND:20240831T153000Z
-UID:e1179228043289633@facebook.com
-SUMMARY:Jan Alfano Trail parkrun
-LOCATION:3181 Willow Creek Rd\, Prescott\, AZ
-  86301-6848\, United States
-URL:https://www.facebook.com/events/1179228023289635/?event_time_id=1179228043289633
-DESCRIPTION:Show up and run or walk a 5k! Plea
- se see the website for more detail
- s https://www.parkrun.us/janalfano
- trail/\n\nhttps://www.facebook.com/e
- vents/1179228023289635/?event_time
- _id=1179228043289633
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240822T010526Z
-LAST-MODIFIED:20240822T010526Z
-CREATED:20240814T012734Z
-SEQUENCE:689872
-ORGANIZER;CN=Marc Metz:MAILTO:noreply@facebookmail.com
-DTSTART:20240831T141500Z
-DTEND:20240831T171500Z
-UID:e3968762243353205@facebook.com
-SUMMARY:26th Annual Territorial Days 10k / 5k / 2 Mile Fun Run
-LOCATION:Memory Park
-URL:https://www.facebook.com/events/3968762243353205/
-DESCRIPTION:https://www.facebook.com/events/39
- 68762243353205/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240808T173915Z
-LAST-MODIFIED:20240808T173915Z
-CREATED:20240719T001831Z
-SEQUENCE:1790444
-ORGANIZER;CN=Chino Valley Community Services:MAILTO:noreply@facebookmail.com
-DTSTART:20240830T210000Z
-DTEND:20240902T190000Z
-UID:e497161839463399@facebook.com
-SUMMARY:Chino Valley Territorial Days 
-LOCATION:Memory Park
-URL:https://www.facebook.com/events/497161839463399/
-DESCRIPTION: Join us for our Territorial Days 
- weekend event! We will be kicking 
- things off Friday evening with a M
- ovie Night in Memory Park. Saturda
- y will be a fun filled day\, starti
- ng with the Lions Pancake breakfas
- t at the Senior Center as well as 
- a 10k and 2-mile walk/run and vend
- ors in the park. Then at 9:00am we
-  will have our grand Territorial D
- ays Parade which will be followed 
- by food\, activities and contests i
- n the Park! To wrap up Saturday's 
- events\, FFA will have their corn d
- inner at Del Rio School in the eve
- ning. Sunday there will be a Car S
- how from 9:00am - 1:00pm at the Aq
- uatics Center parking lot hosted b
- y the Chino Valley Memorial Founda
- tion. There will be lots of cars a
- s well as food trucks and vendors 
- followed by free swim from 3:00pm-
- 9:00pm. Ichor Airsoft will also ha
- ve a sequence of events over by Ol
- d Home Manor\, gates will open at 3
- :00pm. We will end the weekend out
-  at Old Home Manor with fireworks!
-  For any questions call 928-636-97
- 80 or email recreation@chinoaz.net
- .  \n\nhttps://www.facebook.com/even
- ts/497161839463399/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240606T225450Z
-LAST-MODIFIED:20240606T225450Z
-CREATED:20240319T133927Z
-SEQUENCE:6858923
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20240830T003000Z
-DTEND:20240830T033000Z
-UID:e3661597624081438@facebook.com
-SUMMARY:Thursday Night Social Run/Walk
-LOCATION:La Planchada
-URL:https://www.facebook.com/events/3661597557414778/?event_time_id=3661597624081438
-DESCRIPTION:Please join us for our Thursday ni
- ght social run/walk! Meet on the p
- atio at La Planchada\, 217 W Gurley
-  at 5:30. We'll run or walk on the
-  path along Granite Creek to the P
- ark\, do a couple laps in the Park\,
-  then return (or do your own route
- ).  Stay after for food and/or dri
- nks if you like.\n\nhttps://www.face
- book.com/events/3661597557414778/?
- event_time_id=3661597624081438
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240705T175058Z
-LAST-MODIFIED:20240705T175058Z
-CREATED:20240705T175058Z
-SEQUENCE:0
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20240830T003000Z
-DTEND:20240830T020000Z
-UID:e838268661546822@facebook.com
-SUMMARY:Thursday Night Social Run/Walk
-LOCATION:LaPlanchada
-URL:https://www.facebook.com/events/838268641546824/?event_time_id=838268661546822
-DESCRIPTION:Meet at LaPlanchada 217 W Gurley. 
- Walk or run 2-4 miles to Granite P
- ark and back. Hang around afterwar
- ds to socialize. \n\nhttps://www.fac
- ebook.com/events/838268641546824/?
- event_time_id=838268661546822
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240617T173019Z
-LAST-MODIFIED:20240617T173019Z
-CREATED:20240614T013901Z
-SEQUENCE:316278
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20240828T130000Z
-DTEND:20240828T160000Z
-UID:e1155618165643490@facebook.com
-SUMMARY:Vert Club
-URL:https://www.facebook.com/events/1155618102310163/?event_time_id=1155618165643490
-DESCRIPTION:Meet in the Thumb Butte parking lo
- t (free on Wednesdays) at either 6
- :00 AM or 7:00 AM and make as many
-  trips up the trail as you like.\n\n
- https://www.facebook.com/events/11
- 55618102310163/?event_time_id=1155
- 618165643490
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240807T000610Z
-LAST-MODIFIED:20240807T000610Z
-CREATED:20240807T000610Z
-SEQUENCE:0
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20240828T003000Z
-DTEND:20240828T033000Z
-UID:e700164092275747@facebook.com
-SUMMARY:Tuesday Group Run - Woodchute (up on Mingus!) - Jason leading!
-URL:https://www.facebook.com/events/700164092275747/
-DESCRIPTION:We will meet at the Woodchute Trai
- lhead up on Mingus Mtn. Out and ba
- ck with variable distances possibl
- e.\n\nParking location: 34.71557\, -1
- 12.16019\n\n***Plan for extra drivin
- g time for this one!***\n\nTake a br
- eak from the heat and come run in 
- the pines with epic views! This is
-  a no-drop group run (we stop at e
- very intersection so everyone can 
- catch up before running again). An
- ticipate 7 miles for the full trai
- l -but as this is an out and back 
- any distance is welcome if you wan
- t to turn back earlier and do a sh
- orter distance :) \n\nBring water! \n
- \nhttps://www.facebook.com/events/7
- 00164092275747/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240625T212416Z
-LAST-MODIFIED:20240625T212416Z
-CREATED:20240625T212416Z
-SEQUENCE:0
-ORGANIZER;CN=Groovin' In The Aspens:MAILTO:noreply@facebookmail.com
-DTSTART:20240825T150000Z
-DTEND:20240825T180000Z
-UID:e997510948553829@facebook.com
-SUMMARY:Groovin' In The Aspens 5K/10K/18K Trail Run
-LOCATION:Flagstaff\, AZ\, United States\, Ariz
- ona
-URL:https://www.facebook.com/events/997510948553829/
-DESCRIPTION:Previously Gaspin' in the Aspens\, 
- Bear Jaw Events has resurrected th
- is fun race by popular demand and 
- renamed it Groovin' in the Aspens!
-  Also taking place in the majestic
-  Arizona Nordic Village\, this is a
-  5K/10K/18K trail run through the 
- aspens and pines of some of Flagst
- aff's best trail systems!\n\nhttps:/
- /www.facebook.com/events/997510948
- 553829/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240820T234812Z
-LAST-MODIFIED:20240820T234812Z
-CREATED:20231109T200115Z
-SEQUENCE:24637617
-ORGANIZER;CN=Aravaipa Running:MAILTO:noreply@facebookmail.com
-DTSTART:20240825T020000Z
-DTEND:20240825T050000Z
-UID:e1299639983943359@facebook.com
-SUMMARY:Jackrabbit Jubilee
-LOCATION:Nardini Manor
-URL:https://www.facebook.com/events/1299639983943359/
-DESCRIPTION:Hoppiness abounds at the Jackrabbi
- t Jubilee! \n\nThe 12 & 6 Hour fixed
- -time night race kicks off this Au
- gust on the 500 meter USATF certif
- ied course (road) at Nardini Manor
- . The course is a flat crushed gra
- vel loop that winds its way around
-  the grounds. Run\, hop\, skip\, laug
- h and spend the night with us at N
- ardini Manor--fun for everybunny!\n
- \nhttps://www.facebook.com/events/1
- 299639983943359/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240726T174052Z
-LAST-MODIFIED:20240726T174052Z
-CREATED:20240726T174052Z
-SEQUENCE:0
-ORGANIZER;CN=Jan Alfano Trail parkrun:MAILTO:noreply@facebookmail.com
-DTSTART:20240824T143000Z
-DTEND:20240824T153000Z
-UID:e1179228049956299@facebook.com
-SUMMARY:Jan Alfano Trail parkrun
-LOCATION:3181 Willow Creek Rd\, Prescott\, AZ
-  86301-6848\, United States
-URL:https://www.facebook.com/events/1179228023289635/?event_time_id=1179228049956299
-DESCRIPTION:Show up and run or walk a 5k! Plea
- se see the website for more detail
- s https://www.parkrun.us/janalfano
- trail/\n\nhttps://www.facebook.com/e
- vents/1179228023289635/?event_time
- _id=1179228049956299
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240606T225450Z
-LAST-MODIFIED:20240606T225450Z
-CREATED:20240319T133927Z
-SEQUENCE:6858923
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20240823T003000Z
-DTEND:20240823T033000Z
-UID:e3661597634081437@facebook.com
-SUMMARY:Thursday Night Social Run/Walk
-LOCATION:La Planchada
-URL:https://www.facebook.com/events/3661597557414778/?event_time_id=3661597634081437
-DESCRIPTION:Please join us for our Thursday ni
- ght social run/walk! Meet on the p
- atio at La Planchada\, 217 W Gurley
-  at 5:30. We'll run or walk on the
-  path along Granite Creek to the P
- ark\, do a couple laps in the Park\,
-  then return (or do your own route
- ).  Stay after for food and/or dri
- nks if you like.\n\nhttps://www.face
- book.com/events/3661597557414778/?
- event_time_id=3661597634081437
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240705T175058Z
-LAST-MODIFIED:20240705T175058Z
-CREATED:20240705T175058Z
-SEQUENCE:0
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20240823T003000Z
-DTEND:20240823T020000Z
-UID:e838268674880154@facebook.com
-SUMMARY:Thursday Night Social Run/Walk
-LOCATION:LaPlanchada
-URL:https://www.facebook.com/events/838268641546824/?event_time_id=838268674880154
-DESCRIPTION:Meet at LaPlanchada 217 W Gurley. 
- Walk or run 2-4 miles to Granite P
- ark and back. Hang around afterwar
- ds to socialize. \n\nhttps://www.fac
- ebook.com/events/838268641546824/?
- event_time_id=838268674880154
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240617T173019Z
-LAST-MODIFIED:20240617T173019Z
-CREATED:20240614T013901Z
-SEQUENCE:316278
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20240821T130000Z
-DTEND:20240821T160000Z
-UID:e1155618108976829@facebook.com
-SUMMARY:Vert Club
-URL:https://www.facebook.com/events/1155618102310163/?event_time_id=1155618108976829
-DESCRIPTION:Meet in the Thumb Butte parking lo
- t (free on Wednesdays) at either 6
- :00 AM or 7:00 AM and make as many
-  trips up the trail as you like.\n\n
- https://www.facebook.com/events/11
- 55618102310163/?event_time_id=1155
- 618108976829
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240607T185456Z
-LAST-MODIFIED:20240607T185456Z
-CREATED:20240606T215202Z
-SEQUENCE:75774
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20240821T003000Z
-DTEND:20240821T033000Z
-UID:e474666425072763@facebook.com
-SUMMARY:Tuesday Group Run- White Spar - Jason leading!
-URL:https://www.facebook.com/events/474666425072763/
-DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
-  will meet at the White Spar Parki
- ng lot (link here https://goo.gl/m
- aps/nX4JGH75u4T7R15g7) at 5:30 PM.
-  Expect 4-6 miles. No drop run (we
-  stop for everyone at every inters
- ection). \n\nBe careful\, this is NOT
-  the usual white ROCK parking lot\,
-  this is white SPAR. \n\nBring water
- !!!\n\n\n\nhttps://www.facebook.com/ev
- ents/474666425072763/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240726T174052Z
-LAST-MODIFIED:20240726T174052Z
-CREATED:20240726T174052Z
-SEQUENCE:0
-ORGANIZER;CN=Jan Alfano Trail parkrun:MAILTO:noreply@facebookmail.com
-DTSTART:20240817T143000Z
-DTEND:20240817T153000Z
-UID:e1179228046622966@facebook.com
-SUMMARY:Jan Alfano Trail parkrun
-LOCATION:3181 Willow Creek Rd\, Prescott\, AZ
-  86301-6848\, United States
-URL:https://www.facebook.com/events/1179228023289635/?event_time_id=1179228046622966
-DESCRIPTION:Show up and run or walk a 5k! Plea
- se see the website for more detail
- s https://www.parkrun.us/janalfano
- trail/\n\nhttps://www.facebook.com/e
- vents/1179228023289635/?event_time
- _id=1179228046622966
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240606T225450Z
-LAST-MODIFIED:20240606T225450Z
-CREATED:20240319T133927Z
-SEQUENCE:6858923
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20240816T003000Z
-DTEND:20240816T033000Z
-UID:e3661597577414776@facebook.com
-SUMMARY:Thursday Night Social Run/Walk
-LOCATION:La Planchada
-URL:https://www.facebook.com/events/3661597557414778/?event_time_id=3661597577414776
-DESCRIPTION:Please join us for our Thursday ni
- ght social run/walk! Meet on the p
- atio at La Planchada\, 217 W Gurley
-  at 5:30. We'll run or walk on the
-  path along Granite Creek to the P
- ark\, do a couple laps in the Park\,
-  then return (or do your own route
- ).  Stay after for food and/or dri
- nks if you like.\n\nhttps://www.face
- book.com/events/3661597557414778/?
- event_time_id=3661597577414776
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240617T173019Z
-LAST-MODIFIED:20240617T173019Z
-CREATED:20240614T013901Z
-SEQUENCE:316278
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20240814T130000Z
-DTEND:20240814T160000Z
-UID:e1155618122310161@facebook.com
-SUMMARY:Vert Club
-URL:https://www.facebook.com/events/1155618102310163/?event_time_id=1155618122310161
-DESCRIPTION:Meet in the Thumb Butte parking lo
- t (free on Wednesdays) at either 6
- :00 AM or 7:00 AM and make as many
-  trips up the trail as you like.\n\n
- https://www.facebook.com/events/11
- 55618102310163/?event_time_id=1155
- 618122310161
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240611T233545Z
-LAST-MODIFIED:20240611T233545Z
-CREATED:20240611T233545Z
-SEQUENCE:0
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20240814T003000Z
-DTEND:20240814T033000Z
-UID:e1226491495183059@facebook.com
-SUMMARY:Tuesday Group Run- White Rock
-URL:https://www.facebook.com/events/1226491495183059/
-DESCRIPTION:We will meet at White Rock Parking
-  lot (link here https://goo.gl/map
- s/YN2uMvQnyQWTM9JK7) at 5:30pm. \n\n
- No-drop group run of approximately
-  5 miles. No-drop means we stop at
-  every intersection and wait for e
- veryone. \n\nBring water!!\n\n\n\n\n\n\nhtt
- ps://www.facebook.com/events/12264
- 91495183059/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240726T174052Z
-LAST-MODIFIED:20240726T174052Z
-CREATED:20240726T174052Z
-SEQUENCE:0
-ORGANIZER;CN=Jan Alfano Trail parkrun:MAILTO:noreply@facebookmail.com
-DTSTART:20240810T143000Z
-DTEND:20240810T153000Z
-UID:e1179228036622967@facebook.com
-SUMMARY:Jan Alfano Trail parkrun
-LOCATION:3181 Willow Creek Rd\, Prescott\, AZ
-  86301-6848\, United States
-URL:https://www.facebook.com/events/1179228023289635/?event_time_id=1179228036622967
-DESCRIPTION:Show up and run or walk a 5k! Plea
- se see the website for more detail
- s https://www.parkrun.us/janalfano
- trail/\n\nhttps://www.facebook.com/e
- vents/1179228023289635/?event_time
- _id=1179228036622967
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240606T225450Z
-LAST-MODIFIED:20240606T225450Z
-CREATED:20240319T133927Z
-SEQUENCE:6858923
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20240809T003000Z
-DTEND:20240809T033000Z
-UID:e3661597640748103@facebook.com
-SUMMARY:Thursday Night Social Run/Walk
-LOCATION:La Planchada
-URL:https://www.facebook.com/events/3661597557414778/?event_time_id=3661597640748103
-DESCRIPTION:Please join us for our Thursday ni
- ght social run/walk! Meet on the p
- atio at La Planchada\, 217 W Gurley
-  at 5:30. We'll run or walk on the
-  path along Granite Creek to the P
- ark\, do a couple laps in the Park\,
-  then return (or do your own route
- ).  Stay after for food and/or dri
- nks if you like.\n\nhttps://www.face
- book.com/events/3661597557414778/?
- event_time_id=3661597640748103
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240705T175058Z
-LAST-MODIFIED:20240705T175058Z
-CREATED:20240705T175058Z
-SEQUENCE:0
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20240809T003000Z
-DTEND:20240809T020000Z
-UID:e838268664880155@facebook.com
-SUMMARY:Thursday Night Social Run/Walk
-LOCATION:LaPlanchada
-URL:https://www.facebook.com/events/838268641546824/?event_time_id=838268664880155
-DESCRIPTION:Meet at LaPlanchada 217 W Gurley. 
- Walk or run 2-4 miles to Granite P
- ark and back. Hang around afterwar
- ds to socialize. \n\nhttps://www.fac
- ebook.com/events/838268641546824/?
- event_time_id=838268664880155
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240617T173019Z
-LAST-MODIFIED:20240617T173019Z
-CREATED:20240614T013901Z
-SEQUENCE:316278
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20240807T130000Z
-DTEND:20240807T160000Z
-UID:e1155618138976826@facebook.com
-SUMMARY:Vert Club
-URL:https://www.facebook.com/events/1155618102310163/?event_time_id=1155618138976826
-DESCRIPTION:Meet in the Thumb Butte parking lo
- t (free on Wednesdays) at either 6
- :00 AM or 7:00 AM and make as many
-  trips up the trail as you like.\n\n
- https://www.facebook.com/events/11
- 55618102310163/?event_time_id=1155
- 618138976826
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240806T232528Z
-LAST-MODIFIED:20240806T232528Z
-CREATED:20240606T223448Z
-SEQUENCE:5273440
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20240807T003000Z
-DTEND:20240807T033000Z
-UID:e1695190011018554@facebook.com
-SUMMARY:Tuesday Group Run - Woodchute (up on Mingus!) - Jason leading!
-URL:https://www.facebook.com/events/1695190011018554/
-DESCRIPTION:We will meet at the Woodchute Trai
- lhead up on Mingus Mtn. Out and ba
- ck with variable distances possibl
- e.\n\nParking location: 34.71557\, -1
- 12.16019\n\n***Plan for extra drivin
- g time for this one!***\n\nTake a br
- eak from the heat and come run in 
- the pines with epic views! This is
-  a no-drop group run (we stop at e
- very intersection so everyone can 
- catch up before running again). An
- ticipate 7 miles for the full trai
- l -but as this is an out and back 
- any distance is welcome if you wan
- t to turn back earlier and do a sh
- orter distance :) \n\nBring water! \n
- \nhttps://www.facebook.com/events/1
- 695190011018554/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
