@@ -50,6 +50,28 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20240929T171918Z
+LAST-MODIFIED:20240929T171918Z
+CREATED:20240929T171918Z
+SEQUENCE:0
+ORGANIZER;CN=Zane Grey Highline Trail Ultramarathon:MAILTO:noreply@facebookmail.com
+DTSTART:20250426T123000Z
+DTEND:20250427T060000Z
+UID:e899919022006378@facebook.com
+SUMMARY:35th annual Zane Grey Highline Trail Runs
+LOCATION:Zane Grey Highline Trail Ultramara
+ thon
+URL:https://www.facebook.com/events/899919022006378/
+DESCRIPTION:50 mile and 27 mile distances star
+ ting and finishing in Christopher 
+ Creek\, along the historic Highline
+  Trail\n\nhttps://www.facebook.com/e
+ vents/899919022006378/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20240913T164433Z
 LAST-MODIFIED:20240913T164433Z
 CREATED:20240913T164239Z
@@ -259,23 +281,22 @@ STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240617T173019Z
-LAST-MODIFIED:20240617T173019Z
+DTSTAMP:20241006T174006Z
+LAST-MODIFIED:20241006T174006Z
 CREATED:20240614T013901Z
-SEQUENCE:316278
+SEQUENCE:9907265
 ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20241106T130000Z
+DTSTART:20241106T140000Z
 DTEND:20241106T160000Z
-UID:e1155618172310156@facebook.com
+UID:e1228870984984874@facebook.com
 SUMMARY:Vert Club
-URL:https://www.facebook.com/events/1155618102310163/?event_time_id=1155618172310156
+URL:https://www.facebook.com/events/1155618102310163/?event_time_id=1228870984984874
 DESCRIPTION:Meet in the Thumb Butte parking lo
- t (free on Wednesdays) at either 6
- :00 AM or 7:00 AM and make as many
-  trips up the trail as you like.\n\n
- https://www.facebook.com/events/11
- 55618102310163/?event_time_id=1155
- 618172310156
+ t (free on Wednesdays) at 7:00 AM 
+ and make as many trips up the trai
+ l as you like.\n\nhttps://www.facebo
+ ok.com/events/1155618102310163/?ev
+ ent_time_id=1228870984984874
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
@@ -310,23 +331,22 @@ STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240617T173019Z
-LAST-MODIFIED:20240617T173019Z
+DTSTAMP:20241006T174006Z
+LAST-MODIFIED:20241006T174006Z
 CREATED:20240614T013901Z
-SEQUENCE:316278
+SEQUENCE:9907265
 ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20241030T130000Z
+DTSTART:20241030T140000Z
 DTEND:20241030T160000Z
-UID:e1155618152310158@facebook.com
+UID:e1228870994984873@facebook.com
 SUMMARY:Vert Club
-URL:https://www.facebook.com/events/1155618102310163/?event_time_id=1155618152310158
+URL:https://www.facebook.com/events/1155618102310163/?event_time_id=1228870994984873
 DESCRIPTION:Meet in the Thumb Butte parking lo
- t (free on Wednesdays) at either 6
- :00 AM or 7:00 AM and make as many
-  trips up the trail as you like.\n\n
- https://www.facebook.com/events/11
- 55618102310163/?event_time_id=1155
- 618152310158
+ t (free on Wednesdays) at 7:00 AM 
+ and make as many trips up the trai
+ l as you like.\n\nhttps://www.facebo
+ ok.com/events/1155618102310163/?ev
+ ent_time_id=1228870994984873
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
@@ -441,47 +461,102 @@ STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240617T173019Z
-LAST-MODIFIED:20240617T173019Z
+DTSTAMP:20240627T205206Z
+LAST-MODIFIED:20240627T205206Z
+CREATED:20240627T204952Z
+SEQUENCE:134
+ORGANIZER;CN=Prescott Western Heritage Foundation\, Inc.:MAILTO:noreply@facebookmail.com
+DTSTART:20241024T010000Z
+DTEND:20241024T040000Z
+UID:e1641019316658599@facebook.com
+SUMMARY:Living at the BOTTOM of Grand Canyon 
+LOCATION:156 S. Montezuma Street\, Prescott\,
+  AZ
+URL:https://www.facebook.com/events/1641019316658599/
+DESCRIPTION:What’s it like to live in Phanto
+ m Ranch\, at the pitch dark bottom 
+ of the 8th wonder of the world?! J
+ oin us to hear from the man\, the m
+ yth\, the legend who did just that 
+ for 20+ years! Incredible stories 
+ you can’t hear in any other stat
+ e but our awesome AZ! \n\nCall ☎️
+  928-910-2307. His talk sold out l
+ ast time! So don’t wait! \n\nhttps
+ ://www.facebook.com/events/1641019
+ 316658599/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241006T174006Z
+LAST-MODIFIED:20241006T174006Z
 CREATED:20240614T013901Z
-SEQUENCE:316278
+SEQUENCE:9907265
 ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20241023T130000Z
+DTSTART:20241023T140000Z
 DTEND:20241023T160000Z
-UID:e1155618175643489@facebook.com
+UID:e1228870998318206@facebook.com
 SUMMARY:Vert Club
-URL:https://www.facebook.com/events/1155618102310163/?event_time_id=1155618175643489
+URL:https://www.facebook.com/events/1155618102310163/?event_time_id=1228870998318206
 DESCRIPTION:Meet in the Thumb Butte parking lo
- t (free on Wednesdays) at either 6
- :00 AM or 7:00 AM and make as many
-  trips up the trail as you like.\n\n
- https://www.facebook.com/events/11
- 55618102310163/?event_time_id=1155
- 618175643489
+ t (free on Wednesdays) at 7:00 AM 
+ and make as many trips up the trai
+ l as you like.\n\nhttps://www.facebo
+ ok.com/events/1155618102310163/?ev
+ ent_time_id=1228870998318206
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240927T183851Z
-LAST-MODIFIED:20240927T183851Z
+DTSTAMP:20241008T203027Z
+LAST-MODIFIED:20241008T203027Z
 CREATED:20240927T183851Z
-SEQUENCE:0
+SEQUENCE:957096
 ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
 DTSTART:20241023T003000Z
 DTEND:20241023T033000Z
 UID:e950921239806569@facebook.com
-SUMMARY:Tuesday Group Run- White Rock -Tish leading!
+SUMMARY:Tuesday Group Run- 7 Mile Gulch to Lynx Lake-Tish leading!
 URL:https://www.facebook.com/events/950921239806569/
-DESCRIPTION:We will meet at White Rock Parking
-  lot (link here https://goo.gl/map
- s/YN2uMvQnyQWTM9JK7) at 5:30pm. \n\n
+DESCRIPTION:We will meet at the 7 Mile Gulch p
+ arking lot and run around Lynx Lak
+ e at 5:30pm. \n\nLocation: 34.523045
+ 568191336\, -112.39299530370988 \n\nD
+ riving directions: Drive up Walker
+  Rd away from Hwy 69- 7 Mile Gulch
+  Trailhead will be on the right \n\n
  No-drop group run of approximately
   5 miles. No-drop means we stop at
   every intersection and wait for e
- veryone. \n\nBring a light!!\n\n\n\n\n\n\nh
- ttps://www.facebook.com/events/950
- 921239806569/
+ veryone. \n\nBring a light!! (or you
+  know - run in the dark with a cel
+ l phone! LOL)\n\n\n\n\n\n\nhttps://www.fa
+ cebook.com/events/950921239806569/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241018T224846Z
+LAST-MODIFIED:20241018T224846Z
+CREATED:20241018T224633Z
+SEQUENCE:133
+ORGANIZER;CN=Dana Kirkwood-Watts:MAILTO:noreply@facebookmail.com
+DTSTART:20241019T140000Z
+DTEND:20241019T170000Z
+UID:e1051504720018304@facebook.com
+SUMMARY:SATR PATR
+LOCATION:White Rock
+URL:https://www.facebook.com/events/1051504720018304/
+DESCRIPTION:Starting at 7am from White Rock. S
+ ome will run a 12-mile loop fairly
+  slowly and some will do an out-an
+ d-back (8ish miles). \n\nhttps://www
+ .facebook.com/events/1051504720018
+ 304/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
@@ -531,28 +606,6 @@ DESCRIPTION:Meet at LaPlanchada 217 W Gurley.
  ds to socialize. \n\nhttps://www.fac
  ebook.com/events/838268641546824/?
  event_time_id=838268691546819
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240617T173019Z
-LAST-MODIFIED:20240617T173019Z
-CREATED:20240614T013901Z
-SEQUENCE:316278
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20241016T130000Z
-DTEND:20241016T160000Z
-UID:e1155618112310162@facebook.com
-SUMMARY:Vert Club
-URL:https://www.facebook.com/events/1155618102310163/?event_time_id=1155618112310162
-DESCRIPTION:Meet in the Thumb Butte parking lo
- t (free on Wednesdays) at either 6
- :00 AM or 7:00 AM and make as many
-  trips up the trail as you like.\n\n
- https://www.facebook.com/events/11
- 55618102310163/?event_time_id=1155
- 618112310162
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
@@ -703,28 +756,6 @@ DESCRIPTION:Meet at LaPlanchada 217 W Gurley.
  ds to socialize. \n\nhttps://www.fac
  ebook.com/events/838268641546824/?
  event_time_id=838268688213486
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240617T173019Z
-LAST-MODIFIED:20240617T173019Z
-CREATED:20240614T013901Z
-SEQUENCE:316278
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20241009T130000Z
-DTEND:20241009T160000Z
-UID:e1155618148976825@facebook.com
-SUMMARY:Vert Club
-URL:https://www.facebook.com/events/1155618102310163/?event_time_id=1155618148976825
-DESCRIPTION:Meet in the Thumb Butte parking lo
- t (free on Wednesdays) at either 6
- :00 AM or 7:00 AM and make as many
-  trips up the trail as you like.\n\n
- https://www.facebook.com/events/11
- 55618102310163/?event_time_id=1155
- 618148976825
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
