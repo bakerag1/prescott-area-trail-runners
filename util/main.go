@@ -25,6 +25,7 @@ external_url: %v
 layout: %v
 location: %v
 feature-img: "assets/img/big-trail.jpg"
+ICSDescription: "%s"
 ---
 
 %v
@@ -98,6 +99,7 @@ func addCalendarItems() {
 				e.Uri,
 				layout,
 				e.Location,
+				e.ICSDescription,
 				e.Description)))
 	}
 }
@@ -122,6 +124,14 @@ func parseEvents() []event {
 			log.Printf("non-public event skipped: %s\n", e.Summary)
 			continue
 		}
+		var icsDesc string
+		for i, s := range e.Description {
+			icsDesc += string(s)
+			if i > 0 && (i+1)%32 == 0 {
+				icsDesc += "\r  "
+			}
+		}
+		ev.ICSDescription = icsDesc
 		ev.Uri = e.URL
 		ev.Uid = e.Uid[:strings.IndexByte(e.Uid, '@')]
 		ev.Description = strings.ReplaceAll(e.Description, "\\n", "<br>\n  ")
@@ -219,19 +229,20 @@ type monthData struct {
 	News   []news
 }
 type event struct {
-	Name        string
-	Uri         string
-	PatrUri     string
-	Description string
-	Summary     string
-	Start       string
-	Month       string
-	DayOfWeek   string
-	DayOfMonth  string
-	End         string
-	Location    string
-	Uid         string
-	Created     string
+	Name           string
+	Uri            string
+	PatrUri        string
+	ICSDescription string
+	Description    string
+	Summary        string
+	Start          string
+	Month          string
+	DayOfWeek      string
+	DayOfMonth     string
+	End            string
+	Location       string
+	Uid            string
+	Created        string
 }
 type news struct {
 }

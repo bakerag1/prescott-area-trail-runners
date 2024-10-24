@@ -10,6 +10,10 @@ services:
 ignoreFiles:
   - events.ics
 
+outputFormats:
+  Calendar:
+    protocol: "https://"
+
 params:
   description: "Prescott Area Trail Runners"
   themeColor: "theme-base-09"

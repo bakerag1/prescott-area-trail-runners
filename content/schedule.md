@@ -11,6 +11,8 @@ order: 2
 Join our [Facebook Group](https://www.facebook.com/groups/1909677022694360/) for
 event details and discussion
 
+Or subscribe to the [calendar](/events/index.ics)
+
 *Tuesdays:* 5:30 pm we have a group run at a trail in the area, usually within a
 20 minute drive of downtown Prescott. 
 A 4-6 mile no-drop run, which means we stop at every intersection and wait for everyone.
