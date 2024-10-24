@@ -25,7 +25,8 @@ external_url: %v
 layout: %v
 location: %v
 feature-img: "assets/img/big-trail.jpg"
-ICSDescription: "%s"
+ICSDescription: |+2
+  %s
 ---
 
 %v
