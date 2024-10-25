@@ -25,6 +25,9 @@ external_url: %v
 layout: %v
 location: %v
 feature-img: "assets/img/big-trail.jpg"
+outputs:
+  - html
+  - calendar
 ICSDescription: |+2
   %s
 ---

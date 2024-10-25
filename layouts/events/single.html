@@ -6,6 +6,10 @@
   from:&nbsp;&nbsp; {{ dateFormat "Monday - Jan 2, 2006 3:04PM" .Params.startdate }}
   <br>until:&nbsp;&nbsp; {{ dateFormat "Monday - Jan 2, 2006 3:04PM" .Params.enddate }}
   <br><a href="{{ .Params.external_url}}">more info on FB</a>
+  {{ with .OutputFormats.Get "Calendar" }}
+    <br><a href="{{ .RelPermalink }}" type="text/calendar">Add to Calendar</a>
+{{ end }}
+
   <br><br>
   {{ .Content }}
 </div>
