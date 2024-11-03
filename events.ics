@@ -184,37 +184,92 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240927T205555Z
-LAST-MODIFIED:20240927T205555Z
-CREATED:20240927T205555Z
+DTSTAMP:20241101T191430Z
+LAST-MODIFIED:20241101T191430Z
+CREATED:20241101T191430Z
 SEQUENCE:0
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20241127T003000Z
-DTEND:20241127T033000Z
-UID:e1603187617269979@facebook.com
-SUMMARY:Tuesday Group Run- Willow Lake
-URL:https://www.facebook.com/events/1603187617269979/
-DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
-  will meet at the Dog Park parking
-  lot (link here https://goo.gl/map
- s/ZCLmd4fQPGkyXCHP7) at 5:30pm. Pl
- an for 5 miles(ish).\n\nNo drop run 
- (we stop for everyone at every int
- ersection).\n\nBring a headlamp!\n\nht
- tps://www.facebook.com/events/1603
- 187617269979/
+ORGANIZER;CN=Black Canyon Ultras:MAILTO:noreply@facebookmail.com
+DTSTART:20250112T150000Z
+DTEND:20250112T180000Z
+UID:e2026923151092410@facebook.com
+SUMMARY:Black Canyon Training Run #3 supported by Hoka
+LOCATION:Black Canyon City/rock Springs
+URL:https://www.facebook.com/events/2026923151092410/
+DESCRIPTION:Sunday\, January 12 will the the th
+ ird and final preview run for the 
+ upcoming 2025 Black Canyon Trail 1
+ 00K. This section will resume from
+  the Black Canyon City Trailhead a
+ nd continue to head south towards 
+ New River & Phoenix. We’ll head 
+ back into the canyons and across s
+ everal more creeks before the trai
+ l generally becomes flatter toward
+ s the finish at Emery Henderson Tr
+ ailhead.\n\nDate: \nSunday\, January 1
+ 2\, 2025\n\nDistance:\nMile 0 – Blac
+ k Canyon City TH (Start)\nMile 13.3
+  – Table Mesa Road TH (Aid)\nMile
+  24.5 – Emery Henderson TH (Fini
+ sh)\n\nTime:\n7:00am Meet at Emery He
+ nderson TH to carpool\nor 7:30am Me
+ et at Black Canyon City TH\n\nDrivin
+ g Directions:\n\nDirections to Emery
+  Henderson Trailhead (end of run\, 
+ park here to carpool to Black Cany
+ on City TH)\n3.1 Miles West of I-17
+  Freeway exit 232 on New River Roa
+ d\n\nDirections to Black Canyon City
+  TH (start of run)\n1. Take exit 24
+ 2 off the I-17 towards Rock Spring
+ s / Black Canyon City\n2. Turn left
+  at the stop sign onto Velda Road 
+ Road\n3. Turn right at the next sto
+ p sign onto the Old Black Canyon H
+ ighway and then an immediate left 
+ onto Warner Road towards the Black
+  Canyon City Trailhead\n4. Follow W
+ arner Road for 0.3 miles to the tr
+ ailhead and aid station. There is 
+ a restroom located at this trailhe
+ ad. There are also dining options 
+ and a General Store in Rock Spring
+ s and some more options a couple m
+ iles north on the Old Black Canyon
+  Highway in Black Canyon City as w
+ ell as a gas station.\n\nFormat:\nThi
+ s is a no fee\, limited aid\, limite
+ d to no course marking training ru
+ n. You must plan to be self suffic
+ ient in terms of navigation\, perso
+ nal safety and aid between station
+ s. We will have water & some food 
+ at Table Mesa Road TH. Please stud
+ y the maps in this post and follow
+  signage for the Black Canyon Trai
+ l.\n\nMarkings:\nThe course on princi
+ ple will be unmarked. There is sig
+ nage for the Black Canyon Trail at
+  most questionable junctions\, but 
+ we recommend studying and printing
+  maps to bring with you. \n\nPost Ru
+ n Gathering:\nBring a camp chair\, s
+ ome snacks and BYOB if you enjoy a
+  Sunday Funday post-run hang\n\nhttp
+ s://www.facebook.com/events/202692
+ 3151092410/
 CLASS:PUBLIC
 STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
+PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240927T205320Z
-LAST-MODIFIED:20240927T205320Z
+DTSTAMP:20241030T214513Z
+LAST-MODIFIED:20241030T214513Z
 CREATED:20240927T205320Z
-SEQUENCE:0
+SEQUENCE:2854313
 ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20241120T003000Z
-DTEND:20241120T033000Z
+DTSTART:20241218T003000Z
+DTEND:20241218T033000Z
 UID:e1761526267953321@facebook.com
 SUMMARY:Tuesday Group Run -Turley Trailhead (Badger Mountain)
 URL:https://www.facebook.com/events/1761526267953321/
@@ -251,6 +306,362 @@ DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241101T191555Z
+LAST-MODIFIED:20241101T191555Z
+CREATED:20241101T191020Z
+SEQUENCE:335
+ORGANIZER;CN=Black Canyon Ultras:MAILTO:noreply@facebookmail.com
+DTSTART:20241215T150000Z
+DTEND:20241215T180000Z
+UID:e1268098311201813@facebook.com
+SUMMARY:Black Canyon Training Run #2 supported by Hoka
+LOCATION:Bumble Bee Ranch Adventures\, LLC
+URL:https://www.facebook.com/events/1268098311201813/
+DESCRIPTION:Sunday\, December 15th will be the 
+ second of three training runs lead
+ ing up to the 2025 Black Canyon Ul
+ tras. Each run will be minimally s
+ upported\, minimally marked and poi
+ nt to point. We will have shorter 
+ options at each. Here is informati
+ on for those of you wanting to joi
+ n on this first training run:\n\nDat
+ e:\nSunday\, December 15\, 2024 \n\nDis
+ tance:\nMile 0 – Bumble Bee\nMile 
+ 4.5 – Gloriana Mine TH (we may h
+ ave water here)\nMile 12.8 – Soap
+  Creek (Aid)\nMile 18.0 – Black C
+ anyon City TH (Finish)\n\nTime:\n7:00
+ am Meet at Black Canyon City TH.\no
+ r 7:30am Meet at Bumble Bee.\n\nThe 
+ run will start at approximately 7:
+ 45-8:00 am from Bumble Bee.\n\nDrivi
+ ng Directions:\n\nDirections to Blac
+ k Canyon City TH (end of run\, park
+  here to carpool to Bumble Bee)\n1.
+  Take exit 242 off the I-17 toward
+ s Rock Springs / Black Canyon City
+ \n2. Turn left at the stop sign ont
+ o Velda Road Road\n3. Turn right at
+  the next stop sign onto the Old B
+ lack Canyon Highway and then an im
+ mediate left onto Warner Road towa
+ rds the Black Canyon City Trailhea
+ d\n4. Follow Warner Road for 0.3 mi
+ les to the trailhead and aid stati
+ on. There is a restroom located at
+  this trailhead. There are also di
+ ning options and a General Store i
+ n Rock Springs and some more optio
+ ns a couple miles north on the Old
+  Black Canyon Highway in Black Can
+ yon City as well as a gas station.
+ \n\nDirections to Bumble Bee (start 
+ of run):\n1. Drive north from Phoen
+ ix on the I-17 Freeway\n2. Take exi
+ t #248 towards Bumble Bee / Crown 
+ King\n3. Turn left and drive 2.1 mi
+ les on pavement (road descends dow
+ nhill)\n4. Turn right at the bottom
+  where it turns to dirt and take C
+ rown King Road for 3.0 miles and p
+ ark just past the bridge on the le
+ ft hand side of the road.\n\nFormat:
+ \nThis is a no fee\, limited aid\, li
+ mited course marking training run.
+  You must plan to be self sufficie
+ nt in terms of navigation\, persona
+ l safety and aid between stations.
+  We may drop water at the Gloriana
+  Mine TH at mile 4.5 and have wate
+ r and food at mile 12.8 (Soap Cree
+ k). Please study the maps in this 
+ post and follow signage for the Bl
+ ack Canyon Trail.\n\nMarkings:\nThe c
+ ourse on principle will be unmarke
+ d. There is signage for the Black 
+ Canyon Trail at most questionable 
+ junctions\, but we recommend studyi
+ ng and printing maps to bring with
+  you. \n\nPost Run Gathering:\nBring 
+ a camp chair\, some snacks and BYOB
+  if you enjoy a Sunday Funday Post
+ -Run hang.\n\nhttps://www.facebook.c
+ om/events/1268098311201813/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241027T202748Z
+LAST-MODIFIED:20241027T202748Z
+CREATED:20241024T192554Z
+SEQUENCE:262914
+ORGANIZER;CN=The Launch Pad:MAILTO:noreply@facebookmail.com
+DTSTART:20241214T170000Z
+DTEND:20241214T200000Z
+UID:e1479732729384064@facebook.com
+SUMMARY:2024 Christmas City Santa Run
+LOCATION:1300 Commerce Dr\, Prescott\, AZ 863
+ 05-3705\, United States
+URL:https://www.facebook.com/events/1479732729384064/
+DESCRIPTION:Join us for the Launch Pad's 6th A
+ nnual Christmas City Santa Run\, Sp
+ onsored by Cambium Wealth & Legacy
+  Strategies\, Great Circle Media\, a
+ nd Prescott Woman Magazine on Satu
+ rday\, December 14\, 2024. This 10k\,
+  5k and 1-mile fun run at Brownlow
+  Trail will raise funds to support
+  out of school drop-in and leaders
+ hip programs at The Launch Pad Tee
+ n Center.\n\nRegister for the 10k or
+  5k and receive a Santa Hat\, Beard
+ \, and commemorative Santa Run orna
+ ment (We do encourage you to run i
+ n full Santa Gear...you could win 
+ a prize)\, or register yourself or 
+ your little one for the Rudolph Ru
+ n and get a set of antlers and a r
+ ed nose! There will be a cookie\, h
+ ot cider and cocoa booth hosted by
+  Foothills Bank at the beginning a
+ nd end of the race\, and a prize of
+  an Ugly Sweater for 1st and 2nd p
+ lace 10K and 5K runners in both th
+ e women's and men's groups.\n\nThing
+ s to Know Before Registering:\nThe 
+ Brownlow Trail is super fun with r
+ olling hills\, fun turns\, and beaut
+ iful scenery\, but it would be toug
+ h to run with a stroller. If you a
+ re thinking of bringing your kiddo
+ (s) in a stroller\, come and check 
+ out the race course in advance.\n\nh
+ ttps://www.facebook.com/events/147
+ 9732729384064/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241029T210923Z
+LAST-MODIFIED:20241029T210923Z
+CREATED:20241029T210923Z
+SEQUENCE:0
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20241211T003000Z
+DTEND:20241211T033000Z
+UID:e923515676366729@facebook.com
+SUMMARY:Tuesday Group Run - Eagle Peak ***new trail!!***
+URL:https://www.facebook.com/events/923515676366729/
+DESCRIPTION:We are going to check out a newly 
+ built trail! This trail goes aroun
+ d Eagle Peak in the dells. Jim ass
+ isted with building the new trail 
+ and is going to guide the group ru
+ n on this trail for the first time
+  (Thank you Jim!).\n\nExpect 5.7 mil
+ es from the parking lot on 89a\, pa
+ st the Boblett Gravesite\, and up a
+ round the peak. Miles 1-2 are kind
+  of tough up the hill\, but otherwi
+ se it's nice rolling hills through
+  some open space and some rocks an
+ d canyons. \n\nHere's where we can p
+ ark (Free) on old hwy 89a: \n34°36
+ '48.4"N 112°25'02.8"W\n(This is wh
+ ere we parked to run to the Boblet
+ t Gravesite this summer.)\n\nThis is
+  a no-drop group run so we will st
+ op at every intersection and allow
+  everyone to catch up before conti
+ nuing on. \n\nBring a light :) \n\n**P
+ ictured above -Eagle Peak in the d
+ istance as the trail goes past the
+  Bobblett gravesite***\n\nhttps://ww
+ w.facebook.com/events/923515676366
+ 729/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241029T211504Z
+LAST-MODIFIED:20241029T211504Z
+CREATED:20240927T205555Z
+SEQUENCE:2765949
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20241204T003000Z
+DTEND:20241204T033000Z
+UID:e1603187617269979@facebook.com
+SUMMARY:Tuesday Group Run- Willow Lake
+URL:https://www.facebook.com/events/1603187617269979/
+DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
+  will meet at the Dog Park parking
+  lot (link here https://goo.gl/map
+ s/ZCLmd4fQPGkyXCHP7) at 5:30pm. Pl
+ an for 5 miles(ish).\n\nNo drop run 
+ (we stop for everyone at every int
+ ersection).\n\nBring a headlamp!\n\nht
+ tps://www.facebook.com/events/1603
+ 187617269979/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241029T211743Z
+LAST-MODIFIED:20241029T211743Z
+CREATED:20241029T211743Z
+SEQUENCE:0
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20241127T003000Z
+DTEND:20241127T033000Z
+UID:e1832577020604153@facebook.com
+SUMMARY:Tuesday Group Run- White Rock
+URL:https://www.facebook.com/events/1832577020604153/
+DESCRIPTION:We will meet at White Rock Parking
+  lot (link here https://goo.gl/map
+ s/YN2uMvQnyQWTM9JK7) at 5:30pm. \n\n
+ No-drop group run of approximately
+  5 miles. No-drop means we stop at
+  every intersection and wait for e
+ veryone. \n\nBring a light!!\n\n\n\n\n\n\nh
+ ttps://www.facebook.com/events/183
+ 2577020604153/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241030T235630Z
+LAST-MODIFIED:20241030T235630Z
+CREATED:20241030T235630Z
+SEQUENCE:0
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20241120T003000Z
+DTEND:20241120T033000Z
+UID:e1670259030218172@facebook.com
+SUMMARY:Tuesday Group Run - Brownlow Trail ***practice for Santa Run Fundraiser!***
+URL:https://www.facebook.com/events/1670259030218172/
+DESCRIPTION:We will run a 10k on the Brownlow 
+ loop as practice for the Santa Run
+  happening Saturday 12/14/24! The 
+ Santa Run is a fundraiser for the 
+ Launch Pad Teen Center and all pro
+ ceeds go to benefit the Launch Pad
+  teens locally. \n\nPlan on 6.2 mile
+ s. This is a no-drop group run\, so
+  we will stop at every intersectio
+ n and intermittently between inter
+ sections to allow everyone a chanc
+ e to catch up before running again
+ !\n\nCindy will be leading this run 
+ & helping host the Santa Run (than
+ k you Cindy!!).\n\nParking at Brownl
+ ow Trailhead: 1300 Commerce Drive\,
+  Prescott\, AZ 86305\n\nBring a light
+  or a friend willing to share thei
+ r light! \n\nhttps://www.facebook.co
+ m/events/1670259030218172/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241101T184947Z
+LAST-MODIFIED:20241101T184947Z
+CREATED:20241101T184947Z
+SEQUENCE:0
+ORGANIZER;CN=Black Canyon Ultras:MAILTO:noreply@facebookmail.com
+DTSTART:20241117T150000Z
+DTEND:20241117T180000Z
+UID:e1748215612596314@facebook.com
+SUMMARY:Black Canyon Training Run #1 supported by Hoka
+LOCATION:Big Bug Trailhead\, Black Canyon Tr
+ ail
+URL:https://www.facebook.com/events/1748215612596314/
+DESCRIPTION:This will be the first of three tr
+ aining runs leading up to the 2025
+  Black Canyon Ultras. We will be b
+ reaking up the 100K course into th
+ ree sections. Each run will be min
+ imally supported\, minimally marked
+  and point to point. We will have 
+ shorter options at each. Here is i
+ nformation for those of you wantin
+ g to join on this first training r
+ un:\n\nDate:\nNovember 17\, 2024\n\nDist
+ ance:\nMile 0 – Big Bug Trailhead
+ \nMile 8 – Antelope Mesa (Water)\n
+ Mile 13 – Hidden Treasure Mine T
+ H \nMile 20ish – Bumble Bee (Fini
+ sh) \n\nTime:\n7:00am Meet just North
+  of the bridge at the trailhead in
+  Bumble Bee to carpool to start or
+  7:45am Meet at Big Bug Trailhead\n
+ \nThe run will start approximately 
+ at 8:00am from the Big Bug Trailhe
+ ad off HWY 69. This is an establis
+ hed Trailhead of the BCT just west
+  of Mayer HS. It will have restroo
+ ms and plenty of parking. \n\nDrivin
+ g Directions:\nDirections to Bumble
+  Bee (end of run\, park here to car
+ pool to run start):\n1. Drive north
+  from Phoenix on the I-17 Freeway\n
+ 2. Take exit #248 towards Bumble B
+ ee / Crown King\n3. Turn left and d
+ rive 2.1 miles on pavement (road d
+ escends downhill)\n4. Turn right at
+  the bottom where it turns to dirt
+  and take Crown King Road for 3.0 
+ miles and park just past the bridg
+ e on the left hand side of the roa
+ d.\n\nDirections to Big Bug from Bum
+ ble Bee (we will carpool as a grou
+ p):\n1. Drive north on Crown King R
+ oad for 5.6 miles\n2. Turn right on
+ to Forest Road 259 and go 1.3 mile
+ s\n3. Turn right staying on Forest 
+ Road 259 and go 2.8 miles\n4. Conti
+ nue straight onto Antelope Creek R
+ oad at town of Cordes and go 2.8 m
+ iles\n5. Take right onto Duffers Dr
+ ive and then go 1.3 miles\n6. Turn 
+ left onto Spring Lane and go 0.6 m
+ iles through the town of Spring Va
+ lley\n7. Turn left onto HWY 69 and 
+ the Trailhead will be just west of
+  town on the left hand side. \n\nFor
+ mat:\nThis is a no fee\, limited aid
+ \, limited course marking training 
+ run. You must plan to be self suff
+ icient in terms of navigation\, per
+ sonal safety and aid between stati
+ ons. We will drop water at the Ant
+ elope Mesa Mile 8 and have food an
+ d water at Hidden Treasure Mine TH
+  at mile 13ish. Please study the m
+ aps in this post and follow signag
+ e for the Black Canyon Trail.\n\nMar
+ kings:\nThe course on principle wil
+ l be unmarked. There is signage fo
+ r the Black Canyon Trail at most q
+ uestionable junctions\, but we reco
+ mmend studying and printing maps t
+ o bring with you.\n\n\nPost Run Gathe
+ ring:\nBring a camp chair\, some sna
+ cks and BYOB if you enjoy a post-r
+ un Sunday Funday at the trailhead.
+ \n\nhttps://www.facebook.com/events/
+ 1748215612596314/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20240927T204332Z
