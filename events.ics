@@ -287,6 +287,52 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20241106T150056Z
+LAST-MODIFIED:20241106T150056Z
+CREATED:20241106T150056Z
+SEQUENCE:0
+ORGANIZER;CN=Jan Alfano Trail parkrun:MAILTO:noreply@facebookmail.com
+DTSTART:20241228T143000Z
+DTEND:20241228T160000Z
+UID:e1339588380358659@facebook.com
+SUMMARY:Jan Alfano Trail parkrun
+LOCATION:3179 Willow Creek Rd\, Prescott\, AZ
+  86301-6848\, United States
+URL:https://www.facebook.com/events/1339588353691995/?event_time_id=1339588380358659
+DESCRIPTION:Show up and run or walk a 5k! Plea
+ se see the website for more detail
+ s https://www.parkrun.us/janalfano
+ trail/\n\nhttps://www.facebook.com/e
+ vents/1339588353691995/?event_time
+ _id=1339588380358659
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241106T150056Z
+LAST-MODIFIED:20241106T150056Z
+CREATED:20241106T150056Z
+SEQUENCE:0
+ORGANIZER;CN=Jan Alfano Trail parkrun:MAILTO:noreply@facebookmail.com
+DTSTART:20241221T143000Z
+DTEND:20241221T160000Z
+UID:e1339588357025328@facebook.com
+SUMMARY:Jan Alfano Trail parkrun
+LOCATION:3179 Willow Creek Rd\, Prescott\, AZ
+  86301-6848\, United States
+URL:https://www.facebook.com/events/1339588353691995/?event_time_id=1339588357025328
+DESCRIPTION:Show up and run or walk a 5k! Plea
+ se see the website for more detail
+ s https://www.parkrun.us/janalfano
+ trail/\n\nhttps://www.facebook.com/e
+ vents/1339588353691995/?event_time
+ _id=1339588357025328
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20241030T214513Z
 LAST-MODIFIED:20241030T214513Z
 CREATED:20240927T205320Z
@@ -495,6 +541,29 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20241106T150056Z
+LAST-MODIFIED:20241106T150056Z
+CREATED:20241106T150056Z
+SEQUENCE:0
+ORGANIZER;CN=Jan Alfano Trail parkrun:MAILTO:noreply@facebookmail.com
+DTSTART:20241214T143000Z
+DTEND:20241214T160000Z
+UID:e1339588360358661@facebook.com
+SUMMARY:Jan Alfano Trail parkrun
+LOCATION:3179 Willow Creek Rd\, Prescott\, AZ
+  86301-6848\, United States
+URL:https://www.facebook.com/events/1339588353691995/?event_time_id=1339588360358661
+DESCRIPTION:Show up and run or walk a 5k! Plea
+ se see the website for more detail
+ s https://www.parkrun.us/janalfano
+ trail/\n\nhttps://www.facebook.com/e
+ vents/1339588353691995/?event_time
+ _id=1339588360358661
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20241104T182238Z
 LAST-MODIFIED:20241104T182238Z
 CREATED:20241029T210923Z
@@ -537,6 +606,109 @@ STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20241106T150056Z
+LAST-MODIFIED:20241106T150056Z
+CREATED:20241106T150056Z
+SEQUENCE:0
+ORGANIZER;CN=Jan Alfano Trail parkrun:MAILTO:noreply@facebookmail.com
+DTSTART:20241207T143000Z
+DTEND:20241207T160000Z
+UID:e1339588363691994@facebook.com
+SUMMARY:Jan Alfano Trail parkrun
+LOCATION:3179 Willow Creek Rd\, Prescott\, AZ
+  86301-6848\, United States
+URL:https://www.facebook.com/events/1339588353691995/?event_time_id=1339588363691994
+DESCRIPTION:Show up and run or walk a 5k! Plea
+ se see the website for more detail
+ s https://www.parkrun.us/janalfano
+ trail/\n\nhttps://www.facebook.com/e
+ vents/1339588353691995/?event_time
+ _id=1339588363691994
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241104T180524Z
+LAST-MODIFIED:20241104T180524Z
+CREATED:20241104T180524Z
+SEQUENCE:0
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20241204T003000Z
+DTEND:20241204T033000Z
+UID:e1366049937705136@facebook.com
+SUMMARY:Tuesday Group Run -Valley of Lights! ***Jason leading!***
+URL:https://www.facebook.com/events/1366049937705136/
+DESCRIPTION:For this Tuesday group run we will
+  run through the Valley of Lights 
+ and then onto the Fain Trails! Exp
+ ect around 4 miles. This is a no-d
+ rop group run (we will stop at eve
+ ry intersection and wait for every
+ one to catch up). \n\nWe will park a
+ nd meet at the bowling alley up ab
+ ove the Valley of Lights: \n6301 E 
+ Second St\nPrescott Valley\, AZ 8631
+ 4\n\nBring a light for when we hit t
+ he trails :) \n\nhttps://www.faceboo
+ k.com/events/1366049937705136/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241106T150056Z
+LAST-MODIFIED:20241106T150056Z
+CREATED:20241106T150056Z
+SEQUENCE:0
+ORGANIZER;CN=Jan Alfano Trail parkrun:MAILTO:noreply@facebookmail.com
+DTSTART:20241130T143000Z
+DTEND:20241130T160000Z
+UID:e1339588373691993@facebook.com
+SUMMARY:Jan Alfano Trail parkrun
+LOCATION:3179 Willow Creek Rd\, Prescott\, AZ
+  86301-6848\, United States
+URL:https://www.facebook.com/events/1339588353691995/?event_time_id=1339588373691993
+DESCRIPTION:Show up and run or walk a 5k! Plea
+ se see the website for more detail
+ s https://www.parkrun.us/janalfano
+ trail/\n\nhttps://www.facebook.com/e
+ vents/1339588353691995/?event_time
+ _id=1339588373691993
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241107T175205Z
+LAST-MODIFIED:20241107T175205Z
+CREATED:20241107T175205Z
+SEQUENCE:0
+ORGANIZER;CN=Andrew Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20241128T150000Z
+DTEND:20241128T180000Z
+UID:e498909209845031@facebook.com
+SUMMARY:PATR Turkey Trot
+LOCATION:Peavine Trail
+URL:https://www.facebook.com/events/498909209845031/
+DESCRIPTION:Day has decided to keep the Thanks
+ giving tradition of a group run al
+ ive at Peavine this year!\n\nJoin yo
+ ur friends at the Peavine Trailhea
+ d (near the humane society) Thanks
+ giving morning to quick 5k (or wha
+ tever) in before your feast begins
+ . Bring non-perishable food donati
+ on and wear your most festive Than
+ ksgiving or Christmas themed runni
+ ng clothes/costume!\n\nhttps://www.f
+ acebook.com/events/498909209845031
+ /
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20241104T182349Z
 LAST-MODIFIED:20241104T182349Z
 CREATED:20241029T211743Z
@@ -559,6 +731,29 @@ DESCRIPTION:We will meet at White Rock Parking
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241106T150056Z
+LAST-MODIFIED:20241106T150056Z
+CREATED:20241106T150056Z
+SEQUENCE:0
+ORGANIZER;CN=Jan Alfano Trail parkrun:MAILTO:noreply@facebookmail.com
+DTSTART:20241123T143000Z
+DTEND:20241123T160000Z
+UID:e1339588377025326@facebook.com
+SUMMARY:Jan Alfano Trail parkrun
+LOCATION:3179 Willow Creek Rd\, Prescott\, AZ
+  86301-6848\, United States
+URL:https://www.facebook.com/events/1339588353691995/?event_time_id=1339588377025326
+DESCRIPTION:Show up and run or walk a 5k! Plea
+ se see the website for more detail
+ s https://www.parkrun.us/janalfano
+ trail/\n\nhttps://www.facebook.com/e
+ vents/1339588353691995/?event_time
+ _id=1339588377025326
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20241030T235630Z
@@ -688,6 +883,29 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20241106T150056Z
+LAST-MODIFIED:20241106T150056Z
+CREATED:20241106T150056Z
+SEQUENCE:0
+ORGANIZER;CN=Jan Alfano Trail parkrun:MAILTO:noreply@facebookmail.com
+DTSTART:20241116T143000Z
+DTEND:20241116T160000Z
+UID:e1339588383691992@facebook.com
+SUMMARY:Jan Alfano Trail parkrun
+LOCATION:3179 Willow Creek Rd\, Prescott\, AZ
+  86301-6848\, United States
+URL:https://www.facebook.com/events/1339588353691995/?event_time_id=1339588383691992
+DESCRIPTION:Show up and run or walk a 5k! Plea
+ se see the website for more detail
+ s https://www.parkrun.us/janalfano
+ trail/\n\nhttps://www.facebook.com/e
+ vents/1339588353691995/?event_time
+ _id=1339588383691992
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20241104T182201Z
 LAST-MODIFIED:20241104T182201Z
 CREATED:20240927T204332Z
@@ -714,6 +932,29 @@ DESCRIPTION:Meeting at the trailhead off of Hw
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241106T150056Z
+LAST-MODIFIED:20241106T150056Z
+CREATED:20241106T150056Z
+SEQUENCE:0
+ORGANIZER;CN=Jan Alfano Trail parkrun:MAILTO:noreply@facebookmail.com
+DTSTART:20241109T143000Z
+DTEND:20241109T160000Z
+UID:e1339588367025327@facebook.com
+SUMMARY:Jan Alfano Trail parkrun
+LOCATION:3179 Willow Creek Rd\, Prescott\, AZ
+  86301-6848\, United States
+URL:https://www.facebook.com/events/1339588353691995/?event_time_id=1339588367025327
+DESCRIPTION:Show up and run or walk a 5k! Plea
+ se see the website for more detail
+ s https://www.parkrun.us/janalfano
+ trail/\n\nhttps://www.facebook.com/e
+ vents/1339588353691995/?event_time
+ _id=1339588367025327
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20241006T174006Z
