@@ -69,7 +69,7 @@ METHOD:PUBLISH
 {{ partial "ical/prop_uid.ics" .uid }}
 {{ with .lastmod }}{{ partial "ical/prop_last_modified.ics" . }}{{ end }}
 {{ with .url }}{{ partial "ical/prop_url.ics" . }}{{ end }}
-{{ partial "ical/prop_refresh_interval.ics" (.refreshInterval | default "P1W") }}
+{{ partial "ical/prop_refresh_interval.ics" (.refreshInterval | default "P1H") }}
 {{ with .source }}{{ partial "ical/prop_source.ics" . }}{{ end }}
 {{ with .color }}{{ partial "ical/prop_color.ics" . }}{{ end }}
 {{ with .name }}{{ partial "ical/prop_name.ics" . }}{{ end }}
