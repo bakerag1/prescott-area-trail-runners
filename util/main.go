@@ -25,6 +25,7 @@ external_url: %v
 layout: %v
 location: %v
 feature-img: "assets/img/big-trail.jpg"
+lastmod: %v
 outputs:
   - html
   - calendar
@@ -103,6 +104,7 @@ func addCalendarItems() {
 				e.Uri,
 				layout,
 				e.Location,
+				time.Now().UTC().Format(time.RFC3339),
 				e.ICSDescription,
 				e.Description)))
 	}
