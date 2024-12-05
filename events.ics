@@ -7,6 +7,72 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
+DTSTAMP:20241104T190339Z
+LAST-MODIFIED:20241104T190339Z
+CREATED:20241104T190339Z
+SEQUENCE:0
+ORGANIZER;CN=Aravaipa Running:MAILTO:noreply@facebookmail.com
+DTSTART:20250927T130000Z
+DTEND:20250927T160000Z
+UID:e1780543779424951@facebook.com
+SUMMARY:Flagstaff Sky Peaks 🍂 
+LOCATION:Flagstaff\,AZ
+URL:https://www.facebook.com/events/1780543779424951/
+DESCRIPTION:Experience fall vibes and mountain
+  running at their finest at the 20
+ 25 edition of Flagstaff Sky Peaks 
+ this September 27th! \n\nJoin us in 
+ beautiful Flagstaff at the Fort Va
+ lley Trailhead for a variety of ra
+ ce distances and courses that will
+  both challenge you and excite you
+ r senses with beautiful views and 
+ fall colors. \n\n“Ring The Peaks”
+  in the 50 miler\, or take on the 5
+ 0k\, 26k or 10k utilizing the iconi
+ c Arizona Trail\, the beautiful Sch
+ ultz Creek\, Weatherford and Fort V
+ alley Trails\, and of course\, the l
+ eaf-peepers delight\; the Aspen Loo
+ p. \n\nEnjoy the crisp mountain air\,
+  epic trails and colorful fall\, No
+ rthern Arizona foliage with us thi
+ s September! \n\n\nhttps://www.facebo
+ ok.com/events/1780543779424951/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241104T190921Z
+LAST-MODIFIED:20241104T190921Z
+CREATED:20241104T190921Z
+SEQUENCE:0
+ORGANIZER;CN=Aravaipa Running:MAILTO:noreply@facebookmail.com
+DTSTART:20250622T020000Z
+DTEND:20250622T050000Z
+UID:e540615235596807@facebook.com
+SUMMARY:Blackout Night Runs 
+LOCATION:Fort Tuthill County Park
+URL:https://www.facebook.com/events/540615235596807/
+DESCRIPTION:Join us in the pines of Flagstaff 
+ for our only night race in Norther
+ n Arizona at the Blackout Night Ru
+ ns. This race takes place on the e
+ ve of the annual camping extravaga
+ nza at the Big Pine Trail Runs. Do
+  both and earn a "double down" med
+ al!\n\nChoose from a 27k\, 13k or 6k 
+ under a canopy of ponderosa pines 
+ and a blanket of stars. These trai
+ ls are smooth and fabulous for the
+  entire family! \n\nhttps://www.face
+ book.com/events/540615235596807/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20240527T210149Z
 LAST-MODIFIED:20240527T210149Z
 CREATED:20240527T210149Z
@@ -161,6 +227,62 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20241204T183740Z
+LAST-MODIFIED:20241204T183740Z
+CREATED:20241204T183740Z
+SEQUENCE:0
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20250219T003000Z
+DTEND:20250219T020000Z
+UID:e1513301672715036@facebook.com
+SUMMARY:Tuesday Group Run- Boblett ---Jim leading! newer trail!
+URL:https://www.facebook.com/events/1513301672715036/
+DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nTh
+ is is a trail we have only done on
+ ce for a Tuesday run! \n\nWe will me
+ et here: https://maps.app.goo.gl/n
+ Lr37AZ9G12KU2ta9?g_st=ic at 5:30pm
+ . No drop run (we stop for everyon
+ e at every intersection). \n\nJim is
+  leading! (Thank you Jim!) Gateway
+  trail to Elizabeth trail to Boble
+ tt trail past the grave site. \n\nEx
+ pect 4-6 miles.\n\nBring a light! (o
+ r go challenge style and try to ru
+ n using only your friend's light)\n
+ \n\n\n\n\n\n\n\n\n\nhttps://www.facebook.com
+ /events/1513301672715036/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241204T224332Z
+LAST-MODIFIED:20241204T224332Z
+CREATED:20241204T224332Z
+SEQUENCE:0
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20250212T003000Z
+DTEND:20250212T033000Z
+UID:e1623383231581578@facebook.com
+SUMMARY:Tuesday Group Run -Watson Dam Flume Trailhead
+URL:https://www.facebook.com/events/1623383231581578/
+DESCRIPTION:No drop group run (we stop at ever
+ y intersection and join up before 
+ running again). \n\nBring a headlamp
+ .\n\nExpect 5ish miles. (no waterfal
+ ls guaranteed- this is an AZ water
+ fall after all!) \n\nDrive up Hwy 89
+ \, turn right on E Granite Dells Rd
+ \, trailhead on the right. \n\n34.604
+ 156489351595\, -112.42166632364031\n
+ \nhttps://www.facebook.com/events/1
+ 623383231581578/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20240527T203858Z
 LAST-MODIFIED:20240527T203858Z
 CREATED:20240527T203858Z
@@ -206,6 +328,126 @@ DESCRIPTION:Experience the history and beauty
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241204T222719Z
+LAST-MODIFIED:20241204T222719Z
+CREATED:20241204T222719Z
+SEQUENCE:0
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20250205T003000Z
+DTEND:20250205T033000Z
+UID:e1319176762786593@facebook.com
+SUMMARY:Tuesday Group Run- Thumb Butte Loop- Cindy leading! 
+URL:https://www.facebook.com/events/1319176762786593/
+DESCRIPTION:\nThumb Butte loop (326\, 392\, 367):
+  4.7 miles\, 784 ft of elevation ga
+ in. Meet at the Thumb Butte Parkin
+ g lot (paid parking or national pa
+ rks pass). This is a no-drop group
+  run\, and we will stop at each int
+ ersection to allow everyone to cat
+ ch up (physically and socially\, LO
+ L) before continuing the run. \n\nTh
+ umb Butte Trail 326\, 392\, and 367 
+ on AllTrails\n\nhttps://maps.app.goo
+ .gl/au5cdA9c6hYKsccSA?g_st=ic\n\nBri
+ ng a light!\n\nhttps://www.facebook.
+ com/events/1319176762786593/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241204T184523Z
+LAST-MODIFIED:20241204T184523Z
+CREATED:20241204T184404Z
+SEQUENCE:79
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20250129T003000Z
+DTEND:20250129T033000Z
+UID:e447593455049916@facebook.com
+SUMMARY:Tuesday Group Run- Ranch 62 Trailhead
+URL:https://www.facebook.com/events/447593455049916/
+DESCRIPTION:No drop group run (we stop at ever
+ y intersection and wait for everyo
+ ne to join together again). Expect
+  5ish miles. Bring a light :)\n\nThi
+ s trail is an out and back and gre
+ at for running in the dark because
+  the lights of the city look beaut
+ iful on the way back - and it's a 
+ full sun trail so nice to run it i
+ n cooler temps! \n\nWe will park alo
+ ng Walker Road instead of parking 
+ in the parking lot for the trail (
+ the trail will close while we are 
+ out running and we don't want our 
+ cars locked in - but there are sev
+ eral areas to park along Walker Rd
+ . near the trailhead entrance).\n\nh
+ ttps://maps.app.goo.gl/z4HLncfjMvf
+ pKqcg8?g_st=ic\n\nhttps://www.facebo
+ ok.com/events/447593455049916/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241204T223659Z
+LAST-MODIFIED:20241204T223659Z
+CREATED:20241204T223659Z
+SEQUENCE:0
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20250122T003000Z
+DTEND:20250122T033000Z
+UID:e1285419302643714@facebook.com
+SUMMARY:Tuesday Group Run - Watson Lake Loop
+URL:https://www.facebook.com/events/1285419302643714/
+DESCRIPTION:For this run we will circle Watson
+  Lake! This is a no-drop group run
+ \, and we will stop at every inters
+ ection to allow everyone to catch 
+ up before continuing the run. Expe
+ ct 5-6 miles. Various terrain and 
+ scenery\, including running through
+  some parts of the dells. \n\nParkin
+ g at the Watson Lake Vista parking
+  lot (up above the lake\, the littl
+ e parking lot overlooking the lake
+ ). \nCoordinates here: https://maps
+ .app.goo.gl/kSXvNRreDugDY6zGA\n\nBri
+ ng a light and a friend!\n\nhttps://
+ www.facebook.com/events/1285419302
+ 643714/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241204T183016Z
+LAST-MODIFIED:20241204T183016Z
+CREATED:20241204T183016Z
+SEQUENCE:0
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20250115T003000Z
+DTEND:20250115T033000Z
+UID:e1108558954215690@facebook.com
+SUMMARY:Tuesday Group Run- Granite Basin
+URL:https://www.facebook.com/events/1108558954215690/
+DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
+  will meet at the cattleguard (lin
+ k here https://goo.gl/maps/CnyTC6T
+ oppAjWTcn6) at 5:30pm. \n\nExpect 5-
+ 6 miles\, all downhill (except for 
+ the uphills). No drop run (we stop
+  for everyone at every intersectio
+ n). \n\nBring a headlamp!\n\n\nhttps://
+ www.facebook.com/events/1108558954
+ 215690/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20241101T191430Z
@@ -287,6 +529,57 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20241204T182605Z
+LAST-MODIFIED:20241204T182605Z
+CREATED:20241204T182605Z
+SEQUENCE:0
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20250108T003000Z
+DTEND:20250108T020000Z
+UID:e896524242584364@facebook.com
+SUMMARY:Tuesday Group Run -Glassford Hill Summit 
+URL:https://www.facebook.com/events/896524242584364/
+DESCRIPTION:We are going to check-out the nigh
+ t lights from the top of Glassford
+ !\n\nNo drop group run! We stop at e
+ very trail intersection and everyo
+ ne catches up before running again
+ . Bring water and a friend :)\n\nLoc
+ ation: 34.595857163495694\, -112.37
+ 57835785754\n\nhttps://www.facebook.
+ com/events/896524242584364/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241204T183356Z
+LAST-MODIFIED:20241204T183356Z
+CREATED:20240927T205555Z
+SEQUENCE:5866681
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20250101T003000Z
+DTEND:20250101T033000Z
+UID:e1603187617269979@facebook.com
+SUMMARY:Tuesday Group Run- Ecosa Trail by Willow Lake ***Jim leading! At 5:30***
+URL:https://www.facebook.com/events/1603187617269979/
+DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nJi
+ m is going to lead the on New Year
+ 's Eve! Exploring the Ecosa Traill
+  near Willow Lake for this run. \n\n
+ We will meet at the Dog Park parki
+ ng lot (link here https://goo.gl/m
+ aps/ZCLmd4fQPGkyXCHP7) at 5:30pm. 
+ Plan for 5 miles(ish).\n\nNo drop ru
+ n (we stop for everyone at every i
+ ntersection).\n\nBring a headlamp!\n\n
+ https://www.facebook.com/events/16
+ 03187617269979/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20241106T150056Z
 LAST-MODIFIED:20241106T150056Z
 CREATED:20241106T150056Z
@@ -310,25 +603,70 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241118T201537Z
-LAST-MODIFIED:20241118T201537Z
-CREATED:20240927T205555Z
-SEQUENCE:4490382
+DTSTAMP:20241020T001414Z
+LAST-MODIFIED:20241020T001414Z
+CREATED:20240311T160533Z
+SEQUENCE:19210121
+ORGANIZER;CN=Aravaipa Running:MAILTO:noreply@facebookmail.com
+DTSTART:20241228T140000Z
+DTEND:20241228T170000Z
+UID:e332421699289711@facebook.com
+SUMMARY:Across The Years 
+LOCATION:Peoria Sports Complex
+URL:https://www.facebook.com/events/332421699289711/
+DESCRIPTION:🎉 Across the Years is back for 
+ the 2024-25 edition and we are exc
+ ited to welcome runners to Peoria 
+ Sports Complex this December! Join
+  us for this fixed-time 6-day runn
+ ing event as we run into the New y
+ ear with a community of familiar f
+ aces and welcomed new friends.\n\nRu
+ nners can choose from a menu of ev
+ ents that include both fixed-time 
+ and fixed-distance. Ring in the Ne
+ w Year and set a goal\, break a rec
+ ord\, earn a buckle or simply make 
+ new friends as we travel together 
+ Across the Years! Celebrate with u
+ s December 28\, 2024 - January 3\, 2
+ 025.\n\nhttps://www.facebook.com/eve
+ nts/332421699289711/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241204T181613Z
+LAST-MODIFIED:20241204T181613Z
+CREATED:20241204T181613Z
+SEQUENCE:0
 ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
 DTSTART:20241225T003000Z
 DTEND:20241225T033000Z
-UID:e1603187617269979@facebook.com
-SUMMARY:Tuesday Group Run- Willow Lake ***Jason leading!***
-URL:https://www.facebook.com/events/1603187617269979/
-DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
-  will meet at the Dog Park parking
-  lot (link here https://goo.gl/map
- s/ZCLmd4fQPGkyXCHP7) at 5:30pm. Pl
- an for 5 miles(ish).\n\nNo drop run 
- (we stop for everyone at every int
- ersection).\n\nBring a headlamp!\n\nht
- tps://www.facebook.com/events/1603
- 187617269979/
+UID:e481123144469464@facebook.com
+SUMMARY:Tuesday Group Run - Brownlow Trail ***Josh leading! Please RSVP!!!
+URL:https://www.facebook.com/events/481123144469464/
+DESCRIPTION:We will run a 10k on the Brownlow 
+ loop for Christmas Eve! It is very
+  important you RSVP here on FB if 
+ you are planning to attend this ru
+ n!!! Josh is happy to lead\, but wi
+ ll cancel the run if no one plans 
+ to attend due to the holiday. ***P
+ lease RSVP if you plan to attend!*
+ **\n\nPlan on 6.2 miles. This is a n
+ o-drop group run\, so we will stop 
+ at every intersection and intermit
+ tently between intersections to al
+ low everyone a chance to catch up 
+ before running again!\n\nParking at 
+ Brownlow Trailhead: 1300 Commerce 
+ Drive\, Prescott\, AZ 86305\n\nBring a
+  light or a friend willing to shar
+ e their light! \n\nThank you for lea
+ ding Josh!!\n\nhttps://www.facebook.
+ com/events/481123144469464/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
