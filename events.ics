@@ -227,6 +227,90 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20241211T183836Z
+LAST-MODIFIED:20241211T183836Z
+CREATED:20241211T180109Z
+SEQUENCE:2247
+ORGANIZER;CN=Andrew Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20250307T003000Z
+DTEND:20250307T020000Z
+UID:e2517922535265323@facebook.com
+SUMMARY:Thursday Social Run
+LOCATION:La Planchada
+URL:https://www.facebook.com/events/2517922491931994/?event_time_id=2517922535265323
+DESCRIPTION:It's possible nobody will show up\,
+  but there is a pretty solid group
+  of non-facebook users attending. 
+ \n\nMeet in front of La Planchada at
+  5:30\, run/walk with a group\, or a
+ t your own pace. Join back for foo
+ d and drink! Most run along the cr
+ eek trail to Granite Creek Park an
+ d do 1-4 laps and return.\n\nhttps:/
+ /www.facebook.com/events/251792249
+ 1931994/?event_time_id=25179225352
+ 65323
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241211T183836Z
+LAST-MODIFIED:20241211T183836Z
+CREATED:20241211T180109Z
+SEQUENCE:2247
+ORGANIZER;CN=Andrew Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20250228T003000Z
+DTEND:20250228T020000Z
+UID:e2517922515265325@facebook.com
+SUMMARY:Thursday Social Run
+LOCATION:La Planchada
+URL:https://www.facebook.com/events/2517922491931994/?event_time_id=2517922515265325
+DESCRIPTION:It's possible nobody will show up\,
+  but there is a pretty solid group
+  of non-facebook users attending. 
+ \n\nMeet in front of La Planchada at
+  5:30\, run/walk with a group\, or a
+ t your own pace. Join back for foo
+ d and drink! Most run along the cr
+ eek trail to Granite Creek Park an
+ d do 1-4 laps and return.\n\nhttps:/
+ /www.facebook.com/events/251792249
+ 1931994/?event_time_id=25179225152
+ 65325
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241211T183836Z
+LAST-MODIFIED:20241211T183836Z
+CREATED:20241211T180109Z
+SEQUENCE:2247
+ORGANIZER;CN=Andrew Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20250221T003000Z
+DTEND:20250221T020000Z
+UID:e2517922511931992@facebook.com
+SUMMARY:Thursday Social Run
+LOCATION:La Planchada
+URL:https://www.facebook.com/events/2517922491931994/?event_time_id=2517922511931992
+DESCRIPTION:It's possible nobody will show up\,
+  but there is a pretty solid group
+  of non-facebook users attending. 
+ \n\nMeet in front of La Planchada at
+  5:30\, run/walk with a group\, or a
+ t your own pace. Join back for foo
+ d and drink! Most run along the cr
+ eek trail to Granite Creek Park an
+ d do 1-4 laps and return.\n\nhttps:/
+ /www.facebook.com/events/251792249
+ 1931994/?event_time_id=25179225119
+ 31992
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20241204T183740Z
 LAST-MODIFIED:20241204T183740Z
 CREATED:20241204T183740Z
@@ -252,6 +336,34 @@ DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nTh
  n using only your friend's light)\n
  \n\n\n\n\n\n\n\n\n\nhttps://www.facebook.com
  /events/1513301672715036/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241211T183836Z
+LAST-MODIFIED:20241211T183836Z
+CREATED:20241211T180109Z
+SEQUENCE:2247
+ORGANIZER;CN=Andrew Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20250214T003000Z
+DTEND:20250214T020000Z
+UID:e2517922508598659@facebook.com
+SUMMARY:Thursday Social Run
+LOCATION:La Planchada
+URL:https://www.facebook.com/events/2517922491931994/?event_time_id=2517922508598659
+DESCRIPTION:It's possible nobody will show up\,
+  but there is a pretty solid group
+  of non-facebook users attending. 
+ \n\nMeet in front of La Planchada at
+  5:30\, run/walk with a group\, or a
+ t your own pace. Join back for foo
+ d and drink! Most run along the cr
+ eek trail to Granite Creek Park an
+ d do 1-4 laps and return.\n\nhttps:/
+ /www.facebook.com/events/251792249
+ 1931994/?event_time_id=25179225085
+ 98659
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
@@ -330,6 +442,34 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20241211T183836Z
+LAST-MODIFIED:20241211T183836Z
+CREATED:20241211T180109Z
+SEQUENCE:2247
+ORGANIZER;CN=Andrew Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20250207T003000Z
+DTEND:20250207T020000Z
+UID:e2517922531931990@facebook.com
+SUMMARY:Thursday Social Run
+LOCATION:La Planchada
+URL:https://www.facebook.com/events/2517922491931994/?event_time_id=2517922531931990
+DESCRIPTION:It's possible nobody will show up\,
+  but there is a pretty solid group
+  of non-facebook users attending. 
+ \n\nMeet in front of La Planchada at
+  5:30\, run/walk with a group\, or a
+ t your own pace. Join back for foo
+ d and drink! Most run along the cr
+ eek trail to Granite Creek Park an
+ d do 1-4 laps and return.\n\nhttps:/
+ /www.facebook.com/events/251792249
+ 1931994/?event_time_id=25179225319
+ 31990
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20241204T222719Z
 LAST-MODIFIED:20241204T222719Z
 CREATED:20241204T222719Z
@@ -354,6 +494,34 @@ DESCRIPTION:\nThumb Butte loop (326\, 392\, 367):
  .gl/au5cdA9c6hYKsccSA?g_st=ic\n\nBri
  ng a light!\n\nhttps://www.facebook.
  com/events/1319176762786593/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241211T183836Z
+LAST-MODIFIED:20241211T183836Z
+CREATED:20241211T180109Z
+SEQUENCE:2247
+ORGANIZER;CN=Andrew Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20250131T003000Z
+DTEND:20250131T020000Z
+UID:e2517922505265326@facebook.com
+SUMMARY:Thursday Social Run
+LOCATION:La Planchada
+URL:https://www.facebook.com/events/2517922491931994/?event_time_id=2517922505265326
+DESCRIPTION:It's possible nobody will show up\,
+  but there is a pretty solid group
+  of non-facebook users attending. 
+ \n\nMeet in front of La Planchada at
+  5:30\, run/walk with a group\, or a
+ t your own pace. Join back for foo
+ d and drink! Most run along the cr
+ eek trail to Granite Creek Park an
+ d do 1-4 laps and return.\n\nhttps:/
+ /www.facebook.com/events/251792249
+ 1931994/?event_time_id=25179225052
+ 65326
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
@@ -394,6 +562,34 @@ STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20241211T183836Z
+LAST-MODIFIED:20241211T183836Z
+CREATED:20241211T180109Z
+SEQUENCE:2247
+ORGANIZER;CN=Andrew Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20250124T003000Z
+DTEND:20250124T020000Z
+UID:e2517922538598656@facebook.com
+SUMMARY:Thursday Social Run
+LOCATION:La Planchada
+URL:https://www.facebook.com/events/2517922491931994/?event_time_id=2517922538598656
+DESCRIPTION:It's possible nobody will show up\,
+  but there is a pretty solid group
+  of non-facebook users attending. 
+ \n\nMeet in front of La Planchada at
+  5:30\, run/walk with a group\, or a
+ t your own pace. Join back for foo
+ d and drink! Most run along the cr
+ eek trail to Granite Creek Park an
+ d do 1-4 laps and return.\n\nhttps:/
+ /www.facebook.com/events/251792249
+ 1931994/?event_time_id=25179225385
+ 98656
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20241204T223659Z
 LAST-MODIFIED:20241204T223659Z
 CREATED:20241204T223659Z
@@ -420,6 +616,34 @@ DESCRIPTION:For this run we will circle Watson
  ng a light and a friend!\n\nhttps://
  www.facebook.com/events/1285419302
  643714/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241211T183836Z
+LAST-MODIFIED:20241211T183836Z
+CREATED:20241211T180109Z
+SEQUENCE:2247
+ORGANIZER;CN=Andrew Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20250117T003000Z
+DTEND:20250117T020000Z
+UID:e2517922521931991@facebook.com
+SUMMARY:Thursday Social Run
+LOCATION:La Planchada
+URL:https://www.facebook.com/events/2517922491931994/?event_time_id=2517922521931991
+DESCRIPTION:It's possible nobody will show up\,
+  but there is a pretty solid group
+  of non-facebook users attending. 
+ \n\nMeet in front of La Planchada at
+  5:30\, run/walk with a group\, or a
+ t your own pace. Join back for foo
+ d and drink! Most run along the cr
+ eek trail to Granite Creek Park an
+ d do 1-4 laps and return.\n\nhttps:/
+ /www.facebook.com/events/251792249
+ 1931994/?event_time_id=25179225219
+ 31991
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
@@ -529,6 +753,34 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20241211T183836Z
+LAST-MODIFIED:20241211T183836Z
+CREATED:20241211T180109Z
+SEQUENCE:2247
+ORGANIZER;CN=Andrew Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20250110T003000Z
+DTEND:20250110T020000Z
+UID:e2517922528598657@facebook.com
+SUMMARY:Thursday Social Run
+LOCATION:La Planchada
+URL:https://www.facebook.com/events/2517922491931994/?event_time_id=2517922528598657
+DESCRIPTION:It's possible nobody will show up\,
+  but there is a pretty solid group
+  of non-facebook users attending. 
+ \n\nMeet in front of La Planchada at
+  5:30\, run/walk with a group\, or a
+ t your own pace. Join back for foo
+ d and drink! Most run along the cr
+ eek trail to Granite Creek Park an
+ d do 1-4 laps and return.\n\nhttps:/
+ /www.facebook.com/events/251792249
+ 1931994/?event_time_id=25179225285
+ 98657
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20241204T182605Z
 LAST-MODIFIED:20241204T182605Z
 CREATED:20241204T182605Z
@@ -548,6 +800,34 @@ DESCRIPTION:We are going to check-out the nigh
  ation: 34.595857163495694\, -112.37
  57835785754\n\nhttps://www.facebook.
  com/events/896524242584364/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241211T183836Z
+LAST-MODIFIED:20241211T183836Z
+CREATED:20241211T180109Z
+SEQUENCE:2247
+ORGANIZER;CN=Andrew Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20250103T003000Z
+DTEND:20250103T020000Z
+UID:e2517922518598658@facebook.com
+SUMMARY:Thursday Social Run
+LOCATION:La Planchada
+URL:https://www.facebook.com/events/2517922491931994/?event_time_id=2517922518598658
+DESCRIPTION:It's possible nobody will show up\,
+  but there is a pretty solid group
+  of non-facebook users attending. 
+ \n\nMeet in front of La Planchada at
+  5:30\, run/walk with a group\, or a
+ t your own pace. Join back for foo
+ d and drink! Most run along the cr
+ eek trail to Granite Creek Park an
+ d do 1-4 laps and return.\n\nhttps:/
+ /www.facebook.com/events/251792249
+ 1931994/?event_time_id=25179225185
+ 98658
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
@@ -603,10 +883,10 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241020T001414Z
-LAST-MODIFIED:20241020T001414Z
+DTSTAMP:20241228T103456Z
+LAST-MODIFIED:20241228T103456Z
 CREATED:20240311T160533Z
-SEQUENCE:19210121
+SEQUENCE:25208963
 ORGANIZER;CN=Aravaipa Running:MAILTO:noreply@facebookmail.com
 DTSTART:20241228T140000Z
 DTEND:20241228T170000Z
@@ -635,6 +915,34 @@ DESCRIPTION:🎉 Across the Years is back for
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241211T183836Z
+LAST-MODIFIED:20241211T183836Z
+CREATED:20241211T180109Z
+SEQUENCE:2247
+ORGANIZER;CN=Andrew Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20241227T003000Z
+DTEND:20241227T020000Z
+UID:e2517922501931993@facebook.com
+SUMMARY:Thursday Social Run
+LOCATION:La Planchada
+URL:https://www.facebook.com/events/2517922491931994/?event_time_id=2517922501931993
+DESCRIPTION:It's possible nobody will show up\,
+  but there is a pretty solid group
+  of non-facebook users attending. 
+ \n\nMeet in front of La Planchada at
+  5:30\, run/walk with a group\, or a
+ t your own pace. Join back for foo
+ d and drink! Most run along the cr
+ eek trail to Granite Creek Park an
+ d do 1-4 laps and return.\n\nhttps:/
+ /www.facebook.com/events/251792249
+ 1931994/?event_time_id=25179225019
+ 31993
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20241204T181613Z
@@ -693,6 +1001,34 @@ DESCRIPTION:Show up and run or walk a 5k! Plea
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241211T183836Z
+LAST-MODIFIED:20241211T183836Z
+CREATED:20241211T180109Z
+SEQUENCE:2247
+ORGANIZER;CN=Andrew Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20241220T003000Z
+DTEND:20241220T020000Z
+UID:e2517922498598660@facebook.com
+SUMMARY:Thursday Social Run
+LOCATION:La Planchada
+URL:https://www.facebook.com/events/2517922491931994/?event_time_id=2517922498598660
+DESCRIPTION:It's possible nobody will show up\,
+  but there is a pretty solid group
+  of non-facebook users attending. 
+ \n\nMeet in front of La Planchada at
+  5:30\, run/walk with a group\, or a
+ t your own pace. Join back for foo
+ d and drink! Most run along the cr
+ eek trail to Granite Creek Park an
+ d do 1-4 laps and return.\n\nhttps:/
+ /www.facebook.com/events/251792249
+ 1931994/?event_time_id=25179224985
+ 98660
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20241030T214513Z
@@ -902,6 +1238,34 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20241211T183836Z
+LAST-MODIFIED:20241211T183836Z
+CREATED:20241211T180109Z
+SEQUENCE:2247
+ORGANIZER;CN=Andrew Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20241213T003000Z
+DTEND:20241213T020000Z
+UID:e2517922495265327@facebook.com
+SUMMARY:Thursday Social Run
+LOCATION:La Planchada
+URL:https://www.facebook.com/events/2517922491931994/?event_time_id=2517922495265327
+DESCRIPTION:It's possible nobody will show up\,
+  but there is a pretty solid group
+  of non-facebook users attending. 
+ \n\nMeet in front of La Planchada at
+  5:30\, run/walk with a group\, or a
+ t your own pace. Join back for foo
+ d and drink! Most run along the cr
+ eek trail to Granite Creek Park an
+ d do 1-4 laps and return.\n\nhttps:/
+ /www.facebook.com/events/251792249
+ 1931994/?event_time_id=25179224952
+ 65327
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20241104T182238Z
 LAST-MODIFIED:20241104T182238Z
 CREATED:20241029T210923Z
@@ -990,356 +1354,6 @@ DESCRIPTION:For this Tuesday group run we will
  4\n\nBring a light for when we hit t
  he trails :) \n\nhttps://www.faceboo
  k.com/events/1366049937705136/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241106T150056Z
-LAST-MODIFIED:20241106T150056Z
-CREATED:20241106T150056Z
-SEQUENCE:0
-ORGANIZER;CN=Jan Alfano Trail parkrun:MAILTO:noreply@facebookmail.com
-DTSTART:20241130T143000Z
-DTEND:20241130T160000Z
-UID:e1339588373691993@facebook.com
-SUMMARY:Jan Alfano Trail parkrun
-LOCATION:3179 Willow Creek Rd\, Prescott\, AZ
-  86301-6848\, United States
-URL:https://www.facebook.com/events/1339588353691995/?event_time_id=1339588373691993
-DESCRIPTION:Show up and run or walk a 5k! Plea
- se see the website for more detail
- s https://www.parkrun.us/janalfano
- trail/\n\nhttps://www.facebook.com/e
- vents/1339588353691995/?event_time
- _id=1339588373691993
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241108T063021Z
-LAST-MODIFIED:20241108T063021Z
-CREATED:20241107T175205Z
-SEQUENCE:45496
-ORGANIZER;CN=Andrew Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20241128T150000Z
-DTEND:20241128T180000Z
-UID:e498909209845031@facebook.com
-SUMMARY:PATR Turkey Trot
-LOCATION:Peavine Trail
-URL:https://www.facebook.com/events/498909209845031/
-DESCRIPTION:Day has decided to keep the Thanks
- giving tradition of a group run al
- ive at Peavine this year!\n\nJoin yo
- ur friends at the Peavine Trailhea
- d (near the humane society) Thanks
- giving morning to quick 5k (or wha
- tever) in before your feast begins
- . Bring a non-perishable food or t
- oy donation and wear your most fes
- tive Thanksgiving or Christmas the
- med running clothes/costume!\n\nhttp
- s://www.facebook.com/events/498909
- 209845031/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241104T182349Z
-LAST-MODIFIED:20241104T182349Z
-CREATED:20241029T211743Z
-SEQUENCE:507966
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20241127T003000Z
-DTEND:20241127T033000Z
-UID:e1832577020604153@facebook.com
-SUMMARY:Tuesday Group Run- White Rock ***Jason leading!***
-URL:https://www.facebook.com/events/1832577020604153/
-DESCRIPTION:We will meet at White Rock Parking
-  lot (link here https://goo.gl/map
- s/YN2uMvQnyQWTM9JK7) at 5:30pm. \n\n
- No-drop group run of approximately
-  5 miles. No-drop means we stop at
-  every intersection and wait for e
- veryone. \n\nBring a light!!\n\n\n\n\n\n\nh
- ttps://www.facebook.com/events/183
- 2577020604153/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241106T150056Z
-LAST-MODIFIED:20241106T150056Z
-CREATED:20241106T150056Z
-SEQUENCE:0
-ORGANIZER;CN=Jan Alfano Trail parkrun:MAILTO:noreply@facebookmail.com
-DTSTART:20241123T143000Z
-DTEND:20241123T160000Z
-UID:e1339588377025326@facebook.com
-SUMMARY:Jan Alfano Trail parkrun
-LOCATION:3179 Willow Creek Rd\, Prescott\, AZ
-  86301-6848\, United States
-URL:https://www.facebook.com/events/1339588353691995/?event_time_id=1339588377025326
-DESCRIPTION:Show up and run or walk a 5k! Plea
- se see the website for more detail
- s https://www.parkrun.us/janalfano
- trail/\n\nhttps://www.facebook.com/e
- vents/1339588353691995/?event_time
- _id=1339588377025326
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241114T171039Z
-LAST-MODIFIED:20241114T171039Z
-CREATED:20241030T235630Z
-SEQUENCE:1271649
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20241120T003000Z
-DTEND:20241120T033000Z
-UID:e1670259030218172@facebook.com
-SUMMARY:Tuesday Group Run - Brownlow Trail ***practice for Santa Run Fundraiser!***
-URL:https://www.facebook.com/events/1670259030218172/
-DESCRIPTION:We will run a 10k on the Brownlow 
- loop as practice for the Santa Run
-  happening Saturday 12/14/24! The 
- Santa Run is a fundraiser for the 
- Launch Pad Teen Center and all pro
- ceeds go to benefit the Launch Pad
-  teens locally. \n\nPlan on 6.2 mile
- s. This is a no-drop group run\, so
-  we will stop at every intersectio
- n and intermittently between inter
- sections to allow everyone a chanc
- e to catch up before running again
- !\n\nJason will be leading this run 
- & helping host the Santa Run (than
- k you Jason!!).\n\nParking at Brownl
- ow Trailhead: 1300 Commerce Drive\,
-  Prescott\, AZ 86305\n\nBring a light
-  or a friend willing to share thei
- r light! \n\nhttps://www.facebook.co
- m/events/1670259030218172/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241101T184947Z
-LAST-MODIFIED:20241101T184947Z
-CREATED:20241101T184947Z
-SEQUENCE:0
-ORGANIZER;CN=Black Canyon Ultras:MAILTO:noreply@facebookmail.com
-DTSTART:20241117T150000Z
-DTEND:20241117T180000Z
-UID:e1748215612596314@facebook.com
-SUMMARY:Black Canyon Training Run #1 supported by Hoka
-LOCATION:Big Bug Trailhead\, Black Canyon Tr
- ail
-URL:https://www.facebook.com/events/1748215612596314/
-DESCRIPTION:This will be the first of three tr
- aining runs leading up to the 2025
-  Black Canyon Ultras. We will be b
- reaking up the 100K course into th
- ree sections. Each run will be min
- imally supported\, minimally marked
-  and point to point. We will have 
- shorter options at each. Here is i
- nformation for those of you wantin
- g to join on this first training r
- un:\n\nDate:\nNovember 17\, 2024\n\nDist
- ance:\nMile 0 – Big Bug Trailhead
- \nMile 8 – Antelope Mesa (Water)\n
- Mile 13 – Hidden Treasure Mine T
- H \nMile 20ish – Bumble Bee (Fini
- sh) \n\nTime:\n7:00am Meet just North
-  of the bridge at the trailhead in
-  Bumble Bee to carpool to start or
-  7:45am Meet at Big Bug Trailhead\n
- \nThe run will start approximately 
- at 8:00am from the Big Bug Trailhe
- ad off HWY 69. This is an establis
- hed Trailhead of the BCT just west
-  of Mayer HS. It will have restroo
- ms and plenty of parking. \n\nDrivin
- g Directions:\nDirections to Bumble
-  Bee (end of run\, park here to car
- pool to run start):\n1. Drive north
-  from Phoenix on the I-17 Freeway\n
- 2. Take exit #248 towards Bumble B
- ee / Crown King\n3. Turn left and d
- rive 2.1 miles on pavement (road d
- escends downhill)\n4. Turn right at
-  the bottom where it turns to dirt
-  and take Crown King Road for 3.0 
- miles and park just past the bridg
- e on the left hand side of the roa
- d.\n\nDirections to Big Bug from Bum
- ble Bee (we will carpool as a grou
- p):\n1. Drive north on Crown King R
- oad for 5.6 miles\n2. Turn right on
- to Forest Road 259 and go 1.3 mile
- s\n3. Turn right staying on Forest 
- Road 259 and go 2.8 miles\n4. Conti
- nue straight onto Antelope Creek R
- oad at town of Cordes and go 2.8 m
- iles\n5. Take right onto Duffers Dr
- ive and then go 1.3 miles\n6. Turn 
- left onto Spring Lane and go 0.6 m
- iles through the town of Spring Va
- lley\n7. Turn left onto HWY 69 and 
- the Trailhead will be just west of
-  town on the left hand side. \n\nFor
- mat:\nThis is a no fee\, limited aid
- \, limited course marking training 
- run. You must plan to be self suff
- icient in terms of navigation\, per
- sonal safety and aid between stati
- ons. We will drop water at the Ant
- elope Mesa Mile 8 and have food an
- d water at Hidden Treasure Mine TH
-  at mile 13ish. Please study the m
- aps in this post and follow signag
- e for the Black Canyon Trail.\n\nMar
- kings:\nThe course on principle wil
- l be unmarked. There is signage fo
- r the Black Canyon Trail at most q
- uestionable junctions\, but we reco
- mmend studying and printing maps t
- o bring with you.\n\n\nPost Run Gathe
- ring:\nBring a camp chair\, some sna
- cks and BYOB if you enjoy a post-r
- un Sunday Funday at the trailhead.
- \n\nhttps://www.facebook.com/events/
- 1748215612596314/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241106T150056Z
-LAST-MODIFIED:20241106T150056Z
-CREATED:20241106T150056Z
-SEQUENCE:0
-ORGANIZER;CN=Jan Alfano Trail parkrun:MAILTO:noreply@facebookmail.com
-DTSTART:20241116T143000Z
-DTEND:20241116T160000Z
-UID:e1339588383691992@facebook.com
-SUMMARY:Jan Alfano Trail parkrun
-LOCATION:3179 Willow Creek Rd\, Prescott\, AZ
-  86301-6848\, United States
-URL:https://www.facebook.com/events/1339588353691995/?event_time_id=1339588383691992
-DESCRIPTION:Show up and run or walk a 5k! Plea
- se see the website for more detail
- s https://www.parkrun.us/janalfano
- trail/\n\nhttps://www.facebook.com/e
- vents/1339588353691995/?event_time
- _id=1339588383691992
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241104T182201Z
-LAST-MODIFIED:20241104T182201Z
-CREATED:20240927T204332Z
-SEQUENCE:3274709
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20241113T003000Z
-DTEND:20241113T033000Z
-UID:e8409743425782701@facebook.com
-SUMMARY:Tuesday Group Run- Sundog Ranch Rd Area ***Jason leading!***
-URL:https://www.facebook.com/events/8409743425782701/
-DESCRIPTION:Meeting at the trailhead off of Hw
- y 89: 34.572236\, -112.436545\n\nDriv
- e up 89 away from Prescott toward 
- Chino\, turn RIGHT at the light acr
- oss from Cliff Rose/Rosser St. Tra
- ilhead is right next to Hwy 89.\n\nN
- o drop group run (we stop at every
-  intersection and wait for everyon
- e to join up before running again)
- . This is an out and back. \n\nExpec
- t 4-6 mi\n\nBring a light :)\n\n\nhttps
- ://www.facebook.com/events/8409743
- 425782701/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241106T150056Z
-LAST-MODIFIED:20241106T150056Z
-CREATED:20241106T150056Z
-SEQUENCE:0
-ORGANIZER;CN=Jan Alfano Trail parkrun:MAILTO:noreply@facebookmail.com
-DTSTART:20241109T143000Z
-DTEND:20241109T160000Z
-UID:e1339588367025327@facebook.com
-SUMMARY:Jan Alfano Trail parkrun
-LOCATION:3179 Willow Creek Rd\, Prescott\, AZ
-  86301-6848\, United States
-URL:https://www.facebook.com/events/1339588353691995/?event_time_id=1339588367025327
-DESCRIPTION:Show up and run or walk a 5k! Plea
- se see the website for more detail
- s https://www.parkrun.us/janalfano
- trail/\n\nhttps://www.facebook.com/e
- vents/1339588353691995/?event_time
- _id=1339588367025327
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241006T174006Z
-LAST-MODIFIED:20241006T174006Z
-CREATED:20240614T013901Z
-SEQUENCE:9907265
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20241106T140000Z
-DTEND:20241106T160000Z
-UID:e1228870984984874@facebook.com
-SUMMARY:Vert Club
-URL:https://www.facebook.com/events/1155618102310163/?event_time_id=1228870984984874
-DESCRIPTION:Meet in the Thumb Butte parking lo
- t (free on Wednesdays) at 7:00 AM 
- and make as many trips up the trai
- l as you like.\n\nhttps://www.facebo
- ok.com/events/1155618102310163/?ev
- ent_time_id=1228870984984874
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241104T182113Z
-LAST-MODIFIED:20241104T182113Z
-CREATED:20240927T200525Z
-SEQUENCE:3276948
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20241106T003000Z
-DTEND:20241106T033000Z
-UID:e552694713958149@facebook.com
-SUMMARY:Tuesday Group Run- Williamson Valley ***Jason leading!***
-URL:https://www.facebook.com/events/552694713958149/
-DESCRIPTION:We will meet at the Williamson Val
- ley trailhead at 5:30pm. This run 
- will be different than the last ti
- me we met at this location - we wi
- ll do an out and back toward Baby 
- Granite Mtn.\n\nAddress coordinates:
-   34.65852781205743\, -112.51878020
- 370388\n\nNo-drop group run of appro
- ximately 4-6 miles. No-drop means 
- we stop at every intersection and 
- wait for everyone (no friends left
-  behind!). \n\nBring a light!!\n\n\nhtt
- ps://www.facebook.com/events/55269
- 4713958149/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
