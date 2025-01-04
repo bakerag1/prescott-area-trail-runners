@@ -1330,32 +1330,4 @@ CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241104T180524Z
-LAST-MODIFIED:20241104T180524Z
-CREATED:20241104T180524Z
-SEQUENCE:0
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20241204T003000Z
-DTEND:20241204T033000Z
-UID:e1366049937705136@facebook.com
-SUMMARY:Tuesday Group Run -Valley of Lights! ***Jason leading!***
-URL:https://www.facebook.com/events/1366049937705136/
-DESCRIPTION:For this Tuesday group run we will
-  run through the Valley of Lights 
- and then onto the Fain Trails! Exp
- ect around 4 miles. This is a no-d
- rop group run (we will stop at eve
- ry intersection and wait for every
- one to catch up). \n\nWe will park a
- nd meet at the bowling alley up ab
- ove the Valley of Lights: \n6301 E 
- Second St\nPrescott Valley\, AZ 8631
- 4\n\nBring a light for when we hit t
- he trails :) \n\nhttps://www.faceboo
- k.com/events/1366049937705136/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
 END:VCALENDAR

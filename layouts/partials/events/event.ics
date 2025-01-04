@@ -3,7 +3,7 @@
 {{/* Multiline hack from: https://github.com/gohugoio/hugoDocs/issues/764#issuecomment-625711237 */}}
 
 {{ with dict `` `
-  ` "description"  (dict "text" .Plain "lang" "en-US") `` `
+  ` "description"  (dict "text" .Params.ICSDescription "lang" "en-US") `` `
   ` "summary"      (dict "text" .Title "lang" "en-US") `` `
   ` "eventStart"   (dict "dateTime" .Params.startDate "timeZoneID" "America/Phoenix") `` `
   ` "eventEnd"     (dict "dateTime" .Params.endDate "timeZoneID" "America/Phoenix") `` `
