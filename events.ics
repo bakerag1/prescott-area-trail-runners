@@ -753,6 +753,32 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20250106T193143Z
+LAST-MODIFIED:20250106T193143Z
+CREATED:20250106T193143Z
+SEQUENCE:0
+ORGANIZER;CN=Chris Hawthorne:MAILTO:noreply@facebookmail.com
+DTSTART:20250111T153000Z
+DTEND:20250111T183000Z
+UID:e1365914951063967@facebook.com
+SUMMARY:Copper Mountain Loop
+LOCATION:Big Bug Trailhead\, Black Canyon Tr
+ ail
+URL:https://www.facebook.com/events/1365914951063967/
+DESCRIPTION:15 mile loop\, with 1500' gain. The
+ re will likely be various paces be
+ ing run. Fairly easy trail to foll
+ ow\, not many intersecting trails. 
+ If you want to carpool\, Maverick g
+ as station on 69 @ 89 is a good sp
+ ot to meet - post in comments if i
+ nterested.\n\nhttps://www.facebook.c
+ om/events/1365914951063967/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20241211T183836Z
 LAST-MODIFIED:20241211T183836Z
 CREATED:20241211T180109Z
@@ -776,6 +802,30 @@ DESCRIPTION:It's possible nobody will show up\,
  /www.facebook.com/events/251792249
  1931994/?event_time_id=25179225285
  98657
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250105T215326Z
+LAST-MODIFIED:20250105T215326Z
+CREATED:20250105T215326Z
+SEQUENCE:0
+ORGANIZER;CN=Paula Olson:MAILTO:noreply@facebookmail.com
+DTSTART:20250108T140000Z
+DTEND:20250108T170000Z
+UID:e605623961851023@facebook.com
+SUMMARY:Vert club
+LOCATION:Thumb Butte Trail 33
+URL:https://www.facebook.com/events/605623961851023/
+DESCRIPTION:Welcome to PATR’s Vert Club run.
+  We go up trail 33 on the left (pa
+ ved side) and come down the dirt s
+ ide. Do as many loops as you like.
+  One loop is just a tad under 2 mi
+ les. Parking is free on Wed. \n\nhtt
+ ps://www.facebook.com/events/60562
+ 3961851023/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
@@ -1306,28 +1356,5 @@ DESCRIPTION:We are going to check out a newly
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241106T150056Z
-LAST-MODIFIED:20241106T150056Z
-CREATED:20241106T150056Z
-SEQUENCE:0
-ORGANIZER;CN=Jan Alfano Trail parkrun:MAILTO:noreply@facebookmail.com
-DTSTART:20241207T143000Z
-DTEND:20241207T160000Z
-UID:e1339588363691994@facebook.com
-SUMMARY:Jan Alfano Trail parkrun
-LOCATION:3179 Willow Creek Rd\, Prescott\, AZ
-  86301-6848\, United States
-URL:https://www.facebook.com/events/1339588353691995/?event_time_id=1339588363691994
-DESCRIPTION:Show up and run or walk a 5k! Plea
- se see the website for more detail
- s https://www.parkrun.us/janalfano
- trail/\n\nhttps://www.facebook.com/e
- vents/1339588353691995/?event_time
- _id=1339588363691994
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
 END:VEVENT
 END:VCALENDAR
