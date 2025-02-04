@@ -7,6 +7,282 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
+DTSTAMP:20241215T151338Z
+LAST-MODIFIED:20241215T151338Z
+CREATED:20241215T151338Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20251213T143000Z
+DTEND:20251213T153000Z
+UID:e945486787039601@facebook.com
+SUMMARY:Park Run
+LOCATION:Jan Alfano Trail behind Dog Park o
+ n Willow Creek Rd
+URL:https://www.facebook.com/events/945486783706268/?event_time_id=945486787039601
+DESCRIPTION:Join us every Saturday at 7:30 beh
+ ind the Dog Park for 5K run or wal
+ k.  www.parkrun.us/janalfanotrail/
+ \n\nhttps://www.facebook.com/events/
+ 945486783706268/?event_time_id=945
+ 486787039601
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241215T151338Z
+LAST-MODIFIED:20241215T151338Z
+CREATED:20241215T151338Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20251206T143000Z
+DTEND:20251206T153000Z
+UID:e945486857039594@facebook.com
+SUMMARY:Park Run
+LOCATION:Jan Alfano Trail behind Dog Park o
+ n Willow Creek Rd
+URL:https://www.facebook.com/events/945486783706268/?event_time_id=945486857039594
+DESCRIPTION:Join us every Saturday at 7:30 beh
+ ind the Dog Park for 5K run or wal
+ k.  www.parkrun.us/janalfanotrail/
+ \n\nhttps://www.facebook.com/events/
+ 945486783706268/?event_time_id=945
+ 486857039594
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241215T151338Z
+LAST-MODIFIED:20241215T151338Z
+CREATED:20241215T151338Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20251129T143000Z
+DTEND:20251129T153000Z
+UID:e945486870372926@facebook.com
+SUMMARY:Park Run
+LOCATION:Jan Alfano Trail behind Dog Park o
+ n Willow Creek Rd
+URL:https://www.facebook.com/events/945486783706268/?event_time_id=945486870372926
+DESCRIPTION:Join us every Saturday at 7:30 beh
+ ind the Dog Park for 5K run or wal
+ k.  www.parkrun.us/janalfanotrail/
+ \n\nhttps://www.facebook.com/events/
+ 945486783706268/?event_time_id=945
+ 486870372926
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241215T151338Z
+LAST-MODIFIED:20241215T151338Z
+CREATED:20241215T151338Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20251122T143000Z
+DTEND:20251122T153000Z
+UID:e945486867039593@facebook.com
+SUMMARY:Park Run
+LOCATION:Jan Alfano Trail behind Dog Park o
+ n Willow Creek Rd
+URL:https://www.facebook.com/events/945486783706268/?event_time_id=945486867039593
+DESCRIPTION:Join us every Saturday at 7:30 beh
+ ind the Dog Park for 5K run or wal
+ k.  www.parkrun.us/janalfanotrail/
+ \n\nhttps://www.facebook.com/events/
+ 945486783706268/?event_time_id=945
+ 486867039593
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241215T151338Z
+LAST-MODIFIED:20241215T151338Z
+CREATED:20241215T151338Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20251115T143000Z
+DTEND:20251115T153000Z
+UID:e945486873706259@facebook.com
+SUMMARY:Park Run
+LOCATION:Jan Alfano Trail behind Dog Park o
+ n Willow Creek Rd
+URL:https://www.facebook.com/events/945486783706268/?event_time_id=945486873706259
+DESCRIPTION:Join us every Saturday at 7:30 beh
+ ind the Dog Park for 5K run or wal
+ k.  www.parkrun.us/janalfanotrail/
+ \n\nhttps://www.facebook.com/events/
+ 945486783706268/?event_time_id=945
+ 486873706259
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241215T151338Z
+LAST-MODIFIED:20241215T151338Z
+CREATED:20241215T151338Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20251108T143000Z
+DTEND:20251108T153000Z
+UID:e945486863706260@facebook.com
+SUMMARY:Park Run
+LOCATION:Jan Alfano Trail behind Dog Park o
+ n Willow Creek Rd
+URL:https://www.facebook.com/events/945486783706268/?event_time_id=945486863706260
+DESCRIPTION:Join us every Saturday at 7:30 beh
+ ind the Dog Park for 5K run or wal
+ k.  www.parkrun.us/janalfanotrail/
+ \n\nhttps://www.facebook.com/events/
+ 945486783706268/?event_time_id=945
+ 486863706260
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241215T151338Z
+LAST-MODIFIED:20241215T151338Z
+CREATED:20241215T151338Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20251101T143000Z
+DTEND:20251101T153000Z
+UID:e945486860372927@facebook.com
+SUMMARY:Park Run
+LOCATION:Jan Alfano Trail behind Dog Park o
+ n Willow Creek Rd
+URL:https://www.facebook.com/events/945486783706268/?event_time_id=945486860372927
+DESCRIPTION:Join us every Saturday at 7:30 beh
+ ind the Dog Park for 5K run or wal
+ k.  www.parkrun.us/janalfanotrail/
+ \n\nhttps://www.facebook.com/events/
+ 945486783706268/?event_time_id=945
+ 486860372927
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241215T151338Z
+LAST-MODIFIED:20241215T151338Z
+CREATED:20241215T151338Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20251025T143000Z
+DTEND:20251025T153000Z
+UID:e945486850372928@facebook.com
+SUMMARY:Park Run
+LOCATION:Jan Alfano Trail behind Dog Park o
+ n Willow Creek Rd
+URL:https://www.facebook.com/events/945486783706268/?event_time_id=945486850372928
+DESCRIPTION:Join us every Saturday at 7:30 beh
+ ind the Dog Park for 5K run or wal
+ k.  www.parkrun.us/janalfanotrail/
+ \n\nhttps://www.facebook.com/events/
+ 945486783706268/?event_time_id=945
+ 486850372928
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241215T151338Z
+LAST-MODIFIED:20241215T151338Z
+CREATED:20241215T151338Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20251018T143000Z
+DTEND:20251018T153000Z
+UID:e945486853706261@facebook.com
+SUMMARY:Park Run
+LOCATION:Jan Alfano Trail behind Dog Park o
+ n Willow Creek Rd
+URL:https://www.facebook.com/events/945486783706268/?event_time_id=945486853706261
+DESCRIPTION:Join us every Saturday at 7:30 beh
+ ind the Dog Park for 5K run or wal
+ k.  www.parkrun.us/janalfanotrail/
+ \n\nhttps://www.facebook.com/events/
+ 945486783706268/?event_time_id=945
+ 486853706261
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241215T151338Z
+LAST-MODIFIED:20241215T151338Z
+CREATED:20241215T151338Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20251011T143000Z
+DTEND:20251011T153000Z
+UID:e945486843706262@facebook.com
+SUMMARY:Park Run
+LOCATION:Jan Alfano Trail behind Dog Park o
+ n Willow Creek Rd
+URL:https://www.facebook.com/events/945486783706268/?event_time_id=945486843706262
+DESCRIPTION:Join us every Saturday at 7:30 beh
+ ind the Dog Park for 5K run or wal
+ k.  www.parkrun.us/janalfanotrail/
+ \n\nhttps://www.facebook.com/events/
+ 945486783706268/?event_time_id=945
+ 486843706262
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241215T151338Z
+LAST-MODIFIED:20241215T151338Z
+CREATED:20241215T151338Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20251004T143000Z
+DTEND:20251004T153000Z
+UID:e945486847039595@facebook.com
+SUMMARY:Park Run
+LOCATION:Jan Alfano Trail behind Dog Park o
+ n Willow Creek Rd
+URL:https://www.facebook.com/events/945486783706268/?event_time_id=945486847039595
+DESCRIPTION:Join us every Saturday at 7:30 beh
+ ind the Dog Park for 5K run or wal
+ k.  www.parkrun.us/janalfanotrail/
+ \n\nhttps://www.facebook.com/events/
+ 945486783706268/?event_time_id=945
+ 486847039595
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241215T151338Z
+LAST-MODIFIED:20241215T151338Z
+CREATED:20241215T151338Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20250927T143000Z
+DTEND:20250927T153000Z
+UID:e945486840372929@facebook.com
+SUMMARY:Park Run
+LOCATION:Jan Alfano Trail behind Dog Park o
+ n Willow Creek Rd
+URL:https://www.facebook.com/events/945486783706268/?event_time_id=945486840372929
+DESCRIPTION:Join us every Saturday at 7:30 beh
+ ind the Dog Park for 5K run or wal
+ k.  www.parkrun.us/janalfanotrail/
+ \n\nhttps://www.facebook.com/events/
+ 945486783706268/?event_time_id=945
+ 486840372929
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20241104T190339Z
 LAST-MODIFIED:20241104T190339Z
 CREATED:20241104T190339Z
@@ -44,6 +320,305 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20241215T151338Z
+LAST-MODIFIED:20241215T151338Z
+CREATED:20241215T151338Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20250920T143000Z
+DTEND:20250920T153000Z
+UID:e945486837039596@facebook.com
+SUMMARY:Park Run
+LOCATION:Jan Alfano Trail behind Dog Park o
+ n Willow Creek Rd
+URL:https://www.facebook.com/events/945486783706268/?event_time_id=945486837039596
+DESCRIPTION:Join us every Saturday at 7:30 beh
+ ind the Dog Park for 5K run or wal
+ k.  www.parkrun.us/janalfanotrail/
+ \n\nhttps://www.facebook.com/events/
+ 945486783706268/?event_time_id=945
+ 486837039596
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241215T151338Z
+LAST-MODIFIED:20241215T151338Z
+CREATED:20241215T151338Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20250913T143000Z
+DTEND:20250913T153000Z
+UID:e945486830372930@facebook.com
+SUMMARY:Park Run
+LOCATION:Jan Alfano Trail behind Dog Park o
+ n Willow Creek Rd
+URL:https://www.facebook.com/events/945486783706268/?event_time_id=945486830372930
+DESCRIPTION:Join us every Saturday at 7:30 beh
+ ind the Dog Park for 5K run or wal
+ k.  www.parkrun.us/janalfanotrail/
+ \n\nhttps://www.facebook.com/events/
+ 945486783706268/?event_time_id=945
+ 486830372930
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241215T151338Z
+LAST-MODIFIED:20241215T151338Z
+CREATED:20241215T151338Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20250906T143000Z
+DTEND:20250906T153000Z
+UID:e945486790372934@facebook.com
+SUMMARY:Park Run
+LOCATION:Jan Alfano Trail behind Dog Park o
+ n Willow Creek Rd
+URL:https://www.facebook.com/events/945486783706268/?event_time_id=945486790372934
+DESCRIPTION:Join us every Saturday at 7:30 beh
+ ind the Dog Park for 5K run or wal
+ k.  www.parkrun.us/janalfanotrail/
+ \n\nhttps://www.facebook.com/events/
+ 945486783706268/?event_time_id=945
+ 486790372934
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241215T151338Z
+LAST-MODIFIED:20241215T151338Z
+CREATED:20241215T151338Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20250830T143000Z
+DTEND:20250830T153000Z
+UID:e945486810372932@facebook.com
+SUMMARY:Park Run
+LOCATION:Jan Alfano Trail behind Dog Park o
+ n Willow Creek Rd
+URL:https://www.facebook.com/events/945486783706268/?event_time_id=945486810372932
+DESCRIPTION:Join us every Saturday at 7:30 beh
+ ind the Dog Park for 5K run or wal
+ k.  www.parkrun.us/janalfanotrail/
+ \n\nhttps://www.facebook.com/events/
+ 945486783706268/?event_time_id=945
+ 486810372932
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241215T151338Z
+LAST-MODIFIED:20241215T151338Z
+CREATED:20241215T151338Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20250823T143000Z
+DTEND:20250823T153000Z
+UID:e945486817039598@facebook.com
+SUMMARY:Park Run
+LOCATION:Jan Alfano Trail behind Dog Park o
+ n Willow Creek Rd
+URL:https://www.facebook.com/events/945486783706268/?event_time_id=945486817039598
+DESCRIPTION:Join us every Saturday at 7:30 beh
+ ind the Dog Park for 5K run or wal
+ k.  www.parkrun.us/janalfanotrail/
+ \n\nhttps://www.facebook.com/events/
+ 945486783706268/?event_time_id=945
+ 486817039598
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241215T151338Z
+LAST-MODIFIED:20241215T151338Z
+CREATED:20241215T151338Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20250816T143000Z
+DTEND:20250816T153000Z
+UID:e945486823706264@facebook.com
+SUMMARY:Park Run
+LOCATION:Jan Alfano Trail behind Dog Park o
+ n Willow Creek Rd
+URL:https://www.facebook.com/events/945486783706268/?event_time_id=945486823706264
+DESCRIPTION:Join us every Saturday at 7:30 beh
+ ind the Dog Park for 5K run or wal
+ k.  www.parkrun.us/janalfanotrail/
+ \n\nhttps://www.facebook.com/events/
+ 945486783706268/?event_time_id=945
+ 486823706264
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241215T151338Z
+LAST-MODIFIED:20241215T151338Z
+CREATED:20241215T151338Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20250809T143000Z
+DTEND:20250809T153000Z
+UID:e945486800372933@facebook.com
+SUMMARY:Park Run
+LOCATION:Jan Alfano Trail behind Dog Park o
+ n Willow Creek Rd
+URL:https://www.facebook.com/events/945486783706268/?event_time_id=945486800372933
+DESCRIPTION:Join us every Saturday at 7:30 beh
+ ind the Dog Park for 5K run or wal
+ k.  www.parkrun.us/janalfanotrail/
+ \n\nhttps://www.facebook.com/events/
+ 945486783706268/?event_time_id=945
+ 486800372933
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241215T151338Z
+LAST-MODIFIED:20241215T151338Z
+CREATED:20241215T151338Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20250802T143000Z
+DTEND:20250802T153000Z
+UID:e945486820372931@facebook.com
+SUMMARY:Park Run
+LOCATION:Jan Alfano Trail behind Dog Park o
+ n Willow Creek Rd
+URL:https://www.facebook.com/events/945486783706268/?event_time_id=945486820372931
+DESCRIPTION:Join us every Saturday at 7:30 beh
+ ind the Dog Park for 5K run or wal
+ k.  www.parkrun.us/janalfanotrail/
+ \n\nhttps://www.facebook.com/events/
+ 945486783706268/?event_time_id=945
+ 486820372931
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241215T151338Z
+LAST-MODIFIED:20241215T151338Z
+CREATED:20241215T151338Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20250726T143000Z
+DTEND:20250726T153000Z
+UID:e945486803706266@facebook.com
+SUMMARY:Park Run
+LOCATION:Jan Alfano Trail behind Dog Park o
+ n Willow Creek Rd
+URL:https://www.facebook.com/events/945486783706268/?event_time_id=945486803706266
+DESCRIPTION:Join us every Saturday at 7:30 beh
+ ind the Dog Park for 5K run or wal
+ k.  www.parkrun.us/janalfanotrail/
+ \n\nhttps://www.facebook.com/events/
+ 945486783706268/?event_time_id=945
+ 486803706266
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241215T151338Z
+LAST-MODIFIED:20241215T151338Z
+CREATED:20241215T151338Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20250719T143000Z
+DTEND:20250719T153000Z
+UID:e945486807039599@facebook.com
+SUMMARY:Park Run
+LOCATION:Jan Alfano Trail behind Dog Park o
+ n Willow Creek Rd
+URL:https://www.facebook.com/events/945486783706268/?event_time_id=945486807039599
+DESCRIPTION:Join us every Saturday at 7:30 beh
+ ind the Dog Park for 5K run or wal
+ k.  www.parkrun.us/janalfanotrail/
+ \n\nhttps://www.facebook.com/events/
+ 945486783706268/?event_time_id=945
+ 486807039599
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241215T151338Z
+LAST-MODIFIED:20241215T151338Z
+CREATED:20241215T151338Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20250712T143000Z
+DTEND:20250712T153000Z
+UID:e945486827039597@facebook.com
+SUMMARY:Park Run
+LOCATION:Jan Alfano Trail behind Dog Park o
+ n Willow Creek Rd
+URL:https://www.facebook.com/events/945486783706268/?event_time_id=945486827039597
+DESCRIPTION:Join us every Saturday at 7:30 beh
+ ind the Dog Park for 5K run or wal
+ k.  www.parkrun.us/janalfanotrail/
+ \n\nhttps://www.facebook.com/events/
+ 945486783706268/?event_time_id=945
+ 486827039597
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241215T151338Z
+LAST-MODIFIED:20241215T151338Z
+CREATED:20241215T151338Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20250705T143000Z
+DTEND:20250705T153000Z
+UID:e945486813706265@facebook.com
+SUMMARY:Park Run
+LOCATION:Jan Alfano Trail behind Dog Park o
+ n Willow Creek Rd
+URL:https://www.facebook.com/events/945486783706268/?event_time_id=945486813706265
+DESCRIPTION:Join us every Saturday at 7:30 beh
+ ind the Dog Park for 5K run or wal
+ k.  www.parkrun.us/janalfanotrail/
+ \n\nhttps://www.facebook.com/events/
+ 945486783706268/?event_time_id=945
+ 486813706265
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241215T151338Z
+LAST-MODIFIED:20241215T151338Z
+CREATED:20241215T151338Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20250628T143000Z
+DTEND:20250628T153000Z
+UID:e945486797039600@facebook.com
+SUMMARY:Park Run
+LOCATION:Jan Alfano Trail behind Dog Park o
+ n Willow Creek Rd
+URL:https://www.facebook.com/events/945486783706268/?event_time_id=945486797039600
+DESCRIPTION:Join us every Saturday at 7:30 beh
+ ind the Dog Park for 5K run or wal
+ k.  www.parkrun.us/janalfanotrail/
+ \n\nhttps://www.facebook.com/events/
+ 945486783706268/?event_time_id=945
+ 486797039600
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20241104T190921Z
 LAST-MODIFIED:20241104T190921Z
 CREATED:20241104T190921Z
@@ -71,6 +646,167 @@ DESCRIPTION:Join us in the pines of Flagstaff
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241215T151338Z
+LAST-MODIFIED:20241215T151338Z
+CREATED:20241215T151338Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20250621T143000Z
+DTEND:20250621T153000Z
+UID:e945486957039584@facebook.com
+SUMMARY:Park Run
+LOCATION:Jan Alfano Trail behind Dog Park o
+ n Willow Creek Rd
+URL:https://www.facebook.com/events/945486783706268/?event_time_id=945486957039584
+DESCRIPTION:Join us every Saturday at 7:30 beh
+ ind the Dog Park for 5K run or wal
+ k.  www.parkrun.us/janalfanotrail/
+ \n\nhttps://www.facebook.com/events/
+ 945486783706268/?event_time_id=945
+ 486957039584
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241215T151338Z
+LAST-MODIFIED:20241215T151338Z
+CREATED:20241215T151338Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20250614T143000Z
+DTEND:20250614T153000Z
+UID:e945486833706263@facebook.com
+SUMMARY:Park Run
+LOCATION:Jan Alfano Trail behind Dog Park o
+ n Willow Creek Rd
+URL:https://www.facebook.com/events/945486783706268/?event_time_id=945486833706263
+DESCRIPTION:Join us every Saturday at 7:30 beh
+ ind the Dog Park for 5K run or wal
+ k.  www.parkrun.us/janalfanotrail/
+ \n\nhttps://www.facebook.com/events/
+ 945486783706268/?event_time_id=945
+ 486833706263
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241215T151338Z
+LAST-MODIFIED:20241215T151338Z
+CREATED:20241215T151338Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20250607T143000Z
+DTEND:20250607T153000Z
+UID:e945486793706267@facebook.com
+SUMMARY:Park Run
+LOCATION:Jan Alfano Trail behind Dog Park o
+ n Willow Creek Rd
+URL:https://www.facebook.com/events/945486783706268/?event_time_id=945486793706267
+DESCRIPTION:Join us every Saturday at 7:30 beh
+ ind the Dog Park for 5K run or wal
+ k.  www.parkrun.us/janalfanotrail/
+ \n\nhttps://www.facebook.com/events/
+ 945486783706268/?event_time_id=945
+ 486793706267
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241215T151338Z
+LAST-MODIFIED:20241215T151338Z
+CREATED:20241215T151338Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20250531T143000Z
+DTEND:20250531T153000Z
+UID:e945486953706251@facebook.com
+SUMMARY:Park Run
+LOCATION:Jan Alfano Trail behind Dog Park o
+ n Willow Creek Rd
+URL:https://www.facebook.com/events/945486783706268/?event_time_id=945486953706251
+DESCRIPTION:Join us every Saturday at 7:30 beh
+ ind the Dog Park for 5K run or wal
+ k.  www.parkrun.us/janalfanotrail/
+ \n\nhttps://www.facebook.com/events/
+ 945486783706268/?event_time_id=945
+ 486953706251
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241215T151338Z
+LAST-MODIFIED:20241215T151338Z
+CREATED:20241215T151338Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20250524T143000Z
+DTEND:20250524T153000Z
+UID:e945486960372917@facebook.com
+SUMMARY:Park Run
+LOCATION:Jan Alfano Trail behind Dog Park o
+ n Willow Creek Rd
+URL:https://www.facebook.com/events/945486783706268/?event_time_id=945486960372917
+DESCRIPTION:Join us every Saturday at 7:30 beh
+ ind the Dog Park for 5K run or wal
+ k.  www.parkrun.us/janalfanotrail/
+ \n\nhttps://www.facebook.com/events/
+ 945486783706268/?event_time_id=945
+ 486960372917
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241215T151338Z
+LAST-MODIFIED:20241215T151338Z
+CREATED:20241215T151338Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20250517T143000Z
+DTEND:20250517T153000Z
+UID:e945486943706252@facebook.com
+SUMMARY:Park Run
+LOCATION:Jan Alfano Trail behind Dog Park o
+ n Willow Creek Rd
+URL:https://www.facebook.com/events/945486783706268/?event_time_id=945486943706252
+DESCRIPTION:Join us every Saturday at 7:30 beh
+ ind the Dog Park for 5K run or wal
+ k.  www.parkrun.us/janalfanotrail/
+ \n\nhttps://www.facebook.com/events/
+ 945486783706268/?event_time_id=945
+ 486943706252
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241215T151338Z
+LAST-MODIFIED:20241215T151338Z
+CREATED:20241215T151338Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20250510T143000Z
+DTEND:20250510T153000Z
+UID:e945486947039585@facebook.com
+SUMMARY:Park Run
+LOCATION:Jan Alfano Trail behind Dog Park o
+ n Willow Creek Rd
+URL:https://www.facebook.com/events/945486783706268/?event_time_id=945486947039585
+DESCRIPTION:Join us every Saturday at 7:30 beh
+ ind the Dog Park for 5K run or wal
+ k.  www.parkrun.us/janalfanotrail/
+ \n\nhttps://www.facebook.com/events/
+ 945486783706268/?event_time_id=945
+ 486947039585
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20240527T210149Z
@@ -116,6 +852,29 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20241215T151338Z
+LAST-MODIFIED:20241215T151338Z
+CREATED:20241215T151338Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20250503T143000Z
+DTEND:20250503T153000Z
+UID:e945486950372918@facebook.com
+SUMMARY:Park Run
+LOCATION:Jan Alfano Trail behind Dog Park o
+ n Willow Creek Rd
+URL:https://www.facebook.com/events/945486783706268/?event_time_id=945486950372918
+DESCRIPTION:Join us every Saturday at 7:30 beh
+ ind the Dog Park for 5K run or wal
+ k.  www.parkrun.us/janalfanotrail/
+ \n\nhttps://www.facebook.com/events/
+ 945486783706268/?event_time_id=945
+ 486950372918
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20241103T203806Z
 LAST-MODIFIED:20241103T203806Z
 CREATED:20241103T203806Z
@@ -135,6 +894,29 @@ DESCRIPTION:Fat ass style 31-ish mile adventur
  com/register.aspx?eid=18235\n\nhttps
  ://www.facebook.com/events/2052595
  695178924/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241215T151338Z
+LAST-MODIFIED:20241215T151338Z
+CREATED:20241215T151338Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20250426T143000Z
+DTEND:20250426T153000Z
+UID:e945486937039586@facebook.com
+SUMMARY:Park Run
+LOCATION:Jan Alfano Trail behind Dog Park o
+ n Willow Creek Rd
+URL:https://www.facebook.com/events/945486783706268/?event_time_id=945486937039586
+DESCRIPTION:Join us every Saturday at 7:30 beh
+ ind the Dog Park for 5K run or wal
+ k.  www.parkrun.us/janalfanotrail/
+ \n\nhttps://www.facebook.com/events/
+ 945486783706268/?event_time_id=945
+ 486937039586
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
@@ -160,6 +942,52 @@ DESCRIPTION:50 mile and 27 mile distances star
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241215T151338Z
+LAST-MODIFIED:20241215T151338Z
+CREATED:20241215T151338Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20250419T143000Z
+DTEND:20250419T153000Z
+UID:e945486940372919@facebook.com
+SUMMARY:Park Run
+LOCATION:Jan Alfano Trail behind Dog Park o
+ n Willow Creek Rd
+URL:https://www.facebook.com/events/945486783706268/?event_time_id=945486940372919
+DESCRIPTION:Join us every Saturday at 7:30 beh
+ ind the Dog Park for 5K run or wal
+ k.  www.parkrun.us/janalfanotrail/
+ \n\nhttps://www.facebook.com/events/
+ 945486783706268/?event_time_id=945
+ 486940372919
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241215T151338Z
+LAST-MODIFIED:20241215T151338Z
+CREATED:20241215T151338Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20250412T143000Z
+DTEND:20250412T153000Z
+UID:e945486917039588@facebook.com
+SUMMARY:Park Run
+LOCATION:Jan Alfano Trail behind Dog Park o
+ n Willow Creek Rd
+URL:https://www.facebook.com/events/945486783706268/?event_time_id=945486917039588
+DESCRIPTION:Join us every Saturday at 7:30 beh
+ ind the Dog Park for 5K run or wal
+ k.  www.parkrun.us/janalfanotrail/
+ \n\nhttps://www.facebook.com/events/
+ 945486783706268/?event_time_id=945
+ 486917039588
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20240913T164433Z
@@ -192,6 +1020,121 @@ DESCRIPTION:Join us for the 2025 edition of Wh
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241215T151338Z
+LAST-MODIFIED:20241215T151338Z
+CREATED:20241215T151338Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20250405T143000Z
+DTEND:20250405T153000Z
+UID:e945486933706253@facebook.com
+SUMMARY:Park Run
+LOCATION:Jan Alfano Trail behind Dog Park o
+ n Willow Creek Rd
+URL:https://www.facebook.com/events/945486783706268/?event_time_id=945486933706253
+DESCRIPTION:Join us every Saturday at 7:30 beh
+ ind the Dog Park for 5K run or wal
+ k.  www.parkrun.us/janalfanotrail/
+ \n\nhttps://www.facebook.com/events/
+ 945486783706268/?event_time_id=945
+ 486933706253
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241215T151338Z
+LAST-MODIFIED:20241215T151338Z
+CREATED:20241215T151338Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20250329T143000Z
+DTEND:20250329T153000Z
+UID:e945486927039587@facebook.com
+SUMMARY:Park Run
+LOCATION:Jan Alfano Trail behind Dog Park o
+ n Willow Creek Rd
+URL:https://www.facebook.com/events/945486783706268/?event_time_id=945486927039587
+DESCRIPTION:Join us every Saturday at 7:30 beh
+ ind the Dog Park for 5K run or wal
+ k.  www.parkrun.us/janalfanotrail/
+ \n\nhttps://www.facebook.com/events/
+ 945486783706268/?event_time_id=945
+ 486927039587
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250108T181830Z
+LAST-MODIFIED:20250108T181830Z
+CREATED:20250108T181830Z
+SEQUENCE:0
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20250326T003000Z
+DTEND:20250326T033000Z
+UID:e2908553032651460@facebook.com
+SUMMARY:Tuesday Group Run -Turley Trailhead -Sunset on P Mtn!
+URL:https://www.facebook.com/events/2908553032651460/
+DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
+  will meet at the Turley Trailhead
+  - hoping to catch the sunset from
+  the top of P mountain!\n\nhttps://m
+ aps.app.goo.gl/yvh2jJyGwkXCkUpq6?g
+ _st=ic\n\n34.541342\, -112.437366\n\nEx
+ pect 4-6 miles. This is a no-drop 
+ group run\, so we will stop at ever
+ y trail intersection and wait for 
+ everyone to catch up before contin
+ uing the run. (No runners left beh
+ ind!)\n\nBring a light :)\n\nDirection
+ s:  Take HWY-69 towards Prescott. 
+ After leaving the Prescott Valley 
+ area\, you'll reach the intersectio
+ n of HWY-69 and HWY-89. Stay left 
+ on Gurley street and make a quick 
+ left turn onto Robinson Drive into
+  a residential area. From Robinson
+  Drive\, turn left on Butterfield R
+ oad. When you reach a five way int
+ ersection\, turn right onto Wells F
+ argo Road. When Wells Fargo road t
+ urns north\, look on your right for
+  a small\, hidden dirt road (the tr
+ ailhead sign is tough to spot). Ta
+ ke this well graded dirt road to t
+ he parking area and Turley Trailhe
+ ad.\n\n205 Wells Fargo road\nPrescott
+ \, AZ\n\n\n\nhttps://www.facebook.com/e
+ vents/2908553032651460/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241215T151338Z
+LAST-MODIFIED:20241215T151338Z
+CREATED:20241215T151338Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20250322T143000Z
+DTEND:20250322T153000Z
+UID:e945486877039592@facebook.com
+SUMMARY:Park Run
+LOCATION:Jan Alfano Trail behind Dog Park o
+ n Willow Creek Rd
+URL:https://www.facebook.com/events/945486783706268/?event_time_id=945486877039592
+DESCRIPTION:Join us every Saturday at 7:30 beh
+ ind the Dog Park for 5K run or wal
+ k.  www.parkrun.us/janalfanotrail/
+ \n\nhttps://www.facebook.com/events/
+ 945486783706268/?event_time_id=945
+ 486877039592
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20240527T202158Z
@@ -227,6 +1170,52 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20241215T151338Z
+LAST-MODIFIED:20241215T151338Z
+CREATED:20241215T151338Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20250315T143000Z
+DTEND:20250315T153000Z
+UID:e945486930372920@facebook.com
+SUMMARY:Park Run
+LOCATION:Jan Alfano Trail behind Dog Park o
+ n Willow Creek Rd
+URL:https://www.facebook.com/events/945486783706268/?event_time_id=945486930372920
+DESCRIPTION:Join us every Saturday at 7:30 beh
+ ind the Dog Park for 5K run or wal
+ k.  www.parkrun.us/janalfanotrail/
+ \n\nhttps://www.facebook.com/events/
+ 945486783706268/?event_time_id=945
+ 486930372920
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241215T151338Z
+LAST-MODIFIED:20241215T151338Z
+CREATED:20241215T151338Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20250308T143000Z
+DTEND:20250308T153000Z
+UID:e945486923706254@facebook.com
+SUMMARY:Park Run
+LOCATION:Jan Alfano Trail behind Dog Park o
+ n Willow Creek Rd
+URL:https://www.facebook.com/events/945486783706268/?event_time_id=945486923706254
+DESCRIPTION:Join us every Saturday at 7:30 beh
+ ind the Dog Park for 5K run or wal
+ k.  www.parkrun.us/janalfanotrail/
+ \n\nhttps://www.facebook.com/events/
+ 945486783706268/?event_time_id=945
+ 486923706254
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20241211T183836Z
 LAST-MODIFIED:20241211T183836Z
 CREATED:20241211T180109Z
@@ -255,6 +1244,29 @@ STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20241215T151338Z
+LAST-MODIFIED:20241215T151338Z
+CREATED:20241215T151338Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20250301T143000Z
+DTEND:20250301T153000Z
+UID:e945486910372922@facebook.com
+SUMMARY:Park Run
+LOCATION:Jan Alfano Trail behind Dog Park o
+ n Willow Creek Rd
+URL:https://www.facebook.com/events/945486783706268/?event_time_id=945486910372922
+DESCRIPTION:Join us every Saturday at 7:30 beh
+ ind the Dog Park for 5K run or wal
+ k.  www.parkrun.us/janalfanotrail/
+ \n\nhttps://www.facebook.com/events/
+ 945486783706268/?event_time_id=945
+ 486910372922
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20241211T183836Z
 LAST-MODIFIED:20241211T183836Z
 CREATED:20241211T180109Z
@@ -278,6 +1290,60 @@ DESCRIPTION:It's possible nobody will show up\,
  /www.facebook.com/events/251792249
  1931994/?event_time_id=25179225152
  65325
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250108T182801Z
+LAST-MODIFIED:20250108T182801Z
+CREATED:20250108T182801Z
+SEQUENCE:0
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20250226T003000Z
+DTEND:20250226T033000Z
+UID:e594366006575047@facebook.com
+SUMMARY:Tuesday Group Run - Run to Hot Shot Alligator Juniper! - Jason leading!
+URL:https://www.facebook.com/events/594366006575047/
+DESCRIPTION:We will run to the giant alligator
+  juniper\, made famous by the Grani
+ te Mtn Hotshots! We want to do thi
+ s run one time before it gets hot 
+ again.  \n\nThis is a no-drop run so
+  we will stop at every intersectio
+ n and allow everyone to catch up! 
+ Expect 5 miles total on an out and
+  back. \n\nBring water an a light!\n\n
+ Giant Alligator Juniper Trail on A
+ llTrails\nhttps://www.alltrails.com
+ /trail/us/arizona/giant-alligator-
+ juniper-trail?sh=skmyyj\n\nTrailhead
+  location: 34.60987\, -112.60828\n\nJ
+ ason leading!\n\nhttps://www.faceboo
+ k.com/events/594366006575047/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241215T151338Z
+LAST-MODIFIED:20241215T151338Z
+CREATED:20241215T151338Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20250222T143000Z
+DTEND:20250222T153000Z
+UID:e945486913706255@facebook.com
+SUMMARY:Park Run
+LOCATION:Jan Alfano Trail behind Dog Park o
+ n Willow Creek Rd
+URL:https://www.facebook.com/events/945486783706268/?event_time_id=945486913706255
+DESCRIPTION:Join us every Saturday at 7:30 beh
+ ind the Dog Park for 5K run or wal
+ k.  www.parkrun.us/janalfanotrail/
+ \n\nhttps://www.facebook.com/events/
+ 945486783706268/?event_time_id=945
+ 486913706255
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
@@ -341,6 +1407,29 @@ STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20241215T151338Z
+LAST-MODIFIED:20241215T151338Z
+CREATED:20241215T151338Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20250215T143000Z
+DTEND:20250215T153000Z
+UID:e945486907039589@facebook.com
+SUMMARY:Park Run
+LOCATION:Jan Alfano Trail behind Dog Park o
+ n Willow Creek Rd
+URL:https://www.facebook.com/events/945486783706268/?event_time_id=945486907039589
+DESCRIPTION:Join us every Saturday at 7:30 beh
+ ind the Dog Park for 5K run or wal
+ k.  www.parkrun.us/janalfanotrail/
+ \n\nhttps://www.facebook.com/events/
+ 945486783706268/?event_time_id=945
+ 486907039589
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20241211T183836Z
 LAST-MODIFIED:20241211T183836Z
 CREATED:20241211T180109Z
@@ -390,6 +1479,29 @@ DESCRIPTION:No drop group run (we stop at ever
  156489351595\, -112.42166632364031\n
  \nhttps://www.facebook.com/events/1
  623383231581578/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241215T151338Z
+LAST-MODIFIED:20241215T151338Z
+CREATED:20241215T151338Z
+SEQUENCE:0
+ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
+DTSTART:20250208T143000Z
+DTEND:20250208T153000Z
+UID:e945486903706256@facebook.com
+SUMMARY:Park Run
+LOCATION:Jan Alfano Trail behind Dog Park o
+ n Willow Creek Rd
+URL:https://www.facebook.com/events/945486783706268/?event_time_id=945486903706256
+DESCRIPTION:Join us every Saturday at 7:30 beh
+ ind the Dog Park for 5K run or wal
+ k.  www.parkrun.us/janalfanotrail/
+ \n\nhttps://www.facebook.com/events/
+ 945486783706268/?event_time_id=945
+ 486903706256
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
@@ -470,6 +1582,29 @@ STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20250202T151742Z
+LAST-MODIFIED:20250202T151742Z
+CREATED:20250202T151742Z
+SEQUENCE:0
+ORGANIZER;CN=Paula Olson:MAILTO:noreply@facebookmail.com
+DTSTART:20250205T140000Z
+DTEND:20250205T170000Z
+UID:e395339256991397@facebook.com
+SUMMARY:Vert Club
+LOCATION:Thumb Butte Hiking Trail
+URL:https://www.facebook.com/events/395339256991397/
+DESCRIPTION:Take trail 33 on the left paved si
+ de and loop around and return on t
+ he dirt from the right side. Do as
+  many loops as you can. Just a tad
+  under 2 miles per loop. \n\nhttps:/
+ /www.facebook.com/events/395339256
+ 991397/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20241204T222719Z
 LAST-MODIFIED:20241204T222719Z
 CREATED:20241204T222719Z
@@ -497,6 +1632,44 @@ DESCRIPTION:\nThumb Butte loop (326\, 392\, 367):
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250112T225155Z
+LAST-MODIFIED:20250112T225155Z
+CREATED:20250112T225155Z
+SEQUENCE:0
+ORGANIZER;CN=RunSedona:MAILTO:noreply@facebookmail.com
+DTSTART:20250201T150000Z
+DTEND:20250201T180000Z
+UID:e1639122183309517@facebook.com
+SUMMARY:RunSedona | Half Marathon/10K/5K/1M
+LOCATION:Cultural Park Pl\, Sedona\, AZ\, Unit
+ ed States\, Arizona 86336
+URL:https://www.facebook.com/events/1639122183309517/
+DESCRIPTION:Join the RunSedona Half Marathon/1
+ 0K/5K/1M on February 1\, 2025\, and 
+ immerse yourself in one of the mos
+ t picturesque courses in the count
+ ry\, featuring a 330-meter elevatio
+ n gain that showcases Sedona’s i
+ conic red rocks. This event  offer
+ s runners a mix of paved roads and
+  rolling hills\, providing a unique
+  challenge amid the natural beauty
+  of the high desert. Participants 
+ can enjoy excellent race support\, 
+ including hydration stations\, enth
+ usiastic volunteers\, and stunning 
+ vistas at every turn. Whether you’
+ re aiming for a personal best or s
+ imply running to enjoy the scenery
+ \, the RunSedona Half Marathon prom
+ ises a memorable experience.\n\nhttp
+ s://www.facebook.com/events/163912
+ 2183309517/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20241211T183836Z
@@ -850,509 +2023,6 @@ DESCRIPTION:We are going to check-out the nigh
  ation: 34.595857163495694\, -112.37
  57835785754\n\nhttps://www.facebook.
  com/events/896524242584364/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241211T183836Z
-LAST-MODIFIED:20241211T183836Z
-CREATED:20241211T180109Z
-SEQUENCE:2247
-ORGANIZER;CN=Andrew Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20250103T003000Z
-DTEND:20250103T020000Z
-UID:e2517922518598658@facebook.com
-SUMMARY:Thursday Social Run
-LOCATION:La Planchada
-URL:https://www.facebook.com/events/2517922491931994/?event_time_id=2517922518598658
-DESCRIPTION:It's possible nobody will show up\,
-  but there is a pretty solid group
-  of non-facebook users attending. 
- \n\nMeet in front of La Planchada at
-  5:30\, run/walk with a group\, or a
- t your own pace. Join back for foo
- d and drink! Most run along the cr
- eek trail to Granite Creek Park an
- d do 1-4 laps and return.\n\nhttps:/
- /www.facebook.com/events/251792249
- 1931994/?event_time_id=25179225185
- 98658
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241204T183356Z
-LAST-MODIFIED:20241204T183356Z
-CREATED:20240927T205555Z
-SEQUENCE:5866681
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20250101T003000Z
-DTEND:20250101T033000Z
-UID:e1603187617269979@facebook.com
-SUMMARY:Tuesday Group Run- Ecosa Trail by Willow Lake ***Jim leading! At 5:30***
-URL:https://www.facebook.com/events/1603187617269979/
-DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nJi
- m is going to lead the on New Year
- 's Eve! Exploring the Ecosa Traill
-  near Willow Lake for this run. \n\n
- We will meet at the Dog Park parki
- ng lot (link here https://goo.gl/m
- aps/ZCLmd4fQPGkyXCHP7) at 5:30pm. 
- Plan for 5 miles(ish).\n\nNo drop ru
- n (we stop for everyone at every i
- ntersection).\n\nBring a headlamp!\n\n
- https://www.facebook.com/events/16
- 03187617269979/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241106T150056Z
-LAST-MODIFIED:20241106T150056Z
-CREATED:20241106T150056Z
-SEQUENCE:0
-ORGANIZER;CN=Jan Alfano Trail parkrun:MAILTO:noreply@facebookmail.com
-DTSTART:20241228T143000Z
-DTEND:20241228T160000Z
-UID:e1339588380358659@facebook.com
-SUMMARY:Jan Alfano Trail parkrun
-LOCATION:3179 Willow Creek Rd\, Prescott\, AZ
-  86301-6848\, United States
-URL:https://www.facebook.com/events/1339588353691995/?event_time_id=1339588380358659
-DESCRIPTION:Show up and run or walk a 5k! Plea
- se see the website for more detail
- s https://www.parkrun.us/janalfano
- trail/\n\nhttps://www.facebook.com/e
- vents/1339588353691995/?event_time
- _id=1339588380358659
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241228T103456Z
-LAST-MODIFIED:20241228T103456Z
-CREATED:20240311T160533Z
-SEQUENCE:25208963
-ORGANIZER;CN=Aravaipa Running:MAILTO:noreply@facebookmail.com
-DTSTART:20241228T140000Z
-DTEND:20241228T170000Z
-UID:e332421699289711@facebook.com
-SUMMARY:Across The Years 
-LOCATION:Peoria Sports Complex
-URL:https://www.facebook.com/events/332421699289711/
-DESCRIPTION:🎉 Across the Years is back for 
- the 2024-25 edition and we are exc
- ited to welcome runners to Peoria 
- Sports Complex this December! Join
-  us for this fixed-time 6-day runn
- ing event as we run into the New y
- ear with a community of familiar f
- aces and welcomed new friends.\n\nRu
- nners can choose from a menu of ev
- ents that include both fixed-time 
- and fixed-distance. Ring in the Ne
- w Year and set a goal\, break a rec
- ord\, earn a buckle or simply make 
- new friends as we travel together 
- Across the Years! Celebrate with u
- s December 28\, 2024 - January 3\, 2
- 025.\n\nhttps://www.facebook.com/eve
- nts/332421699289711/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241211T183836Z
-LAST-MODIFIED:20241211T183836Z
-CREATED:20241211T180109Z
-SEQUENCE:2247
-ORGANIZER;CN=Andrew Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20241227T003000Z
-DTEND:20241227T020000Z
-UID:e2517922501931993@facebook.com
-SUMMARY:Thursday Social Run
-LOCATION:La Planchada
-URL:https://www.facebook.com/events/2517922491931994/?event_time_id=2517922501931993
-DESCRIPTION:It's possible nobody will show up\,
-  but there is a pretty solid group
-  of non-facebook users attending. 
- \n\nMeet in front of La Planchada at
-  5:30\, run/walk with a group\, or a
- t your own pace. Join back for foo
- d and drink! Most run along the cr
- eek trail to Granite Creek Park an
- d do 1-4 laps and return.\n\nhttps:/
- /www.facebook.com/events/251792249
- 1931994/?event_time_id=25179225019
- 31993
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241204T181613Z
-LAST-MODIFIED:20241204T181613Z
-CREATED:20241204T181613Z
-SEQUENCE:0
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20241225T003000Z
-DTEND:20241225T033000Z
-UID:e481123144469464@facebook.com
-SUMMARY:Tuesday Group Run - Brownlow Trail ***Josh leading! Please RSVP!!!
-URL:https://www.facebook.com/events/481123144469464/
-DESCRIPTION:We will run a 10k on the Brownlow 
- loop for Christmas Eve! It is very
-  important you RSVP here on FB if 
- you are planning to attend this ru
- n!!! Josh is happy to lead\, but wi
- ll cancel the run if no one plans 
- to attend due to the holiday. ***P
- lease RSVP if you plan to attend!*
- **\n\nPlan on 6.2 miles. This is a n
- o-drop group run\, so we will stop 
- at every intersection and intermit
- tently between intersections to al
- low everyone a chance to catch up 
- before running again!\n\nParking at 
- Brownlow Trailhead: 1300 Commerce 
- Drive\, Prescott\, AZ 86305\n\nBring a
-  light or a friend willing to shar
- e their light! \n\nThank you for lea
- ding Josh!!\n\nhttps://www.facebook.
- com/events/481123144469464/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241106T150056Z
-LAST-MODIFIED:20241106T150056Z
-CREATED:20241106T150056Z
-SEQUENCE:0
-ORGANIZER;CN=Jan Alfano Trail parkrun:MAILTO:noreply@facebookmail.com
-DTSTART:20241221T143000Z
-DTEND:20241221T160000Z
-UID:e1339588357025328@facebook.com
-SUMMARY:Jan Alfano Trail parkrun
-LOCATION:3179 Willow Creek Rd\, Prescott\, AZ
-  86301-6848\, United States
-URL:https://www.facebook.com/events/1339588353691995/?event_time_id=1339588357025328
-DESCRIPTION:Show up and run or walk a 5k! Plea
- se see the website for more detail
- s https://www.parkrun.us/janalfano
- trail/\n\nhttps://www.facebook.com/e
- vents/1339588353691995/?event_time
- _id=1339588357025328
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241211T183836Z
-LAST-MODIFIED:20241211T183836Z
-CREATED:20241211T180109Z
-SEQUENCE:2247
-ORGANIZER;CN=Andrew Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20241220T003000Z
-DTEND:20241220T020000Z
-UID:e2517922498598660@facebook.com
-SUMMARY:Thursday Social Run
-LOCATION:La Planchada
-URL:https://www.facebook.com/events/2517922491931994/?event_time_id=2517922498598660
-DESCRIPTION:It's possible nobody will show up\,
-  but there is a pretty solid group
-  of non-facebook users attending. 
- \n\nMeet in front of La Planchada at
-  5:30\, run/walk with a group\, or a
- t your own pace. Join back for foo
- d and drink! Most run along the cr
- eek trail to Granite Creek Park an
- d do 1-4 laps and return.\n\nhttps:/
- /www.facebook.com/events/251792249
- 1931994/?event_time_id=25179224985
- 98660
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241030T214513Z
-LAST-MODIFIED:20241030T214513Z
-CREATED:20240927T205320Z
-SEQUENCE:2854313
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20241218T003000Z
-DTEND:20241218T033000Z
-UID:e1761526267953321@facebook.com
-SUMMARY:Tuesday Group Run -Turley Trailhead (Badger Mountain)
-URL:https://www.facebook.com/events/1761526267953321/
-DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
-  will meet at the Turley Trailhead
- : \n\nhttps://maps.app.goo.gl/yvh2jJ
- yGwkXCkUpq6?g_st=ic\n\n34.541342\, -1
- 12.437366\n\nExpect 4-6 miles. This 
- is a no-drop group run\, so we will
-  stop at every trail intersection 
- and wait for everyone to catch up 
- before continuing the run. (No run
- ners left behind!)\n\nBring a light 
- :)\n\nDirections:  Take HWY-69 towar
- ds Prescott. After leaving the Pre
- scott Valley area\, you'll reach th
- e intersection of HWY-69 and HWY-8
- 9. Stay left on Gurley street and 
- make a quick left turn onto Robins
- on Drive into a residential area. 
- From Robinson Drive\, turn left on 
- Butterfield Road. When you reach a
-  five way intersection\, turn right
-  onto Wells Fargo Road. When Wells
-  Fargo road turns north\, look on y
- our right for a small\, hidden dirt
-  road (the trailhead sign is tough
-  to spot). Take this well graded d
- irt road to the parking area and T
- urley Trailhead.\n\n205 Wells Fargo 
- road\nPrescott\, AZ\n\n\n\nhttps://www.f
- acebook.com/events/176152626795332
- 1/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241101T191555Z
-LAST-MODIFIED:20241101T191555Z
-CREATED:20241101T191020Z
-SEQUENCE:335
-ORGANIZER;CN=Black Canyon Ultras:MAILTO:noreply@facebookmail.com
-DTSTART:20241215T150000Z
-DTEND:20241215T180000Z
-UID:e1268098311201813@facebook.com
-SUMMARY:Black Canyon Training Run #2 supported by Hoka
-LOCATION:Bumble Bee Ranch Adventures\, LLC
-URL:https://www.facebook.com/events/1268098311201813/
-DESCRIPTION:Sunday\, December 15th will be the 
- second of three training runs lead
- ing up to the 2025 Black Canyon Ul
- tras. Each run will be minimally s
- upported\, minimally marked and poi
- nt to point. We will have shorter 
- options at each. Here is informati
- on for those of you wanting to joi
- n on this first training run:\n\nDat
- e:\nSunday\, December 15\, 2024 \n\nDis
- tance:\nMile 0 – Bumble Bee\nMile 
- 4.5 – Gloriana Mine TH (we may h
- ave water here)\nMile 12.8 – Soap
-  Creek (Aid)\nMile 18.0 – Black C
- anyon City TH (Finish)\n\nTime:\n7:00
- am Meet at Black Canyon City TH.\no
- r 7:30am Meet at Bumble Bee.\n\nThe 
- run will start at approximately 7:
- 45-8:00 am from Bumble Bee.\n\nDrivi
- ng Directions:\n\nDirections to Blac
- k Canyon City TH (end of run\, park
-  here to carpool to Bumble Bee)\n1.
-  Take exit 242 off the I-17 toward
- s Rock Springs / Black Canyon City
- \n2. Turn left at the stop sign ont
- o Velda Road Road\n3. Turn right at
-  the next stop sign onto the Old B
- lack Canyon Highway and then an im
- mediate left onto Warner Road towa
- rds the Black Canyon City Trailhea
- d\n4. Follow Warner Road for 0.3 mi
- les to the trailhead and aid stati
- on. There is a restroom located at
-  this trailhead. There are also di
- ning options and a General Store i
- n Rock Springs and some more optio
- ns a couple miles north on the Old
-  Black Canyon Highway in Black Can
- yon City as well as a gas station.
- \n\nDirections to Bumble Bee (start 
- of run):\n1. Drive north from Phoen
- ix on the I-17 Freeway\n2. Take exi
- t #248 towards Bumble Bee / Crown 
- King\n3. Turn left and drive 2.1 mi
- les on pavement (road descends dow
- nhill)\n4. Turn right at the bottom
-  where it turns to dirt and take C
- rown King Road for 3.0 miles and p
- ark just past the bridge on the le
- ft hand side of the road.\n\nFormat:
- \nThis is a no fee\, limited aid\, li
- mited course marking training run.
-  You must plan to be self sufficie
- nt in terms of navigation\, persona
- l safety and aid between stations.
-  We may drop water at the Gloriana
-  Mine TH at mile 4.5 and have wate
- r and food at mile 12.8 (Soap Cree
- k). Please study the maps in this 
- post and follow signage for the Bl
- ack Canyon Trail.\n\nMarkings:\nThe c
- ourse on principle will be unmarke
- d. There is signage for the Black 
- Canyon Trail at most questionable 
- junctions\, but we recommend studyi
- ng and printing maps to bring with
-  you. \n\nPost Run Gathering:\nBring 
- a camp chair\, some snacks and BYOB
-  if you enjoy a Sunday Funday Post
- -Run hang.\n\nhttps://www.facebook.c
- om/events/1268098311201813/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241027T202748Z
-LAST-MODIFIED:20241027T202748Z
-CREATED:20241024T192554Z
-SEQUENCE:262914
-ORGANIZER;CN=The Launch Pad:MAILTO:noreply@facebookmail.com
-DTSTART:20241214T170000Z
-DTEND:20241214T200000Z
-UID:e1479732729384064@facebook.com
-SUMMARY:2024 Christmas City Santa Run
-LOCATION:1300 Commerce Dr\, Prescott\, AZ 863
- 05-3705\, United States
-URL:https://www.facebook.com/events/1479732729384064/
-DESCRIPTION:Join us for the Launch Pad's 6th A
- nnual Christmas City Santa Run\, Sp
- onsored by Cambium Wealth & Legacy
-  Strategies\, Great Circle Media\, a
- nd Prescott Woman Magazine on Satu
- rday\, December 14\, 2024. This 10k\,
-  5k and 1-mile fun run at Brownlow
-  Trail will raise funds to support
-  out of school drop-in and leaders
- hip programs at The Launch Pad Tee
- n Center.\n\nRegister for the 10k or
-  5k and receive a Santa Hat\, Beard
- \, and commemorative Santa Run orna
- ment (We do encourage you to run i
- n full Santa Gear...you could win 
- a prize)\, or register yourself or 
- your little one for the Rudolph Ru
- n and get a set of antlers and a r
- ed nose! There will be a cookie\, h
- ot cider and cocoa booth hosted by
-  Foothills Bank at the beginning a
- nd end of the race\, and a prize of
-  an Ugly Sweater for 1st and 2nd p
- lace 10K and 5K runners in both th
- e women's and men's groups.\n\nThing
- s to Know Before Registering:\nThe 
- Brownlow Trail is super fun with r
- olling hills\, fun turns\, and beaut
- iful scenery\, but it would be toug
- h to run with a stroller. If you a
- re thinking of bringing your kiddo
- (s) in a stroller\, come and check 
- out the race course in advance.\n\nh
- ttps://www.facebook.com/events/147
- 9732729384064/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241106T150056Z
-LAST-MODIFIED:20241106T150056Z
-CREATED:20241106T150056Z
-SEQUENCE:0
-ORGANIZER;CN=Jan Alfano Trail parkrun:MAILTO:noreply@facebookmail.com
-DTSTART:20241214T143000Z
-DTEND:20241214T160000Z
-UID:e1339588360358661@facebook.com
-SUMMARY:Jan Alfano Trail parkrun
-LOCATION:3179 Willow Creek Rd\, Prescott\, AZ
-  86301-6848\, United States
-URL:https://www.facebook.com/events/1339588353691995/?event_time_id=1339588360358661
-DESCRIPTION:Show up and run or walk a 5k! Plea
- se see the website for more detail
- s https://www.parkrun.us/janalfano
- trail/\n\nhttps://www.facebook.com/e
- vents/1339588353691995/?event_time
- _id=1339588360358661
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241211T183836Z
-LAST-MODIFIED:20241211T183836Z
-CREATED:20241211T180109Z
-SEQUENCE:2247
-ORGANIZER;CN=Andrew Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20241213T003000Z
-DTEND:20241213T020000Z
-UID:e2517922495265327@facebook.com
-SUMMARY:Thursday Social Run
-LOCATION:La Planchada
-URL:https://www.facebook.com/events/2517922491931994/?event_time_id=2517922495265327
-DESCRIPTION:It's possible nobody will show up\,
-  but there is a pretty solid group
-  of non-facebook users attending. 
- \n\nMeet in front of La Planchada at
-  5:30\, run/walk with a group\, or a
- t your own pace. Join back for foo
- d and drink! Most run along the cr
- eek trail to Granite Creek Park an
- d do 1-4 laps and return.\n\nhttps:/
- /www.facebook.com/events/251792249
- 1931994/?event_time_id=25179224952
- 65327
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241104T182238Z
-LAST-MODIFIED:20241104T182238Z
-CREATED:20241029T210923Z
-SEQUENCE:508395
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20241211T003000Z
-DTEND:20241211T033000Z
-UID:e923515676366729@facebook.com
-SUMMARY:Tuesday Group Run - Eagle Peak ***new trail!!*** Jim leading!
-URL:https://www.facebook.com/events/923515676366729/
-DESCRIPTION:We are going to check out a newly 
- built trail! This trail goes aroun
- d Eagle Peak in the dells. Jim ass
- isted with building the new trail 
- and is going to guide the group ru
- n on this trail for the first time
-  (Thank you Jim!).\n\nExpect 5.7 mil
- es from the parking lot on 89a\, pa
- st the Boblett Gravesite\, and up a
- round the peak. Miles 1-2 are kind
-  of tough up the hill\, but otherwi
- se it's nice rolling hills through
-  some open space and some rocks an
- d canyons. \n\nHere's where we can p
- ark (Free) on old hwy 89a: \n34°36
- '48.4"N 112°25'02.8"W\n(This is wh
- ere we parked to run to the Boblet
- t Gravesite this summer.)\n\nThis is
-  a no-drop group run so we will st
- op at every intersection and allow
-  everyone to catch up before conti
- nuing on. \n\nBring a light :) \n\n**P
- ictured above -Eagle Peak in the d
- istance as the trail goes past the
-  Bobblett gravesite***\n\nhttps://ww
- w.facebook.com/events/923515676366
- 729/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
