@@ -717,6 +717,57 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20250126T031647Z
+LAST-MODIFIED:20250126T031647Z
+CREATED:20250126T031647Z
+SEQUENCE:0
+ORGANIZER;CN=Triple Dare Running Company:MAILTO:noreply@facebookmail.com
+DTSTART:20250607T140000Z
+DTEND:20250607T170000Z
+UID:e1781132122687317@facebook.com
+SUMMARY:Sawmill
+LOCATION:Sawmill Trail\, Mt. Charleston
+URL:https://www.facebook.com/events/1781132122687317/
+DESCRIPTION:Taking place in the Humbolt-Toiyab
+ e National Forest\, this will be an
+  epic adventure you don’t want t
+ o miss!! We are hosting a solo or 
+ relay race option in gorgeous Lee 
+ Canyon\, Mt. Charleston. There are 
+ 3 loops to run\; (this is approxima
+ te mileage) loop one 5.64\, loop tw
+ o 8.2\, and loop three\, 4.3 miler. 
+ We have a solo 38.45m\, 26.2m\, 19.2
+ 3m\, 13.1m\, 10k\, and 5k option. We 
+ also have the relay option where a
+ ll loops must be completed by the 
+ full team and each team member pic
+ ks the loop that they want to run.
+  The team member will finish 1 loo
+ p and then tag out to the next run
+ ner until all 3 loops are complete
+ d. This is a total of 19.22 miles\,
+  or 38.45 miles when doing the cou
+ rse twice as a team! All loops wil
+ l be run counterclockwise\, 5\, 8 th
+ en the 4-mile loop. Please chose a
+  BAD AS@ team name! Registration f
+ ees – The amount shown is for th
+ e full team. Please layer your clo
+ thes!\n–\nFood\nWe will be grilling
+  burgers\, chicken\, and dogs around
+  noon on Saturday. There will also
+  be a variety of other hot food to
+  keep you going!  Hot coffee will 
+ be served all day along with a var
+ iety of salty snacks.\n\nhttps://www
+ .facebook.com/events/1781132122687
+ 317/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20241215T151338Z
 LAST-MODIFIED:20241215T151338Z
 CREATED:20241215T151338Z
@@ -1244,6 +1295,45 @@ STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20250304T151010Z
+LAST-MODIFIED:20250304T151010Z
+CREATED:20250304T150911Z
+SEQUENCE:59
+ORGANIZER;CN=Brandon McDowell:MAILTO:noreply@facebookmail.com
+DTSTART:20250329T150000Z
+DTEND:20250329T180000Z
+UID:e1239599380919203@facebook.com
+SUMMARY:SATR PATR Hells Dells Edition
+URL:https://www.facebook.com/events/1239599380919203/
+DESCRIPTION:8am Watson Lake Field area. 12.5 m
+ iles\, 1100ish ft gain/loss.  Loop 
+ Watson Lake plus mini Storm trail 
+ add on then over to Willow Lake fo
+ r a loop. \n\nhttps://caltopo.com/m/
+ MB1L4NL\n\nWatson Lake loop with an 
+ add on is 5ish miles before back t
+ o the car to shed and layer and ea
+ t treats before a 7.5ish mile jaun
+ t around Willow and back.  \n\nAnd i
+ f you just want to partake in the 
+ Watson Loop\, then call it quits\, a
+ wesome. That works too. \n\nI invite
+ d the Hells Dells runners to join 
+ if they choose\, so there could be 
+ some new faces. This is a typical 
+ PATR low key Saturday run and want
+ ed to give the runners of the race
+  an option to get more familiar wi
+ th the twists\, turns\, and white do
+ ts in the Dells in a less lost and
+  frustrated environment. \n\nhttps:/
+ /www.facebook.com/events/123959938
+ 0919203/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20241215T151338Z
 LAST-MODIFIED:20241215T151338Z
 CREATED:20241215T151338Z
@@ -1288,6 +1378,51 @@ DESCRIPTION:Come check out a special showing o
  s pack the place out with PATR peo
  ple!\n\nhttps://www.facebook.com/eve
  nts/1286531259271215/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250301T023024Z
+LAST-MODIFIED:20250301T023024Z
+CREATED:20250301T001659Z
+SEQUENCE:8005
+ORGANIZER;CN=Cocodona 250:MAILTO:noreply@facebookmail.com
+DTSTART:20250329T000000Z
+DTEND:20250329T040000Z
+UID:e1377293379934238@facebook.com
+SUMMARY:The Chase Film - A Cocodona 250 Story - Prescott, AZ
+LOCATION:The Peregrine Book Company
+URL:https://www.facebook.com/events/1377293379934238/
+DESCRIPTION:The Chase is a riveting feature le
+ ngth film that takes you deep into
+  the 2024 Cocodona 250\, a grueling
+  250-mile ultramarathon through Ar
+ izona's breathtaking and punishing
+  terrain. The film follows five el
+ ite athletes as they push their li
+ mits in a relentless pursuit of vi
+ ctory and the elusive course recor
+ d. \n\nEach runner's story unfolds w
+ ith raw emotion\, showcasing their 
+ strategies\, setbacks\, and triumphs
+  as they navigate rugged mountains
+ \, searing desert heat\, and their o
+ wn inner battles. Blending stunnin
+ g cinematography with intimate sto
+ rytelling\, The Chase captures the 
+ essence of competition\, resilience
+ \, and the unyielding spirit of end
+ urance athletes in one of the worl
+ d’s toughest races.\n\nJoin Michae
+ l Versteeg for a special showing o
+ f The Chase in Prescott. Venue is 
+ 📍Owl (formerly Stage 219) 219 N
+ . Cortez-behind Peregrine Book Co-
+ enter in the alley.\n\nDoors Open: 5
+ :00 PM\nFilm Showing: 6:00-8:00 PM\n
+ Q&A: 8:00-8:30 PM\n\nhttps://www.fac
+ ebook.com/events/1377293379934238/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -1393,6 +1528,49 @@ DESCRIPTION:After all\, it’s only “one clim
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250319T045331Z
+LAST-MODIFIED:20250319T045331Z
+CREATED:20250319T045331Z
+SEQUENCE:0
+ORGANIZER;CN=Andrew Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20250321T003000Z
+DTEND:20250321T033000Z
+UID:e616068421301000@facebook.com
+SUMMARY:Thursday Social Run
+LOCATION:Fleet Feet 122 North Cortez Presco
+ tt 
+URL:https://www.facebook.com/events/616068421301000/
+DESCRIPTION:Meet at Fleet Feet for a casual gr
+ oup run!\n\nhttps://www.facebook.com
+ /events/616068421301000/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250319T015332Z
+LAST-MODIFIED:20250319T015332Z
+CREATED:20250319T015332Z
+SEQUENCE:0
+ORGANIZER;CN=Paula Olson:MAILTO:noreply@facebookmail.com
+DTSTART:20250319T140000Z
+DTEND:20250319T170000Z
+UID:e1173404370843810@facebook.com
+SUMMARY:Vert Club run
+LOCATION:Thumb Butte
+URL:https://www.facebook.com/events/1173404370843810/
+DESCRIPTION:Thumb butte loops. Trail 33. Go up
+  the paved side on the left and co
+ me down the dirt side. Complete as
+  many loops as you like. Just a ta
+ d under 2 miles per loop. Parking 
+ is free on Wed. \n\nhttps://www.face
+ book.com/events/1173404370843810/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20250211T021149Z
@@ -1772,109 +1950,6 @@ DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nTh
  n using only your friend's light)\n
  \n\n\n\n\n\n\n\n\n\nhttps://www.facebook.com
  /events/1513301672715036/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250214T010655Z
-LAST-MODIFIED:20250214T010655Z
-CREATED:20250214T010655Z
-SEQUENCE:0
-ORGANIZER;CN=Dana Kirkwood-Watts:MAILTO:noreply@facebookmail.com
-DTSTART:20250215T153000Z
-DTEND:20250215T183000Z
-UID:e1299154928024924@facebook.com
-SUMMARY:SATR PATR - Peavine towards Sundog
-LOCATION:Peavine Trailhead Parking lot by t
- he Humane Society
-URL:https://www.facebook.com/events/1299154928024924/
-DESCRIPTION:We're meeting at the Peavine trail
- head off Prescott Lakes Parkway at
-  8:30 am on Saturday for SATR PATR
- . \n\nI plan to do 12 miles total. I
- 'll just do an out and back. Every
- one welcome. \n\nThe parking is a pa
- y lot. I think it's $3. Or $5. IDK
- . \n\nhttps://www.facebook.com/event
- s/1299154928024924/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241215T151338Z
-LAST-MODIFIED:20241215T151338Z
-CREATED:20241215T151338Z
-SEQUENCE:0
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20250215T143000Z
-DTEND:20250215T153000Z
-UID:e945486907039589@facebook.com
-SUMMARY:Park Run
-LOCATION:Jan Alfano Trail behind Dog Park o
- n Willow Creek Rd
-URL:https://www.facebook.com/events/945486783706268/?event_time_id=945486907039589
-DESCRIPTION:Join us every Saturday at 7:30 beh
- ind the Dog Park for 5K run or wal
- k.  www.parkrun.us/janalfanotrail/
- \n\nhttps://www.facebook.com/events/
- 945486783706268/?event_time_id=945
- 486907039589
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241211T183836Z
-LAST-MODIFIED:20241211T183836Z
-CREATED:20241211T180109Z
-SEQUENCE:2247
-ORGANIZER;CN=Andrew Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20250214T003000Z
-DTEND:20250214T020000Z
-UID:e2517922508598659@facebook.com
-SUMMARY:Thursday Social Run
-LOCATION:La Planchada
-URL:https://www.facebook.com/events/2517922491931994/?event_time_id=2517922508598659
-DESCRIPTION:It's possible nobody will show up\,
-  but there is a pretty solid group
-  of non-facebook users attending. 
- \n\nMeet in front of La Planchada at
-  5:30\, run/walk with a group\, or a
- t your own pace. Join back for foo
- d and drink! Most run along the cr
- eek trail to Granite Creek Park an
- d do 1-4 laps and return.\n\nhttps:/
- /www.facebook.com/events/251792249
- 1931994/?event_time_id=25179225085
- 98659
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241204T224332Z
-LAST-MODIFIED:20241204T224332Z
-CREATED:20241204T224332Z
-SEQUENCE:0
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20250212T003000Z
-DTEND:20250212T033000Z
-UID:e1623383231581578@facebook.com
-SUMMARY:Tuesday Group Run -Watson Dam Flume Trailhead
-URL:https://www.facebook.com/events/1623383231581578/
-DESCRIPTION:No drop group run (we stop at ever
- y intersection and join up before 
- running again). \n\nBring a headlamp
- .\n\nExpect 5ish miles. (no waterfal
- ls guaranteed- this is an AZ water
- fall after all!) \n\nDrive up Hwy 89
- \, turn right on E Granite Dells Rd
- \, trailhead on the right. \n\n34.604
- 156489351595\, -112.42166632364031\n
- \nhttps://www.facebook.com/events/1
- 623383231581578/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
