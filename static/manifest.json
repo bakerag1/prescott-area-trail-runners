@@ -1,0 +1,28 @@
+{
+  "lang": "en",
+  "short_name": "PATR",
+  "name": "Prescott Area Trail Runners",
+  "description": "Running Group in Prescott, AZ",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/favicon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "shortcuts": [
+    {
+      "name": "Schedule",
+      "description": "Schedule of Running Events",
+      "url": "/events"
+    }
+ ]
+}
