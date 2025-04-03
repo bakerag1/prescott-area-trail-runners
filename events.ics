@@ -7,6 +7,39 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
+DTSTAMP:20250401T155531Z
+LAST-MODIFIED:20250401T155531Z
+CREATED:20250401T155531Z
+SEQUENCE:0
+ORGANIZER;CN=Aravaipa Running:MAILTO:noreply@facebookmail.com
+DTSTART:20260328T130000Z
+DTEND:20260328T160000Z
+UID:e2046949879049160@facebook.com
+SUMMARY:Crown King Scramble 50k 
+LOCATION:Lake Pleasant Regional Park
+URL:https://www.facebook.com/events/2046949879049160/
+DESCRIPTION:After all\, it’s only “one clim
+ b”! 😉 \n\nJoin us on March 28th
+  for the 34th running of the Crown
+  King Scramble 50k! \n\nFrom 'spines
+  to pines' start lakeside on the s
+ erene shores of Lake Pleasant and 
+ run through the heart of the Sonor
+ an Desert to climb to the cool pin
+ es of the Bradshaw Mountains.\n\nSta
+ y and celebrate your victory after
+  you cross the finish line in the 
+ historic and quaint town of Crown 
+ King! It’s a race like no other 
+ and a day you’ll never forget. \n
+ \nWe hope to see you at the saloon 
+ this spring!\n\nhttps://www.facebook
+ .com/events/2046949879049160/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20241215T151338Z
 LAST-MODIFIED:20241215T151338Z
 CREATED:20241215T151338Z
@@ -1859,6 +1892,30 @@ STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20250402T182652Z
+LAST-MODIFIED:20250402T182652Z
+CREATED:20250402T182652Z
+SEQUENCE:0
+ORGANIZER;CN=Paula Olson:MAILTO:noreply@facebookmail.com
+DTSTART:20250409T140000Z
+DTEND:20250409T170000Z
+UID:e950061290532309@facebook.com
+SUMMARY:Vert club run
+LOCATION:Thumb Butte
+URL:https://www.facebook.com/events/950061290532309/
+DESCRIPTION:Vert club does loops at Thumb Butt
+ e. We go up the paved side on the 
+ left and down the dirt side on the
+  right. Each loop is just a tad un
+ der two miles. Parking is free on 
+ Wed. Bathroom at the trailhead\n\nht
+ tps://www.facebook.com/events/9500
+ 61290532309/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20250217T165326Z
 LAST-MODIFIED:20250217T165326Z
 CREATED:20250217T165106Z
@@ -2133,8 +2190,8 @@ LAST-MODIFIED:20250321T144609Z
 CREATED:20250321T144427Z
 SEQUENCE:102
 ORGANIZER;CN=Andrew Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20250328T003000Z
-DTEND:20250328T013000Z
+DTSTART:20250404T003000Z
+DTEND:20250404T013000Z
 UID:e8984253925008497@facebook.com
 SUMMARY:Thursday Social Run
 LOCATION:Fleet Feet - 122 N Cortez St #100\,
@@ -2508,139 +2565,6 @@ DESCRIPTION:We will meet at the dirt road that
  \n\nBring a light :) \n\nhttps://www.f
  acebook.com/events/115304288264398
  6/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241215T151338Z
-LAST-MODIFIED:20241215T151338Z
-CREATED:20241215T151338Z
-SEQUENCE:0
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20250301T143000Z
-DTEND:20250301T153000Z
-UID:e945486910372922@facebook.com
-SUMMARY:Park Run
-LOCATION:Jan Alfano Trail behind Dog Park o
- n Willow Creek Rd
-URL:https://www.facebook.com/events/945486783706268/?event_time_id=945486910372922
-DESCRIPTION:Join us every Saturday at 7:30 beh
- ind the Dog Park for 5K run or wal
- k.  www.parkrun.us/janalfanotrail/
- \n\nhttps://www.facebook.com/events/
- 945486783706268/?event_time_id=945
- 486910372922
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241211T183836Z
-LAST-MODIFIED:20241211T183836Z
-CREATED:20241211T180109Z
-SEQUENCE:2247
-ORGANIZER;CN=Andrew Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20250228T003000Z
-DTEND:20250228T020000Z
-UID:e2517922515265325@facebook.com
-SUMMARY:Thursday Social Run
-LOCATION:La Planchada
-URL:https://www.facebook.com/events/2517922491931994/?event_time_id=2517922515265325
-DESCRIPTION:It's possible nobody will show up\,
-  but there is a pretty solid group
-  of non-facebook users attending. 
- \n\nMeet in front of La Planchada at
-  5:30\, run/walk with a group\, or a
- t your own pace. Join back for foo
- d and drink! Most run along the cr
- eek trail to Granite Creek Park an
- d do 1-4 laps and return.\n\nhttps:/
- /www.facebook.com/events/251792249
- 1931994/?event_time_id=25179225152
- 65325
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250108T182801Z
-LAST-MODIFIED:20250108T182801Z
-CREATED:20250108T182801Z
-SEQUENCE:0
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20250226T003000Z
-DTEND:20250226T033000Z
-UID:e594366006575047@facebook.com
-SUMMARY:Tuesday Group Run - Run to Hot Shot Alligator Juniper! - Jason leading!
-URL:https://www.facebook.com/events/594366006575047/
-DESCRIPTION:We will run to the giant alligator
-  juniper\, made famous by the Grani
- te Mtn Hotshots! We want to do thi
- s run one time before it gets hot 
- again.  \n\nThis is a no-drop run so
-  we will stop at every intersectio
- n and allow everyone to catch up! 
- Expect 5 miles total on an out and
-  back. \n\nBring water an a light!\n\n
- Giant Alligator Juniper Trail on A
- llTrails\nhttps://www.alltrails.com
- /trail/us/arizona/giant-alligator-
- juniper-trail?sh=skmyyj\n\nTrailhead
-  location: 34.60987\, -112.60828\n\nJ
- ason leading!\n\nhttps://www.faceboo
- k.com/events/594366006575047/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241215T151338Z
-LAST-MODIFIED:20241215T151338Z
-CREATED:20241215T151338Z
-SEQUENCE:0
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20250222T143000Z
-DTEND:20250222T153000Z
-UID:e945486913706255@facebook.com
-SUMMARY:Park Run
-LOCATION:Jan Alfano Trail behind Dog Park o
- n Willow Creek Rd
-URL:https://www.facebook.com/events/945486783706268/?event_time_id=945486913706255
-DESCRIPTION:Join us every Saturday at 7:30 beh
- ind the Dog Park for 5K run or wal
- k.  www.parkrun.us/janalfanotrail/
- \n\nhttps://www.facebook.com/events/
- 945486783706268/?event_time_id=945
- 486913706255
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241211T183836Z
-LAST-MODIFIED:20241211T183836Z
-CREATED:20241211T180109Z
-SEQUENCE:2247
-ORGANIZER;CN=Andrew Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20250221T003000Z
-DTEND:20250221T020000Z
-UID:e2517922511931992@facebook.com
-SUMMARY:Thursday Social Run
-LOCATION:La Planchada
-URL:https://www.facebook.com/events/2517922491931994/?event_time_id=2517922511931992
-DESCRIPTION:It's possible nobody will show up\,
-  but there is a pretty solid group
-  of non-facebook users attending. 
- \n\nMeet in front of La Planchada at
-  5:30\, run/walk with a group\, or a
- t your own pace. Join back for foo
- d and drink! Most run along the cr
- eek trail to Granite Creek Park an
- d do 1-4 laps and return.\n\nhttps:/
- /www.facebook.com/events/251792249
- 1931994/?event_time_id=25179225119
- 31992
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
