@@ -2,6 +2,8 @@ github.com/ChannelMeter/iso8601duration v0.0.0-20150204201828-8da3af7a2a61 h1:N5
 github.com/ChannelMeter/iso8601duration v0.0.0-20150204201828-8da3af7a2a61/go.mod h1:GnKXcK+7DYNy/8w2Ex//Uql4IgfaU82Cd5rWKb7ah00=
 github.com/bakerag1/gocal v0.9.3-baker h1:RWkPlmxGXaPeD4retr1CV4DLOp9wtjvnXeBeNHiYRo8=
 github.com/bakerag1/gocal v0.9.3-baker/go.mod h1:feyaauhOpak+VtGy414UyCLBra+5pf8Qb7zERrMikPE=
+github.com/bakerag1/gocal v0.9.4-baker h1:pizKXc/aWvZno0bxi1tU3FseC+foKRB5m5XS882wjAM=
+github.com/bakerag1/gocal v0.9.4-baker/go.mod h1:feyaauhOpak+VtGy414UyCLBra+5pf8Qb7zERrMikPE=
 github.com/channelmeter/iso8601duration v0.0.0-20150204201828-8da3af7a2a61 h1:o64h9XF42kVEUuhuer2ehqrlX8rZmvQSU0+Vpj1rF6Q=
 github.com/channelmeter/iso8601duration v0.0.0-20150204201828-8da3af7a2a61/go.mod h1:Rp8e0DCtEKwXFOC6JPJQVTz8tuGoGvw6Xfexggh/ed0=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=

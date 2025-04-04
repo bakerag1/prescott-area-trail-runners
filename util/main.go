@@ -21,6 +21,7 @@ title: "%v"
 date: %v
 startdate: %v
 enddate: %v
+patr: %v
 external_url: %v
 layout: %v
 location: %v
@@ -101,6 +102,7 @@ func addCalendarItems() {
 				e.Created,
 				e.Start,
 				e.End,
+				e.PATR,
 				e.Uri,
 				layout,
 				e.Location,
@@ -154,6 +156,7 @@ func parseEvents() []event {
 		ev.DayOfWeek = e.Start.Local().Format("Mon")
 		ev.End = e.End.Local().Format("2006-01-02T15:04:00Z")
 		ev.Created = e.Created.Format("2006-01-02T15:04:00Z")
+		ev.PATR = e.PartStat == "ACCEPTED"
 		events = append(events, ev)
 	}
 	sortByStart := func(a, b int) bool {
@@ -249,6 +252,7 @@ type event struct {
 	Location       string
 	Uid            string
 	Created        string
+	PATR           bool
 }
 type news struct {
 }
