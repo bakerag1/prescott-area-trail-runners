@@ -3,7 +3,6 @@ package main
 import (
 	"bufio"
 	"fmt"
-	"io/ioutil"
 	"log"
 	"os"
 	"regexp"
@@ -13,7 +12,7 @@ import (
 	"time"
 
 	"github.com/bakerag1/gocal"
-	"gopkg.in/yaml.v2"
+	"prescottareatrailrunners.com/patr/cmd"
 )
 
 const outputFmt = `---
@@ -43,10 +42,8 @@ func main() {
 		addCalendarItems()
 	case "weekly":
 		postWeeklyCalendar()
-	case "newsletter":
-		newsletter()
 	default:
-		log.Fatal("no valid argument passed")
+		cmd.Execute()
 	}
 }
 
@@ -54,7 +51,7 @@ func postWeeklyCalendar() {
 	newname := time.Now().Format("2006-01-02") + "-this-week.md"
 	title := time.Now().Format("Jan 2, 2006")
 	log.Printf("creating post %s", newname)
-	out, err := os.Create("content/post/" + newname)
+	out, err := os.Create("site/content/post/" + newname)
 	if err != nil {
 		log.Fatal("unable to create post", err)
 	}
@@ -80,13 +77,13 @@ func postWeeklyCalendar() {
 
 func addCalendarItems() {
 	time.LoadLocation("America/Phoenix")
-	err := os.RemoveAll("content/events/*")
+	err := os.RemoveAll("site/content/events/*")
 	if err != nil {
 		log.Fatal(err)
 	}
 	events := parseEvents()
 	for _, e := range events {
-		cal, err := os.Create("content/events/" + e.Uid + ".md")
+		cal, err := os.Create("site/content/events/" + e.Uid + ".md")
 		defer cal.Close()
 		if err != nil {
 			log.Fatal(err)
@@ -166,77 +163,6 @@ func parseEvents() []event {
 	return events
 }
 
-func newsletter() {
-
-	paths := []string{
-		"util/newsletter.html",
-	}
-
-	funcMap := template.FuncMap{
-		// The name "inc" is what the function will be called in the template text.
-		"inc": func(i int) int {
-			return i + 1
-		},
-		"modIsZero": func(i int, m int) bool {
-			return i%m == 0 && i != 0
-		},
-	}
-
-	var cfg config
-	cfg.getConf()
-	cfg.Month = time.Now().Local().Format("January")
-	cfg.Year = time.Now().Local().Format("2006")
-	cfg.Now = time.Now().UTC().Format(time.RFC3339)
-	f, err := os.Create("content/post/" + time.Now().Local().Format("2006-01-02") + "-newsletter.html")
-	if err != nil {
-		panic(err)
-	}
-	tData := struct {
-		Config    config
-		MonthInfo monthData
-	}{
-		Config: cfg,
-		MonthInfo: monthData{
-			Events: parseEvents(),
-		},
-	}
-	writer := bufio.NewWriter(f)
-	defer writer.Flush()
-	t := template.Must(template.New("newsletter").Funcs(funcMap).ParseFiles(paths...))
-	err = t.ExecuteTemplate(writer, "newsletter.html", tData)
-	if err != nil {
-		panic(err)
-	}
-}
-
-func (c *config) getConf() *config {
-
-	yamlFile, err := ioutil.ReadFile("util/newsletter-config.yaml")
-	if err != nil {
-		log.Printf("yamlFile.Get err   #%v ", err)
-	}
-	err = yaml.Unmarshal(yamlFile, c)
-	if err != nil {
-		log.Fatalf("Unmarshal: %v", err)
-	}
-
-	return c
-}
-
-type link struct {
-	Name string `yaml:"name"`
-	Url  string `yaml:"url"`
-}
-type config struct {
-	Links []link `yaml:"links"`
-	Month string
-	Year  string
-	Now   string
-}
-type monthData struct {
-	Events []event
-	News   []news
-}
 type event struct {
 	Name           string
 	Uri            string
@@ -253,6 +179,4 @@ type event struct {
 	Uid            string
 	Created        string
 	PATR           bool
-}
-type news struct {
 }
