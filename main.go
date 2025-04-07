@@ -56,7 +56,7 @@ func postWeeklyCalendar() {
 		log.Fatal("unable to create post", err)
 	}
 	defer out.Close()
-	t := template.Must(template.New("this-week.md").ParseFiles("util/this-week.md"))
+	t := template.Must(template.New("this-week.md").ParseFiles("this-week.md"))
 	fw := bufio.NewWriter(out)
 	err = t.Execute(fw, struct {
 		Date string

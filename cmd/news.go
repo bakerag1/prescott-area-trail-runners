@@ -37,14 +37,14 @@ func init() {
 func newsletter() {
 
 	content := `---
-type: newsletter
+type: news
 date: %v
 title: PATR Chatter %v
 feature-img: "assets/img/big-trail.jpg"
 ---
 `
 
-	f, err := os.Create("site/content/post/" + time.Now().Local().Format("2006-01-02") + "-news.md")
+	f, err := os.Create("site/content/post/" + time.Now().Local().Format("2006-01") + "-news.md")
 	if err != nil {
 		panic(err)
 	}
