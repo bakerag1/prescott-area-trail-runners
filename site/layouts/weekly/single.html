@@ -1,21 +1,10 @@
 {{ define "main" -}}
 <div class="post">
   <h1>{{ .Title }}</h1>
-  
-here's what is going on this week
-
-Join our <a href="https://www.facebook.com/groups/1909677022694360/">Facebook Group</a> for
-event details, updates, and discussion
+ 
 <br><br>
-{{ $postdate := (time.AsTime .Date)}}
-{{ range (where .Site.RegularPages.ByDate "Section" "events") -}}
-  {{ $start := (time.AsTime .Params.startdate) }}
-  {{ if and (lt $start ($postdate.AddDate 0 0 7)) (gt $start ($postdate.AddDate 0 0 -1)) }}
-  <li style="padding:5;list-style-type:none">
-    <span><time class="pull-right post-list" datetime="2006-01-02T15:04:05Z">{{ $start.Format "Monday, Jan 2 3:04pm"}}</time> <a href="{{ .Permalink }}">{{ .Title }}</a> </span>
-  </li>
-  {{ end }}
-{{- end }}
+{{ .Content }}
+</p>
 </div>
 {{ if .Site.Config.Services.Disqus.Shortname -}}
 <h2>Comments</h2>
