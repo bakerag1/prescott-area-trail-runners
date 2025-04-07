@@ -42,6 +42,10 @@ date: %v
 title: PATR Chatter %v
 feature-img: "assets/img/big-trail.jpg"
 ---
+
+## Announcements
+
+{{< newsletter >}}
 `
 
 	f, err := os.Create("site/content/post/" + time.Now().Local().Format("2006-01") + "-news.md")
