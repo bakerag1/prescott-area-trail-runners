@@ -333,6 +333,41 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20250324T204808Z
+LAST-MODIFIED:20250324T204808Z
+CREATED:20250324T204808Z
+SEQUENCE:0
+ORGANIZER;CN=Aravaipa Running:MAILTO:noreply@facebookmail.com
+DTSTART:20251011T133000Z
+DTEND:20251011T163000Z
+UID:e1670807083810914@facebook.com
+SUMMARY:Cave Creek Thriller 
+LOCATION:Cave Creek Regional Park
+URL:https://www.facebook.com/events/1670807083810914/
+DESCRIPTION:Prepare to be THRILLED at the kick
+  off race of the 25/26 DRT Series\,
+  Cave Creek Thriller! \n\nThe Cave C
+ reek Thriller plays host to 4 diff
+ erent distances with the 50K and 2
+ 4K options exploring the Maricopa 
+ Trail in point-to-point races befo
+ re finishing inside Cave Creek Reg
+ ional Park. The 11K and 5K distanc
+ es stay entirely within Cave Creek
+  Regional Park on hilly and pristi
+ ne mountain trails. Portions of th
+ e trail are steep\, rocky\, with gre
+ at views of the expansive Sonoran 
+ Desert.\n\nCome and run the amazing 
+ trails in Cave Creek this October 
+ 11th at Cave Creek Thriller!\n\nhttp
+ s://www.facebook.com/events/167080
+ 7083810914/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20250321T144609Z
 LAST-MODIFIED:20250321T144609Z
 CREATED:20250321T144427Z
@@ -1263,6 +1298,41 @@ STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20250422T211447Z
+LAST-MODIFIED:20250422T211447Z
+CREATED:20250422T211447Z
+SEQUENCE:0
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20250604T003000Z
+DTEND:20250604T033000Z
+UID:e696967562858615@facebook.com
+SUMMARY:Tuesday Group Run- LOWER Spence Basin
+LOCATION:https://maps.apple.com/?ll=34.5819
+ 04\,-112.548972&q=Dropped%20Pin&_ex
+ t=EiYpaevoe+dJQUAxxHG9OnsjXMA558AO
+ 2A1LQUBB5GbvdsgiXMBQBA%3D%3D&t=h
+URL:https://www.facebook.com/events/696967562858615/
+DESCRIPTION:Will meet at LOWER Spence Springs 
+ parking lot: \n\nGPS here https://ma
+ ps.app.goo.gl/tvsxZcN1fCTD7FMV8?g_
+ st=ic\n\nPLEASE READ THIS DESCRIPTIO
+ N. \n\nWe will meet at Lower Parking
+  lot along Iron Springs\, where Spe
+ nce Springs Rd meets Iron Springs 
+ (trailhead). 5:30pm. Expect 4-6 mi
+ les. No drop run (we stop for ever
+ yone at every intersection). \n\nIf 
+ the parking lot is full - plan to 
+ park across Iron Springs road in t
+ he open dirt area. We will meet up
+  at the Spence Springs trailhead. 
+ \n\nBring water :)\n\nhttps://www.face
+ book.com/events/696967562858615/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20241215T151338Z
 LAST-MODIFIED:20241215T151338Z
 CREATED:20241215T151338Z
@@ -1379,6 +1449,30 @@ STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20250422T210657Z
+LAST-MODIFIED:20250422T210657Z
+CREATED:20250422T210657Z
+SEQUENCE:0
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20250521T003000Z
+DTEND:20250521T033000Z
+UID:e1019556472964189@facebook.com
+SUMMARY:Tuesday Group Run- White Rock 
+URL:https://www.facebook.com/events/1019556472964189/
+DESCRIPTION:We will meet at White Rock Parking
+  lot (link here https://goo.gl/map
+ s/YN2uMvQnyQWTM9JK7) at 5:30pm. \n\n
+ No-drop group run of approximately
+  5 miles. No-drop means we stop at
+  every intersection and wait for e
+ veryone. \n\nBring water :)\n\n\n\n\n\n\nht
+ tps://www.facebook.com/events/1019
+ 556472964189/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20241215T151338Z
 LAST-MODIFIED:20241215T151338Z
 CREATED:20241215T151338Z
@@ -1418,6 +1512,30 @@ DESCRIPTION:Meet at Fleet Feet\, go for a run.
  All paces welcome!\n\nhttps://www.fa
  cebook.com/events/8984253925008497
  /?event_time_id=8984253955008494
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250422T210420Z
+LAST-MODIFIED:20250422T210420Z
+CREATED:20250422T210420Z
+SEQUENCE:0
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20250514T003000Z
+DTEND:20250514T020000Z
+UID:e677477694978444@facebook.com
+SUMMARY:Tuesday Group Run -Glassford Hill Summit 
+URL:https://www.facebook.com/events/677477694978444/
+DESCRIPTION:We are going to check-out sunset f
+ rom the top of Glassford!\n\nNo drop
+  group run! We stop at every trail
+  intersection and everyone catches
+  up before running again. Bring wa
+ ter and a friend :)\n\nLocation: 34.
+ 595857163495694\, -112.375783578575
+ 4\n\nhttps://www.facebook.com/events
+ /677477694978444/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
@@ -1496,6 +1614,32 @@ DESCRIPTION:For this run we will start by Wats
  ps)\n\nBring water and a friend!\n\nht
  tps://www.facebook.com/events/6488
  73117606060/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250419T134936Z
+LAST-MODIFIED:20250419T134936Z
+CREATED:20250419T134936Z
+SEQUENCE:0
+ORGANIZER;CN=Paula Olson:MAILTO:noreply@facebookmail.com
+DTSTART:20250506T010000Z
+DTEND:20250507T060000Z
+UID:e3894230184176013@facebook.com
+SUMMARY:Whiskey Row aid station for Cocodona 250
+LOCATION:Grand Highland hotel Courtyard
+URL:https://www.facebook.com/events/3894230184176013/
+DESCRIPTION:Come out and visit the Whiskey Row
+  aid station for Cocodona 250. We 
+ can answer questions\, give you a q
+ uick nickel tour\, or put you to wo
+ rk ringing a cowbell. We would lov
+ e to see you\, so please visit us. 
+ We love dogs\, but must follow a no
+ -dogs-allowed policy for the aid s
+ tation. \n\nhttps://www.facebook.com
+ /events/3894230184176013/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
@@ -1583,6 +1727,28 @@ DESCRIPTION:Meet at Fleet Feet\, go for a run.
  All paces welcome!\n\nhttps://www.fa
  cebook.com/events/8984253925008497
  /?event_time_id=8984253961675160
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250417T195305Z
+LAST-MODIFIED:20250417T195305Z
+CREATED:20250417T195305Z
+SEQUENCE:0
+ORGANIZER;CN=Paula Olson:MAILTO:noreply@facebookmail.com
+DTSTART:20250430T140000Z
+DTEND:20250430T170000Z
+UID:e1208626834188244@facebook.com
+SUMMARY:Vert club run
+LOCATION:Thumb Butte
+URL:https://www.facebook.com/events/1208626834188244/
+DESCRIPTION:Loops at Thumb Butte. Each loop is
+  a tad under 2 miles. We go up the
+  paved path and down the dirt trai
+ l. Parking is free on Wed. Trail i
+ s #33.\n\nhttps://www.facebook.com/e
+ vents/1208626834188244/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
@@ -2190,8 +2356,8 @@ LAST-MODIFIED:20250321T144609Z
 CREATED:20250321T144427Z
 SEQUENCE:102
 ORGANIZER;CN=Andrew Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20250404T003000Z
-DTEND:20250404T013000Z
+DTSTART:20250425T003000Z
+DTEND:20250425T013000Z
 UID:e8984253925008497@facebook.com
 SUMMARY:Thursday Social Run
 LOCATION:Fleet Feet - 122 N Cortez St #100\,
@@ -2269,302 +2435,6 @@ DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
  ad.\n\n205 Wells Fargo road\nPrescott
  \, AZ\n\n\n\nhttps://www.facebook.com/e
  vents/2908553032651460/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241215T151338Z
-LAST-MODIFIED:20241215T151338Z
-CREATED:20241215T151338Z
-SEQUENCE:0
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20250322T143000Z
-DTEND:20250322T153000Z
-UID:e945486877039592@facebook.com
-SUMMARY:Park Run
-LOCATION:Jan Alfano Trail behind Dog Park o
- n Willow Creek Rd
-URL:https://www.facebook.com/events/945486783706268/?event_time_id=945486877039592
-DESCRIPTION:Join us every Saturday at 7:30 beh
- ind the Dog Park for 5K run or wal
- k.  www.parkrun.us/janalfanotrail/
- \n\nhttps://www.facebook.com/events/
- 945486783706268/?event_time_id=945
- 486877039592
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240527T202158Z
-LAST-MODIFIED:20240527T202158Z
-CREATED:20240527T202158Z
-SEQUENCE:0
-ORGANIZER;CN=Aravaipa Running:MAILTO:noreply@facebookmail.com
-DTSTART:20250322T130000Z
-DTEND:20250322T160000Z
-UID:e441158821991488@facebook.com
-SUMMARY:Crown King Scramble 50k 
-LOCATION:Lake Pleasant Regional Park
-URL:https://www.facebook.com/events/441158821991488/
-DESCRIPTION:After all\, it’s only “one clim
- b”! 😉 \n\nJoin us on March 22nd
-  for the 33rd running of the Crown
-  King Scramble 50k! \n\nFrom 'spines
-  to pines' start lakeside on the s
- erene shores of Lake Pleasant and 
- run through the heart of the Sonor
- an Desert to climb to the cool pin
- es of the Bradshaw Mountains.\n\nSta
- y and celebrate your victory after
-  you cross the finish line in the 
- historic and quaint town of Crown 
- King! It’s a race like no other 
- and a day you’ll never forget. \n
- \nWe hope to see you at the saloon 
- this spring!\n\nhttps://www.facebook
- .com/events/441158821991488/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250319T045331Z
-LAST-MODIFIED:20250319T045331Z
-CREATED:20250319T045331Z
-SEQUENCE:0
-ORGANIZER;CN=Andrew Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20250321T003000Z
-DTEND:20250321T033000Z
-UID:e616068421301000@facebook.com
-SUMMARY:Thursday Social Run
-LOCATION:Fleet Feet 122 North Cortez Presco
- tt 
-URL:https://www.facebook.com/events/616068421301000/
-DESCRIPTION:Meet at Fleet Feet for a casual gr
- oup run!\n\nhttps://www.facebook.com
- /events/616068421301000/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250319T015332Z
-LAST-MODIFIED:20250319T015332Z
-CREATED:20250319T015332Z
-SEQUENCE:0
-ORGANIZER;CN=Paula Olson:MAILTO:noreply@facebookmail.com
-DTSTART:20250319T140000Z
-DTEND:20250319T170000Z
-UID:e1173404370843810@facebook.com
-SUMMARY:Vert Club run
-LOCATION:Thumb Butte
-URL:https://www.facebook.com/events/1173404370843810/
-DESCRIPTION:Thumb butte loops. Trail 33. Go up
-  the paved side on the left and co
- me down the dirt side. Complete as
-  many loops as you like. Just a ta
- d under 2 miles per loop. Parking 
- is free on Wed. \n\nhttps://www.face
- book.com/events/1173404370843810/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250211T021149Z
-LAST-MODIFIED:20250211T021149Z
-CREATED:20250211T021149Z
-SEQUENCE:0
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20250319T003000Z
-DTEND:20250319T033000Z
-UID:e565131919817255@facebook.com
-SUMMARY:Tuesday Group Run- Ranch 62 Trailhead
-URL:https://www.facebook.com/events/565131919817255/
-DESCRIPTION:No drop group run (we stop at ever
- y intersection and wait for everyo
- ne to join together again). Expect
-  5ish miles. Bring a light :)\n\nThi
- s trail is an out and back and gre
- at for running in the dark because
-  the lights of the city look beaut
- iful on the way back - and it's a 
- full sun trail so nice to run it i
- n cooler temps! \n\nWe will park alo
- ng Walker Road instead of parking 
- in the parking lot for the trail (
- the trail will close while we are 
- out running and we don't want our 
- cars locked in - but there are sev
- eral areas to park along Walker Rd
- . near the trailhead entrance).\n\nh
- ttps://maps.app.goo.gl/z4HLncfjMvf
- pKqcg8?g_st=ic (will post map loca
- tion in comments to make it easier
-  to copy/paste into map apps)\n\nhtt
- ps://www.facebook.com/events/56513
- 1919817255/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241215T151338Z
-LAST-MODIFIED:20241215T151338Z
-CREATED:20241215T151338Z
-SEQUENCE:0
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20250315T143000Z
-DTEND:20250315T153000Z
-UID:e945486930372920@facebook.com
-SUMMARY:Park Run
-LOCATION:Jan Alfano Trail behind Dog Park o
- n Willow Creek Rd
-URL:https://www.facebook.com/events/945486783706268/?event_time_id=945486930372920
-DESCRIPTION:Join us every Saturday at 7:30 beh
- ind the Dog Park for 5K run or wal
- k.  www.parkrun.us/janalfanotrail/
- \n\nhttps://www.facebook.com/events/
- 945486783706268/?event_time_id=945
- 486930372920
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250211T020924Z
-LAST-MODIFIED:20250211T020924Z
-CREATED:20250211T020924Z
-SEQUENCE:0
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20250312T003000Z
-DTEND:20250312T033000Z
-UID:e1787182892123478@facebook.com
-SUMMARY:Tuesday Group Run- Wolverton-Quartz Loop 
-URL:https://www.facebook.com/events/1787182892123478/
-DESCRIPTION:We will meet at the Wolverton-Quar
- tz Loop Trailhead at 5:30pm. Expec
- t to park along the road as the tr
- ailhead has limited spaces availab
- le. \n\nAddress: 34.51165\, -112.5054
- 6 (will post coordiantes in chat b
- elow to make it easier to copy/pas
- te for map apps)\n\nNo-drop group ru
- n of approximately 5 miles. No-dro
- p means we stop at every intersect
- ion and wait for everyone (no frie
- nds left behind!). \n\nBring a light
-  :)\n\n\nhttps://www.facebook.com/eve
- nts/1787182892123478/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241215T151338Z
-LAST-MODIFIED:20241215T151338Z
-CREATED:20241215T151338Z
-SEQUENCE:0
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20250308T143000Z
-DTEND:20250308T153000Z
-UID:e945486923706254@facebook.com
-SUMMARY:Park Run
-LOCATION:Jan Alfano Trail behind Dog Park o
- n Willow Creek Rd
-URL:https://www.facebook.com/events/945486783706268/?event_time_id=945486923706254
-DESCRIPTION:Join us every Saturday at 7:30 beh
- ind the Dog Park for 5K run or wal
- k.  www.parkrun.us/janalfanotrail/
- \n\nhttps://www.facebook.com/events/
- 945486783706268/?event_time_id=945
- 486923706254
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241211T183836Z
-LAST-MODIFIED:20241211T183836Z
-CREATED:20241211T180109Z
-SEQUENCE:2247
-ORGANIZER;CN=Andrew Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20250307T003000Z
-DTEND:20250307T020000Z
-UID:e2517922535265323@facebook.com
-SUMMARY:Thursday Social Run
-LOCATION:La Planchada
-URL:https://www.facebook.com/events/2517922491931994/?event_time_id=2517922535265323
-DESCRIPTION:It's possible nobody will show up\,
-  but there is a pretty solid group
-  of non-facebook users attending. 
- \n\nMeet in front of La Planchada at
-  5:30\, run/walk with a group\, or a
- t your own pace. Join back for foo
- d and drink! Most run along the cr
- eek trail to Granite Creek Park an
- d do 1-4 laps and return.\n\nhttps:/
- /www.facebook.com/events/251792249
- 1931994/?event_time_id=25179225352
- 65323
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250228T000355Z
-LAST-MODIFIED:20250228T000355Z
-CREATED:20250228T000355Z
-SEQUENCE:0
-ORGANIZER;CN=Paula Olson:MAILTO:noreply@facebookmail.com
-DTSTART:20250305T140000Z
-DTEND:20250305T170000Z
-UID:e1139929491140058@facebook.com
-SUMMARY:Vert Club
-LOCATION:Thumb Butte
-URL:https://www.facebook.com/events/1139929491140058/
-DESCRIPTION:Trail 33 at Thumb Butte picnic are
- a. Go up the paved side and down t
- he dirt side. Do as many loops as 
- you like. One loop is just a tad u
- nder two miles. Parking is free on
-  Wednesday. \n\nhttps://www.facebook
- .com/events/1139929491140058/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250211T020705Z
-LAST-MODIFIED:20250211T020705Z
-CREATED:20250211T020705Z
-SEQUENCE:0
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20250305T003000Z
-DTEND:20250305T033000Z
-UID:e1153042882643986@facebook.com
-SUMMARY:Quartz Mtn
-URL:https://www.facebook.com/events/1153042882643986/
-DESCRIPTION:We will meet at the dirt road that
-  leads up to Quartz Mtn off of Whi
- te Spar. This is a no-drop group r
- un (we stop at every intersection 
- and allow everyone to catch up bef
- ore continuing). Expect 5ish miles
- . We will follow the dirt road up 
- to the trail and jump on the trail
-  up to the mountain and back down.
-  Amazing views of Prescott from th
- e top! \n\nCoordinates for parking (
- anywhere along the dirt road): 34.
- 5125618\, -112.4773689 (will also p
- ost in the comments to make it eas
- ier for copy/paste into map apps!)
- \n\nBring a light :) \n\nhttps://www.f
- acebook.com/events/115304288264398
- 6/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
