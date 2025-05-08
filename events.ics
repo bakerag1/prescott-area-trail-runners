@@ -7,6 +7,38 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
+DTSTAMP:20250501T234522Z
+LAST-MODIFIED:20250501T234522Z
+CREATED:20250501T234522Z
+SEQUENCE:0
+ORGANIZER;CN=Aravaipa Running:MAILTO:noreply@facebookmail.com
+DTSTART:20260418T120000Z
+DTEND:20260418T150000Z
+UID:e1889993485103204@facebook.com
+SUMMARY:Whiskey Basin Trail Runs
+LOCATION:Prescott\, AZ
+URL:https://www.facebook.com/events/1889993485103204/
+DESCRIPTION:Join us for the 2026 edition of Wh
+ iskey Basin Trail Runs in beautifu
+ l\, Prescott\, Arizona. Choose to ta
+ ke on the 'full barrel' point to p
+ oint 91k\, 60k\, 33k\, or the challen
+ ging and rewarding\, 1/2 Marathon o
+ r 10k that all take place on the g
+ orgeous Prescott Circle Trail. All
+  distances finish at the party ove
+ rlooking Watson Lake and those ico
+ nic Granite Dells where you'll wan
+ t to kick back and stay to sociali
+ ze\, enjoy the view\, and maybe some
+  whiskey...hey\, when in Rome\, righ
+ t?\n\nhttps://www.facebook.com/event
+ s/1889993485103204/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20250401T155531Z
 LAST-MODIFIED:20250401T155531Z
 CREATED:20250401T155531Z
@@ -1377,6 +1409,31 @@ STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20250507T201036Z
+LAST-MODIFIED:20250507T201036Z
+CREATED:20250507T201036Z
+SEQUENCE:0
+ORGANIZER;CN=Paula Olson:MAILTO:noreply@facebookmail.com
+DTSTART:20250528T130000Z
+DTEND:20250528T160000Z
+UID:e1196049245311956@facebook.com
+SUMMARY:Vert club run
+LOCATION:Thumb Butte Pic Area\, Prescott\, AZ
+  86305\, United States
+URL:https://www.facebook.com/events/1196049238645290/?event_time_id=1196049245311956
+DESCRIPTION:Loop the Butte event is coming up.
+  Get some training in before May 2
+ 6th. One loop is a tad under 2 mil
+ es. Go at your own pace. Trail 33.
+  Parking is free on Wed. Gates ope
+ n at 6 am.\n\nhttps://www.facebook.c
+ om/events/1196049238645290/?event_
+ time_id=1196049245311956
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20250320T162155Z
 LAST-MODIFIED:20250320T162155Z
 CREATED:20250320T162155Z
@@ -1449,6 +1506,31 @@ STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20250507T201036Z
+LAST-MODIFIED:20250507T201036Z
+CREATED:20250507T201036Z
+SEQUENCE:0
+ORGANIZER;CN=Paula Olson:MAILTO:noreply@facebookmail.com
+DTSTART:20250521T130000Z
+DTEND:20250521T160000Z
+UID:e1196049251978622@facebook.com
+SUMMARY:Vert club run
+LOCATION:Thumb Butte Pic Area\, Prescott\, AZ
+  86305\, United States
+URL:https://www.facebook.com/events/1196049238645290/?event_time_id=1196049251978622
+DESCRIPTION:Loop the Butte event is coming up.
+  Get some training in before May 2
+ 6th. One loop is a tad under 2 mil
+ es. Go at your own pace. Trail 33.
+  Parking is free on Wed. Gates ope
+ n at 6 am.\n\nhttps://www.facebook.c
+ om/events/1196049238645290/?event_
+ time_id=1196049251978622
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20250422T210657Z
 LAST-MODIFIED:20250422T210657Z
 CREATED:20250422T210657Z
@@ -1512,6 +1594,31 @@ DESCRIPTION:Meet at Fleet Feet\, go for a run.
  All paces welcome!\n\nhttps://www.fa
  cebook.com/events/8984253925008497
  /?event_time_id=8984253955008494
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250507T201036Z
+LAST-MODIFIED:20250507T201036Z
+CREATED:20250507T201036Z
+SEQUENCE:0
+ORGANIZER;CN=Paula Olson:MAILTO:noreply@facebookmail.com
+DTSTART:20250514T130000Z
+DTEND:20250514T160000Z
+UID:e1196049255311955@facebook.com
+SUMMARY:Vert club run
+LOCATION:Thumb Butte Pic Area\, Prescott\, AZ
+  86305\, United States
+URL:https://www.facebook.com/events/1196049238645290/?event_time_id=1196049255311955
+DESCRIPTION:Loop the Butte event is coming up.
+  Get some training in before May 2
+ 6th. One loop is a tad under 2 mil
+ es. Go at your own pace. Trail 33.
+  Parking is free on Wed. Gates ope
+ n at 6 am.\n\nhttps://www.facebook.c
+ om/events/1196049238645290/?event_
+ time_id=1196049255311955
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
@@ -2115,326 +2222,6 @@ DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nFo
  (Thank you Jim!) \n\n\n\n\n\n\n\n\n\n\n\n\nhttp
  s://www.facebook.com/events/116938
  3448045755/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241215T151338Z
-LAST-MODIFIED:20241215T151338Z
-CREATED:20241215T151338Z
-SEQUENCE:0
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20250405T143000Z
-DTEND:20250405T153000Z
-UID:e945486933706253@facebook.com
-SUMMARY:Park Run
-LOCATION:Jan Alfano Trail behind Dog Park o
- n Willow Creek Rd
-URL:https://www.facebook.com/events/945486783706268/?event_time_id=945486933706253
-DESCRIPTION:Join us every Saturday at 7:30 beh
- ind the Dog Park for 5K run or wal
- k.  www.parkrun.us/janalfanotrail/
- \n\nhttps://www.facebook.com/events/
- 945486783706268/?event_time_id=945
- 486933706253
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250321T144609Z
-LAST-MODIFIED:20250321T144609Z
-CREATED:20250321T144427Z
-SEQUENCE:102
-ORGANIZER;CN=Andrew Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20250404T003000Z
-DTEND:20250404T013000Z
-UID:e8984253938341829@facebook.com
-SUMMARY:Thursday Social Run
-LOCATION:Fleet Feet - 122 N Cortez St #100\,
-  Prescott\, AZ 86301
-URL:https://www.facebook.com/events/8984253925008497/?event_time_id=8984253938341829
-DESCRIPTION:Meet at Fleet Feet\, go for a run. 
- All paces welcome!\n\nhttps://www.fa
- cebook.com/events/8984253925008497
- /?event_time_id=8984253938341829
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250211T021730Z
-LAST-MODIFIED:20250211T021730Z
-CREATED:20250211T021614Z
-SEQUENCE:76
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20250402T003000Z
-DTEND:20250402T033000Z
-UID:e633335902578973@facebook.com
-SUMMARY:Tuesday Group Run - Watson Lake into Storm Ranch Trails
-URL:https://www.facebook.com/events/633335902578973/
-DESCRIPTION:For this run we will start by Wats
- on Lake and head into the Storm Ra
- nch Trails! This is a no-drop grou
- p run\, and we will stop at every i
- ntersection to allow everyone to c
- atch up before continuing the run.
-  Expect 5-6 miles. Various terrain
-  and scenery\, including running th
- rough some parts of the dells. \n\nP
- arking at the trailhead by the hum
- an society. \nAddress: 1624 Sundog 
- Ranch Rd\, Prescott\, AZ 86301\n\nhttp
- s://maps.app.goo.gl/neqUYyYWKVfKk5
- UB9 (address link copied to commen
- ts to make it easier to copy/paste
-  into map apps)\n\nBring a light and
-  a friend!\n\nhttps://www.facebook.c
- om/events/633335902578973/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250304T151010Z
-LAST-MODIFIED:20250304T151010Z
-CREATED:20250304T150911Z
-SEQUENCE:59
-ORGANIZER;CN=Brandon McDowell:MAILTO:noreply@facebookmail.com
-DTSTART:20250329T150000Z
-DTEND:20250329T180000Z
-UID:e1239599380919203@facebook.com
-SUMMARY:SATR PATR Hells Dells Edition
-URL:https://www.facebook.com/events/1239599380919203/
-DESCRIPTION:8am Watson Lake Field area. 12.5 m
- iles\, 1100ish ft gain/loss.  Loop 
- Watson Lake plus mini Storm trail 
- add on then over to Willow Lake fo
- r a loop. \n\nhttps://caltopo.com/m/
- MB1L4NL\n\nWatson Lake loop with an 
- add on is 5ish miles before back t
- o the car to shed and layer and ea
- t treats before a 7.5ish mile jaun
- t around Willow and back.  \n\nAnd i
- f you just want to partake in the 
- Watson Loop\, then call it quits\, a
- wesome. That works too. \n\nI invite
- d the Hells Dells runners to join 
- if they choose\, so there could be 
- some new faces. This is a typical 
- PATR low key Saturday run and want
- ed to give the runners of the race
-  an option to get more familiar wi
- th the twists\, turns\, and white do
- ts in the Dells in a less lost and
-  frustrated environment. \n\nhttps:/
- /www.facebook.com/events/123959938
- 0919203/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241215T151338Z
-LAST-MODIFIED:20241215T151338Z
-CREATED:20241215T151338Z
-SEQUENCE:0
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20250329T143000Z
-DTEND:20250329T153000Z
-UID:e945486927039587@facebook.com
-SUMMARY:Park Run
-LOCATION:Jan Alfano Trail behind Dog Park o
- n Willow Creek Rd
-URL:https://www.facebook.com/events/945486783706268/?event_time_id=945486927039587
-DESCRIPTION:Join us every Saturday at 7:30 beh
- ind the Dog Park for 5K run or wal
- k.  www.parkrun.us/janalfanotrail/
- \n\nhttps://www.facebook.com/events/
- 945486783706268/?event_time_id=945
- 486927039587
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250210T220305Z
-LAST-MODIFIED:20250210T220305Z
-CREATED:20250210T220305Z
-SEQUENCE:0
-ORGANIZER;CN=Jason Baum:MAILTO:noreply@facebookmail.com
-DTSTART:20250329T010000Z
-DTEND:20250329T040000Z
-UID:e1286531259271215@facebook.com
-SUMMARY:The Chase- Cocodona 2024 Documentary Special Showing 
-LOCATION:The Peregrine Book Company
-URL:https://www.facebook.com/events/1286531259271215/
-DESCRIPTION:Come check out a special showing o
- f the 2024 Cocodona documentary\, T
- he Chase!  The showing is at 6:00p
- m on Friday\, March 28\, with a spec
- ial Q&A to follow.  Get your ticke
- ts here:  https://runsignup.com/Ti
- cketEvent/TheChasePrescottAZ\n\nLet’
- s pack the place out with PATR peo
- ple!\n\nhttps://www.facebook.com/eve
- nts/1286531259271215/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250301T023024Z
-LAST-MODIFIED:20250301T023024Z
-CREATED:20250301T001659Z
-SEQUENCE:8005
-ORGANIZER;CN=Cocodona 250:MAILTO:noreply@facebookmail.com
-DTSTART:20250329T000000Z
-DTEND:20250329T040000Z
-UID:e1377293379934238@facebook.com
-SUMMARY:The Chase Film - A Cocodona 250 Story - Prescott, AZ
-LOCATION:The Peregrine Book Company
-URL:https://www.facebook.com/events/1377293379934238/
-DESCRIPTION:The Chase is a riveting feature le
- ngth film that takes you deep into
-  the 2024 Cocodona 250\, a grueling
-  250-mile ultramarathon through Ar
- izona's breathtaking and punishing
-  terrain. The film follows five el
- ite athletes as they push their li
- mits in a relentless pursuit of vi
- ctory and the elusive course recor
- d. \n\nEach runner's story unfolds w
- ith raw emotion\, showcasing their 
- strategies\, setbacks\, and triumphs
-  as they navigate rugged mountains
- \, searing desert heat\, and their o
- wn inner battles. Blending stunnin
- g cinematography with intimate sto
- rytelling\, The Chase captures the 
- essence of competition\, resilience
- \, and the unyielding spirit of end
- urance athletes in one of the worl
- d’s toughest races.\n\nJoin Michae
- l Versteeg for a special showing o
- f The Chase in Prescott. Venue is 
- 📍Owl (formerly Stage 219) 219 N
- . Cortez-behind Peregrine Book Co-
- enter in the alley.\n\nDoors Open: 5
- :00 PM\nFilm Showing: 6:00-8:00 PM\n
- Q&A: 8:00-8:30 PM\n\nhttps://www.fac
- ebook.com/events/1377293379934238/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250321T144609Z
-LAST-MODIFIED:20250321T144609Z
-CREATED:20250321T144427Z
-SEQUENCE:102
-ORGANIZER;CN=Andrew Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20250328T003000Z
-DTEND:20250328T013000Z
-UID:e8984253935008496@facebook.com
-SUMMARY:Thursday Social Run
-LOCATION:Fleet Feet - 122 N Cortez St #100\,
-  Prescott\, AZ 86301
-URL:https://www.facebook.com/events/8984253925008497/?event_time_id=8984253935008496
-DESCRIPTION:Meet at Fleet Feet\, go for a run. 
- All paces welcome!\n\nhttps://www.fa
- cebook.com/events/8984253925008497
- /?event_time_id=8984253935008496
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250321T144609Z
-LAST-MODIFIED:20250321T144609Z
-CREATED:20250321T144427Z
-SEQUENCE:102
-ORGANIZER;CN=Andrew Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20250425T003000Z
-DTEND:20250425T013000Z
-UID:e8984253925008497@facebook.com
-SUMMARY:Thursday Social Run
-LOCATION:Fleet Feet - 122 N Cortez St #100\,
-  Prescott\, AZ 86301
-URL:https://www.facebook.com/events/8984253925008497/
-DESCRIPTION:Meet at Fleet Feet\, go for a run. 
- All paces welcome!\n\nhttps://www.fa
- cebook.com/events/8984253925008497
- /
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250320T145454Z
-LAST-MODIFIED:20250320T145454Z
-CREATED:20250320T145454Z
-SEQUENCE:0
-ORGANIZER;CN=Paula Olson:MAILTO:noreply@facebookmail.com
-DTSTART:20250326T140000Z
-DTEND:20250326T170000Z
-UID:e1152933796611160@facebook.com
-SUMMARY:Vert club run
-LOCATION:Thumb Butte
-URL:https://www.facebook.com/events/1152933796611160/
-DESCRIPTION:Thumb Butte loop on trail 33. We g
- o up the paved side and down the d
- irt side. A loop is just a tad und
- er two miles. Parking is free on W
- ed. \n\nhttps://www.facebook.com/eve
- nts/1152933796611160/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250108T181830Z
-LAST-MODIFIED:20250108T181830Z
-CREATED:20250108T181830Z
-SEQUENCE:0
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20250326T003000Z
-DTEND:20250326T033000Z
-UID:e2908553032651460@facebook.com
-SUMMARY:Tuesday Group Run -Turley Trailhead -Sunset on P Mtn!
-URL:https://www.facebook.com/events/2908553032651460/
-DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
-  will meet at the Turley Trailhead
-  - hoping to catch the sunset from
-  the top of P mountain!\n\nhttps://m
- aps.app.goo.gl/yvh2jJyGwkXCkUpq6?g
- _st=ic\n\n34.541342\, -112.437366\n\nEx
- pect 4-6 miles. This is a no-drop 
- group run\, so we will stop at ever
- y trail intersection and wait for 
- everyone to catch up before contin
- uing the run. (No runners left beh
- ind!)\n\nBring a light :)\n\nDirection
- s:  Take HWY-69 towards Prescott. 
- After leaving the Prescott Valley 
- area\, you'll reach the intersectio
- n of HWY-69 and HWY-89. Stay left 
- on Gurley street and make a quick 
- left turn onto Robinson Drive into
-  a residential area. From Robinson
-  Drive\, turn left on Butterfield R
- oad. When you reach a five way int
- ersection\, turn right onto Wells F
- argo Road. When Wells Fargo road t
- urns north\, look on your right for
-  a small\, hidden dirt road (the tr
- ailhead sign is tough to spot). Ta
- ke this well graded dirt road to t
- he parking area and Turley Trailhe
- ad.\n\n205 Wells Fargo road\nPrescott
- \, AZ\n\n\n\nhttps://www.facebook.com/e
- vents/2908553032651460/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
