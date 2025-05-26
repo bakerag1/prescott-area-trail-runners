@@ -942,6 +942,40 @@ STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20250512T201222Z
+LAST-MODIFIED:20250512T201222Z
+CREATED:20250512T201154Z
+SEQUENCE:28
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20250723T003000Z
+DTEND:20250723T033000Z
+UID:e3920987108215130@facebook.com
+SUMMARY:Tuesday Group Run - Granite Mtn 
+URL:https://www.facebook.com/events/3920987108215130/
+DESCRIPTION:We will meet at the Metate trailhe
+ ad and head up the mountain for an
+  out and back. Those who want to g
+ o all the way to the top can\, thos
+ e who want to stop at the saddle c
+ an - choose the distance that is r
+ ight for you <3 select from 5-8 mi
+ les.\n\nBring water - it's hot!!! \n\n
+ This is a no-drop group run\, we wi
+ ll stop at each intersection so ev
+ eryone can catch up and then run a
+ gain. \n\nWe host this run in the su
+ mmer when it light late enough for
+  a longer run in the evening and t
+ he parking lot is open late!\n\nTrai
+ lhead location: 34.616309604952896
+ \, -112.55129524602948\n\nhttps://www
+ .facebook.com/events/3920987108215
+ 130/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20241215T151338Z
 LAST-MODIFIED:20241215T151338Z
 CREATED:20241215T151338Z
@@ -981,6 +1015,46 @@ DESCRIPTION:Meet at Fleet Feet\, go for a run.
  All paces welcome!\n\nhttps://www.fa
  cebook.com/events/8984253925008497
  /?event_time_id=8984253971675159
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250512T200850Z
+LAST-MODIFIED:20250512T200850Z
+CREATED:20250512T200710Z
+SEQUENCE:100
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20250716T003000Z
+DTEND:20250716T020000Z
+UID:e1040172747446172@facebook.com
+SUMMARY:Tuesday Group Run- UPPER Spence Basin 
+URL:https://www.facebook.com/events/1040172747446172/
+DESCRIPTION:Will meet at UPPER Spence Springs 
+ parking lot: \n\nPLEASE READ THIS DE
+ SCRIPTION. \nWe will meet at the Up
+ per Parking lot along Iron Springs
+ \, where Javelina Trail #332 meets 
+ Iron Springs (trailhead). 5:30pm. 
+ Expect 4-6 miles. No drop run (we 
+ stop for everyone at every interse
+ ction). \n\nBring water!\n\nDirections
+ : To Iron Springs Trailhead from d
+ owntown Prescott: Take Montezuma S
+ treet north (becomes Whipple St) t
+ o its intersection with Willow Cre
+ ek Road (about 1.5 miles). Continu
+ e west on Iron Springs Road for an
+ other 4.5 miles\, then turn left in
+ to the trailhead. There is parking
+  for approximately 30 vehicles. Tr
+ ailers are not allowed at the trai
+ lhead for highway safety concerns.
+ \n\nTRAVEL TIME: 20 minutes from dow
+ ntown Prescott\n\nhttps://maps.app.g
+ oo.gl/dtmvdowaEGMcpxEk8 \n\nhttps://
+ www.facebook.com/events/1040172747
+ 446172/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
@@ -1030,6 +1104,47 @@ STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20250512T200152Z
+LAST-MODIFIED:20250512T200152Z
+CREATED:20250512T200152Z
+SEQUENCE:0
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20250709T003000Z
+DTEND:20250709T033000Z
+UID:e665805546062067@facebook.com
+SUMMARY:Tuesday Group Run- Salida Gulch 
+URL:https://www.facebook.com/events/665805546062067/
+DESCRIPTION:We are going to run Salida Gulch. 
+ Expct 4ish miles. \n\nNo drop group 
+ run (we stop at every intersection
+  and wait for everyone to join bef
+ ore running again). \n\nBring water 
+ :)\n\n34.541322138945276\, -112.38131
+ 895761529\n\n***This trailhead can b
+ e confusing to find and GPS is som
+ etimes wrong!! Follow the route be
+ low from Forest Service!***\n\nDirec
+ tions from FS:\nFrom downtown Presc
+ ott\, travel east on Hwy 69 to Walk
+ er Road. Turn right and go 1.2 mil
+ es to the sign for Lynx Creek Ruin
+ . Turn left onto Lynx Creek Road (
+ FR 9401) just after the sign. Trav
+ el 0.8 miles past the Day Use area
+ \, bearing right down the hill and 
+ continuing to the end of the road.
+  There is a large improved lot wit
+ h ample parking for both single ve
+ hicles and horse trailers. Road co
+ nditions are paved\, then graded di
+ rt and suitable for all vehicles.\n
+ \nhttps://www.facebook.com/events/6
+ 65805546062067/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20241215T151338Z
 LAST-MODIFIED:20241215T151338Z
 CREATED:20241215T151338Z
@@ -1074,6 +1189,37 @@ STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20250512T194548Z
+LAST-MODIFIED:20250512T194548Z
+CREATED:20250512T194548Z
+SEQUENCE:0
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20250702T003000Z
+DTEND:20250702T033000Z
+UID:e571518398875341@facebook.com
+SUMMARY:Tuesday Group Run - Run to Hot Shot Alligator Juniper! 
+URL:https://www.facebook.com/events/571518398875341/
+DESCRIPTION:We will run to the giant alligator
+  juniper\, made famous by the Grani
+ te Mtn Hotshots! The run will be t
+ he day after the anniversary of th
+ e 19.  \n\nThis is a no-drop run so 
+ we will stop at every intersection
+  and allow everyone to catch up! E
+ xpect 5 miles total on an out and 
+ back. \n\nBring water!\n\nGiant Alliga
+ tor Juniper Trail on AllTrails\nhtt
+ ps://www.alltrails.com/trail/us/ar
+ izona/giant-alligator-juniper-trai
+ l?sh=skmyyj\n\nTrailhead location: 3
+ 4.60987\, -112.60828\n\n\nhttps://www.
+ facebook.com/events/57151839887534
+ 1/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20241215T151338Z
 LAST-MODIFIED:20241215T151338Z
 CREATED:20241215T151338Z
@@ -1113,6 +1259,36 @@ DESCRIPTION:Meet at Fleet Feet\, go for a run.
  All paces welcome!\n\nhttps://www.fa
  cebook.com/events/8984253925008497
  /?event_time_id=8984253981675158
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250512T195654Z
+LAST-MODIFIED:20250512T195654Z
+CREATED:20250512T195654Z
+SEQUENCE:0
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20250625T003000Z
+DTEND:20250625T033000Z
+UID:e1270086174681118@facebook.com
+SUMMARY:Tuesday Group Run- Spruce Mtn Trail #307
+URL:https://www.facebook.com/events/1270086174681118/
+DESCRIPTION:Groom Creek Loop Trail #307\, S Sen
+ ator Hwy\, Prescott\, AZ 86303\n\n34.4
+ 762915458251\, -112.44153522818031\n
+ \nOut and back up and down Spruce M
+ tn (if a second group wants to loo
+ p the mountain that's fine too!). 
+ Expect 5-7 mi (out and back so eve
+ ryone can choose their preferred d
+ istance)\n\nNo drop group run (we st
+ op along the way to allow everyone
+  to catch up and then run again). 
+ \n\nBring water! (consider a headlam
+ p due to the longer distance)\n\nhtt
+ ps://www.facebook.com/events/12700
+ 86174681118/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
@@ -1191,6 +1367,44 @@ STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20250512T195047Z
+LAST-MODIFIED:20250512T195047Z
+CREATED:20250512T195007Z
+SEQUENCE:40
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20250618T003000Z
+DTEND:20250618T033000Z
+UID:e1371157793929695@facebook.com
+SUMMARY:Tuesday Group Run -Yeager Loop 
+URL:https://www.facebook.com/events/1371157793929695/
+DESCRIPTION:No drop group run - we stop at eve
+ ry intersection and wait for every
+ one to catch up before running aga
+ in. \n\nThis loop is a bit of a driv
+ e but its one of the best in the a
+ rea! From rocks and desert to pine
+ s and forest -this loop has it all
+ ! The first two miles involve a lo
+ t of elevation gain (expect 1000 f
+ t) followed by two miles of rollin
+ g hills and 2 miles of downhill wi
+ th an epic view! If you survive th
+ e first two miles you will agree i
+ ts all worth it by the end :) \n\nBr
+ ing water!! That hill is full sun.
+ \n\nDirections: Drive up Hwy 89 head
+ ed away from PV toward Jerome -loo
+ k for the trailhead off to the rig
+ ht on the side of the road - befor
+ e you get to the curvy part. \n\n34.
+ 683710184733656\, -112.174967815008
+ 02\n\nhttps://www.facebook.com/event
+ s/1371157793929695/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20241215T151338Z
 LAST-MODIFIED:20241215T151338Z
 CREATED:20241215T151338Z
@@ -1230,6 +1444,36 @@ DESCRIPTION:Meet at Fleet Feet\, go for a run.
  All paces welcome!\n\nhttps://www.fa
  cebook.com/events/8984253925008497
  /?event_time_id=8984253998341823
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250512T195322Z
+LAST-MODIFIED:20250512T195322Z
+CREATED:20250512T195322Z
+SEQUENCE:0
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20250611T003000Z
+DTEND:20250611T033000Z
+UID:e638638382486998@facebook.com
+SUMMARY:Tuesday Group Run- Thumb Butte Loop- Cindy leading! 
+URL:https://www.facebook.com/events/638638382486998/
+DESCRIPTION:\nThumb Butte loop (326\, 392\, 367):
+  4.7 miles\, 784 ft of elevation ga
+ in. Meet at the Thumb Butte Parkin
+ g lot (paid parking or national pa
+ rks pass). This is a no-drop group
+  run\, and we will stop at each int
+ ersection to allow everyone to cat
+ ch up (physically and socially\, LO
+ L) before continuing the run. \n\nTh
+ umb Butte Trail 326\, 392\, and 367 
+ on AllTrails - we will do it in re
+ verse for this run\n\nhttps://maps.a
+ pp.goo.gl/au5cdA9c6hYKsccSA?g_st=i
+ c\n\nBring water!\n\nhttps://www.faceb
+ ook.com/events/638638382486998/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
@@ -1434,10 +1678,57 @@ STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250320T162155Z
-LAST-MODIFIED:20250320T162155Z
-CREATED:20250320T162155Z
+DTSTAMP:20250512T193835Z
+LAST-MODIFIED:20250512T193835Z
+CREATED:20250512T193835Z
 SEQUENCE:0
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20250528T003000Z
+DTEND:20250528T020000Z
+UID:e700124772604218@facebook.com
+SUMMARY:Tuesday Group Run- Splash Trail! New Trails off the Peavine ---Jim leading! 
+URL:https://www.facebook.com/events/700124772604218/
+DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nTh
+ is is a new trail recently created
+ ! Jim is one of the volunteers who
+  works on creating trails and will
+  be taking us for a run on some of
+  the new additions near the Peavin
+ e trail! \n\nThe run will be to the 
+ new Splash Trail. We will meet at 
+ the Peavine trailhead and run out 
+ 1.5 miles to the  Easter Island tr
+ ail. After a quarter mile up hill\,
+  we will turn on the splash trail 
+ which is about .9 miles\, the last 
+ third up hill. (I plan on taking a
+  half mile detour on a new trail t
+ hat we are still working on off th
+ e Splash trail.) Once at the top o
+ f the splash trail\, we have about 
+ a mile\, mostly down hill back to t
+ he Peavine trail\, and then a mile 
+ on the Peavine back to the parking
+  lot. About 5 miles total\, but a g
+ ood variety of up and down hill. \n
+ \n No drop run (we stop for everyon
+ e at every intersection). \n\nWe wil
+ l meet here at the Peavine trailhe
+ ad by the Humane Society: https://
+ g.co/kgs/AFHtnxk\n\nJim is leading! 
+ (Thank you Jim!) \n\nExpect 4-6 mile
+ s.\n\nBring water! \n\n\n\n\n\n\n\n\n\n\nhttps:
+ //www.facebook.com/events/70012477
+ 2604218/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250516T000539Z
+LAST-MODIFIED:20250516T000539Z
+CREATED:20250320T162155Z
+SEQUENCE:4866224
 ORGANIZER;CN=Jeffrey S. Auman:MAILTO:noreply@facebookmail.com
 DTSTART:20250526T140000Z
 DTEND:20250526T190000Z
@@ -1445,18 +1736,18 @@ UID:e1016755653676516@facebook.com
 SUMMARY:Loop The Butte
 LOCATION:Thumb Butte Trailhead
 URL:https://www.facebook.com/events/1016755653676516/
-DESCRIPTION:*SAVE THE DATE*\n\nCome join us for 
- the 4th Annual Loop The Butte Extr
- avaganza! ⭕️ \nDo as many loops
-  as you want or as many as you can
- ! ⭕️ \nThere will be snack and 
- drinks and chances to win prizes!\n
- Bring your own camp chairs to rela
- x in when finished or in between l
- oops. Join us at any time! \nReach 
- out to Jeff or Molly for more info
- rmation!\n\nhttps://www.facebook.com
- /events/1016755653676516/
+DESCRIPTION:\nCome join us for the 4th Annual L
+ oop The Butte\, a socia group run u
+ p and down Thumb Butte. Do as many
+  loops as you want or as many as y
+ ou can! There will be snack and dr
+ inks and chances to win prizes! Br
+ ing your own camp chairs to relax 
+ in when finished or in between loo
+ ps. Join us at any time! \nReach ou
+ t to Jeff or Molly for more inform
+ ation!\n\nhttps://www.facebook.com/e
+ vents/1016755653676516/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
@@ -1883,345 +2174,6 @@ DESCRIPTION:We will meet at White Rock Parking
   left behind!). \n\nBring water and 
  a friend :)\n\n\n\n\n\n\nhttps://www.face
  book.com/events/596834256501804/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241103T203806Z
-LAST-MODIFIED:20241103T203806Z
-CREATED:20241103T203806Z
-SEQUENCE:0
-ORGANIZER;CN=HELLS DELLS:MAILTO:noreply@facebookmail.com
-DTSTART:20250426T143000Z
-DTEND:20250426T173000Z
-UID:e2052595695178924@facebook.com
-SUMMARY:Hells Dells 50k-ish Adventure Run
-LOCATION:Prescott\, AZ
-URL:https://www.facebook.com/events/2052595695178924/
-DESCRIPTION:Fat ass style 31-ish mile adventur
- e in the Granite Dells. All the de
- lls I could fit into a sensible\, b
- eautiful loops….. of DOOM. \nUltr
- asignup link: https://ultrasignup.
- com/register.aspx?eid=18235\n\nhttps
- ://www.facebook.com/events/2052595
- 695178924/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241215T151338Z
-LAST-MODIFIED:20241215T151338Z
-CREATED:20241215T151338Z
-SEQUENCE:0
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20250426T143000Z
-DTEND:20250426T153000Z
-UID:e945486937039586@facebook.com
-SUMMARY:Park Run
-LOCATION:Jan Alfano Trail behind Dog Park o
- n Willow Creek Rd
-URL:https://www.facebook.com/events/945486783706268/?event_time_id=945486937039586
-DESCRIPTION:Join us every Saturday at 7:30 beh
- ind the Dog Park for 5K run or wal
- k.  www.parkrun.us/janalfanotrail/
- \n\nhttps://www.facebook.com/events/
- 945486783706268/?event_time_id=945
- 486937039586
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240929T171918Z
-LAST-MODIFIED:20240929T171918Z
-CREATED:20240929T171918Z
-SEQUENCE:0
-ORGANIZER;CN=Zane Grey Highline Trail Ultramarathon:MAILTO:noreply@facebookmail.com
-DTSTART:20250426T123000Z
-DTEND:20250427T060000Z
-UID:e899919022006378@facebook.com
-SUMMARY:35th annual Zane Grey Highline Trail Runs
-LOCATION:Zane Grey Highline Trail Ultramara
- thon
-URL:https://www.facebook.com/events/899919022006378/
-DESCRIPTION:50 mile and 27 mile distances star
- ting and finishing in Christopher 
- Creek\, along the historic Highline
-  Trail\n\nhttps://www.facebook.com/e
- vents/899919022006378/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250321T144609Z
-LAST-MODIFIED:20250321T144609Z
-CREATED:20250321T144427Z
-SEQUENCE:102
-ORGANIZER;CN=Andrew Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20250425T003000Z
-DTEND:20250425T013000Z
-UID:e8984253945008495@facebook.com
-SUMMARY:Thursday Social Run
-LOCATION:Fleet Feet - 122 N Cortez St #100\,
-  Prescott\, AZ 86301
-URL:https://www.facebook.com/events/8984253925008497/?event_time_id=8984253945008495
-DESCRIPTION:Meet at Fleet Feet\, go for a run. 
- All paces welcome!\n\nhttps://www.fa
- cebook.com/events/8984253925008497
- /?event_time_id=8984253945008495
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250227T203050Z
-LAST-MODIFIED:20250227T203050Z
-CREATED:20250227T174449Z
-SEQUENCE:9961
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20250423T003000Z
-DTEND:20250423T023000Z
-UID:e989641315897129@facebook.com
-SUMMARY:Tuesday Group Run- New Trails off the Peavine ---Jim leading! newer trail!
-URL:https://www.facebook.com/events/989641315897129/
-DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nTh
- is is a new trail recently created
- ! Jim is one of the volunteers who
-  works on creating trails and will
-  be taking us for a run on some of
-  the new additions near the Peavin
- e and Gateway trails! Expect a a n
- ice combination of trees\, hills\, g
- ranite and main trails.\n\n No drop 
- run (we stop for everyone at every
-  intersection). \n\nWe will meet her
- e: https://maps.app.goo.gl/nLr37AZ
- 9G12KU2ta9?g_st=ic at 5:30pm. Will
-  post meeting coordinates in the c
- omments so it's easier to copy/pas
- te :)\n\nJim is leading! (Thank you 
- Jim!) \n\nExpect 4-6 miles.\n\nBring w
- ater! \n\n\n\n\n\n\n\n\n\n\nhttps://www.faceb
- ook.com/events/989641315897129/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241215T151338Z
-LAST-MODIFIED:20241215T151338Z
-CREATED:20241215T151338Z
-SEQUENCE:0
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20250419T143000Z
-DTEND:20250419T153000Z
-UID:e945486940372919@facebook.com
-SUMMARY:Park Run
-LOCATION:Jan Alfano Trail behind Dog Park o
- n Willow Creek Rd
-URL:https://www.facebook.com/events/945486783706268/?event_time_id=945486940372919
-DESCRIPTION:Join us every Saturday at 7:30 beh
- ind the Dog Park for 5K run or wal
- k.  www.parkrun.us/janalfanotrail/
- \n\nhttps://www.facebook.com/events/
- 945486783706268/?event_time_id=945
- 486940372919
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250321T144609Z
-LAST-MODIFIED:20250321T144609Z
-CREATED:20250321T144427Z
-SEQUENCE:102
-ORGANIZER;CN=Andrew Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20250418T003000Z
-DTEND:20250418T013000Z
-UID:e8984253941675162@facebook.com
-SUMMARY:Thursday Social Run
-LOCATION:Fleet Feet - 122 N Cortez St #100\,
-  Prescott\, AZ 86301
-URL:https://www.facebook.com/events/8984253925008497/?event_time_id=8984253941675162
-DESCRIPTION:Meet at Fleet Feet\, go for a run. 
- All paces welcome!\n\nhttps://www.fa
- cebook.com/events/8984253925008497
- /?event_time_id=8984253941675162
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250217T164501Z
-LAST-MODIFIED:20250217T164501Z
-CREATED:20250211T165903Z
-SEQUENCE:517558
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20250416T003000Z
-DTEND:20250416T033000Z
-UID:e28501180192830537@facebook.com
-SUMMARY:Tuesday Group Run- Katahn Trailhead - Jason leading! 
-URL:https://www.facebook.com/events/28501180192830537/
-DESCRIPTION:\nWe will meet at the Katahn Trail 
- for a loop run. New route for the 
- Tuesday runs! This is a no-drop gr
- oup run\, and we will stop at each 
- intersection to allow everyone to 
- catch up (physically and socially\,
-  LOL) before continuing the run. E
- xpect just over 6 miles total. \n\n3
- 4.59375\, -112.50866 \n\nhttps://www.
- alltrails.com/trail/us/arizona/kat
- ahn-trail-loop (will post in the c
- omments for ease of copy/pasting i
- nto map apps)\n\nNote: Parking is li
- mited at the trailhead\, plan to al
- so park on the side of the road as
-  needed. \n\nBring water and a frien
- d :)\n\nhttps://www.facebook.com/eve
- nts/28501180192830537/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241215T151338Z
-LAST-MODIFIED:20241215T151338Z
-CREATED:20241215T151338Z
-SEQUENCE:0
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20250412T143000Z
-DTEND:20250412T153000Z
-UID:e945486917039588@facebook.com
-SUMMARY:Park Run
-LOCATION:Jan Alfano Trail behind Dog Park o
- n Willow Creek Rd
-URL:https://www.facebook.com/events/945486783706268/?event_time_id=945486917039588
-DESCRIPTION:Join us every Saturday at 7:30 beh
- ind the Dog Park for 5K run or wal
- k.  www.parkrun.us/janalfanotrail/
- \n\nhttps://www.facebook.com/events/
- 945486783706268/?event_time_id=945
- 486917039588
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240913T164433Z
-LAST-MODIFIED:20240913T164433Z
-CREATED:20240913T164239Z
-SEQUENCE:114
-ORGANIZER;CN=Aravaipa Running:MAILTO:noreply@facebookmail.com
-DTSTART:20250412T120000Z
-DTEND:20250412T150000Z
-UID:e1674300876690543@facebook.com
-SUMMARY:Whiskey Basin Trail Runs
-LOCATION:Prescott\, Arizona
-URL:https://www.facebook.com/events/1674300876690543/
-DESCRIPTION:Join us for the 2025 edition of Wh
- iskey Basin Trail Runs in beautifu
- l\, Prescott\, Arizona. Choose to ta
- ke on the 'full barrel' point to p
- oint 91k\, 60k\, 33k\, or the challen
- ging and rewarding\, 1/2 Marathon o
- r 10k that all take place on the g
- orgeous Prescott Circle Trail. All
-  distances finish at the party ove
- rlooking Watson Lake and those ico
- nic Granite Dells where you'll wan
- t to kick back and stay to sociali
- ze\, enjoy the view\, and maybe some
-  whiskey...hey\, when in Rome\, righ
- t?\n\nhttps://www.facebook.com/event
- s/1674300876690543/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250321T144609Z
-LAST-MODIFIED:20250321T144609Z
-CREATED:20250321T144427Z
-SEQUENCE:102
-ORGANIZER;CN=Andrew Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20250411T003000Z
-DTEND:20250411T013000Z
-UID:e8984253948341828@facebook.com
-SUMMARY:Thursday Social Run
-LOCATION:Fleet Feet - 122 N Cortez St #100\,
-  Prescott\, AZ 86301
-URL:https://www.facebook.com/events/8984253925008497/?event_time_id=8984253948341828
-DESCRIPTION:Meet at Fleet Feet\, go for a run. 
- All paces welcome!\n\nhttps://www.fa
- cebook.com/events/8984253925008497
- /?event_time_id=8984253948341828
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250402T182652Z
-LAST-MODIFIED:20250402T182652Z
-CREATED:20250402T182652Z
-SEQUENCE:0
-ORGANIZER;CN=Paula Olson:MAILTO:noreply@facebookmail.com
-DTSTART:20250409T140000Z
-DTEND:20250409T170000Z
-UID:e950061290532309@facebook.com
-SUMMARY:Vert club run
-LOCATION:Thumb Butte
-URL:https://www.facebook.com/events/950061290532309/
-DESCRIPTION:Vert club does loops at Thumb Butt
- e. We go up the paved side on the 
- left and down the dirt side on the
-  right. Each loop is just a tad un
- der two miles. Parking is free on 
- Wed. Bathroom at the trailhead\n\nht
- tps://www.facebook.com/events/9500
- 61290532309/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250217T165326Z
-LAST-MODIFIED:20250217T165326Z
-CREATED:20250217T165106Z
-SEQUENCE:140
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20250409T003000Z
-DTEND:20250409T020000Z
-UID:e1169383448045755@facebook.com
-SUMMARY:Tuesday Group Run-Willow Lake---Jim leading! 
-URL:https://www.facebook.com/events/1169383448045755/
-DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nFo
- r this week we will run the side t
- rails around Willow Lake. There ar
- e a lot of side trails through tha
- t most people never run. Jim mappe
- d out about 5.2 miles from the dog
-  park. It is through some trees an
- d very close to the lake. We will 
- cover 3 sides of Willow Lake on mo
- stly flat trails.  \n\nThis is a no-
- drop group run and we will stop at
-  every intersection and allow ever
- yone to catch up before we continu
- e running - all paces welcome :)\n\n
- We will meet at the trailhead by t
- he dog park off of Willow Creek Rd
- .\n\nParking location: https://maps.
- app.goo.gl/gzgqpmZEDwNHbpMQ7 (will
-  copy in comments to make it easie
- r to copy/paste)\n\nJim is leading! 
- (Thank you Jim!) \n\n\n\n\n\n\n\n\n\n\n\n\nhttp
- s://www.facebook.com/events/116938
- 3448045755/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
