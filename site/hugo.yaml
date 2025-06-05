@@ -2,7 +2,9 @@ baseURL: https://prescottareatrailrunners.com
 disablePathToLower: true
 languageCode: en-us
 title: PATR
-theme: hyde
+theme: 
+  - hyde
+  - gpx-shortcode
 services:
   googleAnalytics: 
     ID: G-5Q4TX7CD5X
@@ -41,6 +43,8 @@ Menus:
     - Name: get involved
       URL: /get-involved
       Weight: 60
+    - Name: newsletter signup
+      URL: https://groups.google.com/g/patr-chatter
   links:
     - Name: Facebook
       URL: https://www.facebook.com/groups/prescottareatrailrunners

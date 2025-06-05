@@ -1,0 +1,3 @@
+[submodule "site/themes/gpx-shortcode"]
+	path = site/themes/gpx-shortcode
+	url = git@github.com:bakerag1/hugo-gpx-shortcode.git
