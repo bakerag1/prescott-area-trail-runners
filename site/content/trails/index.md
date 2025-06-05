@@ -23,4 +23,4 @@ Here are some routes we like to do as a group (click the ▶︎ to expand the ma
 {{< gpx "Fleet_Feet_group_Run.gpx" >}} 
 
 ### White Spar to Goldwater Tuesday Group
-{{< gpx "White_Spar_group_Run.gpx" >}}
+{{< gpx "White_spar_group_Run.gpx" >}}
