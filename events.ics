@@ -722,6 +722,39 @@ STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20250619T164249Z
+LAST-MODIFIED:20250619T164249Z
+CREATED:20250619T164249Z
+SEQUENCE:0
+ORGANIZER;CN=Andrew Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20250827T230000Z
+DTEND:20250828T000000Z
+UID:e1055890583181786@facebook.com
+SUMMARY:PATR Track Pack
+LOCATION:Prescott High School
+URL:https://www.facebook.com/events/1055890543181790/?event_time_id=1055890583181786
+DESCRIPTION:Meet at the track at 4pm and do so
+ me laps in the heat!\n\nbring water!
+ \n\nHere's the workout plan (startin
+ g 6/11)\, but you do you \n\n2 to 4 l
+ aps warmup\ndynamic stretching\n12 l
+ aps at conversational pace with th
+ e following exceptions\n    weeks 1
+ -3 laps 4\, 8\, and 12 at lactic thr
+ eshold\n    weeks 4-6 laps 3\, 6\, 9\,
+  and 12 at lactic threshold\n    we
+ eks 7-9 laps 2\, 4\, 6\, 8\, and 12 at
+  lactic threshold\n    weeks 10-12 
+ laps 3\, 4\, 7\,  8\, 11\, and 12 at la
+ ctic threshold\n1-4 laps cooldown\ns
+ tretching\n\nhttps://www.facebook.co
+ m/events/1055890543181790/?event_t
+ ime_id=1055890583181786
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20241215T151338Z
 LAST-MODIFIED:20241215T151338Z
 CREATED:20241215T151338Z
@@ -761,6 +794,39 @@ DESCRIPTION:Meet at Fleet Feet\, go for a run.
  All paces welcome!\n\nhttps://www.fa
  cebook.com/events/8984253925008497
  /?event_time_id=8984254008341822
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250619T164249Z
+LAST-MODIFIED:20250619T164249Z
+CREATED:20250619T164249Z
+SEQUENCE:0
+ORGANIZER;CN=Andrew Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20250820T230000Z
+DTEND:20250821T000000Z
+UID:e1055890569848454@facebook.com
+SUMMARY:PATR Track Pack
+LOCATION:Prescott High School
+URL:https://www.facebook.com/events/1055890543181790/?event_time_id=1055890569848454
+DESCRIPTION:Meet at the track at 4pm and do so
+ me laps in the heat!\n\nbring water!
+ \n\nHere's the workout plan (startin
+ g 6/11)\, but you do you \n\n2 to 4 l
+ aps warmup\ndynamic stretching\n12 l
+ aps at conversational pace with th
+ e following exceptions\n    weeks 1
+ -3 laps 4\, 8\, and 12 at lactic thr
+ eshold\n    weeks 4-6 laps 3\, 6\, 9\,
+  and 12 at lactic threshold\n    we
+ eks 7-9 laps 2\, 4\, 6\, 8\, and 12 at
+  lactic threshold\n    weeks 10-12 
+ laps 3\, 4\, 7\,  8\, 11\, and 12 at la
+ ctic threshold\n1-4 laps cooldown\ns
+ tretching\n\nhttps://www.facebook.co
+ m/events/1055890543181790/?event_t
+ ime_id=1055890569848454
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
@@ -810,6 +876,39 @@ STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20250619T164249Z
+LAST-MODIFIED:20250619T164249Z
+CREATED:20250619T164249Z
+SEQUENCE:0
+ORGANIZER;CN=Andrew Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20250813T230000Z
+DTEND:20250814T000000Z
+UID:e1055890556515122@facebook.com
+SUMMARY:PATR Track Pack
+LOCATION:Prescott High School
+URL:https://www.facebook.com/events/1055890543181790/?event_time_id=1055890556515122
+DESCRIPTION:Meet at the track at 4pm and do so
+ me laps in the heat!\n\nbring water!
+ \n\nHere's the workout plan (startin
+ g 6/11)\, but you do you \n\n2 to 4 l
+ aps warmup\ndynamic stretching\n12 l
+ aps at conversational pace with th
+ e following exceptions\n    weeks 1
+ -3 laps 4\, 8\, and 12 at lactic thr
+ eshold\n    weeks 4-6 laps 3\, 6\, 9\,
+  and 12 at lactic threshold\n    we
+ eks 7-9 laps 2\, 4\, 6\, 8\, and 12 at
+  lactic threshold\n    weeks 10-12 
+ laps 3\, 4\, 7\,  8\, 11\, and 12 at la
+ ctic threshold\n1-4 laps cooldown\ns
+ tretching\n\nhttps://www.facebook.co
+ m/events/1055890543181790/?event_t
+ ime_id=1055890556515122
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20241215T151338Z
 LAST-MODIFIED:20241215T151338Z
 CREATED:20241215T151338Z
@@ -849,6 +948,39 @@ DESCRIPTION:Meet at Fleet Feet\, go for a run.
  All paces welcome!\n\nhttps://www.fa
  cebook.com/events/8984253925008497
  /?event_time_id=8984254005008489
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250619T164249Z
+LAST-MODIFIED:20250619T164249Z
+CREATED:20250619T164249Z
+SEQUENCE:0
+ORGANIZER;CN=Andrew Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20250806T230000Z
+DTEND:20250807T000000Z
+UID:e1055890566515121@facebook.com
+SUMMARY:PATR Track Pack
+LOCATION:Prescott High School
+URL:https://www.facebook.com/events/1055890543181790/?event_time_id=1055890566515121
+DESCRIPTION:Meet at the track at 4pm and do so
+ me laps in the heat!\n\nbring water!
+ \n\nHere's the workout plan (startin
+ g 6/11)\, but you do you \n\n2 to 4 l
+ aps warmup\ndynamic stretching\n12 l
+ aps at conversational pace with th
+ e following exceptions\n    weeks 1
+ -3 laps 4\, 8\, and 12 at lactic thr
+ eshold\n    weeks 4-6 laps 3\, 6\, 9\,
+  and 12 at lactic threshold\n    we
+ eks 7-9 laps 2\, 4\, 6\, 8\, and 12 at
+  lactic threshold\n    weeks 10-12 
+ laps 3\, 4\, 7\,  8\, 11\, and 12 at la
+ ctic threshold\n1-4 laps cooldown\ns
+ tretching\n\nhttps://www.facebook.co
+ m/events/1055890543181790/?event_t
+ ime_id=1055890566515121
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
@@ -898,6 +1030,39 @@ STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20250619T164249Z
+LAST-MODIFIED:20250619T164249Z
+CREATED:20250619T164249Z
+SEQUENCE:0
+ORGANIZER;CN=Andrew Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20250730T230000Z
+DTEND:20250731T000000Z
+UID:e1055890559848455@facebook.com
+SUMMARY:PATR Track Pack
+LOCATION:Prescott High School
+URL:https://www.facebook.com/events/1055890543181790/?event_time_id=1055890559848455
+DESCRIPTION:Meet at the track at 4pm and do so
+ me laps in the heat!\n\nbring water!
+ \n\nHere's the workout plan (startin
+ g 6/11)\, but you do you \n\n2 to 4 l
+ aps warmup\ndynamic stretching\n12 l
+ aps at conversational pace with th
+ e following exceptions\n    weeks 1
+ -3 laps 4\, 8\, and 12 at lactic thr
+ eshold\n    weeks 4-6 laps 3\, 6\, 9\,
+  and 12 at lactic threshold\n    we
+ eks 7-9 laps 2\, 4\, 6\, 8\, and 12 at
+  lactic threshold\n    weeks 10-12 
+ laps 3\, 4\, 7\,  8\, 11\, and 12 at la
+ ctic threshold\n1-4 laps cooldown\ns
+ tretching\n\nhttps://www.facebook.co
+ m/events/1055890543181790/?event_t
+ ime_id=1055890559848455
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20241215T151338Z
 LAST-MODIFIED:20241215T151338Z
 CREATED:20241215T151338Z
@@ -937,6 +1102,39 @@ DESCRIPTION:Meet at Fleet Feet\, go for a run.
  All paces welcome!\n\nhttps://www.fa
  cebook.com/events/8984253925008497
  /?event_time_id=8984253975008492
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250619T164249Z
+LAST-MODIFIED:20250619T164249Z
+CREATED:20250619T164249Z
+SEQUENCE:0
+ORGANIZER;CN=Andrew Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20250723T230000Z
+DTEND:20250724T000000Z
+UID:e1055890563181788@facebook.com
+SUMMARY:PATR Track Pack
+LOCATION:Prescott High School
+URL:https://www.facebook.com/events/1055890543181790/?event_time_id=1055890563181788
+DESCRIPTION:Meet at the track at 4pm and do so
+ me laps in the heat!\n\nbring water!
+ \n\nHere's the workout plan (startin
+ g 6/11)\, but you do you \n\n2 to 4 l
+ aps warmup\ndynamic stretching\n12 l
+ aps at conversational pace with th
+ e following exceptions\n    weeks 1
+ -3 laps 4\, 8\, and 12 at lactic thr
+ eshold\n    weeks 4-6 laps 3\, 6\, 9\,
+  and 12 at lactic threshold\n    we
+ eks 7-9 laps 2\, 4\, 6\, 8\, and 12 at
+  lactic threshold\n    weeks 10-12 
+ laps 3\, 4\, 7\,  8\, 11\, and 12 at la
+ ctic threshold\n1-4 laps cooldown\ns
+ tretching\n\nhttps://www.facebook.co
+ m/events/1055890543181790/?event_t
+ ime_id=1055890563181788
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
@@ -1015,6 +1213,39 @@ DESCRIPTION:Meet at Fleet Feet\, go for a run.
  All paces welcome!\n\nhttps://www.fa
  cebook.com/events/8984253925008497
  /?event_time_id=8984253971675159
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250619T164249Z
+LAST-MODIFIED:20250619T164249Z
+CREATED:20250619T164249Z
+SEQUENCE:0
+ORGANIZER;CN=Andrew Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20250716T230000Z
+DTEND:20250717T000000Z
+UID:e1055890553181789@facebook.com
+SUMMARY:PATR Track Pack
+LOCATION:Prescott High School
+URL:https://www.facebook.com/events/1055890543181790/?event_time_id=1055890553181789
+DESCRIPTION:Meet at the track at 4pm and do so
+ me laps in the heat!\n\nbring water!
+ \n\nHere's the workout plan (startin
+ g 6/11)\, but you do you \n\n2 to 4 l
+ aps warmup\ndynamic stretching\n12 l
+ aps at conversational pace with th
+ e following exceptions\n    weeks 1
+ -3 laps 4\, 8\, and 12 at lactic thr
+ eshold\n    weeks 4-6 laps 3\, 6\, 9\,
+  and 12 at lactic threshold\n    we
+ eks 7-9 laps 2\, 4\, 6\, 8\, and 12 at
+  lactic threshold\n    weeks 10-12 
+ laps 3\, 4\, 7\,  8\, 11\, and 12 at la
+ ctic threshold\n1-4 laps cooldown\ns
+ tretching\n\nhttps://www.facebook.co
+ m/events/1055890543181790/?event_t
+ ime_id=1055890553181789
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
@@ -1099,6 +1330,39 @@ DESCRIPTION:Meet at Fleet Feet\, go for a run.
  All paces welcome!\n\nhttps://www.fa
  cebook.com/events/8984253925008497
  /?event_time_id=8984253988341824
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250619T164249Z
+LAST-MODIFIED:20250619T164249Z
+CREATED:20250619T164249Z
+SEQUENCE:0
+ORGANIZER;CN=Andrew Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20250709T230000Z
+DTEND:20250710T000000Z
+UID:e1055890549848456@facebook.com
+SUMMARY:PATR Track Pack
+LOCATION:Prescott High School
+URL:https://www.facebook.com/events/1055890543181790/?event_time_id=1055890549848456
+DESCRIPTION:Meet at the track at 4pm and do so
+ me laps in the heat!\n\nbring water!
+ \n\nHere's the workout plan (startin
+ g 6/11)\, but you do you \n\n2 to 4 l
+ aps warmup\ndynamic stretching\n12 l
+ aps at conversational pace with th
+ e following exceptions\n    weeks 1
+ -3 laps 4\, 8\, and 12 at lactic thr
+ eshold\n    weeks 4-6 laps 3\, 6\, 9\,
+  and 12 at lactic threshold\n    we
+ eks 7-9 laps 2\, 4\, 6\, 8\, and 12 at
+  lactic threshold\n    weeks 10-12 
+ laps 3\, 4\, 7\,  8\, 11\, and 12 at la
+ ctic threshold\n1-4 laps cooldown\ns
+ tretching\n\nhttps://www.facebook.co
+ m/events/1055890543181790/?event_t
+ ime_id=1055890549848456
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
@@ -1189,6 +1453,39 @@ STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20250619T164249Z
+LAST-MODIFIED:20250619T164249Z
+CREATED:20250619T164249Z
+SEQUENCE:0
+ORGANIZER;CN=Andrew Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20250702T230000Z
+DTEND:20250703T000000Z
+UID:e1055890576515120@facebook.com
+SUMMARY:PATR Track Pack
+LOCATION:Prescott High School
+URL:https://www.facebook.com/events/1055890543181790/?event_time_id=1055890576515120
+DESCRIPTION:Meet at the track at 4pm and do so
+ me laps in the heat!\n\nbring water!
+ \n\nHere's the workout plan (startin
+ g 6/11)\, but you do you \n\n2 to 4 l
+ aps warmup\ndynamic stretching\n12 l
+ aps at conversational pace with th
+ e following exceptions\n    weeks 1
+ -3 laps 4\, 8\, and 12 at lactic thr
+ eshold\n    weeks 4-6 laps 3\, 6\, 9\,
+  and 12 at lactic threshold\n    we
+ eks 7-9 laps 2\, 4\, 6\, 8\, and 12 at
+  lactic threshold\n    weeks 10-12 
+ laps 3\, 4\, 7\,  8\, 11\, and 12 at la
+ ctic threshold\n1-4 laps cooldown\ns
+ tretching\n\nhttps://www.facebook.co
+ m/events/1055890543181790/?event_t
+ ime_id=1055890576515120
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20250512T194548Z
 LAST-MODIFIED:20250512T194548Z
 CREATED:20250512T194548Z
@@ -1259,6 +1556,39 @@ DESCRIPTION:Meet at Fleet Feet\, go for a run.
  All paces welcome!\n\nhttps://www.fa
  cebook.com/events/8984253925008497
  /?event_time_id=8984253981675158
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250619T164249Z
+LAST-MODIFIED:20250619T164249Z
+CREATED:20250619T164249Z
+SEQUENCE:0
+ORGANIZER;CN=Andrew Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20250625T230000Z
+DTEND:20250626T000000Z
+UID:e1055890579848453@facebook.com
+SUMMARY:PATR Track Pack
+LOCATION:Prescott High School
+URL:https://www.facebook.com/events/1055890543181790/?event_time_id=1055890579848453
+DESCRIPTION:Meet at the track at 4pm and do so
+ me laps in the heat!\n\nbring water!
+ \n\nHere's the workout plan (startin
+ g 6/11)\, but you do you \n\n2 to 4 l
+ aps warmup\ndynamic stretching\n12 l
+ aps at conversational pace with th
+ e following exceptions\n    weeks 1
+ -3 laps 4\, 8\, and 12 at lactic thr
+ eshold\n    weeks 4-6 laps 3\, 6\, 9\,
+  and 12 at lactic threshold\n    we
+ eks 7-9 laps 2\, 4\, 6\, 8\, and 12 at
+  lactic threshold\n    weeks 10-12 
+ laps 3\, 4\, 7\,  8\, 11\, and 12 at la
+ ctic threshold\n1-4 laps cooldown\ns
+ tretching\n\nhttps://www.facebook.co
+ m/events/1055890543181790/?event_t
+ ime_id=1055890579848453
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
