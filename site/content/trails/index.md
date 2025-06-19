@@ -24,3 +24,7 @@ Here are some routes we like to do as a group (click the ▶︎ to expand the ma
 
 ### White Spar to Goldwater Tuesday Group
 {{< gpx "White_spar_group_Run.gpx" >}}
+
+### Yeager Loop 
+A classic for the group, occasionally we tackle it as a Tuesday run
+{{< gpx "YeagerLoop.gpx" >}}
