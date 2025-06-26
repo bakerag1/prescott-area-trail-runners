@@ -1063,6 +1063,30 @@ STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20250624T174412Z
+LAST-MODIFIED:20250624T174412Z
+CREATED:20250624T174412Z
+SEQUENCE:0
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20250730T003000Z
+DTEND:20250730T033000Z
+UID:e1038149918500188@facebook.com
+SUMMARY:Tuesday Group Run- White Rock 
+URL:https://www.facebook.com/events/1038149918500188/
+DESCRIPTION:We will meet at White Rock Parking
+  lot (link here https://goo.gl/map
+ s/YN2uMvQnyQWTM9JK7) at 5:30pm. \n\n
+ No-drop group run of approximately
+  5 miles. No-drop means we stop at
+  every intersection and wait for e
+ veryone. \n\nBring water :)\n\n\n\n\n\n\nht
+ tps://www.facebook.com/events/1038
+ 149918500188/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20241215T151338Z
 LAST-MODIFIED:20241215T151338Z
 CREATED:20241215T151338Z
@@ -1538,6 +1562,36 @@ DESCRIPTION:Join us every Saturday at 7:30 beh
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250626T162007Z
+LAST-MODIFIED:20250626T162007Z
+CREATED:20250626T162007Z
+SEQUENCE:0
+ORGANIZER;CN=Dana Kirkwood-Watts:MAILTO:noreply@facebookmail.com
+DTSTART:20250628T140000Z
+DTEND:20250628T170000Z
+UID:e1253771802811360@facebook.com
+SUMMARY:SATR PATR - White Rock
+LOCATION:White Rock Trailhead
+URL:https://www.facebook.com/events/1253771802811360/
+DESCRIPTION:I have 25 miles to do this Saturda
+ y and would love some company for 
+ all or part of it. \n\nThe route wil
+ l be determined based on who shows
+  up\, but typically I do shorter lo
+ ops and use my car as an aid stati
+ on. Loops will likely be a distanc
+ e somewhere between 8 and 12 miles
+ \, with opportunities for out and b
+ ack. \n\nMeet at White Rock trailhea
+ d promptly around 7 am for the fir
+ st loop!\n\nAny pace is welcome! \n\nh
+ ttps://www.facebook.com/events/125
+ 3771802811360/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20250321T144609Z
@@ -2146,127 +2200,6 @@ DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nTh
  s.\n\nBring water! \n\n\n\n\n\n\n\n\n\n\nhttps:
  //www.facebook.com/events/70012477
  2604218/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250516T000539Z
-LAST-MODIFIED:20250516T000539Z
-CREATED:20250320T162155Z
-SEQUENCE:4866224
-ORGANIZER;CN=Jeffrey S. Auman:MAILTO:noreply@facebookmail.com
-DTSTART:20250526T140000Z
-DTEND:20250526T190000Z
-UID:e1016755653676516@facebook.com
-SUMMARY:Loop The Butte
-LOCATION:Thumb Butte Trailhead
-URL:https://www.facebook.com/events/1016755653676516/
-DESCRIPTION:\nCome join us for the 4th Annual L
- oop The Butte\, a socia group run u
- p and down Thumb Butte. Do as many
-  loops as you want or as many as y
- ou can! There will be snack and dr
- inks and chances to win prizes! Br
- ing your own camp chairs to relax 
- in when finished or in between loo
- ps. Join us at any time! \nReach ou
- t to Jeff or Molly for more inform
- ation!\n\nhttps://www.facebook.com/e
- vents/1016755653676516/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241215T151338Z
-LAST-MODIFIED:20241215T151338Z
-CREATED:20241215T151338Z
-SEQUENCE:0
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20250524T143000Z
-DTEND:20250524T153000Z
-UID:e945486960372917@facebook.com
-SUMMARY:Park Run
-LOCATION:Jan Alfano Trail behind Dog Park o
- n Willow Creek Rd
-URL:https://www.facebook.com/events/945486783706268/?event_time_id=945486960372917
-DESCRIPTION:Join us every Saturday at 7:30 beh
- ind the Dog Park for 5K run or wal
- k.  www.parkrun.us/janalfanotrail/
- \n\nhttps://www.facebook.com/events/
- 945486783706268/?event_time_id=945
- 486960372917
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250321T144609Z
-LAST-MODIFIED:20250321T144609Z
-CREATED:20250321T144427Z
-SEQUENCE:102
-ORGANIZER;CN=Andrew Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20250523T003000Z
-DTEND:20250523T013000Z
-UID:e8984253958341827@facebook.com
-SUMMARY:Thursday Social Run
-LOCATION:Fleet Feet - 122 N Cortez St #100\,
-  Prescott\, AZ 86301
-URL:https://www.facebook.com/events/8984253925008497/?event_time_id=8984253958341827
-DESCRIPTION:Meet at Fleet Feet\, go for a run. 
- All paces welcome!\n\nhttps://www.fa
- cebook.com/events/8984253925008497
- /?event_time_id=8984253958341827
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250507T201036Z
-LAST-MODIFIED:20250507T201036Z
-CREATED:20250507T201036Z
-SEQUENCE:0
-ORGANIZER;CN=Paula Olson:MAILTO:noreply@facebookmail.com
-DTSTART:20250521T130000Z
-DTEND:20250521T160000Z
-UID:e1196049251978622@facebook.com
-SUMMARY:Vert club run
-LOCATION:Thumb Butte Pic Area\, Prescott\, AZ
-  86305\, United States
-URL:https://www.facebook.com/events/1196049238645290/?event_time_id=1196049251978622
-DESCRIPTION:Loop the Butte event is coming up.
-  Get some training in before May 2
- 6th. One loop is a tad under 2 mil
- es. Go at your own pace. Trail 33.
-  Parking is free on Wed. Gates ope
- n at 6 am.\n\nhttps://www.facebook.c
- om/events/1196049238645290/?event_
- time_id=1196049251978622
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250422T210657Z
-LAST-MODIFIED:20250422T210657Z
-CREATED:20250422T210657Z
-SEQUENCE:0
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20250521T003000Z
-DTEND:20250521T033000Z
-UID:e1019556472964189@facebook.com
-SUMMARY:Tuesday Group Run- White Rock 
-URL:https://www.facebook.com/events/1019556472964189/
-DESCRIPTION:We will meet at White Rock Parking
-  lot (link here https://goo.gl/map
- s/YN2uMvQnyQWTM9JK7) at 5:30pm. \n\n
- No-drop group run of approximately
-  5 miles. No-drop means we stop at
-  every intersection and wait for e
- veryone. \n\nBring water :)\n\n\n\n\n\n\nht
- tps://www.facebook.com/events/1019
- 556472964189/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
