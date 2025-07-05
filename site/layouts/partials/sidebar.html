@@ -31,11 +31,11 @@
     }
   </style>
   <div class="container sidebar-sticky">
-    <div class="logo"><a src="{{ .Site.BaseURL }}"><img class="hideable" src="{{ .Site.Params.logo }}" alt="Whiskey Row Brew Club" width="250pt" /></a></div>
+    <div class="logo"><a src="{{ .Site.BaseURL }}"><img class="hideable" src="{{ .Site.Params.logo }}" alt="{{ .Site.Params.description }}" width="250pt" /></a></div>
     <nav>
       <ul class="sidebar-nav">
         <li id="homeword"><a href="{{ .Site.BaseURL }}">Home</a> </li>
-        <li id="homeimg"><a href="{{ .Site.BaseURL }}"><img src="{{ .Site.Params.logo }}" alt="Whiskey Row Brew Club" width="100pt" /></a></a> </li>
+        <li id="homeimg"><a href="{{ .Site.BaseURL }}"><img src="{{ .Site.Params.logo }}" alt="{{ .Site.Params.description }}" width="100pt" /></a></a> </li>
         {{ range .Site.Menus.main -}}
           <li><a href="{{.URL}}"> {{ .Name }} </a></li>
         {{- end }}
