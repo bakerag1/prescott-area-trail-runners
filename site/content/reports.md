@@ -6,4 +6,4 @@ tags: [Page]
 order: 3
 ---
 
-{{< race-reports >}}
+{{% race-reports %}}

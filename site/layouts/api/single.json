@@ -1,0 +1,4 @@
+{
+  "buildDate":"{{ .Site.Lastmod }}",
+  "pages":"{{ len .Site.Pages }}" 
+}

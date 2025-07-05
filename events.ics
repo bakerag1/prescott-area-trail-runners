@@ -1063,6 +1063,29 @@ STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20250703T203056Z
+LAST-MODIFIED:20250703T203056Z
+CREATED:20250703T203056Z
+SEQUENCE:0
+ORGANIZER;CN=Paula Olson:MAILTO:noreply@facebookmail.com
+DTSTART:20250730T130000Z
+DTEND:20250730T160000Z
+UID:e698951446296551@facebook.com
+SUMMARY:Vert Club Run
+LOCATION:Thumb Butte Pic Area\, Prescott\, AZ
+  86305\, United States
+URL:https://www.facebook.com/events/698951446296551/
+DESCRIPTION:Trail 33 loops. Go at your own pac
+ e and as many loops as you like. O
+ ne loop is a tad under two miles. 
+ Gates open at 6 am and parking is 
+ free on Wednesday.\n\nhttps://www.fa
+ cebook.com/events/698951446296551/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20250624T174412Z
 LAST-MODIFIED:20250624T174412Z
 CREATED:20250624T174412Z
@@ -1159,6 +1182,30 @@ DESCRIPTION:Meet at the track at 4pm and do so
  tretching\n\nhttps://www.facebook.co
  m/events/1055890543181790/?event_t
  ime_id=1055890563181788
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250703T202831Z
+LAST-MODIFIED:20250703T202831Z
+CREATED:20250703T202831Z
+SEQUENCE:0
+ORGANIZER;CN=Paula Olson:MAILTO:noreply@facebookmail.com
+DTSTART:20250723T130000Z
+DTEND:20250723T160000Z
+UID:e1050654217133419@facebook.com
+SUMMARY:Vert Club Run
+LOCATION:Thumb Butte Pic Area\, Prescott\, AZ
+  86305\, United States
+URL:https://www.facebook.com/events/1050654217133419/
+DESCRIPTION:Trail 33 loops. Go at your own pac
+ e and as many loops as you like. O
+ ne loop is a tad under two miles. 
+ Gates open at 6 am and parking is 
+ free on Wednesday.\n\nhttps://www.fa
+ cebook.com/events/1050654217133419
+ /
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
@@ -1270,6 +1317,29 @@ DESCRIPTION:Meet at the track at 4pm and do so
  tretching\n\nhttps://www.facebook.co
  m/events/1055890543181790/?event_t
  ime_id=1055890553181789
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250703T202554Z
+LAST-MODIFIED:20250703T202554Z
+CREATED:20250703T202554Z
+SEQUENCE:0
+ORGANIZER;CN=Paula Olson:MAILTO:noreply@facebookmail.com
+DTSTART:20250716T130000Z
+DTEND:20250716T160000Z
+UID:e757908416807262@facebook.com
+SUMMARY:Vert Club run
+LOCATION:Thumb Butte Pic Area\, Prescott\, AZ
+  86305\, United States
+URL:https://www.facebook.com/events/757908416807262/
+DESCRIPTION:Trail 33 loops. Go at your own pac
+ e and as many loops as you like. O
+ ne loop is a tad under two miles. 
+ Gates open at 6 am and parking is 
+ free on Wednesday.\n\nhttps://www.fa
+ cebook.com/events/757908416807262/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
@@ -1387,6 +1457,30 @@ DESCRIPTION:Meet at the track at 4pm and do so
  tretching\n\nhttps://www.facebook.co
  m/events/1055890543181790/?event_t
  ime_id=1055890549848456
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250703T202146Z
+LAST-MODIFIED:20250703T202146Z
+CREATED:20250703T202146Z
+SEQUENCE:0
+ORGANIZER;CN=Paula Olson:MAILTO:noreply@facebookmail.com
+DTSTART:20250709T130000Z
+DTEND:20250709T160000Z
+UID:e1776319716649729@facebook.com
+SUMMARY:Vert Club run
+LOCATION:Thumb Butte\, Prescott\, AZ 86305\, U
+ nited States
+URL:https://www.facebook.com/events/1776319716649729/
+DESCRIPTION:Trail 33 loops. Go at your own pac
+ e and as many loops as you like. O
+ ne loop is a tad under two miles. 
+ Gates open at 6 am and parking is 
+ free on Wednesday.\n\nhttps://www.fa
+ cebook.com/events/1776319716649729
+ /
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
@@ -2049,157 +2143,6 @@ DESCRIPTION:Meet at Fleet Feet\, go for a run.
  All paces welcome!\n\nhttps://www.fa
  cebook.com/events/8984253925008497
  /?event_time_id=8984253968341826
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250422T211447Z
-LAST-MODIFIED:20250422T211447Z
-CREATED:20250422T211447Z
-SEQUENCE:0
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20250604T003000Z
-DTEND:20250604T033000Z
-UID:e696967562858615@facebook.com
-SUMMARY:Tuesday Group Run- LOWER Spence Basin
-LOCATION:https://maps.apple.com/?ll=34.5819
- 04\,-112.548972&q=Dropped%20Pin&_ex
- t=EiYpaevoe+dJQUAxxHG9OnsjXMA558AO
- 2A1LQUBB5GbvdsgiXMBQBA%3D%3D&t=h
-URL:https://www.facebook.com/events/696967562858615/
-DESCRIPTION:Will meet at LOWER Spence Springs 
- parking lot: \n\nGPS here https://ma
- ps.app.goo.gl/tvsxZcN1fCTD7FMV8?g_
- st=ic\n\nPLEASE READ THIS DESCRIPTIO
- N. \n\nWe will meet at Lower Parking
-  lot along Iron Springs\, where Spe
- nce Springs Rd meets Iron Springs 
- (trailhead). 5:30pm. Expect 4-6 mi
- les. No drop run (we stop for ever
- yone at every intersection). \n\nIf 
- the parking lot is full - plan to 
- park across Iron Springs road in t
- he open dirt area. We will meet up
-  at the Spence Springs trailhead. 
- \n\nBring water :)\n\nhttps://www.face
- book.com/events/696967562858615/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241215T151338Z
-LAST-MODIFIED:20241215T151338Z
-CREATED:20241215T151338Z
-SEQUENCE:0
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20250531T143000Z
-DTEND:20250531T153000Z
-UID:e945486953706251@facebook.com
-SUMMARY:Park Run
-LOCATION:Jan Alfano Trail behind Dog Park o
- n Willow Creek Rd
-URL:https://www.facebook.com/events/945486783706268/?event_time_id=945486953706251
-DESCRIPTION:Join us every Saturday at 7:30 beh
- ind the Dog Park for 5K run or wal
- k.  www.parkrun.us/janalfanotrail/
- \n\nhttps://www.facebook.com/events/
- 945486783706268/?event_time_id=945
- 486953706251
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250321T144609Z
-LAST-MODIFIED:20250321T144609Z
-CREATED:20250321T144427Z
-SEQUENCE:102
-ORGANIZER;CN=Andrew Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20250530T003000Z
-DTEND:20250530T013000Z
-UID:e8984253965008493@facebook.com
-SUMMARY:Thursday Social Run
-LOCATION:Fleet Feet - 122 N Cortez St #100\,
-  Prescott\, AZ 86301
-URL:https://www.facebook.com/events/8984253925008497/?event_time_id=8984253965008493
-DESCRIPTION:Meet at Fleet Feet\, go for a run. 
- All paces welcome!\n\nhttps://www.fa
- cebook.com/events/8984253925008497
- /?event_time_id=8984253965008493
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250507T201036Z
-LAST-MODIFIED:20250507T201036Z
-CREATED:20250507T201036Z
-SEQUENCE:0
-ORGANIZER;CN=Paula Olson:MAILTO:noreply@facebookmail.com
-DTSTART:20250528T130000Z
-DTEND:20250528T160000Z
-UID:e1196049245311956@facebook.com
-SUMMARY:Vert club run
-LOCATION:Thumb Butte Pic Area\, Prescott\, AZ
-  86305\, United States
-URL:https://www.facebook.com/events/1196049238645290/?event_time_id=1196049245311956
-DESCRIPTION:Loop the Butte event is coming up.
-  Get some training in before May 2
- 6th. One loop is a tad under 2 mil
- es. Go at your own pace. Trail 33.
-  Parking is free on Wed. Gates ope
- n at 6 am.\n\nhttps://www.facebook.c
- om/events/1196049238645290/?event_
- time_id=1196049245311956
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250512T193835Z
-LAST-MODIFIED:20250512T193835Z
-CREATED:20250512T193835Z
-SEQUENCE:0
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20250528T003000Z
-DTEND:20250528T020000Z
-UID:e700124772604218@facebook.com
-SUMMARY:Tuesday Group Run- Splash Trail! New Trails off the Peavine ---Jim leading! 
-URL:https://www.facebook.com/events/700124772604218/
-DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nTh
- is is a new trail recently created
- ! Jim is one of the volunteers who
-  works on creating trails and will
-  be taking us for a run on some of
-  the new additions near the Peavin
- e trail! \n\nThe run will be to the 
- new Splash Trail. We will meet at 
- the Peavine trailhead and run out 
- 1.5 miles to the  Easter Island tr
- ail. After a quarter mile up hill\,
-  we will turn on the splash trail 
- which is about .9 miles\, the last 
- third up hill. (I plan on taking a
-  half mile detour on a new trail t
- hat we are still working on off th
- e Splash trail.) Once at the top o
- f the splash trail\, we have about 
- a mile\, mostly down hill back to t
- he Peavine trail\, and then a mile 
- on the Peavine back to the parking
-  lot. About 5 miles total\, but a g
- ood variety of up and down hill. \n
- \n No drop run (we stop for everyon
- e at every intersection). \n\nWe wil
- l meet here at the Peavine trailhe
- ad by the Humane Society: https://
- g.co/kgs/AFHtnxk\n\nJim is leading! 
- (Thank you Jim!) \n\nExpect 4-6 mile
- s.\n\nBring water! \n\n\n\n\n\n\n\n\n\n\nhttps:
- //www.facebook.com/events/70012477
- 2604218/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
