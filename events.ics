@@ -1408,6 +1408,31 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20250707T231303Z
+LAST-MODIFIED:20250707T231303Z
+CREATED:20250707T231303Z
+SEQUENCE:0
+ORGANIZER;CN=Dana Kirkwood-Watts:MAILTO:noreply@facebookmail.com
+DTSTART:20250712T133000Z
+DTEND:20250712T163000Z
+UID:e1065897165078878@facebook.com
+SUMMARY:SATR PATR - Yeager Canyon repeats edition
+LOCATION:Little Yeager Canyon Trailhead
+URL:https://www.facebook.com/events/1065897165078878/
+DESCRIPTION:Meet at Little Yeager Canyon Trail
+ head off 89A for a 6:30 start time
+ . \n\nhttps://maps.app.goo.gl/M9cQnF
+ PLUjRBaZjP9\n\nThese are 6ish mile l
+ oops. I'm planning to do 4 of them
+ . Join me for one or all! It'll be
+  fun! \n\nThere will be different pa
+ ces out there. \n\nhttps://www.faceb
+ ook.com/events/1065897165078878/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20250321T144609Z
 LAST-MODIFIED:20250321T144609Z
 CREATED:20250321T144427Z
@@ -2048,101 +2073,6 @@ DESCRIPTION:\nThumb Butte loop (326\, 392\, 367):
  pp.goo.gl/au5cdA9c6hYKsccSA?g_st=i
  c\n\nBring water!\n\nhttps://www.faceb
  ook.com/events/638638382486998/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241215T151338Z
-LAST-MODIFIED:20241215T151338Z
-CREATED:20241215T151338Z
-SEQUENCE:0
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20250607T143000Z
-DTEND:20250607T153000Z
-UID:e945486793706267@facebook.com
-SUMMARY:Park Run
-LOCATION:Jan Alfano Trail behind Dog Park o
- n Willow Creek Rd
-URL:https://www.facebook.com/events/945486783706268/?event_time_id=945486793706267
-DESCRIPTION:Join us every Saturday at 7:30 beh
- ind the Dog Park for 5K run or wal
- k.  www.parkrun.us/janalfanotrail/
- \n\nhttps://www.facebook.com/events/
- 945486783706268/?event_time_id=945
- 486793706267
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250126T031647Z
-LAST-MODIFIED:20250126T031647Z
-CREATED:20250126T031647Z
-SEQUENCE:0
-ORGANIZER;CN=Triple Dare Running Company:MAILTO:noreply@facebookmail.com
-DTSTART:20250607T140000Z
-DTEND:20250607T170000Z
-UID:e1781132122687317@facebook.com
-SUMMARY:Sawmill
-LOCATION:Sawmill Trail\, Mt. Charleston
-URL:https://www.facebook.com/events/1781132122687317/
-DESCRIPTION:Taking place in the Humbolt-Toiyab
- e National Forest\, this will be an
-  epic adventure you don’t want t
- o miss!! We are hosting a solo or 
- relay race option in gorgeous Lee 
- Canyon\, Mt. Charleston. There are 
- 3 loops to run\; (this is approxima
- te mileage) loop one 5.64\, loop tw
- o 8.2\, and loop three\, 4.3 miler. 
- We have a solo 38.45m\, 26.2m\, 19.2
- 3m\, 13.1m\, 10k\, and 5k option. We 
- also have the relay option where a
- ll loops must be completed by the 
- full team and each team member pic
- ks the loop that they want to run.
-  The team member will finish 1 loo
- p and then tag out to the next run
- ner until all 3 loops are complete
- d. This is a total of 19.22 miles\,
-  or 38.45 miles when doing the cou
- rse twice as a team! All loops wil
- l be run counterclockwise\, 5\, 8 th
- en the 4-mile loop. Please chose a
-  BAD AS@ team name! Registration f
- ees – The amount shown is for th
- e full team. Please layer your clo
- thes!\n–\nFood\nWe will be grilling
-  burgers\, chicken\, and dogs around
-  noon on Saturday. There will also
-  be a variety of other hot food to
-  keep you going!  Hot coffee will 
- be served all day along with a var
- iety of salty snacks.\n\nhttps://www
- .facebook.com/events/1781132122687
- 317/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250321T144609Z
-LAST-MODIFIED:20250321T144609Z
-CREATED:20250321T144427Z
-SEQUENCE:102
-ORGANIZER;CN=Andrew Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20250606T003000Z
-DTEND:20250606T013000Z
-UID:e8984253968341826@facebook.com
-SUMMARY:Thursday Social Run
-LOCATION:Fleet Feet - 122 N Cortez St #100\,
-  Prescott\, AZ 86301
-URL:https://www.facebook.com/events/8984253925008497/?event_time_id=8984253968341826
-DESCRIPTION:Meet at Fleet Feet\, go for a run. 
- All paces welcome!\n\nhttps://www.fa
- cebook.com/events/8984253925008497
- /?event_time_id=8984253968341826
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
