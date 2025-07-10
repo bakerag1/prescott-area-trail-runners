@@ -12,11 +12,19 @@ services:
 ignoreFiles:
   - events.ics
 
-outputs:
-  section:
-    - html
-    - json
-  
+enableGitInfo: true
+
+frontmatter:
+  lastmod:
+    - :git
+    - lastmod
+    - date
+    - publishDate
+
+module:
+  imports:
+    - path: github.com/bakerag1/hugo-build-info
+
 outputFormats:
   Calendar:
     protocol: "https://"
