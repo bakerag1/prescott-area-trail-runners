@@ -634,6 +634,30 @@ STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20250714T213408Z
+LAST-MODIFIED:20250714T213408Z
+CREATED:20250714T213408Z
+SEQUENCE:0
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20250910T003000Z
+DTEND:20250910T023000Z
+UID:e747439794508613@facebook.com
+SUMMARY:Tuesday Group Run -Glassford Hill Summit 
+URL:https://www.facebook.com/events/747439794508613/
+DESCRIPTION:We are going to check-out sunset f
+ rom the top of Glassford!\n\nNo drop
+  group run! We stop at every trail
+  intersection and everyone catches
+  up before running again. Bring wa
+ ter and a friend :)\n\nLocation: \nht
+ tps://maps.app.goo.gl/fmEmWg9nYiHj
+ rp9P9\n\nhttps://www.facebook.com/ev
+ ents/747439794508613/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20241215T151338Z
 LAST-MODIFIED:20241215T151338Z
 CREATED:20241215T151338Z
@@ -673,6 +697,31 @@ DESCRIPTION:Meet at Fleet Feet\, go for a run.
  All paces welcome!\n\nhttps://www.fa
  cebook.com/events/8984253925008497
  /?event_time_id=8984254028341820
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250714T213051Z
+LAST-MODIFIED:20250714T213051Z
+CREATED:20250714T212752Z
+SEQUENCE:179
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20250903T003000Z
+DTEND:20250903T033000Z
+UID:e1661183554600427@facebook.com
+SUMMARY:Tuesday Group Run- Granite Basin
+URL:https://www.facebook.com/events/1661183554600427/
+DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
+  will meet at the cattleguard (lin
+ k here https://goo.gl/maps/CnyTC6T
+ oppAjWTcn6) at 5:30pm. \n\nExpect 5-
+ 6 miles\, all downhill (except for 
+ the uphills). No drop run (we stop
+  at every intersection and everyon
+ e catches up before running again)
+ . \n\nBring water!\n\n\nhttps://www.fac
+ ebook.com/events/1661183554600427/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
@@ -755,6 +804,32 @@ STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20250714T212509Z
+LAST-MODIFIED:20250714T212509Z
+CREATED:20250714T212509Z
+SEQUENCE:0
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20250827T003000Z
+DTEND:20250827T033000Z
+UID:e1358622231897676@facebook.com
+SUMMARY:Tuesday Group Run- White Spar 
+URL:https://www.facebook.com/events/1358622231897676/
+DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
+  will meet at the White Spar Parki
+ ng lot (link here https://goo.gl/m
+ aps/nX4JGH75u4T7R15g7) at 5:30 PM.
+  Expect 4-6 miles. No drop run (we
+  stop for everyone at every inters
+ ection). \n\nBe careful\, this is NOT
+  the usual white ROCK parking lot\,
+  this is white SPAR. \n\nBring water
+ !!!\n\n\n\nhttps://www.facebook.com/ev
+ ents/1358622231897676/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20241215T151338Z
 LAST-MODIFIED:20241215T151338Z
 CREATED:20241215T151338Z
@@ -827,6 +902,30 @@ DESCRIPTION:Meet at the track at 4pm and do so
  tretching\n\nhttps://www.facebook.co
  m/events/1055890543181790/?event_t
  ime_id=1055890569848454
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250714T212107Z
+LAST-MODIFIED:20250714T212107Z
+CREATED:20250714T212107Z
+SEQUENCE:0
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20250820T003000Z
+DTEND:20250820T033000Z
+UID:e742494141480437@facebook.com
+SUMMARY:Tuesday Group Run- White Rock 
+URL:https://www.facebook.com/events/742494141480437/
+DESCRIPTION:We will meet at White Rock Parking
+  lot (link here https://goo.gl/map
+ s/YN2uMvQnyQWTM9JK7) at 5:30pm. \n\n
+ No-drop group run of approximately
+  5 miles. No-drop means we stop at
+  every intersection and wait for e
+ veryone. \n\nBring water :)\n\n\n\n\n\n\nht
+ tps://www.facebook.com/events/7424
+ 94141480437/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
@@ -909,6 +1008,39 @@ STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20250714T212939Z
+LAST-MODIFIED:20250714T212939Z
+CREATED:20250714T211740Z
+SEQUENCE:719
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20250813T003000Z
+DTEND:20250813T033000Z
+UID:e761872209630149@facebook.com
+SUMMARY:Tuesday Group Run- Ranch 62 Trailhead
+URL:https://www.facebook.com/events/761872209630149/
+DESCRIPTION:No drop group run (we stop at ever
+ y intersection and wait for everyo
+ ne to join together again). Expect
+  5ish miles. \n\nThis trail is an ou
+ t and back\, and a great option if 
+ you want to join a group run and d
+ o a shorter distance. Those lookin
+ g for longer distances can continu
+ e ahead to the junction and do a t
+ otal of 7 miles. \n\nThe parkling lo
+ t won't close until dark - so go a
+ head and park in the trailhead par
+ king. \n\nhttps://maps.app.goo.gl/z4
+ HLncfjMvfpKqcg8?g_st=ic (will post
+  map location in comments to make 
+ it easier to copy/paste into map a
+ pps)\n\nBring water!\n\nhttps://www.fa
+ cebook.com/events/761872209630149/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20241215T151338Z
 LAST-MODIFIED:20241215T151338Z
 CREATED:20241215T151338Z
@@ -981,6 +1113,43 @@ DESCRIPTION:Meet at the track at 4pm and do so
  tretching\n\nhttps://www.facebook.co
  m/events/1055890543181790/?event_t
  ime_id=1055890566515121
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250714T210554Z
+LAST-MODIFIED:20250714T210554Z
+CREATED:20250714T210315Z
+SEQUENCE:159
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20250806T003000Z
+DTEND:20250806T023000Z
+UID:e1263242092259347@facebook.com
+SUMMARY:Tuesday Group Run- Ecosa Trail ---Jim leading! 
+URL:https://www.facebook.com/events/1263242092259347/
+DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
+  will run about 5.7 miles with abo
+ ut half of the run being flat trai
+ ls on or near the Willow Lake loop
+  trail. The other half of the run 
+ will be on rolling hills in the gr
+ anite dells behind Willow lake. Th
+ ere are a few short up hill climbs
+ .\n\nJim is one of the volunteers wh
+ o works on creating trails and wil
+ l be leading this run! (Thank you 
+ Jim!)\n\n No drop run (we stop for e
+ veryone at every intersection). \n\n
+ We will meet at the trailhead by W
+ illow Lake\, near the dog park\, off
+  of Willow Creek Rd. \n\nParking loc
+ ation: https://maps.app.goo.gl/gzg
+ qpmZEDwNHbpMQ7 (will copy in comme
+ nts to make it easier to copy/past
+ e)\n\nBring water! \n\n\n\nhttps://www.f
+ acebook.com/events/126324209225934
+ 7/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
@@ -1287,6 +1456,34 @@ DESCRIPTION:Meet at Fleet Feet\, go for a run.
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250710T154531Z
+LAST-MODIFIED:20250710T154531Z
+CREATED:20250710T153332Z
+SEQUENCE:719
+ORGANIZER;CN=Fleet Feet Prescott:MAILTO:noreply@facebookmail.com
+DTSTART:20250717T010000Z
+DTEND:20250717T040000Z
+UID:e1092160586207706@facebook.com
+SUMMARY:Pub Run @The Office
+URL:https://www.facebook.com/events/1092160586207706/
+DESCRIPTION:Join us for our FIRST pub run!!!\n\n
+ New Balance will be there with dem
+ o shoes! \nWe will be playing Poker
+  in teams as a joint effort!!!! Co
+ me find out how we do this!!! We w
+ ill have prizes and raffles!!\n\nAll
+  paces welcome- walkers and runner
+ s!! \n\nThe Office will be holding t
+ heir happy hour open for Runners o
+ nly! \nCome join in the fun you won
+ ’t want to miss it!\nCan’t wait
+  to see you all!!\n\nhttps://www.fac
+ ebook.com/events/1092160586207706/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20250619T164249Z
@@ -1847,234 +2044,5 @@ DESCRIPTION:Join us in the pines of Flagstaff
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241215T151338Z
-LAST-MODIFIED:20241215T151338Z
-CREATED:20241215T151338Z
-SEQUENCE:0
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20250621T143000Z
-DTEND:20250621T153000Z
-UID:e945486957039584@facebook.com
-SUMMARY:Park Run
-LOCATION:Jan Alfano Trail behind Dog Park o
- n Willow Creek Rd
-URL:https://www.facebook.com/events/945486783706268/?event_time_id=945486957039584
-DESCRIPTION:Join us every Saturday at 7:30 beh
- ind the Dog Park for 5K run or wal
- k.  www.parkrun.us/janalfanotrail/
- \n\nhttps://www.facebook.com/events/
- 945486783706268/?event_time_id=945
- 486957039584
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250321T144609Z
-LAST-MODIFIED:20250321T144609Z
-CREATED:20250321T144427Z
-SEQUENCE:102
-ORGANIZER;CN=Andrew Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20250620T003000Z
-DTEND:20250620T013000Z
-UID:e8984253978341825@facebook.com
-SUMMARY:Thursday Social Run
-LOCATION:Fleet Feet - 122 N Cortez St #100\,
-  Prescott\, AZ 86301
-URL:https://www.facebook.com/events/8984253925008497/?event_time_id=8984253978341825
-DESCRIPTION:Meet at Fleet Feet\, go for a run. 
- All paces welcome!\n\nhttps://www.fa
- cebook.com/events/8984253925008497
- /?event_time_id=8984253978341825
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250610T221856Z
-LAST-MODIFIED:20250610T221856Z
-CREATED:20250610T221856Z
-SEQUENCE:0
-ORGANIZER;CN=Paula Olson:MAILTO:noreply@facebookmail.com
-DTSTART:20250618T130000Z
-DTEND:20250618T160000Z
-UID:e769591348729702@facebook.com
-SUMMARY:Vert club run
-LOCATION:Thumb Butte Hiking Trail
-URL:https://www.facebook.com/events/769591348729702/
-DESCRIPTION:Trail 33 from the picnic parking l
- ot. Gate opens at 6 am. One loop i
- s a tad under two miles. Parking i
- s free on Wednesday. Your pace and
-  distance. \n\nhttps://www.facebook.
- com/events/769591348729702/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250512T195047Z
-LAST-MODIFIED:20250512T195047Z
-CREATED:20250512T195007Z
-SEQUENCE:40
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20250618T003000Z
-DTEND:20250618T033000Z
-UID:e1371157793929695@facebook.com
-SUMMARY:Tuesday Group Run -Yeager Loop 
-URL:https://www.facebook.com/events/1371157793929695/
-DESCRIPTION:No drop group run - we stop at eve
- ry intersection and wait for every
- one to catch up before running aga
- in. \n\nThis loop is a bit of a driv
- e but its one of the best in the a
- rea! From rocks and desert to pine
- s and forest -this loop has it all
- ! The first two miles involve a lo
- t of elevation gain (expect 1000 f
- t) followed by two miles of rollin
- g hills and 2 miles of downhill wi
- th an epic view! If you survive th
- e first two miles you will agree i
- ts all worth it by the end :) \n\nBr
- ing water!! That hill is full sun.
- \n\nDirections: Drive up Hwy 89 head
- ed away from PV toward Jerome -loo
- k for the trailhead off to the rig
- ht on the side of the road - befor
- e you get to the curvy part. \n\n34.
- 683710184733656\, -112.174967815008
- 02\n\nhttps://www.facebook.com/event
- s/1371157793929695/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241215T151338Z
-LAST-MODIFIED:20241215T151338Z
-CREATED:20241215T151338Z
-SEQUENCE:0
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20250614T143000Z
-DTEND:20250614T153000Z
-UID:e945486833706263@facebook.com
-SUMMARY:Park Run
-LOCATION:Jan Alfano Trail behind Dog Park o
- n Willow Creek Rd
-URL:https://www.facebook.com/events/945486783706268/?event_time_id=945486833706263
-DESCRIPTION:Join us every Saturday at 7:30 beh
- ind the Dog Park for 5K run or wal
- k.  www.parkrun.us/janalfanotrail/
- \n\nhttps://www.facebook.com/events/
- 945486783706268/?event_time_id=945
- 486833706263
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250321T144609Z
-LAST-MODIFIED:20250321T144609Z
-CREATED:20250321T144427Z
-SEQUENCE:102
-ORGANIZER;CN=Andrew Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20250613T003000Z
-DTEND:20250613T013000Z
-UID:e8984253998341823@facebook.com
-SUMMARY:Thursday Social Run
-LOCATION:Fleet Feet - 122 N Cortez St #100\,
-  Prescott\, AZ 86301
-URL:https://www.facebook.com/events/8984253925008497/?event_time_id=8984253998341823
-DESCRIPTION:Meet at Fleet Feet\, go for a run. 
- All paces welcome!\n\nhttps://www.fa
- cebook.com/events/8984253925008497
- /?event_time_id=8984253998341823
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250610T163139Z
-LAST-MODIFIED:20250610T163139Z
-CREATED:20250610T162920Z
-SEQUENCE:139
-ORGANIZER;CN=Thomas Camargo:MAILTO:noreply@facebookmail.com
-DTSTART:20250611T140000Z
-DTEND:20250611T170000Z
-UID:e1070768845118327@facebook.com
-SUMMARY:WWW - Watson Woods Wednesday 
-LOCATION:Trailhead at Rosser and 89 light.
-URL:https://www.facebook.com/events/1070768845118327/
-DESCRIPTION:We start at the trailhead at Rosse
- r and 89 (light) and will run a sh
- ort distance through the Watson wo
- ods and connect with Sundog trail.
-   \nI plan to do 4-6 depending on g
- roup input.  My pace will be 1/2 w
- alk and 1/2 run.  It’s an out an
- d back\, so run your own pace\, hard
-  to get lost on this one.😊\n\nhtt
- ps://www.facebook.com/events/10707
- 68845118327/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250604T200853Z
-LAST-MODIFIED:20250604T200853Z
-CREATED:20250604T200853Z
-SEQUENCE:0
-ORGANIZER;CN=Paula Olson:MAILTO:noreply@facebookmail.com
-DTSTART:20250611T130000Z
-DTEND:20250611T160000Z
-UID:e1372217900746351@facebook.com
-SUMMARY:Vert Club run
-LOCATION:Thumb Butte\, Prescott\, AZ 86305\, U
- nited States
-URL:https://www.facebook.com/events/1372217900746351/
-DESCRIPTION:Come out and run loops at Thumb Bu
- tte. 1 loop is a tad under 2 miles
- . Go at your own pace and as many 
- times as you like. Parking is free
-  on Wed\, gate opens at 6 am.\n\nhttp
- s://www.facebook.com/events/137221
- 7900746351/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250512T195322Z
-LAST-MODIFIED:20250512T195322Z
-CREATED:20250512T195322Z
-SEQUENCE:0
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20250611T003000Z
-DTEND:20250611T033000Z
-UID:e638638382486998@facebook.com
-SUMMARY:Tuesday Group Run- Thumb Butte Loop- Cindy leading! 
-URL:https://www.facebook.com/events/638638382486998/
-DESCRIPTION:\nThumb Butte loop (326\, 392\, 367):
-  4.7 miles\, 784 ft of elevation ga
- in. Meet at the Thumb Butte Parkin
- g lot (paid parking or national pa
- rks pass). This is a no-drop group
-  run\, and we will stop at each int
- ersection to allow everyone to cat
- ch up (physically and socially\, LO
- L) before continuing the run. \n\nTh
- umb Butte Trail 326\, 392\, and 367 
- on AllTrails - we will do it in re
- verse for this run\n\nhttps://maps.a
- pp.goo.gl/au5cdA9c6hYKsccSA?g_st=i
- c\n\nBring water!\n\nhttps://www.faceb
- ook.com/events/638638382486998/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
 END:VEVENT
 END:VCALENDAR
