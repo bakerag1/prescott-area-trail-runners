@@ -1372,6 +1372,43 @@ STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20250729T235242Z
+LAST-MODIFIED:20250729T235242Z
+CREATED:20250714T210315Z
+SEQUENCE:1306167
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20250806T003000Z
+DTEND:20250806T023000Z
+UID:e1263242092259347@facebook.com
+SUMMARY:Tuesday Group Run- Ecosa Trail ---Jim leading! 
+URL:https://www.facebook.com/events/1263242092259347/
+DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
+  will run about 5.7 miles with abo
+ ut half of the run being flat trai
+ ls on or near the Willow Lake loop
+  trail. The other half of the run 
+ will be on rolling hills in the gr
+ anite dells behind Willow lake. Th
+ ere are a few short up hill climbs
+ .\n\nJim is one of the volunteers wh
+ o works on creating trails and wil
+ l be leading this run! (Thank you 
+ Jim!)\n\n No drop run (we stop for e
+ veryone at every intersection). \n\n
+ We will meet at the trailhead by W
+ illow Lake\, near the dog park\, off
+  of Willow Creek Rd. \n\nParking loc
+ ation: https://maps.app.goo.gl/gzg
+ qpmZEDwNHbpMQ7 (will copy in comme
+ nts to make it easier to copy/past
+ e)\n\nBring water! \n\n\n\nhttps://www.f
+ acebook.com/events/126324209225934
+ 7/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20250729T235407Z
 LAST-MODIFIED:20250729T235407Z
 CREATED:20250729T235407Z
@@ -2027,90 +2064,5 @@ DESCRIPTION:Join us every Saturday at 7:30 beh
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250321T144609Z
-LAST-MODIFIED:20250321T144609Z
-CREATED:20250321T144427Z
-SEQUENCE:102
-ORGANIZER;CN=Andrew Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20250704T003000Z
-DTEND:20250704T013000Z
-UID:e8984253931675163@facebook.com
-SUMMARY:Thursday Social Run
-LOCATION:Fleet Feet - 122 N Cortez St #100\,
-  Prescott\, AZ 86301
-URL:https://www.facebook.com/events/8984253925008497/?event_time_id=8984253931675163
-DESCRIPTION:Meet at Fleet Feet\, go for a run. 
- All paces welcome!\n\nhttps://www.fa
- cebook.com/events/8984253925008497
- /?event_time_id=8984253931675163
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250619T164249Z
-LAST-MODIFIED:20250619T164249Z
-CREATED:20250619T164249Z
-SEQUENCE:0
-ORGANIZER;CN=Andrew Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20250702T230000Z
-DTEND:20250703T000000Z
-UID:e1055890576515120@facebook.com
-SUMMARY:PATR Track Pack
-LOCATION:Prescott High School
-URL:https://www.facebook.com/events/1055890543181790/?event_time_id=1055890576515120
-DESCRIPTION:Meet at the track at 4pm and do so
- me laps in the heat!\n\nbring water!
- \n\nHere's the workout plan (startin
- g 6/11)\, but you do you \n\n2 to 4 l
- aps warmup\ndynamic stretching\n12 l
- aps at conversational pace with th
- e following exceptions\n    weeks 1
- -3 laps 4\, 8\, and 12 at lactic thr
- eshold\n    weeks 4-6 laps 3\, 6\, 9\,
-  and 12 at lactic threshold\n    we
- eks 7-9 laps 2\, 4\, 6\, 8\, and 12 at
-  lactic threshold\n    weeks 10-12 
- laps 3\, 4\, 7\,  8\, 11\, and 12 at la
- ctic threshold\n1-4 laps cooldown\ns
- tretching\n\nhttps://www.facebook.co
- m/events/1055890543181790/?event_t
- ime_id=1055890576515120
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250512T194548Z
-LAST-MODIFIED:20250512T194548Z
-CREATED:20250512T194548Z
-SEQUENCE:0
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20250702T003000Z
-DTEND:20250702T033000Z
-UID:e571518398875341@facebook.com
-SUMMARY:Tuesday Group Run - Run to Hot Shot Alligator Juniper! 
-URL:https://www.facebook.com/events/571518398875341/
-DESCRIPTION:We will run to the giant alligator
-  juniper\, made famous by the Grani
- te Mtn Hotshots! The run will be t
- he day after the anniversary of th
- e 19.  \n\nThis is a no-drop run so 
- we will stop at every intersection
-  and allow everyone to catch up! E
- xpect 5 miles total on an out and 
- back. \n\nBring water!\n\nGiant Alliga
- tor Juniper Trail on AllTrails\nhtt
- ps://www.alltrails.com/trail/us/ar
- izona/giant-alligator-juniper-trai
- l?sh=skmyyj\n\nTrailhead location: 3
- 4.60987\, -112.60828\n\n\nhttps://www.
- facebook.com/events/57151839887534
- 1/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
 END:VEVENT
 END:VCALENDAR
