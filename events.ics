@@ -1372,43 +1372,6 @@ STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250729T235242Z
-LAST-MODIFIED:20250729T235242Z
-CREATED:20250714T210315Z
-SEQUENCE:1306167
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20250806T003000Z
-DTEND:20250806T023000Z
-UID:e1263242092259347@facebook.com
-SUMMARY:Tuesday Group Run- Ecosa Trail ---Jim leading! 
-URL:https://www.facebook.com/events/1263242092259347/
-DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
-  will run about 5.7 miles with abo
- ut half of the run being flat trai
- ls on or near the Willow Lake loop
-  trail. The other half of the run 
- will be on rolling hills in the gr
- anite dells behind Willow lake. Th
- ere are a few short up hill climbs
- .\n\nJim is one of the volunteers wh
- o works on creating trails and wil
- l be leading this run! (Thank you 
- Jim!)\n\n No drop run (we stop for e
- veryone at every intersection). \n\n
- We will meet at the trailhead by W
- illow Lake\, near the dog park\, off
-  of Willow Creek Rd. \n\nParking loc
- ation: https://maps.app.goo.gl/gzg
- qpmZEDwNHbpMQ7 (will copy in comme
- nts to make it easier to copy/past
- e)\n\nBring water! \n\n\n\nhttps://www.f
- acebook.com/events/126324209225934
- 7/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20250729T235407Z
 LAST-MODIFIED:20250729T235407Z
 CREATED:20250729T235407Z
