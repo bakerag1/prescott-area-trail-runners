@@ -1033,6 +1033,30 @@ STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20250805T190328Z
+LAST-MODIFIED:20250805T190328Z
+CREATED:20250805T190328Z
+SEQUENCE:0
+ORGANIZER;CN=Paula Olson:MAILTO:noreply@facebookmail.com
+DTSTART:20250827T130000Z
+DTEND:20250827T160000Z
+UID:e1409452047020673@facebook.com
+SUMMARY:Vert Club Run
+LOCATION:Thumb Butte Pic Area\, Prescott\, AZ
+  86305\, United States
+URL:https://www.facebook.com/events/1409452047020673/
+DESCRIPTION:Trail 33 loops. Go at your own pac
+ e and as many loops as you like. O
+ ne loop is a tad under two miles. 
+ Gates open at 6 am and parking is 
+ free on Wednesday.\n\nhttps://www.fa
+ cebook.com/events/1409452047020673
+ /
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20250714T212509Z
 LAST-MODIFIED:20250714T212509Z
 CREATED:20250714T212509Z
@@ -1161,6 +1185,30 @@ STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20250805T190150Z
+LAST-MODIFIED:20250805T190150Z
+CREATED:20250805T190150Z
+SEQUENCE:0
+ORGANIZER;CN=Paula Olson:MAILTO:noreply@facebookmail.com
+DTSTART:20250820T130000Z
+DTEND:20250820T160000Z
+UID:e1155961756312754@facebook.com
+SUMMARY:Vert Club Run
+LOCATION:Thumb Butte Pic Area\, Prescott\, AZ
+  86305\, United States
+URL:https://www.facebook.com/events/1155961756312754/
+DESCRIPTION:Trail 33 loops. Go at your own pac
+ e and as many loops as you like. O
+ ne loop is a tad under two miles. 
+ Gates open at 6 am and parking is 
+ free on Wednesday.\n\nhttps://www.fa
+ cebook.com/events/1155961756312754
+ /
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20250714T212107Z
 LAST-MODIFIED:20250714T212107Z
 CREATED:20250714T212107Z
@@ -1257,6 +1305,30 @@ DESCRIPTION:Meet at the track at 4pm and do so
  tretching\n\nhttps://www.facebook.co
  m/events/1055890543181790/?event_t
  ime_id=1055890556515122
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250805T190014Z
+LAST-MODIFIED:20250805T190014Z
+CREATED:20250805T190014Z
+SEQUENCE:0
+ORGANIZER;CN=Paula Olson:MAILTO:noreply@facebookmail.com
+DTSTART:20250813T130000Z
+DTEND:20250813T160000Z
+UID:e2773426229523464@facebook.com
+SUMMARY:Vert Club run
+LOCATION:Thumb Butte Pic Area\, Prescott\, AZ
+  86305\, United States
+URL:https://www.facebook.com/events/2773426229523464/
+DESCRIPTION:Trail 33 loops. Go at your own pac
+ e and as many loops as you like. O
+ ne loop is a tad under two miles. 
+ Gates open at 6 am and parking is 
+ free on Wednesday.\n\nhttps://www.fa
+ cebook.com/events/2773426229523464
+ /
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
@@ -1367,6 +1439,30 @@ DESCRIPTION:Meet at the track at 4pm and do so
  tretching\n\nhttps://www.facebook.co
  m/events/1055890543181790/?event_t
  ime_id=1055890566515121
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250805T185829Z
+LAST-MODIFIED:20250805T185829Z
+CREATED:20250805T185829Z
+SEQUENCE:0
+ORGANIZER;CN=Paula Olson:MAILTO:noreply@facebookmail.com
+DTSTART:20250806T130000Z
+DTEND:20250806T160000Z
+UID:e1260007302486583@facebook.com
+SUMMARY:Vert Club Run
+LOCATION:Thumb Butte Pic Area\, Prescott\, AZ
+  86305\, United States
+URL:https://www.facebook.com/events/1260007302486583/
+DESCRIPTION:Trail 33 loops. Go at your own pac
+ e and as many loops as you like. O
+ ne loop is a tad under two miles. 
+ Gates open at 6 am and parking is 
+ free on Wednesday.\n\nhttps://www.fa
+ cebook.com/events/1260007302486583
+ /
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
@@ -2004,28 +2100,5 @@ DESCRIPTION:We are going to run Salida Gulch.
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241215T151338Z
-LAST-MODIFIED:20241215T151338Z
-CREATED:20241215T151338Z
-SEQUENCE:0
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20250705T143000Z
-DTEND:20250705T153000Z
-UID:e945486813706265@facebook.com
-SUMMARY:Park Run
-LOCATION:Jan Alfano Trail behind Dog Park o
- n Willow Creek Rd
-URL:https://www.facebook.com/events/945486783706268/?event_time_id=945486813706265
-DESCRIPTION:Join us every Saturday at 7:30 beh
- ind the Dog Park for 5K run or wal
- k.  www.parkrun.us/janalfanotrail/
- \n\nhttps://www.facebook.com/events/
- 945486783706268/?event_time_id=945
- 486813706265
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
 END:VEVENT
 END:VCALENDAR
