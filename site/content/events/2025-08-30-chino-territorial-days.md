@@ -2,7 +2,7 @@
 title: "27th Annual Territorial Days 10k & 2 Mile and Virtual 10k and 5k"
 date: 2025-08-19T09:01:20-0700
 startdate: 2025-08-30T07:00:00-0700
-enddate: 2025-xx-xxT11:00:00-0700
+enddate: 2025-08-30T11:00:00-0700
 external_url: https://runsignup.com/Race/AZ/ChinoValley/TerritorialDaysFunRun
 layout: post
 outputs:
