@@ -72,6 +72,45 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20250424T155646Z
+LAST-MODIFIED:20250424T155646Z
+CREATED:20250424T155646Z
+SEQUENCE:0
+ORGANIZER;CN=RunSedona:MAILTO:noreply@facebookmail.com
+DTSTART:20260207T150000Z
+DTEND:20260207T180000Z
+UID:e1248590886666478@facebook.com
+SUMMARY:RunSedona
+LOCATION:Cultural Park Pl\, Sedona\, AZ\, Unit
+ ed States\, Arizona 86336
+URL:https://www.facebook.com/events/1248590886666478/
+DESCRIPTION:Join us for the 21st annual RunSed
+ ona on February 7-8\, 2026\, in the 
+ breathtaking landscapes of Sedona\,
+  Arizona! This premier running eve
+ nt features a Half Marathon\, 10K\, 
+ 5K\, and a family-friendly 5K Walk 
+ on Saturday\, February 7\, winding t
+ hrough the iconic Red Rocks and sc
+ enic streets of one of the "Top Te
+ n Most Beautiful Places" (as haile
+ d by travel magazines). \n\nOn Sunda
+ y\, February 8\, experience the uniq
+ ue Run the Runway\, a 1-mile run or
+  walk on the stunning Sedona Airpo
+ rt runway\, perfect for all ages an
+ d abilities. With courses showcasi
+ ng iron-clad rock formations and a
+  vibrant community atmosphere\, Run
+ Sedona is a bucket-list race consi
+ stently ranked among the USA’s b
+ est. \n\nhttps://www.facebook.com/ev
+ ents/1248590886666478/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20241215T151338Z
 LAST-MODIFIED:20241215T151338Z
 CREATED:20241215T151338Z
@@ -1468,6 +1507,43 @@ STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20250729T235242Z
+LAST-MODIFIED:20250729T235242Z
+CREATED:20250714T210315Z
+SEQUENCE:1306167
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20250806T003000Z
+DTEND:20250806T023000Z
+UID:e1263242092259347@facebook.com
+SUMMARY:Tuesday Group Run- Ecosa Trail ---Jim leading! 
+URL:https://www.facebook.com/events/1263242092259347/
+DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
+  will run about 5.7 miles with abo
+ ut half of the run being flat trai
+ ls on or near the Willow Lake loop
+  trail. The other half of the run 
+ will be on rolling hills in the gr
+ anite dells behind Willow lake. Th
+ ere are a few short up hill climbs
+ .\n\nJim is one of the volunteers wh
+ o works on creating trails and wil
+ l be leading this run! (Thank you 
+ Jim!)\n\n No drop run (we stop for e
+ veryone at every intersection). \n\n
+ We will meet at the trailhead by W
+ illow Lake\, near the dog park\, off
+  of Willow Creek Rd. \n\nParking loc
+ ation: https://maps.app.goo.gl/gzg
+ qpmZEDwNHbpMQ7 (will copy in comme
+ nts to make it easier to copy/past
+ e)\n\nBring water! \n\n\n\nhttps://www.f
+ acebook.com/events/126324209225934
+ 7/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20250729T235407Z
 LAST-MODIFIED:20250729T235407Z
 CREATED:20250729T235407Z
@@ -1762,341 +1838,6 @@ DESCRIPTION:We will meet at the Metate trailhe
  \, -112.55129524602948\n\nhttps://www
  .facebook.com/events/3920987108215
  130/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241215T151338Z
-LAST-MODIFIED:20241215T151338Z
-CREATED:20241215T151338Z
-SEQUENCE:0
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20250719T143000Z
-DTEND:20250719T153000Z
-UID:e945486807039599@facebook.com
-SUMMARY:Park Run
-LOCATION:Jan Alfano Trail behind Dog Park o
- n Willow Creek Rd
-URL:https://www.facebook.com/events/945486783706268/?event_time_id=945486807039599
-DESCRIPTION:Join us every Saturday at 7:30 beh
- ind the Dog Park for 5K run or wal
- k.  www.parkrun.us/janalfanotrail/
- \n\nhttps://www.facebook.com/events/
- 945486783706268/?event_time_id=945
- 486807039599
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250321T144609Z
-LAST-MODIFIED:20250321T144609Z
-CREATED:20250321T144427Z
-SEQUENCE:102
-ORGANIZER;CN=Andrew Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20250718T003000Z
-DTEND:20250718T013000Z
-UID:e8984253971675159@facebook.com
-SUMMARY:Thursday Social Run
-LOCATION:Fleet Feet - 122 N Cortez St #100\,
-  Prescott\, AZ 86301
-URL:https://www.facebook.com/events/8984253925008497/?event_time_id=8984253971675159
-DESCRIPTION:Meet at Fleet Feet\, go for a run. 
- All paces welcome!\n\nhttps://www.fa
- cebook.com/events/8984253925008497
- /?event_time_id=8984253971675159
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250710T154531Z
-LAST-MODIFIED:20250710T154531Z
-CREATED:20250710T153332Z
-SEQUENCE:719
-ORGANIZER;CN=Fleet Feet Prescott:MAILTO:noreply@facebookmail.com
-DTSTART:20250717T010000Z
-DTEND:20250717T040000Z
-UID:e1092160586207706@facebook.com
-SUMMARY:Pub Run @The Office
-URL:https://www.facebook.com/events/1092160586207706/
-DESCRIPTION:Join us for our FIRST pub run!!!\n\n
- New Balance will be there with dem
- o shoes! \nWe will be playing Poker
-  in teams as a joint effort!!!! Co
- me find out how we do this!!! We w
- ill have prizes and raffles!!\n\nAll
-  paces welcome- walkers and runner
- s!! \n\nThe Office will be holding t
- heir happy hour open for Runners o
- nly! \nCome join in the fun you won
- ’t want to miss it!\nCan’t wait
-  to see you all!!\n\nhttps://www.fac
- ebook.com/events/1092160586207706/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250619T164249Z
-LAST-MODIFIED:20250619T164249Z
-CREATED:20250619T164249Z
-SEQUENCE:0
-ORGANIZER;CN=Andrew Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20250716T230000Z
-DTEND:20250717T000000Z
-UID:e1055890553181789@facebook.com
-SUMMARY:PATR Track Pack
-LOCATION:Prescott High School
-URL:https://www.facebook.com/events/1055890543181790/?event_time_id=1055890553181789
-DESCRIPTION:Meet at the track at 4pm and do so
- me laps in the heat!\n\nbring water!
- \n\nHere's the workout plan (startin
- g 6/11)\, but you do you \n\n2 to 4 l
- aps warmup\ndynamic stretching\n12 l
- aps at conversational pace with th
- e following exceptions\n    weeks 1
- -3 laps 4\, 8\, and 12 at lactic thr
- eshold\n    weeks 4-6 laps 3\, 6\, 9\,
-  and 12 at lactic threshold\n    we
- eks 7-9 laps 2\, 4\, 6\, 8\, and 12 at
-  lactic threshold\n    weeks 10-12 
- laps 3\, 4\, 7\,  8\, 11\, and 12 at la
- ctic threshold\n1-4 laps cooldown\ns
- tretching\n\nhttps://www.facebook.co
- m/events/1055890543181790/?event_t
- ime_id=1055890553181789
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250703T202554Z
-LAST-MODIFIED:20250703T202554Z
-CREATED:20250703T202554Z
-SEQUENCE:0
-ORGANIZER;CN=Paula Olson:MAILTO:noreply@facebookmail.com
-DTSTART:20250716T130000Z
-DTEND:20250716T160000Z
-UID:e757908416807262@facebook.com
-SUMMARY:Vert Club run
-LOCATION:Thumb Butte Pic Area\, Prescott\, AZ
-  86305\, United States
-URL:https://www.facebook.com/events/757908416807262/
-DESCRIPTION:Trail 33 loops. Go at your own pac
- e and as many loops as you like. O
- ne loop is a tad under two miles. 
- Gates open at 6 am and parking is 
- free on Wednesday.\n\nhttps://www.fa
- cebook.com/events/757908416807262/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250512T200850Z
-LAST-MODIFIED:20250512T200850Z
-CREATED:20250512T200710Z
-SEQUENCE:100
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20250716T003000Z
-DTEND:20250716T020000Z
-UID:e1040172747446172@facebook.com
-SUMMARY:Tuesday Group Run- UPPER Spence Basin 
-URL:https://www.facebook.com/events/1040172747446172/
-DESCRIPTION:Will meet at UPPER Spence Springs 
- parking lot: \n\nPLEASE READ THIS DE
- SCRIPTION. \nWe will meet at the Up
- per Parking lot along Iron Springs
- \, where Javelina Trail #332 meets 
- Iron Springs (trailhead). 5:30pm. 
- Expect 4-6 miles. No drop run (we 
- stop for everyone at every interse
- ction). \n\nBring water!\n\nDirections
- : To Iron Springs Trailhead from d
- owntown Prescott: Take Montezuma S
- treet north (becomes Whipple St) t
- o its intersection with Willow Cre
- ek Road (about 1.5 miles). Continu
- e west on Iron Springs Road for an
- other 4.5 miles\, then turn left in
- to the trailhead. There is parking
-  for approximately 30 vehicles. Tr
- ailers are not allowed at the trai
- lhead for highway safety concerns.
- \n\nTRAVEL TIME: 20 minutes from dow
- ntown Prescott\n\nhttps://maps.app.g
- oo.gl/dtmvdowaEGMcpxEk8 \n\nhttps://
- www.facebook.com/events/1040172747
- 446172/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241215T151338Z
-LAST-MODIFIED:20241215T151338Z
-CREATED:20241215T151338Z
-SEQUENCE:0
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20250712T143000Z
-DTEND:20250712T153000Z
-UID:e945486827039597@facebook.com
-SUMMARY:Park Run
-LOCATION:Jan Alfano Trail behind Dog Park o
- n Willow Creek Rd
-URL:https://www.facebook.com/events/945486783706268/?event_time_id=945486827039597
-DESCRIPTION:Join us every Saturday at 7:30 beh
- ind the Dog Park for 5K run or wal
- k.  www.parkrun.us/janalfanotrail/
- \n\nhttps://www.facebook.com/events/
- 945486783706268/?event_time_id=945
- 486827039597
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250707T231303Z
-LAST-MODIFIED:20250707T231303Z
-CREATED:20250707T231303Z
-SEQUENCE:0
-ORGANIZER;CN=Dana Kirkwood-Watts:MAILTO:noreply@facebookmail.com
-DTSTART:20250712T133000Z
-DTEND:20250712T163000Z
-UID:e1065897165078878@facebook.com
-SUMMARY:SATR PATR - Yeager Canyon repeats edition
-LOCATION:Little Yeager Canyon Trailhead
-URL:https://www.facebook.com/events/1065897165078878/
-DESCRIPTION:Meet at Little Yeager Canyon Trail
- head off 89A for a 6:30 start time
- . \n\nhttps://maps.app.goo.gl/M9cQnF
- PLUjRBaZjP9\n\nThese are 6ish mile l
- oops. I'm planning to do 4 of them
- . Join me for one or all! It'll be
-  fun! \n\nThere will be different pa
- ces out there. \n\nhttps://www.faceb
- ook.com/events/1065897165078878/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250321T144609Z
-LAST-MODIFIED:20250321T144609Z
-CREATED:20250321T144427Z
-SEQUENCE:102
-ORGANIZER;CN=Andrew Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20250711T003000Z
-DTEND:20250711T013000Z
-UID:e8984253988341824@facebook.com
-SUMMARY:Thursday Social Run
-LOCATION:Fleet Feet - 122 N Cortez St #100\,
-  Prescott\, AZ 86301
-URL:https://www.facebook.com/events/8984253925008497/?event_time_id=8984253988341824
-DESCRIPTION:Meet at Fleet Feet\, go for a run. 
- All paces welcome!\n\nhttps://www.fa
- cebook.com/events/8984253925008497
- /?event_time_id=8984253988341824
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250619T164249Z
-LAST-MODIFIED:20250619T164249Z
-CREATED:20250619T164249Z
-SEQUENCE:0
-ORGANIZER;CN=Andrew Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20250709T230000Z
-DTEND:20250710T000000Z
-UID:e1055890549848456@facebook.com
-SUMMARY:PATR Track Pack
-LOCATION:Prescott High School
-URL:https://www.facebook.com/events/1055890543181790/?event_time_id=1055890549848456
-DESCRIPTION:Meet at the track at 4pm and do so
- me laps in the heat!\n\nbring water!
- \n\nHere's the workout plan (startin
- g 6/11)\, but you do you \n\n2 to 4 l
- aps warmup\ndynamic stretching\n12 l
- aps at conversational pace with th
- e following exceptions\n    weeks 1
- -3 laps 4\, 8\, and 12 at lactic thr
- eshold\n    weeks 4-6 laps 3\, 6\, 9\,
-  and 12 at lactic threshold\n    we
- eks 7-9 laps 2\, 4\, 6\, 8\, and 12 at
-  lactic threshold\n    weeks 10-12 
- laps 3\, 4\, 7\,  8\, 11\, and 12 at la
- ctic threshold\n1-4 laps cooldown\ns
- tretching\n\nhttps://www.facebook.co
- m/events/1055890543181790/?event_t
- ime_id=1055890549848456
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250703T202146Z
-LAST-MODIFIED:20250703T202146Z
-CREATED:20250703T202146Z
-SEQUENCE:0
-ORGANIZER;CN=Paula Olson:MAILTO:noreply@facebookmail.com
-DTSTART:20250709T130000Z
-DTEND:20250709T160000Z
-UID:e1776319716649729@facebook.com
-SUMMARY:Vert Club run
-LOCATION:Thumb Butte\, Prescott\, AZ 86305\, U
- nited States
-URL:https://www.facebook.com/events/1776319716649729/
-DESCRIPTION:Trail 33 loops. Go at your own pac
- e and as many loops as you like. O
- ne loop is a tad under two miles. 
- Gates open at 6 am and parking is 
- free on Wednesday.\n\nhttps://www.fa
- cebook.com/events/1776319716649729
- /
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250512T200152Z
-LAST-MODIFIED:20250512T200152Z
-CREATED:20250512T200152Z
-SEQUENCE:0
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20250709T003000Z
-DTEND:20250709T033000Z
-UID:e665805546062067@facebook.com
-SUMMARY:Tuesday Group Run- Salida Gulch 
-URL:https://www.facebook.com/events/665805546062067/
-DESCRIPTION:We are going to run Salida Gulch. 
- Expct 4ish miles. \n\nNo drop group 
- run (we stop at every intersection
-  and wait for everyone to join bef
- ore running again). \n\nBring water 
- :)\n\n34.541322138945276\, -112.38131
- 895761529\n\n***This trailhead can b
- e confusing to find and GPS is som
- etimes wrong!! Follow the route be
- low from Forest Service!***\n\nDirec
- tions from FS:\nFrom downtown Presc
- ott\, travel east on Hwy 69 to Walk
- er Road. Turn right and go 1.2 mil
- es to the sign for Lynx Creek Ruin
- . Turn left onto Lynx Creek Road (
- FR 9401) just after the sign. Trav
- el 0.8 miles past the Day Use area
- \, bearing right down the hill and 
- continuing to the end of the road.
-  There is a large improved lot wit
- h ample parking for both single ve
- hicles and horse trailers. Road co
- nditions are paved\, then graded di
- rt and suitable for all vehicles.\n
- \nhttps://www.facebook.com/events/6
- 65805546062067/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
