@@ -21,3 +21,5 @@ You can view the course map here: https://drive.google.com/file/d/1xGoJecht2kb-9
 If you want to make a donation to the Chino Valley Cross Country team and not run, you may do so.
 
 We are new at a virtual race, so please be patient and email if you have any questions. Thank you!
+
+![Chino Valley 10k](event.png)
