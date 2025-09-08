@@ -971,10 +971,10 @@ STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250827T215049Z
-LAST-MODIFIED:20250827T215049Z
+DTSTAMP:20250905T191416Z
+LAST-MODIFIED:20250905T191416Z
 CREATED:20250827T215049Z
-SEQUENCE:0
+SEQUENCE:768207
 ORGANIZER;CN=Cindy Rollins:MAILTO:noreply@facebookmail.com
 DTSTART:20250920T143000Z
 DTEND:20250920T173000Z
@@ -985,12 +985,12 @@ LOCATION:Hotshots Giant Alligator Juniper T
 URL:https://www.facebook.com/events/1956262231828634/
 DESCRIPTION:Meet at the trailhead to run an ou
  t and back to the Alligator Junipe
- r Tree to celebrate Josh and Marie
- l’s birthdays! We are running a 
- total of 5.1 miles. https://maps.a
- pp.goo.gl/tvU8wxFBuH6NurJ7A?g_s\n\nh
- ttps://www.facebook.com/events/195
- 6262231828634/
+ r Tree to celebrate Josh’s 51st 
+ birthday! We are running a total o
+ f 5.1 miles. https://maps.app.goo.
+ gl/tvU8wxFBuH6NurJ7A?g_s\n\nhttps://
+ www.facebook.com/events/1956262231
+ 828634/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
@@ -1192,6 +1192,41 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20250908T001702Z
+LAST-MODIFIED:20250908T001702Z
+CREATED:20250908T001702Z
+SEQUENCE:0
+ORGANIZER;CN=Jason Baum:MAILTO:noreply@facebookmail.com
+DTSTART:20250913T140000Z
+DTEND:20250913T170000Z
+UID:e1827964141122497@facebook.com
+SUMMARY:SATR PATR - Mingus Loop
+LOCATION:34.67870\, -112.17366
+URL:https://www.facebook.com/events/1827964141122497/
+DESCRIPTION:We’ll meet at the pullout on 89A
+  for the regular Yaeger Canyon loo
+ p\, but our route will be a little 
+ bit different.  Expect 11-12 miles
+  with a little over 2\,000’ of cl
+ imbing.  We’ll make our way up t
+ o Mingus Camp just past the lake\, 
+ and then go to 2 of my favorite sp
+ ots on the mountain- the hang glid
+ ing launch site and the Mingus fir
+ e tower\, before looping back down 
+ the mountain via the Gaddes Canyon
+  and Little Yaeger Canyon trails. 
+  I’m expecting this to take 3 to
+  3-1/2 hours\, depending on how muc
+ h time we stop.  Bring your climbi
+ ng legs for this one!\n\nhttps://www
+ .facebook.com/events/1827964141122
+ 497/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20250321T144609Z
 LAST-MODIFIED:20250321T144609Z
 CREATED:20250321T144427Z
@@ -1384,13 +1419,13 @@ STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250117T184247Z
-LAST-MODIFIED:20250117T184247Z
+DTSTAMP:20250830T204844Z
+LAST-MODIFIED:20250830T204844Z
 CREATED:20250117T184247Z
-SEQUENCE:0
+SEQUENCE:19447557
 ORGANIZER;CN=Arizona Road Racers Events:MAILTO:noreply@facebookmail.com
-DTSTART:20250831T140000Z
-DTEND:20250831T170000Z
+DTSTART:20250831T143000Z
+DTEND:20250831T173000Z
 UID:e920531336729777@facebook.com
 SUMMARY:Jerome Hill Climb
 LOCATION:Jerome Arizona
@@ -1838,261 +1873,6 @@ DESCRIPTION:No drop group run (we stop at ever
  it easier to copy/paste into map a
  pps)\n\nBring water!\n\nhttps://www.fa
  cebook.com/events/761872209630149/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241215T151338Z
-LAST-MODIFIED:20241215T151338Z
-CREATED:20241215T151338Z
-SEQUENCE:0
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20250809T143000Z
-DTEND:20250809T153000Z
-UID:e945486800372933@facebook.com
-SUMMARY:Park Run
-LOCATION:Jan Alfano Trail behind Dog Park o
- n Willow Creek Rd
-URL:https://www.facebook.com/events/945486783706268/?event_time_id=945486800372933
-DESCRIPTION:Join us every Saturday at 7:30 beh
- ind the Dog Park for 5K run or wal
- k.  www.parkrun.us/janalfanotrail/
- \n\nhttps://www.facebook.com/events/
- 945486783706268/?event_time_id=945
- 486800372933
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250321T144609Z
-LAST-MODIFIED:20250321T144609Z
-CREATED:20250321T144427Z
-SEQUENCE:102
-ORGANIZER;CN=Andrew Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20250808T003000Z
-DTEND:20250808T013000Z
-UID:e8984254005008489@facebook.com
-SUMMARY:Thursday Social Run
-LOCATION:Fleet Feet - 122 N Cortez St #100\,
-  Prescott\, AZ 86301
-URL:https://www.facebook.com/events/8984253925008497/?event_time_id=8984254005008489
-DESCRIPTION:Meet at Fleet Feet\, go for a run. 
- All paces welcome!\n\nhttps://www.fa
- cebook.com/events/8984253925008497
- /?event_time_id=8984254005008489
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250619T164249Z
-LAST-MODIFIED:20250619T164249Z
-CREATED:20250619T164249Z
-SEQUENCE:0
-ORGANIZER;CN=Andrew Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20250806T230000Z
-DTEND:20250807T000000Z
-UID:e1055890566515121@facebook.com
-SUMMARY:PATR Track Pack
-LOCATION:Prescott High School
-URL:https://www.facebook.com/events/1055890543181790/?event_time_id=1055890566515121
-DESCRIPTION:Meet at the track at 4pm and do so
- me laps in the heat!\n\nbring water!
- \n\nHere's the workout plan (startin
- g 6/11)\, but you do you \n\n2 to 4 l
- aps warmup\ndynamic stretching\n12 l
- aps at conversational pace with th
- e following exceptions\n    weeks 1
- -3 laps 4\, 8\, and 12 at lactic thr
- eshold\n    weeks 4-6 laps 3\, 6\, 9\,
-  and 12 at lactic threshold\n    we
- eks 7-9 laps 2\, 4\, 6\, 8\, and 12 at
-  lactic threshold\n    weeks 10-12 
- laps 3\, 4\, 7\,  8\, 11\, and 12 at la
- ctic threshold\n1-4 laps cooldown\ns
- tretching\n\nhttps://www.facebook.co
- m/events/1055890543181790/?event_t
- ime_id=1055890566515121
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250805T185829Z
-LAST-MODIFIED:20250805T185829Z
-CREATED:20250805T185829Z
-SEQUENCE:0
-ORGANIZER;CN=Paula Olson:MAILTO:noreply@facebookmail.com
-DTSTART:20250806T130000Z
-DTEND:20250806T160000Z
-UID:e1260007302486583@facebook.com
-SUMMARY:Vert Club Run
-LOCATION:Thumb Butte Pic Area\, Prescott\, AZ
-  86305\, United States
-URL:https://www.facebook.com/events/1260007302486583/
-DESCRIPTION:Trail 33 loops. Go at your own pac
- e and as many loops as you like. O
- ne loop is a tad under two miles. 
- Gates open at 6 am and parking is 
- free on Wednesday.\n\nhttps://www.fa
- cebook.com/events/1260007302486583
- /
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250729T235242Z
-LAST-MODIFIED:20250729T235242Z
-CREATED:20250714T210315Z
-SEQUENCE:1306167
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20250806T003000Z
-DTEND:20250806T023000Z
-UID:e1263242092259347@facebook.com
-SUMMARY:Tuesday Group Run- Ecosa Trail ---Jim leading! 
-URL:https://www.facebook.com/events/1263242092259347/
-DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
-  will run about 5.7 miles with abo
- ut half of the run being flat trai
- ls on or near the Willow Lake loop
-  trail. The other half of the run 
- will be on rolling hills in the gr
- anite dells behind Willow lake. Th
- ere are a few short up hill climbs
- .\n\nJim is one of the volunteers wh
- o works on creating trails and wil
- l be leading this run! (Thank you 
- Jim!)\n\n No drop run (we stop for e
- veryone at every intersection). \n\n
- We will meet at the trailhead by W
- illow Lake\, near the dog park\, off
-  of Willow Creek Rd. \n\nParking loc
- ation: https://maps.app.goo.gl/gzg
- qpmZEDwNHbpMQ7 (will copy in comme
- nts to make it easier to copy/past
- e)\n\nBring water! \n\n\n\nhttps://www.f
- acebook.com/events/126324209225934
- 7/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250729T235407Z
-LAST-MODIFIED:20250729T235407Z
-CREATED:20250729T235407Z
-SEQUENCE:0
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20250806T003000Z
-DTEND:20250806T023000Z
-UID:e1049833130247325@facebook.com
-SUMMARY:Tuesday Group Run- UPPER Spence Basin 
-URL:https://www.facebook.com/events/1049833130247325/
-DESCRIPTION:Will meet at UPPER Spence Springs 
- parking lot: \n\nPLEASE READ THIS DE
- SCRIPTION. \nWe will meet at the Up
- per Parking lot along Iron Springs
- \, where Javelina Trail #332 meets 
- Iron Springs (trailhead). 5:30pm. 
- Expect 4-6 miles. No drop run (we 
- stop for everyone at every interse
- ction). \n\nBring water!\n\nDirections
- : To Iron Springs Trailhead from d
- owntown Prescott: Take Montezuma S
- treet north (becomes Whipple St) t
- o its intersection with Willow Cre
- ek Road (about 1.5 miles). Continu
- e west on Iron Springs Road for an
- other 4.5 miles\, then turn left in
- to the trailhead. There is parking
-  for approximately 30 vehicles. Tr
- ailers are not allowed at the trai
- lhead for highway safety concerns.
- \n\nTRAVEL TIME: 20 minutes from dow
- ntown Prescott\n\nhttps://maps.app.g
- oo.gl/dtmvdowaEGMcpxEk8 \n\nhttps://
- www.facebook.com/events/1049833130
- 247325/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241215T151338Z
-LAST-MODIFIED:20241215T151338Z
-CREATED:20241215T151338Z
-SEQUENCE:0
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20250802T143000Z
-DTEND:20250802T153000Z
-UID:e945486820372931@facebook.com
-SUMMARY:Park Run
-LOCATION:Jan Alfano Trail behind Dog Park o
- n Willow Creek Rd
-URL:https://www.facebook.com/events/945486783706268/?event_time_id=945486820372931
-DESCRIPTION:Join us every Saturday at 7:30 beh
- ind the Dog Park for 5K run or wal
- k.  www.parkrun.us/janalfanotrail/
- \n\nhttps://www.facebook.com/events/
- 945486783706268/?event_time_id=945
- 486820372931
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250321T144609Z
-LAST-MODIFIED:20250321T144609Z
-CREATED:20250321T144427Z
-SEQUENCE:102
-ORGANIZER;CN=Andrew Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20250801T003000Z
-DTEND:20250801T013000Z
-UID:e8984254001675156@facebook.com
-SUMMARY:Thursday Social Run
-LOCATION:Fleet Feet - 122 N Cortez St #100\,
-  Prescott\, AZ 86301
-URL:https://www.facebook.com/events/8984253925008497/?event_time_id=8984254001675156
-DESCRIPTION:Meet at Fleet Feet\, go for a run. 
- All paces welcome!\n\nhttps://www.fa
- cebook.com/events/8984253925008497
- /?event_time_id=8984254001675156
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250619T164249Z
-LAST-MODIFIED:20250619T164249Z
-CREATED:20250619T164249Z
-SEQUENCE:0
-ORGANIZER;CN=Andrew Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20250730T230000Z
-DTEND:20250731T000000Z
-UID:e1055890559848455@facebook.com
-SUMMARY:PATR Track Pack
-LOCATION:Prescott High School
-URL:https://www.facebook.com/events/1055890543181790/?event_time_id=1055890559848455
-DESCRIPTION:Meet at the track at 4pm and do so
- me laps in the heat!\n\nbring water!
- \n\nHere's the workout plan (startin
- g 6/11)\, but you do you \n\n2 to 4 l
- aps warmup\ndynamic stretching\n12 l
- aps at conversational pace with th
- e following exceptions\n    weeks 1
- -3 laps 4\, 8\, and 12 at lactic thr
- eshold\n    weeks 4-6 laps 3\, 6\, 9\,
-  and 12 at lactic threshold\n    we
- eks 7-9 laps 2\, 4\, 6\, 8\, and 12 at
-  lactic threshold\n    weeks 10-12 
- laps 3\, 4\, 7\,  8\, 11\, and 12 at la
- ctic threshold\n1-4 laps cooldown\ns
- tretching\n\nhttps://www.facebook.co
- m/events/1055890543181790/?event_t
- ime_id=1055890559848455
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
