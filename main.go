@@ -5,6 +5,7 @@ import (
 	"log"
 	"os"
 	"regexp"
+	"slices"
 	"sort"
 	"strings"
 	"time"
@@ -12,6 +13,10 @@ import (
 	"github.com/bakerag1/gocal"
 	"prescottareatrailrunners.com/patr/cmd"
 )
+
+var cancelled = []string{
+	"e765879769648085",
+}
 
 const outputFmt = `---
 title: "%v"
@@ -51,6 +56,11 @@ func addCalendarItems() {
 	}
 	events := parseEvents()
 	for _, e := range events {
+		if slices.Contains(cancelled, e.Uid) {
+			log.Printf("removing %v", e.Uid)
+			os.Remove("site/content/events/" + e.Uid + ".md")
+			continue
+		}
 		cal, err := os.Create("site/content/events/" + e.Uid + ".md")
 		defer cal.Close()
 		if err != nil {
