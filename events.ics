@@ -111,6 +111,60 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20250829T191635Z
+LAST-MODIFIED:20250829T191635Z
+CREATED:20250829T191635Z
+SEQUENCE:0
+ORGANIZER;CN=The Launch Pad:MAILTO:noreply@facebookmail.com
+DTSTART:20251213T170000Z
+DTEND:20251213T200000Z
+UID:e1104692111180868@facebook.com
+SUMMARY:2025 Christmas City Santa Run
+LOCATION:1300 Commerce Dr\, Prescott\, AZ 863
+ 05-3705\, United States
+URL:https://www.facebook.com/events/1104692111180868/
+DESCRIPTION:Join us for the Launch Pad's 7th A
+ nnual Christmas City Santa Run\, Sp
+ onsored by Great Circle Media - 93
+ .9 The Mountain and 92.9 KAFF Coun
+ try\, Foothills Bank\, Santa's Helpe
+ rs Outdoor Decorating\, and Prescot
+ t Woman Magazine on Saturday\, Dece
+ mber 13\, 2025. This 10k\, 5k and 1-
+ mile fun run at Brownlow Trail wil
+ l raise funds to support out of sc
+ hool drop-in and leadership progra
+ ms at The Launch Pad Teen Center.\n
+ \nRegister for the 10k or 5k and re
+ ceive a Santa Hat\, Beard\, and comm
+ emorative Santa Run ornament (We d
+ o encourage you to run in full San
+ ta Gear...you could win a prize)\, 
+ or register yourself or your littl
+ e one for the Rudolph Run and get 
+ a set of antlers and a red nose! T
+ here will be a cookie\, hot cider a
+ nd cocoa booth hosted by Foothills
+  Bank at the beginning and end of 
+ the race\, and a prize of an Ugly S
+ weater for 1st and 2nd place 10K a
+ nd 5K runners in both the women's 
+ and men's groups.\n\nThings to Know 
+ Before Registering:\nThe Brownlow T
+ rail is super fun with rolling hil
+ ls\, fun turns\, and beautiful scene
+ ry\, but it would be tough to run w
+ ith a stroller. If you are thinkin
+ g of bringing your kiddo(s) in a s
+ troller\, come and check out the ra
+ ce course in advance.\n\nhttps://www
+ .facebook.com/events/1104692111180
+ 868/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20241215T151338Z
 LAST-MODIFIED:20241215T151338Z
 CREATED:20241215T151338Z
@@ -180,6 +234,42 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20250922T181525Z
+LAST-MODIFIED:20250922T181525Z
+CREATED:20250922T181525Z
+SEQUENCE:0
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20251126T003000Z
+DTEND:20251126T033000Z
+UID:e25051608141118760@facebook.com
+SUMMARY:Tuesday Group Run- LOWER Spence Basin - Tunnel Vision
+LOCATION:https://maps.apple.com/?ll=34.5819
+ 04\,-112.548972&q=Dropped%20Pin&_ex
+ t=EiYpaevoe+dJQUAxxHG9OnsjXMA558AO
+ 2A1LQUBB5GbvdsgiXMBQBA%3D%3D&t=h
+URL:https://www.facebook.com/events/25051608141118760/
+DESCRIPTION:Will meet at LOWER Spence Springs 
+ parking lot: \n\nGPS here https://ma
+ ps.app.goo.gl/tvsxZcN1fCTD7FMV8?g_
+ st=ic\n\nPLEASE READ THIS DESCRIPTIO
+ N. \n\nWe will meet at Lower Parking
+  lot along Iron Springs\, where Spe
+ nce Springs Rd meets Iron Springs 
+ (trailhead). 5:30pm. Expect 4-6 mi
+ les. No drop run (we stop for ever
+ yone at every intersection). \n\nIf 
+ the parking lot is full - plan to 
+ park across Iron Springs road in t
+ he open dirt area. We will meet up
+  at the Spence Springs trailhead. 
+ \n\nBring a light :)\n\nhttps://www.fa
+ cebook.com/events/2505160814111876
+ 0/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20241215T151338Z
 LAST-MODIFIED:20241215T151338Z
 CREATED:20241215T151338Z
@@ -203,6 +293,32 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20250922T175421Z
+LAST-MODIFIED:20250922T175421Z
+CREATED:20250821T203518Z
+SEQUENCE:2755143
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20251119T003000Z
+DTEND:20251119T033000Z
+UID:e1412848049824344@facebook.com
+SUMMARY:Tuesday Group Run- Granite Basin
+URL:https://www.facebook.com/events/1412848049824344/
+DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
+  will meet at the cattleguard (lin
+ k here https://goo.gl/maps/CnyTC6T
+ oppAjWTcn6) at 5:30pm. \n\nExpect 5-
+ 6 miles\, all downhill (except for 
+ the uphills). No drop run (we stop
+  at every intersection and everyon
+ e catches up before running again)
+ . \n\nBring s light!\n\n\nhttps://www.f
+ acebook.com/events/141284804982434
+ 4/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20241215T151338Z
 LAST-MODIFIED:20241215T151338Z
 CREATED:20241215T151338Z
@@ -224,6 +340,36 @@ DESCRIPTION:Join us every Saturday at 7:30 beh
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250914T172909Z
+LAST-MODIFIED:20250914T172909Z
+CREATED:20250914T172909Z
+SEQUENCE:0
+ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20251112T003000Z
+DTEND:20251112T033000Z
+UID:e1317675363091809@facebook.com
+SUMMARY:Tuesday Group Run- Thumb Butte Loop- Cindy leading! 
+URL:https://www.facebook.com/events/1317675363091809/
+DESCRIPTION:\nThumb Butte loop (326\, 392\, 367):
+  4.7 miles\, 784 ft of elevation ga
+ in. Meet at the Thumb Butte Parkin
+ g lot (paid parking or national pa
+ rks pass). This is a no-drop group
+  run\, and we will stop at each int
+ ersection to allow everyone to cat
+ ch up (physically and socially\, LO
+ L) before continuing the run. \n\nTh
+ umb Butte Trail 326\, 392\, and 367 
+ on AllTrails - we will do it in re
+ verse for this run\n\nhttps://maps.a
+ pp.goo.gl/au5cdA9c6hYKsccSA?g_st=i
+ c\n\nBring a light!\n\nhttps://www.fac
+ ebook.com/events/1317675363091809/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20241215T151338Z
@@ -524,27 +670,33 @@ STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250821T203518Z
-LAST-MODIFIED:20250821T203518Z
-CREATED:20250821T203518Z
-SEQUENCE:0
+DTSTAMP:20250922T181852Z
+LAST-MODIFIED:20250922T181852Z
+CREATED:20250922T175936Z
+SEQUENCE:1156
 ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
 DTSTART:20251022T003000Z
 DTEND:20251022T033000Z
-UID:e1412848049824344@facebook.com
-SUMMARY:Tuesday Group Run- Granite Basin
-URL:https://www.facebook.com/events/1412848049824344/
-DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
-  will meet at the cattleguard (lin
- k here https://goo.gl/maps/CnyTC6T
- oppAjWTcn6) at 5:30pm. \n\nExpect 5-
- 6 miles\, all downhill (except for 
- the uphills). No drop run (we stop
-  at every intersection and everyon
- e catches up before running again)
- . \n\nBring s light!\n\n\nhttps://www.f
- acebook.com/events/141284804982434
- 4/
+UID:e1151101906920374@facebook.com
+SUMMARY:Tuesday Group Run - Centennial Trails -Jason leading!
+URL:https://www.facebook.com/events/1151101906920374/
+DESCRIPTION:We will check out the Centennial T
+ rail\, located right off Gail Gardn
+ er in Prescott. This is a new run 
+ for Tuesday PATR! We will stop to 
+ explore petroglyphs near the end o
+ f the run.\n\nThis is a no-drop grou
+ p run\, and we will stop at every i
+ ntersection to allow everyone to c
+ atch up before continuing on. As i
+ t's getting dark earlier\, we will 
+ stop more frequently. \n\nBring a li
+ ght!\n\nDetails here: https://www.al
+ ltrails.com/trail/us/arizona/cente
+ nnial-trail--3sh=skmyyj&utm_medium
+ =trail_share&utm_source=alltrails_
+ virality\n\nhttps://www.facebook.com
+ /events/1151101906920374/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
@@ -618,6 +770,39 @@ STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20250922T064159Z
+LAST-MODIFIED:20250922T064159Z
+CREATED:20250922T064159Z
+SEQUENCE:0
+ORGANIZER;CN=Jason Baum:MAILTO:noreply@facebookmail.com
+DTSTART:20251011T143000Z
+DTEND:20251011T173000Z
+UID:e1294335148767476@facebook.com
+SUMMARY:Mingus Madness Training Run #3 - Woodchute 102
+LOCATION:Woodchute Trailhead
+URL:https://www.facebook.com/events/1294335148767476/
+DESCRIPTION:Join us for the last training run 
+ leading up to the Mingus Madness 5
+ 0k.  This will be an out and back 
+ run of the entire Woodchute 102 tr
+ ail\, down to where it ends at Fore
+ st Road 318A (where the second aid
+  station is).  This is a rough tra
+ il\, so being able to scout it ahea
+ d of time should be very valuable!
+   We'll also be hitting my off tra
+ il "secret spot" on the mountain b
+ efore making the big descent\, whic
+ h is also part of the course.  Exp
+ ect 13 miles and about 3\,300' of c
+ limbing and descending.\n\nhttps://w
+ ww.facebook.com/events/12943351487
+ 67476/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20241215T151338Z
 LAST-MODIFIED:20241215T151338Z
 CREATED:20241215T151338Z
@@ -671,6 +856,66 @@ DESCRIPTION:Prepare to be THRILLED at the kick
  11th at Cave Creek Thriller!\n\nhttp
  s://www.facebook.com/events/167080
  7083810914/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250418T202009Z
+LAST-MODIFIED:20250418T202009Z
+CREATED:20250418T202009Z
+SEQUENCE:0
+ORGANIZER;CN=Ymca Whiskey Row Marathon:MAILTO:noreply@facebookmail.com
+DTSTART:20251011T120000Z
+DTEND:20251011T150000Z
+UID:e1005547177873878@facebook.com
+SUMMARY:47th Annual Whiskey Row Marathon
+LOCATION:Downtown Prescott
+URL:https://www.facebook.com/events/1005547177873878/
+DESCRIPTION:Are You Tough Enough? As an Arizon
+ a running tradition for 47 years\, 
+ the Whiskey Row Marathon is among 
+ the toughest races in the country.
+  Featuring rugged terrain\, an alti
+ tude in excess of one mile above s
+ ea level and\, on occasion\, severe 
+ weather\, it’s challenging\, fun a
+ nd offers a number of running rout
+ es for runners of all skill and fi
+ tness levels\, including a marathon
+ \, half marathon\, 10k and new this 
+ year a 5K and .3 Mile High Fun Run
+ .\nProceeds from this race will go 
+ directly into the scholarship fund
+  at the James Family Prescott YMCA
+ . This fund provides families in f
+ inancial need to participate in ch
+ ildcare\, swimming lessons\, youth s
+ ports and gymnastics classes. Your
+  participation in this race not on
+ ly promotes your personal health\, 
+ but also promotes the overall heal
+ th of the Prescott Community.\nJoin
+  runners from all over the country
+  in this prestigious event – and
+  show your friends and family that
+  you are “Tough Enough”.\nRace 
+ Times:\nMarathon- 6:00am\nHalf Marat
+ hon- 7:00am\n10K- 7:30am\n5K- 8:00am
+ \n.3 Mile High Fun Run- 7:10am\nCour
+ se closes at noon.\nThere will be a
+  5:00am early start for marathoner
+ s who would struggle to finish the
+  race in 6 hours. Early starters' 
+ results will appear in a separate 
+ results listing and be ineligible 
+ for awards.\nPrices vary by race an
+ d sign-up date: $25.00-$125.00\nWea
+ ther can still be chilly or nice a
+ nd sunny requiring sunscreen and s
+ horts! Check weather.com for updat
+ es.\n\nhttps://www.facebook.com/even
+ ts/1005547177873878/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -733,6 +978,34 @@ DESCRIPTION:Will meet at UPPER Spence Springs
  s leading this run - thank you Sea
  n!!!!\n\nhttps://www.facebook.com/ev
  ents/773480881890891/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250922T063441Z
+LAST-MODIFIED:20250922T063441Z
+CREATED:20250922T063441Z
+SEQUENCE:0
+ORGANIZER;CN=Jason Baum:MAILTO:noreply@facebookmail.com
+DTSTART:20251004T143000Z
+DTEND:20251004T173000Z
+UID:e1276120194197742@facebook.com
+SUMMARY:Mingus Madness Training Run #2 - Martin Canyon
+LOCATION:Woodchute Trailhead
+URL:https://www.facebook.com/events/1276120194197742/
+DESCRIPTION:Join us for the second of three tr
+ aining runs leading up to the Ming
+ us Madness 50k.  This run will sta
+ rt at the Woodchute 102 trailhead\,
+  and will be a loop going down Mar
+ tin Canyon\, up the Rick Tank conne
+ ctor trail\, and finishing on the W
+ oodchute 102 trail.  This is one o
+ f my favorite loops in the area!  
+ Expect about 7.25 miles and 1\,300'
+  of climbing.\n\nhttps://www.faceboo
+ k.com/events/1276120194197742/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
@@ -823,6 +1096,37 @@ DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
  ad.\n\n205 Wells Fargo road\nPrescott
  \, AZ\n\n\n\nhttps://www.facebook.com/e
  vents/1970287853782494/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250922T062806Z
+LAST-MODIFIED:20250922T062806Z
+CREATED:20250922T062806Z
+SEQUENCE:0
+ORGANIZER;CN=Jason Baum:MAILTO:noreply@facebookmail.com
+DTSTART:20250927T143000Z
+DTEND:20250927T173000Z
+UID:e1669035060720308@facebook.com
+SUMMARY:Mingus Madness Training Run #1 - Coyote Canyon
+LOCATION:Woodchute Trailhead
+URL:https://www.facebook.com/events/1669035060720308/
+DESCRIPTION:Join us for the first of three tra
+ ining runs leading up to the Mingu
+ s Madness 50k!  All three runs wil
+ l start at the Woodchute 102 trail
+ head at the top of Mingus Mountain
+ .  For the first run\, we'll be doi
+ ng an out and back down Coyote Can
+ yon to the first aid station.  Thi
+ s is where the old cabin and chimn
+ ey are\, and it's a really cool spo
+ t at the bottom of the mountain!  
+ Expect about 7.5 miles and 1\,500-1
+ \,600' of elevation change.\n\nhttps:
+ //www.facebook.com/events/16690350
+ 60720308/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
@@ -1618,156 +1922,6 @@ DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
   this is white SPAR. \n\nBring water
  !!!\n\n\n\nhttps://www.facebook.com/ev
  ents/1358622231897676/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250716T190426Z
-LAST-MODIFIED:20250716T190426Z
-CREATED:20250324T235717Z
-SEQUENCE:9832029
-ORGANIZER;CN=Groovin' In The Aspens:MAILTO:noreply@facebookmail.com
-DTSTART:20250824T150000Z
-DTEND:20250824T180000Z
-UID:e1327217608320983@facebook.com
-SUMMARY:Groovin' in the Aspens 6K/10K/20K/30K/50K Trail Run
-LOCATION:Fort Valley Trail System
-URL:https://www.facebook.com/events/1327217608320983/
-DESCRIPTION:Previously Gaspin' in the Aspens\, 
- Bear Jaw Events has resurrected th
- is fun race by popular demand and 
- renamed it Groovin' in the Aspens!
-  This is a 6K/10K/20K/30K/50K trai
- l run through the pines of some of
-  Flagstaff's best trail systems!\n\n
- https://www.facebook.com/events/13
- 27217608320983/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241215T151338Z
-LAST-MODIFIED:20241215T151338Z
-CREATED:20241215T151338Z
-SEQUENCE:0
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20250823T143000Z
-DTEND:20250823T153000Z
-UID:e945486817039598@facebook.com
-SUMMARY:Park Run
-LOCATION:Jan Alfano Trail behind Dog Park o
- n Willow Creek Rd
-URL:https://www.facebook.com/events/945486783706268/?event_time_id=945486817039598
-DESCRIPTION:Join us every Saturday at 7:30 beh
- ind the Dog Park for 5K run or wal
- k.  www.parkrun.us/janalfanotrail/
- \n\nhttps://www.facebook.com/events/
- 945486783706268/?event_time_id=945
- 486817039598
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250321T144609Z
-LAST-MODIFIED:20250321T144609Z
-CREATED:20250321T144427Z
-SEQUENCE:102
-ORGANIZER;CN=Andrew Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20250822T003000Z
-DTEND:20250822T013000Z
-UID:e8984254008341822@facebook.com
-SUMMARY:Thursday Social Run
-LOCATION:Fleet Feet - 122 N Cortez St #100\,
-  Prescott\, AZ 86301
-URL:https://www.facebook.com/events/8984253925008497/?event_time_id=8984254008341822
-DESCRIPTION:Meet at Fleet Feet\, go for a run. 
- All paces welcome!\n\nhttps://www.fa
- cebook.com/events/8984253925008497
- /?event_time_id=8984254008341822
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250619T164249Z
-LAST-MODIFIED:20250619T164249Z
-CREATED:20250619T164249Z
-SEQUENCE:0
-ORGANIZER;CN=Andrew Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20250820T230000Z
-DTEND:20250821T000000Z
-UID:e1055890569848454@facebook.com
-SUMMARY:PATR Track Pack
-LOCATION:Prescott High School
-URL:https://www.facebook.com/events/1055890543181790/?event_time_id=1055890569848454
-DESCRIPTION:Meet at the track at 4pm and do so
- me laps in the heat!\n\nbring water!
- \n\nHere's the workout plan (startin
- g 6/11)\, but you do you \n\n2 to 4 l
- aps warmup\ndynamic stretching\n12 l
- aps at conversational pace with th
- e following exceptions\n    weeks 1
- -3 laps 4\, 8\, and 12 at lactic thr
- eshold\n    weeks 4-6 laps 3\, 6\, 9\,
-  and 12 at lactic threshold\n    we
- eks 7-9 laps 2\, 4\, 6\, 8\, and 12 at
-  lactic threshold\n    weeks 10-12 
- laps 3\, 4\, 7\,  8\, 11\, and 12 at la
- ctic threshold\n1-4 laps cooldown\ns
- tretching\n\nhttps://www.facebook.co
- m/events/1055890543181790/?event_t
- ime_id=1055890569848454
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250805T190150Z
-LAST-MODIFIED:20250805T190150Z
-CREATED:20250805T190150Z
-SEQUENCE:0
-ORGANIZER;CN=Paula Olson:MAILTO:noreply@facebookmail.com
-DTSTART:20250820T130000Z
-DTEND:20250820T160000Z
-UID:e1155961756312754@facebook.com
-SUMMARY:Vert Club Run
-LOCATION:Thumb Butte Pic Area\, Prescott\, AZ
-  86305\, United States
-URL:https://www.facebook.com/events/1155961756312754/
-DESCRIPTION:Trail 33 loops. Go at your own pac
- e and as many loops as you like. O
- ne loop is a tad under two miles. 
- Gates open at 6 am and parking is 
- free on Wednesday.\n\nhttps://www.fa
- cebook.com/events/1155961756312754
- /
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250714T212107Z
-LAST-MODIFIED:20250714T212107Z
-CREATED:20250714T212107Z
-SEQUENCE:0
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20250820T003000Z
-DTEND:20250820T033000Z
-UID:e742494141480437@facebook.com
-SUMMARY:Tuesday Group Run- White Rock 
-URL:https://www.facebook.com/events/742494141480437/
-DESCRIPTION:We will meet at White Rock Parking
-  lot (link here https://goo.gl/map
- s/YN2uMvQnyQWTM9JK7) at 5:30pm. \n\n
- No-drop group run of approximately
-  5 miles. No-drop means we stop at
-  every intersection and wait for e
- veryone. \n\nBring water :)\n\n\n\n\n\n\nht
- tps://www.facebook.com/events/7424
- 94141480437/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
