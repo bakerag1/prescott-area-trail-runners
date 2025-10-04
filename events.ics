@@ -234,6 +234,35 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20251004T154538Z
+LAST-MODIFIED:20251004T154538Z
+CREATED:20251004T154538Z
+SEQUENCE:0
+ORGANIZER;CN=Andrew Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20251127T160000Z
+DTEND:20251127T190000Z
+UID:e1892307964971172@facebook.com
+SUMMARY:PATR Turkey Trot
+LOCATION:Peavine Trail
+URL:https://www.facebook.com/events/1892307964971172/
+DESCRIPTION:Day has decided to keep the Thanks
+ giving tradition of a group run al
+ ive at Peavine this year!\n\nJoin yo
+ ur friends at the Peavine Trailhea
+ d (near the humane society) Thanks
+ giving morning to quick 5k (or wha
+ tever) in before your feast begins
+ . Bring a non-perishable food or t
+ oy donation and wear your most fes
+ tive Thanksgiving or Christmas the
+ med running clothes/costume!\n\nhttp
+ s://www.facebook.com/events/189230
+ 7964971172/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20250922T181525Z
 LAST-MODIFIED:20250922T181525Z
 CREATED:20250922T181525Z
@@ -821,23 +850,25 @@ STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250914T172504Z
-LAST-MODIFIED:20250914T172504Z
+DTSTAMP:20251003T212848Z
+LAST-MODIFIED:20251003T212848Z
 CREATED:20250821T202944Z
-SEQUENCE:2062520
+SEQUENCE:3718744
 ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
 DTSTART:20251015T003000Z
 DTEND:20251015T033000Z
 UID:e1304837774595476@facebook.com
-SUMMARY:Tuesday Group Run- White Rock -Josh leading!
+SUMMARY:Tuesday Group Run- Josh’s loop -Josh leading!
 URL:https://www.facebook.com/events/1304837774595476/
-DESCRIPTION:We will meet at White Rock Parking
-  lot (link here https://goo.gl/map
- s/YN2uMvQnyQWTM9JK7) at 5:30pm. \n\n
- No-drop group run of approximately
-  5 miles. No-drop means we stop at
-  every intersection and wait for e
- veryone. \n\nBring water :)\n\n\n\n\n\n\nht
+DESCRIPTION:We will meet at Thumb Butte Parkin
+ g lot (link here https://maps.app.
+ goo.gl/CTVz6AdKSQs8oVoL6?g_st=ipc 
+ )at 5:30pm. There will be a map on
+  the PATR website. \n\nNo-drop group
+  run of approximately 6 miles. No-
+ drop means we stop at every inters
+ ection and wait for everyone. \n\nBr
+ ing water :) and a light \n\n\n\n\n\n\nht
  tps://www.facebook.com/events/1304
  837774595476/
 CLASS:PUBLIC
