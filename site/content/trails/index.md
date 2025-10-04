@@ -28,3 +28,6 @@ Here are some routes we like to do as a group (click the ▶︎ to expand the ma
 ### Yeager Loop 
 A classic for the group, occasionally we tackle it as a Tuesday run
 {{< gpx "YeagerLoop.gpx" >}}
+
+### Josh's Loop - Thumb Butte Area
+{{< gpx "Joshs Loop- Thumb Butte Area.gpx" >}}
