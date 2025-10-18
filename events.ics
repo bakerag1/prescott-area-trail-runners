@@ -111,6 +111,41 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20251010T222400Z
+LAST-MODIFIED:20251010T222400Z
+CREATED:20250324T204808Z
+SEQUENCE:17285752
+ORGANIZER;CN=Aravaipa Running:MAILTO:noreply@facebookmail.com
+DTSTART:20251220T133000Z
+DTEND:20251220T163000Z
+UID:e1670807083810914@facebook.com
+SUMMARY:Cave Creek Thriller 
+LOCATION:Cave Creek Regional Park
+URL:https://www.facebook.com/events/1670807083810914/
+DESCRIPTION:New date due to weather! 🌧️ \n
+ Prepare to be THRILLED at the kick
+  off race of the 25/26 DRT Series\,
+  Cave Creek Thriller! \n\nThe Cave C
+ reek Thriller plays host to 4 diff
+ erent distances with the 50K and 2
+ 4K options exploring the Maricopa 
+ Trail in point-to-point races befo
+ re finishing inside Cave Creek Reg
+ ional Park. The 11K and 5K distanc
+ es stay entirely within Cave Creek
+  Regional Park on hilly and pristi
+ ne mountain trails. Portions of th
+ e trail are steep\, rocky\, with gre
+ at views of the expansive Sonoran 
+ Desert.\n\nCome and run the amazing 
+ trails in Cave Creek at Cave Creek
+  Thriller!\n\nhttps://www.facebook.c
+ om/events/1670807083810914/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20250829T191635Z
 LAST-MODIFIED:20250829T191635Z
 CREATED:20250829T191635Z
@@ -234,13 +269,13 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251004T154538Z
-LAST-MODIFIED:20251004T154538Z
+DTSTAMP:20251005T040536Z
+LAST-MODIFIED:20251005T040536Z
 CREATED:20251004T154538Z
-SEQUENCE:0
+SEQUENCE:44398
 ORGANIZER;CN=Andrew Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20251127T160000Z
-DTEND:20251127T190000Z
+DTSTART:20251127T150000Z
+DTEND:20251127T180000Z
 UID:e1892307964971172@facebook.com
 SUMMARY:PATR Turkey Trot
 LOCATION:Peavine Trail
@@ -850,10 +885,10 @@ STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251003T212848Z
-LAST-MODIFIED:20251003T212848Z
+DTSTAMP:20251007T145102Z
+LAST-MODIFIED:20251007T145102Z
 CREATED:20250821T202944Z
-SEQUENCE:3718744
+SEQUENCE:4040478
 ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
 DTSTART:20251015T003000Z
 DTEND:20251015T033000Z
@@ -863,23 +898,28 @@ URL:https://www.facebook.com/events/1304837774595476/
 DESCRIPTION:We will meet at Thumb Butte Parkin
  g lot (link here https://maps.app.
  goo.gl/CTVz6AdKSQs8oVoL6?g_st=ipc 
- )at 5:30pm. There will be a map on
-  the PATR website. \n\nNo-drop group
-  run of approximately 6 miles. No-
- drop means we stop at every inters
- ection and wait for everyone. \n\nBr
- ing water :) and a light \n\n\n\n\n\n\nht
- tps://www.facebook.com/events/1304
- 837774595476/
+ )at 5:30pm. GPX Map - https://pres
+ cottareatrailrunners.com/trails/Jo
+ shs%20Loop-%20Thumb%20Butte%20Area
+ .gpx\n\nNo-drop group run of approxi
+ mately 6 miles. No-drop means we s
+ top at every intersection and wait
+  for everyone. \n\nBring water :) an
+ d a light . We will be meeting aft
+ er the run at the Palace for Taco 
+ Tuesday if anyone is interested. L
+ ocation is 120 South Montezuma St\,
+  Prescott. \n\n\n\n\n\n\nhttps://www.face
+ book.com/events/1304837774595476/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250922T064159Z
-LAST-MODIFIED:20250922T064159Z
+DTSTAMP:20251010T223155Z
+LAST-MODIFIED:20251010T223155Z
 CREATED:20250922T064159Z
-SEQUENCE:0
+SEQUENCE:1612196
 ORGANIZER;CN=Jason Baum:MAILTO:noreply@facebookmail.com
 DTSTART:20251011T143000Z
 DTEND:20251011T173000Z
@@ -927,41 +967,6 @@ DESCRIPTION:Join us every Saturday at 7:30 beh
  \n\nhttps://www.facebook.com/events/
  945486783706268/?event_time_id=945
  486843706262
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250324T204808Z
-LAST-MODIFIED:20250324T204808Z
-CREATED:20250324T204808Z
-SEQUENCE:0
-ORGANIZER;CN=Aravaipa Running:MAILTO:noreply@facebookmail.com
-DTSTART:20251011T133000Z
-DTEND:20251011T163000Z
-UID:e1670807083810914@facebook.com
-SUMMARY:Cave Creek Thriller 
-LOCATION:Cave Creek Regional Park
-URL:https://www.facebook.com/events/1670807083810914/
-DESCRIPTION:Prepare to be THRILLED at the kick
-  off race of the 25/26 DRT Series\,
-  Cave Creek Thriller! \n\nThe Cave C
- reek Thriller plays host to 4 diff
- erent distances with the 50K and 2
- 4K options exploring the Maricopa 
- Trail in point-to-point races befo
- re finishing inside Cave Creek Reg
- ional Park. The 11K and 5K distanc
- es stay entirely within Cave Creek
-  Regional Park on hilly and pristi
- ne mountain trails. Portions of th
- e trail are steep\, rocky\, with gre
- at views of the expansive Sonoran 
- Desert.\n\nCome and run the amazing 
- trails in Cave Creek this October 
- 11th at Cave Creek Thriller!\n\nhttp
- s://www.facebook.com/events/167080
- 7083810914/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -1585,259 +1590,6 @@ DESCRIPTION:Meet at Fleet Feet\, go for a run.
  All paces welcome!\n\nhttps://www.fa
  cebook.com/events/8984253925008497
  /?event_time_id=8984254015008488
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250829T161740Z
-LAST-MODIFIED:20250829T161740Z
-CREATED:20250829T003559Z
-SEQUENCE:56501
-ORGANIZER;CN=Paula Olson:MAILTO:noreply@facebookmail.com
-DTSTART:20250917T140000Z
-DTEND:20250917T170000Z
-UID:e1087324826844621@facebook.com
-SUMMARY:Vert Club run
-LOCATION:Thumb Butte Pic Area\, Prescott\, AZ
-  86305\, United States
-URL:https://www.facebook.com/events/1087324826844621/
-DESCRIPTION:Trail 33 loops. Go at your own pac
- e and as many loops as you like. O
- ne loop is a tad under two miles. 
- Gates open at 6 am and parking is 
- free on Wednesday. We go clockwise
- \, but feel free to mix it up.\n\nhtt
- ps://www.facebook.com/events/10873
- 24826844621/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250821T202214Z
-LAST-MODIFIED:20250821T202214Z
-CREATED:20250821T202214Z
-SEQUENCE:0
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20250917T003000Z
-DTEND:20250917T033000Z
-UID:e1917242542406996@facebook.com
-SUMMARY:Tuesday Group Run- Sunset at Sundog Ranch Rd Area 
-URL:https://www.facebook.com/events/1917242542406996/
-DESCRIPTION:Meeting at the trailhead off of Hw
- y 89: 34.572236\, -112.436545\n\nDriv
- e up 89 away from Prescott toward 
- Chino\, turn RIGHT at the light acr
- oss from Cliff Rose/Rosser St. Tra
- ilhead is right next to Hwy 89.\n\nN
- o drop group run (we stop at every
-  intersection and wait for everyon
- e to join up before running again)
- . This is an out and back. \n\nExpec
- t 4-6 mi\n\nBring a light :)\n\n\nhttps
- ://www.facebook.com/events/1917242
- 542406996/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241215T151338Z
-LAST-MODIFIED:20241215T151338Z
-CREATED:20241215T151338Z
-SEQUENCE:0
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20250913T143000Z
-DTEND:20250913T153000Z
-UID:e945486830372930@facebook.com
-SUMMARY:Park Run
-LOCATION:Jan Alfano Trail behind Dog Park o
- n Willow Creek Rd
-URL:https://www.facebook.com/events/945486783706268/?event_time_id=945486830372930
-DESCRIPTION:Join us every Saturday at 7:30 beh
- ind the Dog Park for 5K run or wal
- k.  www.parkrun.us/janalfanotrail/
- \n\nhttps://www.facebook.com/events/
- 945486783706268/?event_time_id=945
- 486830372930
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250908T001702Z
-LAST-MODIFIED:20250908T001702Z
-CREATED:20250908T001702Z
-SEQUENCE:0
-ORGANIZER;CN=Jason Baum:MAILTO:noreply@facebookmail.com
-DTSTART:20250913T140000Z
-DTEND:20250913T170000Z
-UID:e1827964141122497@facebook.com
-SUMMARY:SATR PATR - Mingus Loop
-LOCATION:34.67870\, -112.17366
-URL:https://www.facebook.com/events/1827964141122497/
-DESCRIPTION:We’ll meet at the pullout on 89A
-  for the regular Yaeger Canyon loo
- p\, but our route will be a little 
- bit different.  Expect 11-12 miles
-  with a little over 2\,000’ of cl
- imbing.  We’ll make our way up t
- o Mingus Camp just past the lake\, 
- and then go to 2 of my favorite sp
- ots on the mountain- the hang glid
- ing launch site and the Mingus fir
- e tower\, before looping back down 
- the mountain via the Gaddes Canyon
-  and Little Yaeger Canyon trails. 
-  I’m expecting this to take 3 to
-  3-1/2 hours\, depending on how muc
- h time we stop.  Bring your climbi
- ng legs for this one!\n\nhttps://www
- .facebook.com/events/1827964141122
- 497/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250321T144609Z
-LAST-MODIFIED:20250321T144609Z
-CREATED:20250321T144427Z
-SEQUENCE:102
-ORGANIZER;CN=Andrew Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20250912T003000Z
-DTEND:20250912T013000Z
-UID:e8984254011675155@facebook.com
-SUMMARY:Thursday Social Run
-LOCATION:Fleet Feet - 122 N Cortez St #100\,
-  Prescott\, AZ 86301
-URL:https://www.facebook.com/events/8984253925008497/?event_time_id=8984254011675155
-DESCRIPTION:Meet at Fleet Feet\, go for a run. 
- All paces welcome!\n\nhttps://www.fa
- cebook.com/events/8984253925008497
- /?event_time_id=8984254011675155
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250829T161803Z
-LAST-MODIFIED:20250829T161803Z
-CREATED:20250829T003244Z
-SEQUENCE:56719
-ORGANIZER;CN=Paula Olson:MAILTO:noreply@facebookmail.com
-DTSTART:20250910T140000Z
-DTEND:20250910T170000Z
-UID:e1278774580380959@facebook.com
-SUMMARY:Vert Club run
-LOCATION:Thumb Butte Pic Area\, Prescott\, AZ
-  86305\, United States
-URL:https://www.facebook.com/events/1278774580380959/
-DESCRIPTION:Trail 33 loops. Go at your own pac
- e and as many loops as you like. O
- ne loop is a tad under two miles. 
- Gates open at 6 am and parking is 
- free on Wednesday. We go clockwise
- \, but feel free to mix it up.\n\nhtt
- ps://www.facebook.com/events/12787
- 74580380959/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250714T213408Z
-LAST-MODIFIED:20250714T213408Z
-CREATED:20250714T213408Z
-SEQUENCE:0
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20250910T003000Z
-DTEND:20250910T023000Z
-UID:e747439794508613@facebook.com
-SUMMARY:Tuesday Group Run -Glassford Hill Summit 
-URL:https://www.facebook.com/events/747439794508613/
-DESCRIPTION:We are going to check-out sunset f
- rom the top of Glassford!\n\nNo drop
-  group run! We stop at every trail
-  intersection and everyone catches
-  up before running again. Bring wa
- ter and a friend :)\n\nLocation: \nht
- tps://maps.app.goo.gl/fmEmWg9nYiHj
- rp9P9\n\nhttps://www.facebook.com/ev
- ents/747439794508613/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241215T151338Z
-LAST-MODIFIED:20241215T151338Z
-CREATED:20241215T151338Z
-SEQUENCE:0
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20250906T143000Z
-DTEND:20250906T153000Z
-UID:e945486790372934@facebook.com
-SUMMARY:Park Run
-LOCATION:Jan Alfano Trail behind Dog Park o
- n Willow Creek Rd
-URL:https://www.facebook.com/events/945486783706268/?event_time_id=945486790372934
-DESCRIPTION:Join us every Saturday at 7:30 beh
- ind the Dog Park for 5K run or wal
- k.  www.parkrun.us/janalfanotrail/
- \n\nhttps://www.facebook.com/events/
- 945486783706268/?event_time_id=945
- 486790372934
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250827T152035Z
-LAST-MODIFIED:20250827T152035Z
-CREATED:20250825T184305Z
-SEQUENCE:160650
-ORGANIZER;CN=Britney Lee Smith:MAILTO:noreply@facebookmail.com
-DTSTART:20250906T140000Z
-DTEND:20250906T170000Z
-UID:e773315092009514@facebook.com
-SUMMARY:Groom Creek Training Run
-LOCATION:Groom Creek Firehouse
-URL:https://www.facebook.com/events/773315092009514/
-DESCRIPTION:Meet near Groom Creek Fire Distric
- t Station 41 for an out & back alo
- ng the Groom Creek Half Marathon r
- oute (Friendly Pines to Senator Hw
- y to Wolf Creek Rd). I'll be doing
-  a slow 12.4 miles\, but let's all 
- enjoy our own pace and distances. 
- 😊 Here is the route on Strava: 
- https://strava.app.link/SMHQAHYW7V
- b — Groom Creek 1/2 Marathon Cou
- rse\n\nhttps://www.facebook.com/even
- ts/773315092009514/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250321T144609Z
-LAST-MODIFIED:20250321T144609Z
-CREATED:20250321T144427Z
-SEQUENCE:102
-ORGANIZER;CN=Andrew Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20250905T003000Z
-DTEND:20250905T013000Z
-UID:e8984254028341820@facebook.com
-SUMMARY:Thursday Social Run
-LOCATION:Fleet Feet - 122 N Cortez St #100\,
-  Prescott\, AZ 86301
-URL:https://www.facebook.com/events/8984253925008497/?event_time_id=8984254028341820
-DESCRIPTION:Meet at Fleet Feet\, go for a run. 
- All paces welcome!\n\nhttps://www.fa
- cebook.com/events/8984253925008497
- /?event_time_id=8984254028341820
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
