@@ -8,7 +8,7 @@
   ` "url"          (.OutputFormats.Get "HTML").Permalink `` `
   ` "color"        "crimson" `` `
   ` "uid"          .File.UniqueID `` `
-  ` "lastmod"      .Lastmod `` `
+  ` "lastmod"      .Site.Lastmod `` `
   ` "source"       (.OutputFormats.Get "Calendar").Permalink `` `
   ` -}}
   {{ partial "ical/cal_props.ics" . }}
