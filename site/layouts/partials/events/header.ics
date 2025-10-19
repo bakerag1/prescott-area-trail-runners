@@ -2,7 +2,7 @@
 
 {{/* Multiline hack from: https://github.com/gohugoio/hugoDocs/issues/764#issuecomment-625711237 */}}
 
-{{ with dict `` `
+{{- with dict `` `
   ` "name"         (dict "text" site.Params.Description "lang" "en-US") `` `
   ` "description"  (dict "text" "Our Club Calendar" "lang" "en-US") `` `
   ` "url"          (.OutputFormats.Get "HTML").Permalink `` `
@@ -12,4 +12,4 @@
   ` "source"       (.OutputFormats.Get "Calendar").Permalink `` `
   ` -}}
   {{ partial "ical/cal_props.ics" . }}
-{{ end }}
+{{ end -}}

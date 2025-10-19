@@ -28,7 +28,6 @@ external_url: %v
 layout: %v
 location: %v
 feature-img: "assets/img/big-trail.jpg"
-lastmod: %v
 outputs:
   - html
   - calendar
