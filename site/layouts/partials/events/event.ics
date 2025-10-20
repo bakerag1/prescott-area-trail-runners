@@ -13,7 +13,7 @@
   ` "color"        "crimson" `` `
   ` "status"       (cond (.Params.cancelled | default false) "CANCELLED" "CONFIRMED") `` `
   ` "uid"          .File.UniqueID `` `
-  ` "timestamp"    .Date `` `
+  ` "timestamp"    .Lastmod `` `
   ` "created"      .Date `` `
   ` "lastmod"      .Lastmod `` `
   ` -}}
