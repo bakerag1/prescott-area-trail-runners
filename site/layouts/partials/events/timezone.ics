@@ -1,6 +1,5 @@
 BEGIN:VTIMEZONE
 TZID:America/Phoenix
-LAST-MODIFIED:20250410T142246Z
 TZURL:https://www.tzurl.org/zoneinfo/America/Phoenix
 X-LIC-LOCATION:America/Phoenix
 X-PROLEPTIC-TZNAME:LMT
