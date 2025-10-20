@@ -80,7 +80,6 @@ func addCalendarItems() {
 				e.Uri,
 				layout,
 				e.Location,
-				time.Now().UTC().Format(time.RFC3339),
 				e.ICSDescription,
 				e.Description)))
 	}
