@@ -1,10 +1,11 @@
 {{ define "main" -}}
 <div class="post">
   <h1>{{ .Title }}</h1>
-  
-  <time datetime={{ .Date.Format "Mon, Jan 2, 2006 3:04PM" }} class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</time>
-  from:&nbsp;&nbsp; {{ dateFormat "Monday - Jan 2, 2006 3:04PM" .Params.startdate }}
-  <br>until:&nbsp;&nbsp; {{ dateFormat "Monday - Jan 2, 2006 3:04PM" .Params.enddate }}
+  {{ $start := (time.AsTime .Params.startdate) -}}
+  {{ $end := (time.AsTime .Params.enddate) -}}
+  <time datetime={{ .Date.Format "Mon, Jan 2, 2006 3:04PM" }} class="post-date">{{ .Date.Local.Format "Mon, Jan 2, 2006" }}</time>
+  from:&nbsp;&nbsp; {{ $start.Local.Format "Monday - Jan 2, 2006 3:04PM"  }}
+  <br>until:&nbsp;&nbsp; {{ $end.Local.Format "Monday - Jan 2, 2006 3:04PM"}}
   <br><a href="{{ .Params.external_url}}">more info on FB</a>
   {{ with .OutputFormats.Get "Calendar" }}
     <br><a href="{{ .RelPermalink }}" type="text/calendar">Add to Calendar</a>

@@ -11,7 +11,7 @@
   {{ $now := (time.Now.Add $minus1d) -}}
   {{ if ($start.After $now) -}}
   <li style="padding:5;list-style-type:none">
-    <span><time class="pull-right post-list" datetime="2006-01-02T15:04:05Z">{{ $start.Format "Monday, Jan 2 3:04pm"}}</time> <a href="{{ .Permalink }}">{{ .Title }}</a> </span>
+    <span><time class="pull-right post-list">{{ $start.Local.Format "Monday, Jan 2 3:04pm"}}</time> <a href="{{ .Permalink }}">{{ .Title }}</a> </span>
   </li>
   {{- end }}
 {{- end }}
