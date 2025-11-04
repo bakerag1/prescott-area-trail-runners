@@ -512,6 +512,31 @@ STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20251103T234129Z
+LAST-MODIFIED:20251103T234129Z
+CREATED:20251103T234032Z
+SEQUENCE:57
+ORGANIZER;CN=Paula Olson:MAILTO:noreply@facebookmail.com
+DTSTART:20251126T140000Z
+DTEND:20251126T170000Z
+UID:e2812732842251554@facebook.com
+SUMMARY:Vert Club - Thumb Butte
+LOCATION:Thumb Butte Pic Area\, Prescott\, AZ
+  86305\, United States
+URL:https://www.facebook.com/events/2812732842251554/
+DESCRIPTION:Trail 33 loops. Go at your own pac
+ e and as many loops as you like. O
+ ne loop is a tad under two miles. 
+ Gates open at 7 am and parking is 
+ free on Wednesday. We go clockwise
+ \, but feel free to mix it up.\n\nhtt
+ ps://www.facebook.com/events/28127
+ 32842251554/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20250922T181525Z
 LAST-MODIFIED:20250922T181525Z
 CREATED:20250922T181525Z
@@ -569,6 +594,31 @@ DESCRIPTION:Join us every Saturday at 7:30 beh
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251103T233507Z
+LAST-MODIFIED:20251103T233507Z
+CREATED:20251103T233507Z
+SEQUENCE:0
+ORGANIZER;CN=Paula Olson:MAILTO:noreply@facebookmail.com
+DTSTART:20251119T140000Z
+DTEND:20251119T170000Z
+UID:e813558838238462@facebook.com
+SUMMARY:Vert Club - Thumb Butte
+LOCATION:Thumb Butte Pic Area\, Prescott\, AZ
+  86305\, United States
+URL:https://www.facebook.com/events/813558838238462/
+DESCRIPTION:Trail 33 loops. Go at your own pac
+ e and as many loops as you like. O
+ ne loop is a tad under two miles. 
+ Gates open at 7 am and parking is 
+ free on Wednesday. We go clockwise
+ \, but feel free to mix it up.\n\nhtt
+ ps://www.facebook.com/events/81355
+ 8838238462/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20250922T175421Z
@@ -712,6 +762,31 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20251103T233228Z
+LAST-MODIFIED:20251103T233228Z
+CREATED:20251103T233228Z
+SEQUENCE:0
+ORGANIZER;CN=Paula Olson:MAILTO:noreply@facebookmail.com
+DTSTART:20251112T140000Z
+DTEND:20251112T170000Z
+UID:e688795960561367@facebook.com
+SUMMARY:Vert Club - Thumb Butte
+LOCATION:Thumb Butte Pic Area\, Prescott\, AZ
+  86305\, United States
+URL:https://www.facebook.com/events/688795960561367/
+DESCRIPTION:Trail 33 loops. Go at your own pac
+ e and as many loops as you like. O
+ ne loop is a tad under two miles. 
+ Gates open at 7 am and parking is 
+ free on Wednesday. We go clockwise
+ \, but feel free to mix it up.\n\nhtt
+ ps://www.facebook.com/events/68879
+ 5960561367/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20250914T172909Z
 LAST-MODIFIED:20250914T172909Z
 CREATED:20250914T172909Z
@@ -763,6 +838,31 @@ DESCRIPTION:Join us every Saturday at 7:30 beh
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251103T233022Z
+LAST-MODIFIED:20251103T233022Z
+CREATED:20251103T233022Z
+SEQUENCE:0
+ORGANIZER;CN=Paula Olson:MAILTO:noreply@facebookmail.com
+DTSTART:20251105T140000Z
+DTEND:20251105T170000Z
+UID:e1327507298858420@facebook.com
+SUMMARY:Vert Club - Thumb Butte
+LOCATION:Thumb Butte Pic Area\, Prescott\, AZ
+  86305\, United States
+URL:https://www.facebook.com/events/1327507298858420/
+DESCRIPTION:Trail 33 loops. Go at your own pac
+ e and as many loops as you like. O
+ ne loop is a tad under two miles. 
+ Gates open at 7 am and parking is 
+ free on Wednesday. We go clockwise
+ \, but feel free to mix it up.\n\nhtt
+ ps://www.facebook.com/events/13275
+ 07298858420/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20250821T204238Z
@@ -1420,78 +1520,6 @@ DESCRIPTION:Will meet at UPPER Spence Springs
  s leading this run - thank you Sea
  n!!!!\n\nhttps://www.facebook.com/ev
  ents/773480881890891/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250922T063441Z
-LAST-MODIFIED:20250922T063441Z
-CREATED:20250922T063441Z
-SEQUENCE:0
-ORGANIZER;CN=Jason Baum:MAILTO:noreply@facebookmail.com
-DTSTART:20251004T143000Z
-DTEND:20251004T173000Z
-UID:e1276120194197742@facebook.com
-SUMMARY:Mingus Madness Training Run #2 - Martin Canyon
-LOCATION:Woodchute Trailhead
-URL:https://www.facebook.com/events/1276120194197742/
-DESCRIPTION:Join us for the second of three tr
- aining runs leading up to the Ming
- us Madness 50k.  This run will sta
- rt at the Woodchute 102 trailhead\,
-  and will be a loop going down Mar
- tin Canyon\, up the Rick Tank conne
- ctor trail\, and finishing on the W
- oodchute 102 trail.  This is one o
- f my favorite loops in the area!  
- Expect about 7.25 miles and 1\,300'
-  of climbing.\n\nhttps://www.faceboo
- k.com/events/1276120194197742/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241215T151338Z
-LAST-MODIFIED:20241215T151338Z
-CREATED:20241215T151338Z
-SEQUENCE:0
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20251004T143000Z
-DTEND:20251004T153000Z
-UID:e945486847039595@facebook.com
-SUMMARY:Park Run
-LOCATION:Jan Alfano Trail behind Dog Park o
- n Willow Creek Rd
-URL:https://www.facebook.com/events/945486783706268/?event_time_id=945486847039595
-DESCRIPTION:Join us every Saturday at 7:30 beh
- ind the Dog Park for 5K run or wal
- k.  www.parkrun.us/janalfanotrail/
- \n\nhttps://www.facebook.com/events/
- 945486783706268/?event_time_id=945
- 486847039595
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250321T144609Z
-LAST-MODIFIED:20250321T144609Z
-CREATED:20250321T144427Z
-SEQUENCE:102
-ORGANIZER;CN=Andrew Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20251003T003000Z
-DTEND:20251003T013000Z
-UID:e8984254021675154@facebook.com
-SUMMARY:Thursday Social Run
-LOCATION:Fleet Feet - 122 N Cortez St #100\,
-  Prescott\, AZ 86301
-URL:https://www.facebook.com/events/8984253925008497/?event_time_id=8984254021675154
-DESCRIPTION:Meet at Fleet Feet\, go for a run. 
- All paces welcome!\n\nhttps://www.fa
- cebook.com/events/8984253925008497
- /?event_time_id=8984254021675154
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
