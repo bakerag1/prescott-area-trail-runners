@@ -39,10 +39,10 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250401T155531Z
-LAST-MODIFIED:20250401T155531Z
+DTSTAMP:20251106T164714Z
+LAST-MODIFIED:20251106T164714Z
 CREATED:20250401T155531Z
-SEQUENCE:0
+SEQUENCE:18924703
 ORGANIZER;CN=Aravaipa Running:MAILTO:noreply@facebookmail.com
 DTSTART:20260328T130000Z
 DTEND:20260328T160000Z
@@ -596,6 +596,24 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20251107T232401Z
+LAST-MODIFIED:20251107T232401Z
+CREATED:20251107T232401Z
+SEQUENCE:0
+ORGANIZER;CN=Andrew Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20251121T003000Z
+DTEND:20251121T033000Z
+UID:e2095670830964171@facebook.com
+SUMMARY:Thursday Social Run
+LOCATION:Fleet Feet Prescott
+URL:https://www.facebook.com/events/2095670830964171/
+DESCRIPTION:https://www.facebook.com/events/20
+ 95670830964171/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20251103T233507Z
 LAST-MODIFIED:20251103T233507Z
 CREATED:20251103T233507Z
@@ -760,6 +778,24 @@ DESCRIPTION:Join us every Saturday at 7:30 beh
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251107T232047Z
+LAST-MODIFIED:20251107T232047Z
+CREATED:20251107T232047Z
+SEQUENCE:0
+ORGANIZER;CN=Andrew Baker:MAILTO:noreply@facebookmail.com
+DTSTART:20251114T003000Z
+DTEND:20251114T033000Z
+UID:e4016850261899063@facebook.com
+SUMMARY:Thursday Social Run
+LOCATION:Fleet Feet Prescott
+URL:https://www.facebook.com/events/4016850261899063/
+DESCRIPTION:https://www.facebook.com/events/40
+ 16850261899063/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20251103T233228Z
@@ -1454,72 +1490,6 @@ DESCRIPTION:Meet at Fleet Feet\, go for a run.
  All paces welcome!\n\nhttps://www.fa
  cebook.com/events/8984253925008497
  /?event_time_id=8984254018341821
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250930T000203Z
-LAST-MODIFIED:20250930T000203Z
-CREATED:20250930T000203Z
-SEQUENCE:0
-ORGANIZER;CN=Paula Olson:MAILTO:noreply@facebookmail.com
-DTSTART:20251008T140000Z
-DTEND:20251008T170000Z
-UID:e24891921433804504@facebook.com
-SUMMARY:Vert Club
-LOCATION:Thumb Butte Pic Area\, Prescott\, AZ
-  86305\, United States
-URL:https://www.facebook.com/events/24891921433804504/
-DESCRIPTION:Trail 33 loops. Go at your own pac
- e and as many loops as you like. O
- ne loop is a tad under two miles. 
- Gates open at 7 am and parking is 
- free on Wednesday. We go clockwise
- \, but feel free to mix it up.\n\nhtt
- ps://www.facebook.com/events/24891
- 921433804504/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250821T201725Z
-LAST-MODIFIED:20250821T201725Z
-CREATED:20250821T201725Z
-SEQUENCE:0
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20251008T003000Z
-DTEND:20251008T023000Z
-UID:e773480881890891@facebook.com
-SUMMARY:Tuesday Group Run- UPPER Spence Basin- Sean leading!
-URL:https://www.facebook.com/events/773480881890891/
-DESCRIPTION:Will meet at UPPER Spence Springs 
- parking lot: \n\nPLEASE READ THIS DE
- SCRIPTION. \nWe will meet at the Up
- per Parking lot along Iron Springs
- \, where Javelina Trail #332 meets 
- Iron Springs (trailhead). 5:30pm. 
- Expect 4-6 miles. No drop run (we 
- stop for everyone at every interse
- ction). \n\nBring a light!\n\nDirectio
- ns: To Iron Springs Trailhead from
-  downtown Prescott: Take Montezuma
-  Street north (becomes Whipple St)
-  to its intersection with Willow C
- reek Road (about 1.5 miles). Conti
- nue west on Iron Springs Road for 
- another 4.5 miles\, then turn left 
- into the trailhead. There is parki
- ng for approximately 30 vehicles. 
- Trailers are not allowed at the tr
- ailhead for highway safety concern
- s.\n\nTRAVEL TIME: 20 minutes from d
- owntown Prescott\n\nhttps://maps.app
- .goo.gl/dtmvdowaEGMcpxEk8 \n\nSean i
- s leading this run - thank you Sea
- n!!!!\n\nhttps://www.facebook.com/ev
- ents/773480881890891/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
