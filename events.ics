@@ -7,6 +7,44 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
+DTSTAMP:20251103T211858Z
+LAST-MODIFIED:20251103T211858Z
+CREATED:20251103T211858Z
+SEQUENCE:0
+ORGANIZER;CN=HELLS DELLS:MAILTO:noreply@facebookmail.com
+DTSTART:20260425T143000Z
+DTEND:20260425T173000Z
+UID:e2195200737669012@facebook.com
+SUMMARY:HELLS DELLS 50k
+LOCATION:Prescott\, AZ
+URL:https://www.facebook.com/events/2195200737669012/
+DESCRIPTION:This is a 30-mile adventure thru t
+ he Granite Dells of Prescott\, Ariz
+ ona. While a few other races attem
+ pt to give you a glimpse of HELL\, 
+ this mofo puts you all up in it\, s
+ cared\, lonely and surrounded by be
+ auty. All DELLS\, all the time. If 
+ that section you saw pissed you of
+ f\, but made you smile\, we have a g
+ rueling day of stealing your soul 
+ all set up for you. A complete lis
+ ting of information can be found o
+ n the website. Please read all the
+  details before registering and un
+ derstand the maze you're getting y
+ ourself into.\n\nFat-ass feel\, low-k
+ ey long run vibes with snacks\, cow
+ bell\, old school clipboard timing\,
+  a grim reaper and devils galore.\n
+ \nhttps://ultrasignup.com/register.
+ aspx?did=131809\n\n\n\nhttps://www.fac
+ ebook.com/events/2195200737669012/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20250501T234522Z
 LAST-MODIFIED:20250501T234522Z
 CREATED:20250501T234522Z
@@ -1353,143 +1391,6 @@ DESCRIPTION:We will meet at Thumb Butte Parkin
  ocation is 120 South Montezuma St\,
   Prescott. \n\n\n\n\n\n\nhttps://www.face
  book.com/events/1304837774595476/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251010T223155Z
-LAST-MODIFIED:20251010T223155Z
-CREATED:20250922T064159Z
-SEQUENCE:1612196
-ORGANIZER;CN=Jason Baum:MAILTO:noreply@facebookmail.com
-DTSTART:20251011T143000Z
-DTEND:20251011T173000Z
-UID:e1294335148767476@facebook.com
-SUMMARY:Mingus Madness Training Run #3 - Woodchute 102
-LOCATION:Woodchute Trailhead
-URL:https://www.facebook.com/events/1294335148767476/
-DESCRIPTION:Join us for the last training run 
- leading up to the Mingus Madness 5
- 0k.  This will be an out and back 
- run of the entire Woodchute 102 tr
- ail\, down to where it ends at Fore
- st Road 318A (where the second aid
-  station is).  This is a rough tra
- il\, so being able to scout it ahea
- d of time should be very valuable!
-   We'll also be hitting my off tra
- il "secret spot" on the mountain b
- efore making the big descent\, whic
- h is also part of the course.  Exp
- ect 13 miles and about 3\,300' of c
- limbing and descending.\n\nhttps://w
- ww.facebook.com/events/12943351487
- 67476/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241215T151338Z
-LAST-MODIFIED:20241215T151338Z
-CREATED:20241215T151338Z
-SEQUENCE:0
-ORGANIZER;CN=Doug Vaughan:MAILTO:noreply@facebookmail.com
-DTSTART:20251011T143000Z
-DTEND:20251011T153000Z
-UID:e945486843706262@facebook.com
-SUMMARY:Park Run
-LOCATION:Jan Alfano Trail behind Dog Park o
- n Willow Creek Rd
-URL:https://www.facebook.com/events/945486783706268/?event_time_id=945486843706262
-DESCRIPTION:Join us every Saturday at 7:30 beh
- ind the Dog Park for 5K run or wal
- k.  www.parkrun.us/janalfanotrail/
- \n\nhttps://www.facebook.com/events/
- 945486783706268/?event_time_id=945
- 486843706262
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250418T202009Z
-LAST-MODIFIED:20250418T202009Z
-CREATED:20250418T202009Z
-SEQUENCE:0
-ORGANIZER;CN=Ymca Whiskey Row Marathon:MAILTO:noreply@facebookmail.com
-DTSTART:20251011T120000Z
-DTEND:20251011T150000Z
-UID:e1005547177873878@facebook.com
-SUMMARY:47th Annual Whiskey Row Marathon
-LOCATION:Downtown Prescott
-URL:https://www.facebook.com/events/1005547177873878/
-DESCRIPTION:Are You Tough Enough? As an Arizon
- a running tradition for 47 years\, 
- the Whiskey Row Marathon is among 
- the toughest races in the country.
-  Featuring rugged terrain\, an alti
- tude in excess of one mile above s
- ea level and\, on occasion\, severe 
- weather\, it’s challenging\, fun a
- nd offers a number of running rout
- es for runners of all skill and fi
- tness levels\, including a marathon
- \, half marathon\, 10k and new this 
- year a 5K and .3 Mile High Fun Run
- .\nProceeds from this race will go 
- directly into the scholarship fund
-  at the James Family Prescott YMCA
- . This fund provides families in f
- inancial need to participate in ch
- ildcare\, swimming lessons\, youth s
- ports and gymnastics classes. Your
-  participation in this race not on
- ly promotes your personal health\, 
- but also promotes the overall heal
- th of the Prescott Community.\nJoin
-  runners from all over the country
-  in this prestigious event – and
-  show your friends and family that
-  you are “Tough Enough”.\nRace 
- Times:\nMarathon- 6:00am\nHalf Marat
- hon- 7:00am\n10K- 7:30am\n5K- 8:00am
- \n.3 Mile High Fun Run- 7:10am\nCour
- se closes at noon.\nThere will be a
-  5:00am early start for marathoner
- s who would struggle to finish the
-  race in 6 hours. Early starters' 
- results will appear in a separate 
- results listing and be ineligible 
- for awards.\nPrices vary by race an
- d sign-up date: $25.00-$125.00\nWea
- ther can still be chilly or nice a
- nd sunny requiring sunscreen and s
- horts! Check weather.com for updat
- es.\n\nhttps://www.facebook.com/even
- ts/1005547177873878/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250321T144609Z
-LAST-MODIFIED:20250321T144609Z
-CREATED:20250321T144427Z
-SEQUENCE:102
-ORGANIZER;CN=Andrew Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20251010T003000Z
-DTEND:20251010T013000Z
-UID:e8984254018341821@facebook.com
-SUMMARY:Thursday Social Run
-LOCATION:Fleet Feet - 122 N Cortez St #100\,
-  Prescott\, AZ 86301
-URL:https://www.facebook.com/events/8984253925008497/?event_time_id=8984254018341821
-DESCRIPTION:Meet at Fleet Feet\, go for a run. 
- All paces welcome!\n\nhttps://www.fa
- cebook.com/events/8984253925008497
- /?event_time_id=8984254018341821
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
