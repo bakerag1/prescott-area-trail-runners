@@ -276,6 +276,60 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20251129T164439Z
+LAST-MODIFIED:20251129T164439Z
+CREATED:20251129T164439Z
+SEQUENCE:0
+ORGANIZER;CN=Paula Olson:MAILTO:noreply@facebookmail.com
+DTSTART:20251231T140000Z
+DTEND:20251231T170000Z
+UID:e4092474271012445@facebook.com
+SUMMARY:Vert Club - New Years eve
+LOCATION:Thumb Butte Pic Area\, Prescott\, AZ
+  86305\, United States
+URL:https://www.facebook.com/events/4092474271012445/
+DESCRIPTION:End the year on a high hill or in 
+ this case a butte. \n\nTrail 33 loop
+ s. Go at your own pace and as many
+  loops as you like. One loop is a 
+ tad under two miles. Gates open at
+  7 am and parking is free on Wedne
+ sday. We go clockwise\, but feel fr
+ ee to mix it up.\n\nhttps://www.face
+ book.com/events/4092474271012445/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251129T164016Z
+LAST-MODIFIED:20251129T164016Z
+CREATED:20251129T164016Z
+SEQUENCE:0
+ORGANIZER;CN=Paula Olson:MAILTO:noreply@facebookmail.com
+DTSTART:20251224T140000Z
+DTEND:20251224T170000Z
+UID:e1550662586088207@facebook.com
+SUMMARY:Vert Club - Ugly Sweater run
+LOCATION:Thumb Butte Pic Area\, Prescott\, AZ
+  86305\, United States
+URL:https://www.facebook.com/events/1550662586088207/
+DESCRIPTION:We all got that one ugly sweater w
+ e love to wear. Let's meet up and 
+ share in the beauty of our ugly sw
+ eaters.\n\nTrail 33 loops. Go at you
+ r own pace and as many loops as yo
+ u like. One loop is a tad under tw
+ o miles. Gates open at 7 am and pa
+ rking is free on Wednesday. We go 
+ clockwise\, but feel free to mix it
+  up.\n\nhttps://www.facebook.com/eve
+ nts/1550662586088207/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20251010T222400Z
 LAST-MODIFIED:20251010T222400Z
 CREATED:20250324T204808Z
@@ -309,6 +363,30 @@ DESCRIPTION:New date due to weather! 🌧️ \n
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251129T165339Z
+LAST-MODIFIED:20251129T165339Z
+CREATED:20251129T162645Z
+SEQUENCE:1614
+ORGANIZER;CN=Paula Olson:MAILTO:noreply@facebookmail.com
+DTSTART:20251217T140000Z
+DTEND:20251217T170000Z
+UID:e25542002075406359@facebook.com
+SUMMARY:Vert Club - New location for 1 day
+LOCATION:Bean Peaks
+URL:https://www.facebook.com/events/25542002075406359/
+DESCRIPTION:My birthday wish is to move vert c
+ lub to Bean Peaks for one day. The
+ re is a section of trails that all
+ ows non-bikers to enjoy. It is a t
+ otal of 6.5 miles out and back. I 
+ posted the GPX file under files fo
+ r PATR.\n\nhttps://www.facebook.com/
+ events/25542002075406359/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20251124T132204Z
@@ -531,6 +609,31 @@ STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20251129T161336Z
+LAST-MODIFIED:20251129T161336Z
+CREATED:20251129T161336Z
+SEQUENCE:0
+ORGANIZER;CN=Paula Olson:MAILTO:noreply@facebookmail.com
+DTSTART:20251210T140000Z
+DTEND:20251210T170000Z
+UID:e1470124048161546@facebook.com
+SUMMARY:Vert Club
+LOCATION:Thumb Butte Pic Area\, Prescott\, AZ
+  86305\, United States
+URL:https://www.facebook.com/events/1470124048161546/
+DESCRIPTION:Trail 33 loops. Go at your own pac
+ e and as many loops as you like. O
+ ne loop is a tad under two miles. 
+ Gates open at 7 am and parking is 
+ free on Wednesday. We go clockwise
+ \, but feel free to mix it up.\n\nhtt
+ ps://www.facebook.com/events/14701
+ 24048161546/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20241215T151338Z
 LAST-MODIFIED:20241215T151338Z
 CREATED:20241215T151338Z
@@ -552,6 +655,31 @@ DESCRIPTION:Join us every Saturday at 7:30 beh
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251129T161139Z
+LAST-MODIFIED:20251129T161139Z
+CREATED:20251129T161139Z
+SEQUENCE:0
+ORGANIZER;CN=Paula Olson:MAILTO:noreply@facebookmail.com
+DTSTART:20251203T140000Z
+DTEND:20251203T170000Z
+UID:e2362232850899587@facebook.com
+SUMMARY:Vert Club
+LOCATION:Thumb Butte Pic Area\, Prescott\, AZ
+  86305\, United States
+URL:https://www.facebook.com/events/2362232850899587/
+DESCRIPTION:Trail 33 loops. Go at your own pac
+ e and as many loops as you like. O
+ ne loop is a tad under two miles. 
+ Gates open at 7 am and parking is 
+ free on Wednesday. We go clockwise
+ \, but feel free to mix it up.\n\nhtt
+ ps://www.facebook.com/events/23622
+ 32850899587/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20251117T181843Z
@@ -1092,58 +1220,6 @@ DESCRIPTION:Meet at Fleet Feet\, go for a run.
  All paces welcome!\n\nhttps://www.fa
  cebook.com/events/8984253925008497
  /?event_time_id=8984254035008486
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251018T202706Z
-LAST-MODIFIED:20251018T202706Z
-CREATED:20250930T000729Z
-SEQUENCE:1628377
-ORGANIZER;CN=Paula Olson:MAILTO:noreply@facebookmail.com
-DTSTART:20251029T140000Z
-DTEND:20251029T170000Z
-UID:e1462245971702873@facebook.com
-SUMMARY:Halloween edition of Vert Club
-LOCATION:Thumb Butte Pic Area\, Prescott\, AZ
-  86305\, United States
-URL:https://www.facebook.com/events/1462245971702873/
-DESCRIPTION:Trail 33 loops. Go at your own pac
- e and as many loops as you like. O
- ne loop is a tad under two miles. 
- Gates open at 7 am and parking is 
- free on Wednesday. We go clockwise
- \, but feel free to mix it up.\n\nhtt
- ps://www.facebook.com/events/14622
- 45971702873/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250914T172624Z
-LAST-MODIFIED:20250914T172624Z
-CREATED:20250821T204108Z
-SEQUENCE:2061916
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20251029T003000Z
-DTEND:20251029T033000Z
-UID:e1278990546970881@facebook.com
-SUMMARY:Tuesday Group Run -Constellation Trail- Josh leading!
-URL:https://www.facebook.com/events/1278990546970881/
-DESCRIPTION:This is a no drop group run and we
-  will stop at every intersection f
- or everyone to catch up. No trail 
- runner left behind! \n\nBring a ligh
- t :) \n\nParking off Hwy 89\, across 
- from Phippen Museum in the paved t
- railhead parking area. \n\nhttps://w
- ww.alltrails.com/trail/us/arizona/
- constellation-loop\n\nhttps://maps.a
- pp.goo.gl/Wkz2aGxiFV9rYayQA\n\nhttps
- ://www.facebook.com/events/1278990
- 546970881/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
