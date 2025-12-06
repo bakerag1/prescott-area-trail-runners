@@ -551,10 +551,10 @@ STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251120T192337Z
-LAST-MODIFIED:20251120T192337Z
+DTSTAMP:20251204T220858Z
+LAST-MODIFIED:20251204T220858Z
 CREATED:20250829T191635Z
-SEQUENCE:7171622
+SEQUENCE:8391143
 ORGANIZER;CN=The Launch Pad:MAILTO:noreply@facebookmail.com
 DTSTART:20251213T170000Z
 DTEND:20251213T200000Z
@@ -565,42 +565,45 @@ LOCATION:1185 Commerce Dr\, Prescott\, AZ 863
 URL:https://www.facebook.com/events/1104692111180868/
 DESCRIPTION:Join us for the Launch Pad's 7th A
  nnual Christmas City Santa Run\, Pr
- esented by Kimley-Horn\,  and Spons
- ored by Great Circle Media - 93.9 
- The Mountain and 92.9 KAFF Country
- \, Foothills Bank\, Santa's Helpers 
- Outdoor Decorating\, and Prescott W
- oman Magazine on Saturday\, Decembe
- r 13\, 2025. This 10k\, 5k and 1-mil
- e fun run at Brownlow Trail will r
- aise funds to support out of schoo
- l drop-in and leadership programs 
- at The Launch Pad Teen Center.\n\nRe
- gister for the 10k or 5k and recei
- ve a Santa Hat\, Beard\, and commemo
- rative Santa Run ornament (We do e
- ncourage you to run in full Santa 
- Gear...you could win a prize)\, or 
- register yourself or your little o
- ne for the Rudolph Run and get a s
- et of antlers and a red nose! Ther
- e will be a cookie\, hot cider and 
- cocoa booth hosted by Foothills Ba
- nk at the beginning and end of the
-  race\, and a prize of an Ugly Swea
- ter for 1st and 2nd place 10K and 
- 5K runners in both the women's and
-  men's groups.\n\nThings to Know Bef
- ore Registering:\nThe Brownlow Trai
- l is super fun with rolling hills\,
-  fun turns\, and beautiful scenery\,
-  but it would be tough to run with
-  a stroller. If you are thinking o
- f bringing your kiddo(s) in a stro
- ller\, come and check out the race 
- course in advance.\n\nhttps://www.fa
- cebook.com/events/1104692111180868
- /
+ esented by Kimley-Horn\, and Sponso
+ red by Yavapai Regional Medical Ce
+ nter\, The Northrup Family\, Great C
+ ircle Media - 93.9 The Mountain an
+ d 92.9 KAFF Country\, Foothills Ban
+ k\, Sparklight Advertising\, Koolwat
+ er Landscaping/Santa's Helpers Out
+ door Decorating\, Prescott Woman Ma
+ gazine\, Dr. Cindy Rollins PLLC\,  a
+ nd  on Saturday\, December 13\, 2025
+ . This 10k\, 5k and 1-mile fun run 
+ at Brownlow Trail will raise funds
+  to support out of school drop-in 
+ and leadership programs at The Lau
+ nch Pad Teen Center.\n\nRegister for
+  the 10k or 5k and receive a Santa
+  Hat\, Beard\, and commemorative San
+ ta Run ornament (We do encourage y
+ ou to run in full Santa Gear...you
+  could win a prize)\, or register y
+ ourself or your little one for the
+  Rudolph Run and get a set of antl
+ ers and a red nose! There will be 
+ a cookie\, hot cider and cocoa boot
+ h hosted by Foothills Bank at the 
+ beginning and end of the race\, and
+  a prize of an Ugly Sweater for 1s
+ t and 2nd place 10K and 5K runners
+  in both the women's and men's gro
+ ups.\n\nThings to Know Before Regist
+ ering:\nThe Brownlow Trail is super
+  fun with rolling hills\, fun turns
+ \, and beautiful scenery\, but it wo
+ uld be tough to run with a strolle
+ r. If you are thinking of bringing
+  your kiddo(s) in a stroller\, come
+  and check out the race course in 
+ advance.\n\nhttps://www.facebook.com
+ /events/1104692111180868/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
@@ -674,13 +677,13 @@ STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251202T130110Z
-LAST-MODIFIED:20251202T130110Z
+DTSTAMP:20251206T044649Z
+LAST-MODIFIED:20251206T044649Z
 CREATED:20251201T131845Z
-SEQUENCE:85345
+SEQUENCE:401284
 ORGANIZER;CN=Joshua Sinykin:MAILTO:noreply@facebookmail.com
-DTSTART:20251209T140000Z
-DTEND:20251209T170000Z
+DTSTART:20251210T003000Z
+DTEND:20251210T033000Z
 UID:e1398021388655917@facebook.com
 SUMMARY:Tuesday Group Run-Hobbit/Gateway/Iron King
 URL:https://www.facebook.com/events/1398021388655917/
@@ -1213,56 +1216,5 @@ DESCRIPTION:Join us every Saturday at 7:30 beh
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251103T233022Z
-LAST-MODIFIED:20251103T233022Z
-CREATED:20251103T233022Z
-SEQUENCE:0
-ORGANIZER;CN=Paula Olson:MAILTO:noreply@facebookmail.com
-DTSTART:20251105T140000Z
-DTEND:20251105T170000Z
-UID:e1327507298858420@facebook.com
-SUMMARY:Vert Club - Thumb Butte
-LOCATION:Thumb Butte Pic Area\, Prescott\, AZ
-  86305\, United States
-URL:https://www.facebook.com/events/1327507298858420/
-DESCRIPTION:Trail 33 loops. Go at your own pac
- e and as many loops as you like. O
- ne loop is a tad under two miles. 
- Gates open at 7 am and parking is 
- free on Wednesday. We go clockwise
- \, but feel free to mix it up.\n\nhtt
- ps://www.facebook.com/events/13275
- 07298858420/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250821T204238Z
-LAST-MODIFIED:20250821T204238Z
-CREATED:20250821T203637Z
-SEQUENCE:361
-ORGANIZER;CN=Jasmine Baker:MAILTO:noreply@facebookmail.com
-DTSTART:20251105T003000Z
-DTEND:20251105T033000Z
-UID:e1503299027679357@facebook.com
-SUMMARY:Tuesday Group Run- White Spar 
-URL:https://www.facebook.com/events/1503299027679357/
-DESCRIPTION:PLEASE READ THIS DESCRIPTION. \n\nWe
-  will meet at the White Spar Parki
- ng lot (link here https://goo.gl/m
- aps/nX4JGH75u4T7R15g7) at 5:30 PM.
-  Expect 4-6 miles. No drop run (we
-  stop for everyone at every inters
- ection). \n\nBe careful\, this is NOT
-  the usual white ROCK parking lot\,
-  this is white SPAR. \n\nBring a lig
- ht :)\n\n\n\nhttps://www.facebook.com/
- events/1503299027679357/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
 END:VEVENT
 END:VCALENDAR
